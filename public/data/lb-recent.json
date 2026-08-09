@@ -1,5 +1,78 @@
 [
   {
+    "inserted_at": 1786199413,
+    "listened_at": 1786194621,
+    "recording_msid": "1e320236-aacc-4432-8f70-772c39aeee6b",
+    "track_metadata": {
+      "additional_info": {
+        "lastfm_artist_mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+        "lastfm_release_mbid": "1308acf9-a4af-4f1e-ab8c-341509262809",
+        "lastfm_track_mbid": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
+        "recording_msid": "1e320236-aacc-4432-8f70-772c39aeee6b",
+        "submission_client": "ListenBrainz lastfm importer v2"
+      },
+      "artist_name": "Ed Sheeran",
+      "mbid_mapping": {
+        "artist_mbids": [
+          "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+        ],
+        "artists": [
+          {
+            "artist_credit_name": "Ed Sheeran",
+            "artist_mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+            "join_phrase": ""
+          }
+        ],
+        "caa_id": 31935928002,
+        "caa_release_mbid": "14c13329-88f5-426f-90d7-0170b4017e15",
+        "recording_mbid": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
+        "recording_name": "Shape of You",
+        "release_mbid": "769e64d7-b7a8-4ad1-84d8-0e0063d8fe64",
+        "url_rels": [
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/70891470"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/02gDJPu2eBHfVTTAgV7Y5k"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://www.deezer.com/track/3484326501"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/451198964"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/70973229"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://music.youtube.com/watch?v=xTvyyoF_LZY"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://www.deezer.com/track/142986204"
+          }
+        ]
+      },
+      "release_name": "Shape of You",
+      "track_name": "Shape of You"
+    },
+    "user_name": "chirag127"
+  },
+  {
     "inserted_at": 1786045829,
     "listened_at": 1786033978,
     "recording_msid": "5f44ebff-5240-4c6a-a68a-6b0a56cddeb8",
@@ -3633,23 +3706,6 @@
       },
       "artist_name": "Brandon Melville",
       "track_name": "Does this need to exist? (YAGNI principle)"
-    },
-    "user_name": "chirag127"
-  },
-  {
-    "inserted_at": 1785076290,
-    "listened_at": 1785076254,
-    "recording_msid": "a4889b41-9c8c-4b3a-8214-4d46eea1b6af",
-    "track_metadata": {
-      "additional_info": {
-        "music_service_name": "YouTube",
-        "origin_url": "https://youtu.be/n4qwKQ-zlgE",
-        "recording_msid": "a4889b41-9c8c-4b3a-8214-4d46eea1b6af",
-        "submission_client": "Web Scrobbler",
-        "submission_client_version": "3.22.0"
-      },
-      "artist_name": "Intro",
-      "track_name": "What is Ponytail?"
     },
     "user_name": "chirag127"
   }
