@@ -263,43 +263,6 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "0758cc5d-9b6d-4791-b600-87ebd14c4f1f",
-    "name": "Animal",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Troye+Sivan",
-      "name": "Troye Sivan",
-      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
-    },
-    "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
-    "duration": "265",
-    "@attr": {
-      "rank": "8"
-    },
-    "playcount": "3"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
     "mbid": "",
     "name": "250K Lines of Production Rust, Exposed by a Privacy Scandal",
     "image": [
@@ -328,7 +291,7 @@
     "url": "https://www.last.fm/music/Grok+Build+Architecture+Deep+Dive/_/250K+Lines+of+Production+Rust,+Exposed+by+a+Privacy+Scandal",
     "duration": "0",
     "@attr": {
-      "rank": "9"
+      "rank": "8"
     },
     "playcount": "2"
   },
@@ -365,7 +328,7 @@
     "url": "https://www.last.fm/music/IBM+Loses+$70+Billion+After+Worst+Stock+Crash+In+58+Years/_/Ankit+Agrawal+Study+IQ",
     "duration": "0",
     "@attr": {
-      "rank": "10"
+      "rank": "9"
     },
     "playcount": "2"
   },
@@ -402,7 +365,7 @@
     "url": "https://www.last.fm/music/Kevin+Stratvert/_/Brainstorm+new+emails+in+Outlook",
     "duration": "0",
     "@attr": {
-      "rank": "11"
+      "rank": "10"
     },
     "playcount": "2"
   },
@@ -439,7 +402,7 @@
     "url": "https://www.last.fm/music/Shawn+Mendes/_/In+My+Blood",
     "duration": "211",
     "@attr": {
-      "rank": "12"
+      "rank": "11"
     },
     "playcount": "2"
   },
@@ -448,8 +411,8 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "",
-    "name": "Angel Baby",
+    "mbid": "0758cc5d-9b6d-4791-b600-87ebd14c4f1f",
+    "name": "Animal",
     "image": [
       {
         "size": "small",
@@ -473,10 +436,10 @@
       "name": "Troye Sivan",
       "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
     },
-    "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-    "duration": "220",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Animal",
+    "duration": "265",
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "playcount": "2"
   },
@@ -513,7 +476,7 @@
     "url": "https://www.last.fm/music/Troye+Sivan/_/Lucky+Strike",
     "duration": "208",
     "@attr": {
-      "rank": "14"
+      "rank": "13"
     },
     "playcount": "2"
   },
@@ -550,83 +513,9 @@
     "url": "https://www.last.fm/music/Troye+Sivan/_/Seventeen",
     "duration": "218",
     "@attr": {
-      "rank": "15"
+      "rank": "14"
     },
     "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Hour Ultimatum: PoK Is On Brink Of Another Showdown",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/48",
-      "name": "48",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/48/_/Hour+Ultimatum:+PoK+Is+On+Brink+Of+Another+Showdown",
-    "duration": "0",
-    "@attr": {
-      "rank": "16"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "OpenAI SuperApp",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/AI+News:+GPT",
-      "name": "AI News: GPT",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/AI+News:+GPT/_/OpenAI+SuperApp",
-    "duration": "0",
-    "@attr": {
-      "rank": "17"
-    },
-    "playcount": "1"
   },
   {
     "streamable": {
@@ -661,7 +550,7 @@
     "url": "https://www.last.fm/music/AI+Stack+Engineer/_/OpenCode+Persistent+Memory+Across+Sessions,+10x+Token+Savings",
     "duration": "0",
     "@attr": {
-      "rank": "18"
+      "rank": "15"
     },
     "playcount": "1"
   },
@@ -698,7 +587,7 @@
     "url": "https://www.last.fm/music/AI+Stack+Engineer/_/Supercharge+OpenCode+With+1300%252B+Free+Skills+in+One+Command+Makes+It+100x++Powerful",
     "duration": "0",
     "@attr": {
-      "rank": "19"
+      "rank": "16"
     },
     "playcount": "1"
   },
@@ -735,7 +624,7 @@
     "url": "https://www.last.fm/music/Akshat+Shrivastava/_/STOP+Investing+in+Indian+Markets%3F+(2+years=0+returns!)",
     "duration": "0",
     "@attr": {
-      "rank": "20"
+      "rank": "17"
     },
     "playcount": "1"
   },
@@ -772,7 +661,7 @@
     "url": "https://www.last.fm/music/Alessia+Cara/_/Scars+to+Your+Beautiful",
     "duration": "230",
     "@attr": {
-      "rank": "21"
+      "rank": "18"
     },
     "playcount": "1"
   },
@@ -809,7 +698,7 @@
     "url": "https://www.last.fm/music/America+Banned+Nvidia+Chips+to+Stop+China%27s+AI/_/China+Just+Beat+America+at+AI",
     "duration": "0",
     "@attr": {
-      "rank": "22"
+      "rank": "19"
     },
     "playcount": "1"
   },
@@ -846,81 +735,7 @@
     "url": "https://www.last.fm/music/America+Banned+Nvidia+Chips+to+Stop+China%27s+AI/_/It+Backfired",
     "duration": "0",
     "@attr": {
-      "rank": "23"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "b66b519f-c8a0-459e-a7e9-a33fa2a1eed1",
-    "name": "2002",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Anne-Marie",
-      "name": "Anne-Marie",
-      "mbid": "a2b73301-e401-40a9-a15a-2a0a1f2e7766"
-    },
-    "url": "https://www.last.fm/music/Anne-Marie/_/2002",
-    "duration": "186",
-    "@attr": {
-      "rank": "24"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "National Commission for Men Bill Introduced",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Are+Men+Unsafe+in+India%3F",
-      "name": "Are Men Unsafe in India?",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Are+Men+Unsafe+in+India%3F/_/National+Commission+for+Men+Bill+Introduced",
-    "duration": "0",
-    "@attr": {
-      "rank": "25"
+      "rank": "20"
     },
     "playcount": "1"
   },
@@ -957,7 +772,7 @@
     "url": "https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry+(Official+Video)",
     "duration": "0",
     "@attr": {
-      "rank": "26"
+      "rank": "21"
     },
     "playcount": "1"
   },
@@ -994,118 +809,7 @@
     "url": "https://www.last.fm/music/Ariana+Grande+Ft.+Nicki+Minaj/_/Side+To+Side+(Official+Video)+(feat.+Nicki+Minaj)",
     "duration": "0",
     "@attr": {
-      "rank": "27"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Ankit Agrawal Study IQ",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Australia,+India+strike+deal+on+uranium+exports",
-      "name": "Australia, India strike deal on uranium exports",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Australia,+India+strike+deal+on+uranium+exports/_/Ankit+Agrawal+Study+IQ",
-    "duration": "0",
-    "@attr": {
-      "rank": "28"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Running Strix Against a Live App",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Better+Stack",
-      "name": "Better Stack",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Better+Stack/_/Running+Strix+Against+a+Live+App",
-    "duration": "0",
-    "@attr": {
-      "rank": "29"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "PM Modi's Major Cricket Announcement",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/BIG+BASH+LEAGUE+IN+INDIA",
-      "name": "BIG BASH LEAGUE IN INDIA",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/BIG+BASH+LEAGUE+IN+INDIA/_/PM+Modi%27s+Major+Cricket+Announcement",
-    "duration": "0",
-    "@attr": {
-      "rank": "30"
+      "rank": "22"
     },
     "playcount": "1"
   },
@@ -1142,7 +846,7 @@
     "url": "https://www.last.fm/music/Brandon+Melville/_/Does+this+need+to+exist%3F+(YAGNI+principle)",
     "duration": "0",
     "@attr": {
-      "rank": "31"
+      "rank": "23"
     },
     "playcount": "1"
   },
@@ -1177,9 +881,9 @@
       "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
     },
     "url": "https://www.last.fm/music/Bruno+Mars/_/24K+Magic",
-    "duration": "225",
+    "duration": "227",
     "@attr": {
-      "rank": "32"
+      "rank": "24"
     },
     "playcount": "1"
   },
@@ -1216,7 +920,7 @@
     "url": "https://www.last.fm/music/Bruno+Mars/_/Finesse+(Remix)+(feat.+Cardi+B)",
     "duration": "0",
     "@attr": {
-      "rank": "33"
+      "rank": "25"
     },
     "playcount": "1"
   },
@@ -1253,7 +957,7 @@
     "url": "https://www.last.fm/music/Bruno+Mars/_/Marry+You",
     "duration": "230",
     "@attr": {
-      "rank": "34"
+      "rank": "26"
     },
     "playcount": "1"
   },
@@ -1290,7 +994,7 @@
     "url": "https://www.last.fm/music/Bruno+Mars/_/Versace+on+the+Floor",
     "duration": "261",
     "@attr": {
-      "rank": "35"
+      "rank": "27"
     },
     "playcount": "1"
   },
@@ -1299,7 +1003,7 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "be1195eb-6b1b-4525-ac42-11efe507fb98",
+    "mbid": "",
     "name": "When I Was Your Man",
     "image": [
       {
@@ -1327,44 +1031,7 @@
     "url": "https://www.last.fm/music/Bruno+Mars/_/When+I+Was+Your+Man",
     "duration": "213",
     "@attr": {
-      "rank": "36"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Is Reservation Compromising Merit? Shashi Tharoor & D.Y. Chandrachud Answers",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Brut+India",
-      "name": "Brut India",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Brut+India/_/Is+Reservation+Compromising+Merit%3F+Shashi+Tharoor+&+D.Y.+Chandrachud+Answers",
-    "duration": "0",
-    "@attr": {
-      "rank": "37"
+      "rank": "28"
     },
     "playcount": "1"
   },
@@ -1401,7 +1068,7 @@
     "url": "https://www.last.fm/music/Charlie+Puth/_/Left+and+Right+(feat.+Jung+Kook+of+BTS)",
     "duration": "154",
     "@attr": {
-      "rank": "38"
+      "rank": "29"
     },
     "playcount": "1"
   },
@@ -1438,44 +1105,7 @@
     "url": "https://www.last.fm/music/Charlie+Puth/_/One+Call+Away",
     "duration": "194",
     "@attr": {
-      "rank": "39"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "3acffba9-6cb5-49cc-8b10-80f97206f5f0",
-    "name": "That's Not How This Works (feat. dan + shay)",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Charlie+Puth",
-      "name": "Charlie Puth",
-      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
-    },
-    "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Not+How+This+Works+(feat.+dan+%252B+shay)",
-    "duration": "165",
-    "@attr": {
-      "rank": "40"
+      "rank": "30"
     },
     "playcount": "1"
   },
@@ -1512,7 +1142,7 @@
     "url": "https://www.last.fm/music/Chase+AI/_/Graphify+%252B+Obsidian",
     "duration": "0",
     "@attr": {
-      "rank": "41"
+      "rank": "31"
     },
     "playcount": "1"
   },
@@ -1549,7 +1179,7 @@
     "url": "https://www.last.fm/music/CHINA+IS+PREPARAING+FOR+PUTIN%27S+DEATH/_/Will+It+Impact+India%3F",
     "duration": "0",
     "@attr": {
-      "rank": "42"
+      "rank": "32"
     },
     "playcount": "1"
   },
@@ -1586,7 +1216,7 @@
     "url": "https://www.last.fm/music/Cloud+Codes/_/The+$223+AWS+Bill+vs+The+$6+VPS",
     "duration": "0",
     "@attr": {
-      "rank": "43"
+      "rank": "33"
     },
     "playcount": "1"
   },
@@ -1623,7 +1253,7 @@
     "url": "https://www.last.fm/music/Coding+with+Lewis/_/Cassandra+Troubles",
     "duration": "0",
     "@attr": {
-      "rank": "44"
+      "rank": "34"
     },
     "playcount": "1"
   },
@@ -1660,7 +1290,7 @@
     "url": "https://www.last.fm/music/Coding+with+Lewis/_/Data+Services",
     "duration": "0",
     "@attr": {
-      "rank": "45"
+      "rank": "35"
     },
     "playcount": "1"
   },
@@ -1697,7 +1327,7 @@
     "url": "https://www.last.fm/music/Coding+with+Lewis/_/The+BIG+Migration",
     "duration": "0",
     "@attr": {
-      "rank": "46"
+      "rank": "36"
     },
     "playcount": "1"
   },
@@ -1734,7 +1364,7 @@
     "url": "https://www.last.fm/music/Colibri+:+Run+a+744B+AI+Model+on+25GB+RAM+Locally/_/No+GPU+Required",
     "duration": "0",
     "@attr": {
-      "rank": "47"
+      "rank": "37"
     },
     "playcount": "1"
   },
@@ -1771,7 +1401,7 @@
     "url": "https://www.last.fm/music/Conan+Gray/_/Maniac+(Official+Video)",
     "duration": "0",
     "@attr": {
-      "rank": "48"
+      "rank": "38"
     },
     "playcount": "1"
   },
@@ -1808,7 +1438,7 @@
     "url": "https://www.last.fm/music/David+Ondrej/_/10+regrets+of+experienced+programmers",
     "duration": "0",
     "@attr": {
-      "rank": "49"
+      "rank": "39"
     },
     "playcount": "1"
   },
@@ -1843,6 +1473,376 @@
       "mbid": ""
     },
     "url": "https://www.last.fm/music/David+Ondrej/_/100%252B+Linux+Things+you+Need+to+Know",
+    "duration": "0",
+    "@attr": {
+      "rank": "40"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Lackin'",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Denise+Julia",
+      "name": "Denise Julia",
+      "mbid": "3f538490-78d5-49a8-b2b2-8359f2dd32a6"
+    },
+    "url": "https://www.last.fm/music/Denise+Julia/_/Lackin%27",
+    "duration": "179",
+    "@attr": {
+      "rank": "41"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Amit Shah Speaks On Education Minister's Resignation",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Dharmendra+Pradhan+Resigns",
+      "name": "Dharmendra Pradhan Resigns",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Dharmendra+Pradhan+Resigns/_/Amit+Shah+Speaks+On+Education+Minister%27s+Resignation",
+    "duration": "0",
+    "@attr": {
+      "rank": "42"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "How AI Became More Expensive Than The Workers It Replaced",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Economy+Media",
+      "name": "Economy Media",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Economy+Media/_/How+AI+Became+More+Expensive+Than+The+Workers+It+Replaced",
+    "duration": "0",
+    "@attr": {
+      "rank": "43"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "32d2c0e5-714c-4b01-8ac8-38be09abc6a8",
+    "name": "All of the Stars",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Ed+Sheeran",
+      "name": "Ed Sheeran",
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+    },
+    "url": "https://www.last.fm/music/Ed+Sheeran/_/All+of+the+Stars",
+    "duration": "237",
+    "@attr": {
+      "rank": "44"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Beautiful People (feat. Khalid)",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Ed+Sheeran",
+      "name": "Ed Sheeran",
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+    },
+    "url": "https://www.last.fm/music/Ed+Sheeran/_/Beautiful+People+(feat.+Khalid)",
+    "duration": "197",
+    "@attr": {
+      "rank": "45"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
+    "name": "Shape of You",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Ed+Sheeran",
+      "name": "Ed Sheeran",
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
+    },
+    "url": "https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You",
+    "duration": "233",
+    "@attr": {
+      "rank": "46"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Massive Border Crisis Hits Spain",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Europe+in+shock",
+      "name": "Europe in shock",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Europe+in+shock/_/Massive+Border+Crisis+Hits+Spain",
+    "duration": "0",
+    "@attr": {
+      "rank": "47"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "I Found OpenAI’s $3B Loophole",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Evan+Zhou",
+      "name": "Evan Zhou",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Evan+Zhou/_/I+Found+OpenAI%E2%80%99s+$3B+Loophole",
+    "duration": "0",
+    "@attr": {
+      "rank": "48"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Tune the biggest open-source models (even with a bad PC)",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Fine",
+      "name": "Fine",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Fine/_/Tune+the+biggest+open-source+models+(even+with+a+bad+PC)",
+    "duration": "0",
+    "@attr": {
+      "rank": "49"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "2022 is gonna be wild for developers...",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Fireship",
+      "name": "Fireship",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Fireship/_/2022+is+gonna+be+wild+for+developers...",
     "duration": "0",
     "@attr": {
       "rank": "50"
