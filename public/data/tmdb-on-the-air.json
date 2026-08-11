@@ -1,23 +1,5 @@
 [
   {
-    "id": 94997,
-    "tmdb_id": 94997,
-    "type": "tv",
-    "title": "House of the Dragon",
-    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.383,
-    "votes": 6883,
-    "release": "2022-08-21",
-    "genres": [
-      10765,
-      18,
-      10759
-    ],
-    "popularity": 352.9923
-  },
-  {
     "id": 113962,
     "tmdb_id": 113962,
     "type": "tv",
@@ -25,8 +7,8 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.02,
-    "votes": 1312,
+    "rating": 8,
+    "votes": 1316,
     "release": "2023-07-23",
     "genres": [
       18,
@@ -43,7 +25,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
     "rating": 8.187,
-    "votes": 2398,
+    "votes": 2399,
     "release": "2023-05-04",
     "genres": [
       10765,
@@ -58,9 +40,9 @@
     "title": "Reacher",
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
-    "rating": 8.077,
-    "votes": 3002,
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.076,
+    "votes": 3005,
     "release": "2022-02-03",
     "genres": [
       10759,
@@ -70,21 +52,20 @@
     "popularity": 179.0311
   },
   {
-    "id": 22980,
-    "tmdb_id": 22980,
+    "id": 46271,
+    "tmdb_id": 46271,
     "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 5,
-    "votes": 87,
-    "release": "2009-07-16",
+    "title": "Secret Story",
+    "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+    "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+    "rating": 4.5,
+    "votes": 12,
+    "release": "2007-06-23",
     "genres": [
-      10767,
-      35
+      10764
     ],
-    "popularity": 163.3411
+    "popularity": 175.5667
   },
   {
     "id": 59941,
@@ -104,21 +85,21 @@
     "popularity": 167.7936
   },
   {
-    "id": 97546,
-    "tmdb_id": 97546,
+    "id": 22980,
+    "tmdb_id": 22980,
     "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-    "rating": 8.344,
-    "votes": 2510,
-    "release": "2020-08-14",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 5,
+    "votes": 87,
+    "release": "2009-07-16",
     "genres": [
-      18,
+      10767,
       35
     ],
-    "popularity": 145.2921
+    "popularity": 163.3411
   },
   {
     "id": 94664,
@@ -139,6 +120,23 @@
     "popularity": 148.7021
   },
   {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+    "rating": 8.344,
+    "votes": 2511,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 145.2921
+  },
+  {
     "id": 261471,
     "tmdb_id": 261471,
     "type": "tv",
@@ -156,22 +154,6 @@
     "popularity": 117.9766
   },
   {
-    "id": 46271,
-    "tmdb_id": 46271,
-    "type": "tv",
-    "title": "Secret Story",
-    "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-    "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-    "rating": 4.5,
-    "votes": 12,
-    "release": "2007-06-23",
-    "genres": [
-      10764
-    ],
-    "popularity": 175.5667
-  },
-  {
     "id": 30984,
     "tmdb_id": 30984,
     "type": "tv",
@@ -179,8 +161,8 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.367,
-    "votes": 2209,
+    "rating": 8.369,
+    "votes": 2212,
     "release": "2004-10-05",
     "genres": [
       10759,
@@ -188,6 +170,24 @@
       10765
     ],
     "popularity": 113.2139
+  },
+  {
+    "id": 223911,
+    "tmdb_id": 223911,
+    "type": "tv",
+    "title": "Renegade Immortal",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "poster": "https://image.tmdb.org/t/p/w342/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sx0YsPHZhh8PQRStXwF03XOMDvc.jpg",
+    "rating": 8.2,
+    "votes": 40,
+    "release": "2023-09-25",
+    "genres": [
+      16,
+      18,
+      10759
+    ],
+    "popularity": 109.5928
   },
   {
     "id": 615,
@@ -198,7 +198,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.364,
-    "votes": 3835,
+    "votes": 3837,
     "release": "1999-03-28",
     "genres": [
       16,
@@ -242,58 +242,6 @@
     "popularity": 106.942
   },
   {
-    "id": 33238,
-    "tmdb_id": 33238,
-    "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.2,
-    "votes": 214,
-    "release": "2010-07-11",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 100.8841
-  },
-  {
-    "id": 278624,
-    "tmdb_id": 278624,
-    "type": "tv",
-    "title": "Lucky",
-    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-    "rating": 7.384,
-    "votes": 125,
-    "release": "2026-07-14",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 101.5846
-  },
-  {
-    "id": 106449,
-    "tmdb_id": 106449,
-    "type": "tv",
-    "title": "A Record of a Mortal's Journey to Immortality",
-    "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-    "poster": "https://image.tmdb.org/t/p/w342/5JV6AfPMHbCrtB5oUhKkSiPARQ3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-    "rating": 8.4,
-    "votes": 83,
-    "release": "2020-07-25",
-    "genres": [
-      16,
-      10759,
-      18
-    ],
-    "popularity": 88.2479
-  },
-  {
     "id": 45140,
     "tmdb_id": 45140,
     "type": "tv",
@@ -314,13 +262,47 @@
     "popularity": 103.4257
   },
   {
+    "id": 278624,
+    "tmdb_id": 278624,
+    "type": "tv",
+    "title": "Lucky",
+    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+    "rating": 7.402,
+    "votes": 127,
+    "release": "2026-07-14",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 101.5846
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.219,
+    "votes": 215,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 100.8841
+  },
+  {
     "id": 4656,
     "tmdb_id": 4656,
     "type": "tv",
     "title": "Raw",
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b5sTSn1q4k5ma86yQm242fDTouk.jpg",
     "rating": 6.8,
     "votes": 367,
     "release": "1993-01-11",
@@ -345,5 +327,23 @@
       10762
     ],
     "popularity": 96.7437
+  },
+  {
+    "id": 138502,
+    "tmdb_id": 138502,
+    "type": "tv",
+    "title": "X-Men '97",
+    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+    "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+    "rating": 8.681,
+    "votes": 828,
+    "release": "2024-03-20",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 92.4869
   }
 ]

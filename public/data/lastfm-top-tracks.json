@@ -855,7 +855,7 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "716f0fa1-c526-4995-a8ad-ff57c44bf9b1",
+    "mbid": "ddb2ac05-eaff-49d7-abd9-29838ba15979",
     "name": "24K Magic",
     "image": [
       {
@@ -1226,117 +1226,6 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "Cassandra Troubles",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Coding+with+Lewis",
-      "name": "Coding with Lewis",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Coding+with+Lewis/_/Cassandra+Troubles",
-    "duration": "0",
-    "@attr": {
-      "rank": "34"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Data Services",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Coding+with+Lewis",
-      "name": "Coding with Lewis",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Coding+with+Lewis/_/Data+Services",
-    "duration": "0",
-    "@attr": {
-      "rank": "35"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "The BIG Migration",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Coding+with+Lewis",
-      "name": "Coding with Lewis",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Coding+with+Lewis/_/The+BIG+Migration",
-    "duration": "0",
-    "@attr": {
-      "rank": "36"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
     "name": "No GPU Required",
     "image": [
       {
@@ -1364,7 +1253,7 @@
     "url": "https://www.last.fm/music/Colibri+:+Run+a+744B+AI+Model+on+25GB+RAM+Locally/_/No+GPU+Required",
     "duration": "0",
     "@attr": {
-      "rank": "37"
+      "rank": "34"
     },
     "playcount": "1"
   },
@@ -1401,81 +1290,7 @@
     "url": "https://www.last.fm/music/Conan+Gray/_/Maniac+(Official+Video)",
     "duration": "0",
     "@attr": {
-      "rank": "38"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "10 regrets of experienced programmers",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/David+Ondrej",
-      "name": "David Ondrej",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/David+Ondrej/_/10+regrets+of+experienced+programmers",
-    "duration": "0",
-    "@attr": {
-      "rank": "39"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "100+ Linux Things you Need to Know",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/David+Ondrej",
-      "name": "David Ondrej",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/David+Ondrej/_/100%252B+Linux+Things+you+Need+to+Know",
-    "duration": "0",
-    "@attr": {
-      "rank": "40"
+      "rank": "35"
     },
     "playcount": "1"
   },
@@ -1512,7 +1327,7 @@
     "url": "https://www.last.fm/music/Denise+Julia/_/Lackin%27",
     "duration": "179",
     "@attr": {
-      "rank": "41"
+      "rank": "36"
     },
     "playcount": "1"
   },
@@ -1549,7 +1364,7 @@
     "url": "https://www.last.fm/music/Dharmendra+Pradhan+Resigns/_/Amit+Shah+Speaks+On+Education+Minister%27s+Resignation",
     "duration": "0",
     "@attr": {
-      "rank": "42"
+      "rank": "37"
     },
     "playcount": "1"
   },
@@ -1586,7 +1401,7 @@
     "url": "https://www.last.fm/music/Economy+Media/_/How+AI+Became+More+Expensive+Than+The+Workers+It+Replaced",
     "duration": "0",
     "@attr": {
-      "rank": "43"
+      "rank": "38"
     },
     "playcount": "1"
   },
@@ -1623,7 +1438,7 @@
     "url": "https://www.last.fm/music/Ed+Sheeran/_/All+of+the+Stars",
     "duration": "237",
     "@attr": {
-      "rank": "44"
+      "rank": "39"
     },
     "playcount": "1"
   },
@@ -1660,7 +1475,7 @@
     "url": "https://www.last.fm/music/Ed+Sheeran/_/Beautiful+People+(feat.+Khalid)",
     "duration": "197",
     "@attr": {
-      "rank": "45"
+      "rank": "40"
     },
     "playcount": "1"
   },
@@ -1697,7 +1512,7 @@
     "url": "https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You",
     "duration": "233",
     "@attr": {
-      "rank": "46"
+      "rank": "41"
     },
     "playcount": "1"
   },
@@ -1734,7 +1549,7 @@
     "url": "https://www.last.fm/music/Europe+in+shock/_/Massive+Border+Crisis+Hits+Spain",
     "duration": "0",
     "@attr": {
-      "rank": "47"
+      "rank": "42"
     },
     "playcount": "1"
   },
@@ -1771,7 +1586,7 @@
     "url": "https://www.last.fm/music/Evan+Zhou/_/I+Found+OpenAI%E2%80%99s+$3B+Loophole",
     "duration": "0",
     "@attr": {
-      "rank": "48"
+      "rank": "43"
     },
     "playcount": "1"
   },
@@ -1781,44 +1596,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "Tune the biggest open-source models (even with a bad PC)",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Fine",
-      "name": "Fine",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Fine/_/Tune+the+biggest+open-source+models+(even+with+a+bad+PC)",
-    "duration": "0",
-    "@attr": {
-      "rank": "49"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "2022 is gonna be wild for developers...",
+    "name": "Opus 5 is Anthropic's most anxious model yet...",
     "image": [
       {
         "size": "small",
@@ -1842,7 +1620,229 @@
       "name": "Fireship",
       "mbid": ""
     },
-    "url": "https://www.last.fm/music/Fireship/_/2022+is+gonna+be+wild+for+developers...",
+    "url": "https://www.last.fm/music/Fireship/_/Opus+5+is+Anthropic%27s+most+anxious+model+yet...",
+    "duration": "0",
+    "@attr": {
+      "rank": "44"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Building an Obsidian AI Second Brain",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Graphify+%252B+Obsidian+is+INSANE",
+      "name": "Graphify + Obsidian is INSANE",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Graphify+%252B+Obsidian+is+INSANE/_/Building+an+Obsidian+AI+Second+Brain",
+    "duration": "0",
+    "@attr": {
+      "rank": "45"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Parsing Code, Audio & Documents",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Graphify+%252B+Obsidian+is+INSANE",
+      "name": "Graphify + Obsidian is INSANE",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Graphify+%252B+Obsidian+is+INSANE/_/Parsing+Code,+Audio+&+Documents",
+    "duration": "0",
+    "@attr": {
+      "rank": "46"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Which Code Knowledge Graph Should You Use?",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Graphify+vs+GitNexus+vs+CodeGraph",
+      "name": "Graphify vs GitNexus vs CodeGraph",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Graphify+vs+GitNexus+vs+CodeGraph/_/Which+Code+Knowledge+Graph+Should+You+Use%3F",
+    "duration": "0",
+    "@attr": {
+      "rank": "47"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Deterministic mapping explained",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Graphify+vs.+RAG",
+      "name": "Graphify vs. RAG",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Graphify+vs.+RAG/_/Deterministic+mapping+explained",
+    "duration": "0",
+    "@attr": {
+      "rank": "48"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Falling (Official Video)",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Harry+Styles",
+      "name": "Harry Styles",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Harry+Styles/_/Falling+(Official+Video)",
+    "duration": "0",
+    "@attr": {
+      "rank": "49"
+    },
+    "playcount": "1"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "How Many Indian Sailors have Died So Far?",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/INDIA%27S+STRONG+MESSAGE+TO+IRAN",
+      "name": "INDIA'S STRONG MESSAGE TO IRAN",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/INDIA%27S+STRONG+MESSAGE+TO+IRAN/_/How+Many+Indian+Sailors+have+Died+So+Far%3F",
     "duration": "0",
     "@attr": {
       "rank": "50"
