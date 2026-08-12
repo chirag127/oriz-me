@@ -2,7 +2,7 @@ import { ClerkProvider, SignedIn, SignedOut, SignInButton, useUser } from '@cler
 import { useEffect, useState } from 'react'
 
 const publishableKey = import.meta.env.PUBLIC_CLERK_PUBLISHABLE_KEY as string | undefined
-const OWNER_EMAIL = import.meta.env.PUBLIC_OWNER_EMAIL || 'chirag@oriz.in'
+const OWNER_EMAIL = import.meta.env.PUBLIC_OWNER_EMAIL || 'whyiswhen@gmail.com'
 
 const appearance = {
   variables: {
