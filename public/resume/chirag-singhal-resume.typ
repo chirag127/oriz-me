@@ -2,7 +2,7 @@
 // Compile: typst compile chirag-singhal-resume.typ
 #set document(title: "Chirag Singhal — Résumé", author: "Chirag Singhal")
 #set page(paper: "a4", margin: (x: 1.5cm, y: 1.2cm))
-#set text(font: ("Arial", "Helvetica", "DejaVu Sans"), size: 10pt, fill: rgb("#1a1a1a"))
+#set text(font: ("Arial", "Liberation Sans", "Helvetica"), size: 10pt, fill: rgb("#1a1a1a"))
 #set par(justify: true, leading: 0.6em)
 #set list(spacing: 0.65em, indent: 3pt)
 #show list: set block(spacing: 0.65em)
@@ -68,10 +68,10 @@ _3+ years shipping backend, full-stack, and applied-AI systems — from enterpri
 - A growing family of free, privacy-first, client-side web tools and live-data APIs; all compute runs in-browser or on Cloudflare Workers — no server needed for end users. Publishes reusable `@chirag127/*` npm packages (design-system atoms, keyless multi-provider LLM client) that power every site.
 #v(3pt)
 #proj("Clear-Thought MCP Server", "36★ · TypeScript", link("https://github.com/chirag127/Clear-Thought-MCP-server")[chirag127/Clear-Thought-MCP-server])
-- Model Context Protocol server exposing 16 structured-thinking tools (sequential reasoning, mental-model selection, debugging frameworks) to MCP-compatible AI clients; clean SDK surface, zero runtime deps beyond the MCP SDK.
+- Model Context Protocol server exposing 11 structured-thinking tools (sequential thinking, mental models, decision frameworks, debugging approaches, scientific method, structured argumentation) to MCP-compatible AI clients; a lean, typed toolset built on the MCP SDK.
 #v(3pt)
-#proj("bookmark-mind", "10★ · JavaScript", link("https://github.com/chirag127/bookmark-mind")[chirag127/bookmark-mind])
-- Chrome extension that auto-categorises bookmarks using a local LLM call — no cloud round-trip — with a polished popup UI and one-click reorganise.
+#proj("bookmark-mind", "10★ · JavaScript", link("https://github.com/chirag127/bookmark-mind-bs-ext")[chirag127/bookmark-mind-bs-ext])
+- Chrome/Firefox extension that auto-categorises bookmarks with an LLM and offers AI chat + multi-model comparison over your saved links. Bring-your-own-key over any OpenAI-compatible endpoint (Groq, OpenRouter, Gemini, Mistral, local LM Studio / Ollama) through one uniform provider adapter — keys stored client-side, plus user-added custom providers.
 #v(3pt)
 #proj("OmniDistribute", "TypeScript", link("https://github.com/chirag127/OmniDistribute")[chirag127/OmniDistribute])
 - Resilient, idempotent content-distribution engine that publishes a single Markdown source to 30+ platforms; adapter pattern with circuit-breaker + retry for at-least-once delivery.
