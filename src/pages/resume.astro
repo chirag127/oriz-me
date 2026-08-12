@@ -1,7 +1,7 @@
 ---
 import Layout from '~/layouts/Layout.astro'
 
-const TEX_PATH = '/resume/chirag-singhal-resume.typ'
+const TYP_PATH = '/resume/chirag-singhal-resume.typ'
 const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
 ---
 
@@ -22,7 +22,7 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
       <span class="action-icon" aria-hidden="true">↓</span>
       Download PDF
     </a>
-    <button id="btn-copy" class="action-btn action-btn--ghost" data-path={TEX_PATH}>
+    <button id="btn-copy" class="action-btn action-btn--ghost" data-path={TYP_PATH}>
       <span class="action-icon" aria-hidden="true">⎘</span>
       <span id="btn-copy-label">Copy Typst source</span>
     </button>
@@ -39,7 +39,7 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
         <span class="glow-dot"></span>
         <span>Loading source…</span>
       </div>
-      <pre id="resume-code" class="resume-code hidden" aria-label="LaTeX source"></pre>
+      <pre id="resume-code" class="resume-code hidden" aria-label="Typst source"></pre>
     </div>
   </div>
 
@@ -47,11 +47,10 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
   <div class="compile-note animate-in">
     <span class="kicker">HOW TO USE</span>
     <ol class="compile-steps">
-      <li>Click <strong>Copy LaTeX source</strong> above.</li>
-      <li>Open <a href="https://www.overleaf.com" target="_blank" rel="noopener" class="link-pill">Overleaf ↗</a> → New Project → Blank.</li>
-      <li>Paste into <code class="text-code">main.tex</code>, set compiler to <strong>XeLaTeX</strong>.</li>
-      <li>Add the <a href="https://github.com/posquit0/Awesome-CV" target="_blank" rel="noopener" class="link-pill">Awesome-CV ↗</a> class files (<code class="text-code">awesome-cv.cls</code> + fonts) or use the linked template.</li>
-      <li>Hit <strong>Recompile</strong>.</li>
+      <li>Click <strong>Copy Typst source</strong> above.</li>
+      <li>Open <a href="https://typst.app" target="_blank" rel="noopener" class="link-pill">typst.app ↗</a> → New blank project.</li>
+      <li>Paste the source into <code class="text-code">main.typ</code> — it compiles automatically.</li>
+      <li>Download the compiled PDF, or grab the PDF directly from the button above.</li>
     </ol>
   </div>
 
@@ -88,12 +87,12 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
         label.textContent = 'Copied!'
         btn.classList.add('action-btn--copied')
         setTimeout(() => {
-          label.textContent = 'Copy LaTeX source'
+          label.textContent = 'Copy Typst source'
           btn.classList.remove('action-btn--copied')
         }, 2200)
       } catch {
         label.textContent = 'Copy failed — use Download'
-        setTimeout(() => { label.textContent = 'Copy LaTeX source' }, 2200)
+        setTimeout(() => { label.textContent = 'Copy Typst source' }, 2200)
       }
     })
   }
@@ -193,7 +192,7 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
     tab-size: 2;
   }
 
-  /* phosphor glow on LaTeX keywords */
+  /* phosphor glow on Typst keywords */
   .resume-code :global(.kw) {
     color: var(--phosphor);
   }
