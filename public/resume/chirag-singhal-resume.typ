@@ -42,7 +42,7 @@
 
 #section("Summary")
 Software engineer with 3+ years across backend, full-stack, and applied AI — currently on SAP's Lead-to-Cash platform at TCS. \
-Blend of enterprise delivery and builder's range: I ship production systems, run oriz.in (a family of free web tools + open-source MCP servers), and turn AI into tools that cut real work — backed by a JEE Advanced AIR 11870 and college-topper (CGPA 8.81) track record. \
+Blend of enterprise delivery and builder's range: I ship production systems, run oriz.in (a family of free web tools + open-source MCP servers), and turn AI into tools that cut real work — with a JEE Advanced AIR 11870 (top 1%) pedigree. \
 Vision: build AI-native products that make powerful tools free and effortless for everyone — the way oriz.in already does at small scale.
 
 #section("Experience")
@@ -65,6 +65,11 @@ Vision: build AI-native products that make powerful tools free and effortless fo
 *Frontend:* TypeScript, React, Astro, Tailwind CSS \
 *Data & Infra:* PostgreSQL, Redis, MongoDB, Cloudflare Workers, Docker, GitHub Actions CI/CD
 
-#section("Education & Recognition")
-*B.Tech, Computer Science* — AKTU (2020–2024), CGPA 8.81, College Topper · Class XII 97% · *JEE Advanced AIR 11870*. \
-*Claude Certified Associate — Foundations* (Anthropic, 2026) · 20+ Udemy Business courses (AI/LLM, Python, MLOps).
+#section("Education")
+#entry("B.Tech, Computer Science & Engineering", "AKTU (A.P.J. Abdul Kalam Tech. University)", "Uttar Pradesh", "2020 – 2024")
+- College Topper (Rank 1) · Senior Secondary (CBSE) — 97%.
+
+#section("Honors & Recognition")
+- *JEE Advanced 2020* — All India Rank 11870 (top 1%).
+- *Claude Certified Associate — Foundations*, Anthropic (2026).
+- 20+ Udemy Business courses (TCS) across AI/LLM, Python, and MLOps.
