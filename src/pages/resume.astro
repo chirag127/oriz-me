@@ -3,6 +3,54 @@ import Layout from '~/layouts/Layout.astro'
 
 const TYP_PATH = '/resume/chirag-singhal-resume.typ'
 const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
+
+const profiles = [
+  {
+    id: 'software',
+    label: 'Software & AI Engineer',
+    kicker: 'PRIMARY',
+    desc: 'Backend, full-stack & applied AI — Python, TypeScript, Go, FastAPI, Kubernetes.',
+    pdf: '/resume/software/chirag-singhal-software.pdf',
+    typ: '/resume/software/chirag-singhal-software.typ',
+    pdfName: 'chirag-singhal-software.pdf',
+  },
+  {
+    id: 'ai-consulting',
+    label: 'AI / Prompt Engineering Consultant',
+    kicker: 'HIGHEST RATE',
+    desc: 'Prompt engineering, RAG, multi-agent orchestration, LLM evals, MCP servers.',
+    pdf: '/resume/ai-consulting/chirag-singhal-ai-consulting.pdf',
+    typ: '/resume/ai-consulting/chirag-singhal-ai-consulting.typ',
+    pdfName: 'chirag-singhal-ai-consulting.pdf',
+  },
+  {
+    id: 'finance',
+    label: 'Financial Analyst',
+    kicker: 'REPO-BACKED',
+    desc: 'Equity valuation, portfolio optimization (max-Sharpe), live market-signal tools.',
+    pdf: '/resume/finance/chirag-singhal-finance.pdf',
+    typ: '/resume/finance/chirag-singhal-finance.typ',
+    pdfName: 'chirag-singhal-finance.pdf',
+  },
+  {
+    id: 'data-analysis',
+    label: 'Data Analyst',
+    kicker: 'REPO-BACKED',
+    desc: 'Python (pandas), SQL, dashboards, ETL pipelines, automated reporting.',
+    pdf: '/resume/data-analysis/chirag-singhal-data-analysis.pdf',
+    typ: '/resume/data-analysis/chirag-singhal-data-analysis.typ',
+    pdfName: 'chirag-singhal-data-analysis.pdf',
+  },
+  {
+    id: 'tutoring',
+    label: 'Tutor — Coding, JEE/Maths, English',
+    kicker: 'CREDENTIAL-BACKED',
+    desc: 'JEE Advanced AIR 11870 · B.Tech CSE Rank 1 · teaches Python, DSA, JEE maths, English.',
+    pdf: '/resume/tutoring/chirag-singhal-tutoring.pdf',
+    typ: '/resume/tutoring/chirag-singhal-tutoring.typ',
+    pdfName: 'chirag-singhal-tutoring.pdf',
+  },
+]
 ---
 
 <Layout
@@ -54,6 +102,40 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
     </ol>
   </div>
 
+  <!-- Profile résumés -->
+  <div class="profiles-section animate-in">
+    <div class="profiles-header">
+      <div class="kicker">FIELD-SPECIFIC · 5 PROFILES</div>
+      <h2 class="profiles-title">Profile Résumés</h2>
+      <p class="profiles-sub">Tailored for each freelance context. Same facts, different focus.</p>
+    </div>
+    <div class="profiles-grid">
+      {profiles.map((p) => (
+        <div class="profile-card">
+          <div class="profile-card-top">
+            <span class="profile-kicker">{p.kicker}</span>
+            <h3 class="profile-label">{p.label}</h3>
+            <p class="profile-desc">{p.desc}</p>
+          </div>
+          <div class="profile-card-actions">
+            <a href={p.pdf} download={p.pdfName} class="action-btn action-btn--primary action-btn--sm">
+              <span class="action-icon" aria-hidden="true">↓</span>
+              Download PDF
+            </a>
+            <button
+              class="action-btn action-btn--ghost action-btn--sm profile-copy-btn"
+              data-typ={p.typ}
+              data-label={`Copy ${p.label} Typst`}
+            >
+              <span class="action-icon" aria-hidden="true">⎘</span>
+              <span class="copy-btn-label">Copy Typst</span>
+            </button>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+
 </Layout>
 
 <script>
@@ -94,6 +176,30 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
         label.textContent = 'Copy failed — use Download'
         setTimeout(() => { label.textContent = 'Copy Typst source' }, 2200)
       }
+    })
+
+    // Profile copy buttons
+    document.querySelectorAll<HTMLButtonElement>('.profile-copy-btn').forEach((pbtn) => {
+      pbtn.addEventListener('click', async () => {
+        const typPath = pbtn.dataset.typ!
+        const span = pbtn.querySelector<HTMLElement>('.copy-btn-label')
+        if (!span) return
+        try {
+          const res = await fetch(typPath)
+          if (!res.ok) throw new Error('fetch failed')
+          const text = await res.text()
+          await navigator.clipboard.writeText(text)
+          span.textContent = 'Copied!'
+          pbtn.classList.add('action-btn--copied')
+          setTimeout(() => {
+            span.textContent = 'Copy Typst'
+            pbtn.classList.remove('action-btn--copied')
+          }, 2200)
+        } catch {
+          span.textContent = 'Failed'
+          setTimeout(() => { span.textContent = 'Copy Typst' }, 2200)
+        }
+      })
     })
   }
 
@@ -242,4 +348,91 @@ const PDF_PATH = '/resume/chirag-singhal-resume.pdf'
   .resume-actions.animate-in { animation-delay: 0.06s; }
   .resume-panel.animate-in   { animation-delay: 0.12s; }
   .compile-note.animate-in   { animation-delay: 0.18s; }
+  .profiles-section.animate-in { animation-delay: 0.24s; }
+
+  /* ── Profile résumés section ── */
+  .profiles-section {
+    margin-top: 3rem;
+  }
+
+  .profiles-header {
+    margin-bottom: 1.5rem;
+  }
+
+  .profiles-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 0.35rem 0 0.4rem;
+  }
+
+  .profiles-sub {
+    font-size: 13px;
+    color: var(--ink-3);
+    margin: 0;
+  }
+
+  .profiles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+  }
+
+  .profile-card {
+    background: var(--panel);
+    border: 1px solid var(--hair);
+    border-radius: var(--r-md);
+    padding: 18px 18px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    transition: border-color var(--ease), box-shadow var(--ease);
+  }
+
+  .profile-card:hover {
+    border-color: color-mix(in srgb, var(--phosphor) 40%, transparent);
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--phosphor) 12%, transparent);
+  }
+
+  .profile-card-top {
+    flex: 1;
+  }
+
+  .profile-kicker {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 9.5px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--phosphor);
+    opacity: 0.75;
+    margin-bottom: 5px;
+  }
+
+  .profile-label {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 0 0 6px;
+    line-height: 1.35;
+  }
+
+  .profile-desc {
+    font-size: 12px;
+    color: var(--ink-3);
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  .profile-card-actions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .action-btn--sm {
+    height: 30px;
+    padding: 0 12px;
+    font-size: 11px;
+  }
 </style>
