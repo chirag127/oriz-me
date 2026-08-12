@@ -44,7 +44,7 @@ const totalNpmDownloads = npmPackages.reduce((s: number, p: any) => s + (p.downl
 
 <Layout title="Open Source" description="Chirag Singhal's open source work — 353+ GitHub repos and npm packages">
 
-  <div class="page-updated">DATA · 2026-07-07</div>
+  <div class="page-updated">DATA · 2026-07-07 <span id="gh-live-indicator" class="live-badge" aria-live="polite" style="opacity:0"></span></div>
 
   <div class="kicker">WORK · OPEN SOURCE</div>
   <h1 class="page-title">Open Source</h1>
@@ -157,6 +157,8 @@ const totalNpmDownloads = npmPackages.reduce((s: number, p: any) => s + (p.downl
 
 </Layout>
 
+<script src="../../scripts/gh-live.ts"></script>
+
 <style>
   .page-updated {
     position: absolute;
@@ -166,6 +168,16 @@ const totalNpmDownloads = npmPackages.reduce((s: number, p: any) => s + (p.downl
     font-size: 10px;
     color: var(--t-4);
     letter-spacing: 0.05em;
+  }
+
+  .live-badge {
+    margin-left: 6px;
+    padding: 1px 5px;
+    border-radius: 3px;
+    background: rgba(16,185,129,0.15);
+    color: var(--emerald, #10b981);
+    border: 1px solid rgba(16,185,129,0.3);
+    transition: opacity 0.3s;
   }
 
   .page-title {
