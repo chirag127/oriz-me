@@ -9,7 +9,7 @@
 	},
 	"scripts": {
 		"dev": "astro dev",
-		"prebuild": "node --import=tsx/esm scripts/fetch-data.ts",
+		"prebuild": "node --import=tsx/esm scripts/fetch-data.ts && node scripts/prepare-networth.mjs",
 		"build": "astro build",
 		"preview": "astro preview",
 		"fetch-data": "node --import=tsx/esm scripts/fetch-data.ts",

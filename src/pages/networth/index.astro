@@ -1,0 +1,72 @@
+---
+/*
+ * /networth — owner-only net worth dashboard.
+ *
+ * Privacy approach:
+ *   - This page ships ZERO rupee figures in static HTML.
+ *   - Real numbers live in src/data/networth.private.json (gitignored).
+ *   - prebuild copies it to public/data/networth.json (also gitignored).
+ *   - NetWorthIsland (Clerk-gated React island) fetches /data/networth.json
+ *     client-side ONLY after Clerk confirms the user is signed in AND the
+ *     primary email matches PUBLIC_OWNER_EMAIL (chirag@oriz.in).
+ *   - Anonymous visitors see "Private — owner access only" + a sign-in button.
+ *     No numbers in the DOM, no numbers in the fetch (404 on public builds).
+ */
+import Layout from '~/layouts/Layout.astro'
+import NetWorthIsland from '~/components/NetWorthIsland'
+---
+
+<Layout title="Net Worth" description="Private — owner access only." showAuth={false}>
+
+  <div class="nw-page-stamp">PRIVATE · OWNER ONLY</div>
+
+  <div class="kicker">FINANCE</div>
+  <h1 class="nw-title">Net Worth</h1>
+  <p class="nw-subtitle">
+    Owner-gated dashboard — i2iFunding P2P + INDmoney portfolio.
+    <span class="nw-lock-badge">PRIVATE</span>
+  </p>
+
+  <div class="nw-island-wrap">
+    <NetWorthIsland client:only="react" />
+  </div>
+
+</Layout>
+
+<style>
+  .nw-page-stamp {
+    position: absolute; top: 1.5rem; right: 1.5rem;
+    font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.18em;
+    color: var(--amber); opacity: 0.6;
+  }
+
+  .nw-title {
+    font-family: var(--font-display); font-weight: 700;
+    font-size: clamp(2rem, 5vw, 2.8rem); letter-spacing: -0.03em;
+    color: var(--ink); margin: 0.4rem 0 0.5rem;
+    background: linear-gradient(130deg, var(--amber) 0%, #f2c65a 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  }
+
+  .nw-subtitle {
+    font-family: var(--font-mono); font-size: 12px; color: var(--ink-3);
+    margin-bottom: 2rem; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  }
+
+  .nw-lock-badge {
+    font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.18em;
+    color: var(--amber); background: color-mix(in srgb, var(--amber) 10%, transparent);
+    border: 1px solid color-mix(in srgb, var(--amber) 30%, transparent);
+    border-radius: var(--r-sm); padding: 2px 7px;
+  }
+
+  .nw-island-wrap {
+    max-width: 860px;
+    animation: nw-fade-in 0.3s ease both;
+  }
+
+  @keyframes nw-fade-in {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+</style>
