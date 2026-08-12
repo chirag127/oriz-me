@@ -1,0 +1,293 @@
+%% Chirag Singhal — Resume
+%% Compile: xelatex chirag-singhal-resume.tex
+%% Template: Awesome-CV (posquit0/Awesome-CV)
+
+\documentclass[11pt, a4paper]{awesome-cv}
+
+%% Page geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+%% Color accent
+\colorlet{awesome}{awesome-skyblue}
+
+%% Header
+\name{Chirag}{Singhal}
+\position{Software Engineer{\enskip\cdotp\enskip}SAP CPQ / Lead-to-Cash{\enskip\cdotp\enskip}Backend \& Applied AI}
+\address{Ghaziabad, Uttar Pradesh, India}
+\mobile{(+91) 74284-49707}
+\email{hi@chirag127.in}
+\github{chirag127}
+\linkedin{chirag127}
+\homepage{oriz.in}
+
+\quote{``Building reliable systems and open tools at the intersection of backend engineering and applied AI.''}
+
+\begin{document}
+
+\makecvheader[C]
+
+\makecvfooter{\today}{Chirag Singhal~~~·~~~Résumé}{\thepage}
+
+%% ─── EXPERIENCE ─────────────────────────────────────────────────────────────
+\cvsection{Experience}
+
+\begin{cventries}
+
+  \cventry
+    {Software Engineer}
+    {Tata Consultancy Services}
+    {Ghaziabad, India}
+    {Jun. 2025 -- Present}
+    {
+      \begin{cvitems}
+        \item Support the SAP CPQ (Configure-Price-Quote) Lead-to-Cash platform across 20+ functional areas — Bill of Materials \& Pricing, Opportunity Management, Quote Info \& Terms, Deal Reviews \& Approvals, Provisioning, Contracting, OBV, and Public Cloud Order Management.
+        \item Built a hybrid-RAG search and documentation system over the CPQ onboarding knowledge base (100+ videos, 40+ decks) to speed ticket resolution and onboarding; currently completing the Cloud Quote KT knowledge base.
+        \item Automate pricing/configuration validation and CI/CD workflows in Python; build React.js dashboards for backend configuration visibility.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Software Developer -- Full Stack}
+    {QRsay.com}
+    {Remote}
+    {Jul. 2023 -- May 2025}
+    {
+      \begin{cvitems}
+        \item Built and maintained food-commerce platform (Python / Node.js / MongoDB).
+        \item Designed event-driven order-processing pipeline on Apache Kafka; handled peak traffic bursts without data loss.
+        \item Integrated Razorpay payment gateway with HMAC-verified webhooks.
+        \item Improved API response times through query optimisation and Redis caching.
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+%% ─── OPEN SOURCE PROJECTS ───────────────────────────────────────────────────
+\cvsection{Open-Source Projects}
+
+\begin{cventries}
+
+  \cventry
+    {MCP Server — Systematic Thinking \& Mental Models}
+    {Clear-Thought-MCP-Server \textnormal{{\footnotesize\color{awesome}36 ★}}}
+    {\href{https://github.com/chirag127/Clear-Thought-MCP-server}{github.com/chirag127/Clear-Thought-MCP-server}}
+    {TypeScript}
+    {
+      \begin{cvitems}
+        \item Implements 16 structured-thinking tools (sequential reasoning, mental-model selection, debugging frameworks) as a Model Context Protocol server; consumed by MCP-compatible AI clients.
+        \item Clean TypeScript SDK surface; zero runtime dependencies beyond the MCP SDK.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Browser Extension — AI Bookmark Organiser}
+    {bookmark-mind \textnormal{{\footnotesize\color{awesome}10 ★}}}
+    {\href{https://github.com/chirag127/bookmark-mind}{github.com/chirag127/bookmark-mind} · \href{https://bookmark-mind.oriz.in}{bookmark-mind.oriz.in}}
+    {JavaScript}
+    {
+      \begin{cvitems}
+        \item Chrome extension that auto-categorises saved bookmarks using a local LLM call; zero cloud round-trip for classification.
+        \item Ships as a polished popup UI with folder management and one-click reorganise.
+      \end{cvitems}
+    }
+
+  \cventry
+    {MCP Server — Probabilistic Reasoning}
+    {Stochastic-Thinking-MCP-Server \textnormal{{\footnotesize\color{awesome}6 ★}}}
+    {\href{https://github.com/chirag127/Stochastic-Thinking-MCP-Server}{github.com/chirag127/Stochastic-Thinking-MCP-Server} · \href{https://stochastic-thinking-mcp-server.oriz.in}{stochastic-thinking-mcp-server.oriz.in}}
+    {JavaScript}
+    {
+      \begin{cvitems}
+        \item MCP server exposing probabilistic and Bayesian reasoning primitives to AI agents.
+        \item Companion site provides live interactive demo of each thinking mode.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Browser Extension — YouTube AI Navigator}
+    {youtube-ai-navigator-bs-ext \textnormal{{\footnotesize\color{awesome}3 ★}}}
+    {\href{https://github.com/chirag127/youtube-ai-navigator-bs-ext}{github.com/chirag127/youtube-ai-navigator-bs-ext} · \href{https://yt-nav.oriz.in}{yt-nav.oriz.in}}
+    {JavaScript}
+    {
+      \begin{cvitems}
+        \item Browser extension that surfaces Gemini-powered chapter summaries, transcript search, and topic Q\&A inline on YouTube pages.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Content Syndication Engine}
+    {OmniDistribute \textnormal{{\footnotesize\color{awesome}2 ★}}}
+    {\href{https://github.com/chirag127/OmniDistribute}{github.com/chirag127/OmniDistribute} · \href{https://omnidistribute.oriz.in}{omnidistribute.oriz.in}}
+    {TypeScript}
+    {
+      \begin{cvitems}
+        \item Resilient, idempotent multi-channel syndication engine; adapter pattern decouples channels (email, Telegram, webhook) from delivery logic.
+        \item Circuit-breaker and retry strategies ensure at-least-once delivery under partial outages.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Python Voice Assistant}
+    {olivia \textnormal{{\footnotesize\color{awesome}2 ★}}}
+    {\href{https://github.com/chirag127/olivia}{github.com/chirag127/olivia}}
+    {Python}
+    {
+      \begin{cvitems}
+        \item Modular, offline-capable voice assistant for Windows; speech-to-text via local Whisper model, plugin architecture for extensibility.
+      \end{cvitems}
+    }
+
+  \cventry
+    {ML-Powered Sponsor Detection}
+    {sponsorblock-ai \textnormal{{\footnotesize\color{awesome}1 ★}}}
+    {\href{https://github.com/chirag127/sponsorblock-ai}{github.com/chirag127/sponsorblock-ai}}
+    {Python}
+    {
+      \begin{cvitems}
+        \item Fine-tuned sequence classifier for sponsor, intro, and outro segment detection in YouTube video transcripts.
+      \end{cvitems}
+    }
+
+  \cventry
+    {oriz.in — Free Browser-Based Tools \& Live-Data APIs}
+    {oriz.in}
+    {\href{https://oriz.in}{oriz.in} · \href{https://github.com/chirag127}{github.com/chirag127}}
+    {Astro · React · TypeScript · Cloudflare}
+    {
+      \begin{cvitems}
+        \item A growing family of free, privacy-first, client-side web tools and live-data APIs; all compute runs in the browser or on Cloudflare Workers — no server required for end users.
+        \item Publishes reusable \texttt{@chirag127/*} npm packages (design-system atoms, keyless multi-provider LLM client).
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+%% ─── SKILLS ─────────────────────────────────────────────────────────────────
+\cvsection{Skills}
+
+\begin{cvskills}
+
+  \cvskill
+    {Languages}
+    {TypeScript (primary), Python, JavaScript, SQL, Bash}
+
+  \cvskill
+    {Frontend}
+    {React, Astro, Tailwind CSS, HTML5/CSS3, browser extensions (Chrome/Firefox)}
+
+  \cvskill
+    {Backend}
+    {Node.js, FastAPI, Flask, Express.js, REST APIs}
+
+  \cvskill
+    {AI / LLM}
+    {MCP (Model Context Protocol) server development, multi-provider LLM integration (Gemini, Groq, Mistral, NVIDIA NIM), web scraping (httpx / Playwright / BeautifulSoup), ML inference pipelines}
+
+  \cvskill
+    {Data / Storage}
+    {Neon / Supabase Postgres, Turso (SQLite edge), Redis, MongoDB, git-as-DB pipelines}
+
+  \cvskill
+    {Infrastructure}
+    {Cloudflare Workers \& Pages, Firebase, GitHub Actions CI/CD, Docker, Razorpay webhooks}
+
+\end{cvskills}
+
+%% ─── EDUCATION ───────────────────────────────────────────────────────────────
+\cvsection{Education}
+
+\begin{cventries}
+
+  \cventry
+    {B.Tech in Computer Science \& Engineering}
+    {AKTU (Dr. A.P.J. Abdul Kalam Technical University)}
+    {Uttar Pradesh, India}
+    {2020 -- 2024}
+    {
+      \begin{cvitems}
+        \item CGPA 8.81 / 10 — College Topper.
+      \end{cvitems}
+    }
+
+  \cventry
+    {Class XII — CBSE}
+    {}
+    {India}
+    {2020}
+    {
+      \begin{cvitems}
+        \item 97\% aggregate · JEE Advanced 2020 AIR 11870.
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+%% ─── HONORS & CERTIFICATIONS ────────────────────────────────────────────────
+\cvsection{Honors \& Certifications}
+
+\begin{cvhonors}
+
+  \cvhonor
+    {Claude Certified Associate — Foundations}
+    {Anthropic}
+    {}
+    {2026}
+
+  \cvhonor
+    {College Topper — Rank 1}
+    {AKTU B.Tech CSE Batch 2020--2024}
+    {Uttar Pradesh, India}
+    {2024}
+
+  \cvhonor
+    {JEE Advanced AIR 11870}
+    {Joint Entrance Examination Advanced}
+    {India}
+    {2020}
+
+\end{cvhonors}
+
+%% ─── PROFESSIONAL DEVELOPMENT ───────────────────────────────────────────────
+\cvsection{Professional Development}
+
+{\small\color{awesome}\textit{Completed via Udemy Business (TCS)}}
+\vspace{0.4em}
+
+\begin{cvskills}
+
+  \cvskill{AI \& LLM}{%
+    Claude Code — The Practical Guide \textit{(Academind / Schwarzm\"{u}ller)} ·
+    Generative AI for Beginners \textit{(Aakriti E-Learning)} ·
+    Executive Briefing: AI + ChatGPT \textit{(Eremenko / SuperDataScience)} ·
+    Intro to MCP — Model Context Protocol \textit{(Yash Thakker)} ·
+    AI Ethics / Responsible Use \textit{(Aggarwal, Singla)} ·
+    Vibe Coding from Scratch \textit{(Federico Garay)}}
+
+  \cvskill{Machine Learning}{%
+    Intro to ML for Data Engineers \textit{(Mike West)}}
+
+  \cvskill{Python}{%
+    Python for Beginners — Python 3 \textit{(Jason Cannon)} ·
+    Practical Python Step by Step — Python 3 \textit{(Edouard Renard)} ·
+    Automate the Boring Stuff with Python \textit{(Al Sweigart)}}
+
+  \cvskill{Compliance}{%
+    EU AI Act Compliance Masterclass 2026 \textit{(Taimur Ijlal)} ·
+    Credit Card Security Basics \textit{(Carrie White)}}
+
+  \cvskill{JavaScript}{%
+    Master KnockoutJS — JavaScript MVVM \textit{(SkillBakery Studio)}}
+
+  \cvskill{Productivity}{%
+    Agile Project Management in 30 Minutes \textit{(Crystal Richards)} ·
+    A Mini Course on Time Management \textit{(Brandon Hakim)}}
+
+  \cvskill{Soft Skills}{%
+    Write Better Emails \textit{(Hassan Osman)} ·
+    Building Your English Brain \textit{(Luke Priddy)} ·
+    Negotiation Secrets for Master Negotiators \textit{(Dr. Claudia Winkler)} ·
+    Successful Negotiation: Master Your Negotiating Skills \textit{(Chris Croft)}}
+
+\end{cvskills}
+
+\end{document}

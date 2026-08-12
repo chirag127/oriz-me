@@ -1,0 +1,245 @@
+---
+import Layout from '~/layouts/Layout.astro'
+
+const TEX_PATH = '/resume/chirag-singhal-resume.tex'
+---
+
+<Layout
+  title="Résumé"
+  description="Chirag Singhal — résumé. Download or copy the LaTeX source to compile in Overleaf."
+>
+
+  <div class="page-header animate-in">
+    <div class="kicker">WORK · RÉSUMÉ</div>
+    <h1 class="text-display">Résumé</h1>
+    <p class="page-sub">Awesome-CV LaTeX source — paste into Overleaf and compile with XeLaTeX.</p>
+  </div>
+
+  <!-- Action bar -->
+  <div class="resume-actions animate-in">
+    <button id="btn-copy" class="action-btn action-btn--primary" data-path={TEX_PATH}>
+      <span class="action-icon" aria-hidden="true">⎘</span>
+      <span id="btn-copy-label">Copy LaTeX source</span>
+    </button>
+    <a href={TEX_PATH} download="chirag-singhal-resume.tex" class="action-btn action-btn--ghost">
+      <span class="action-icon" aria-hidden="true">↓</span>
+      Download .tex
+    </a>
+    <a href="https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm" target="_blank" rel="noopener noreferrer" class="action-btn action-btn--ghost">
+      <span class="action-icon" aria-hidden="true">↗</span>
+      Overleaf template
+    </a>
+  </div>
+
+  <!-- Preview panel -->
+  <div class="signal-strip resume-panel animate-in">
+    <div class="resume-preview" id="resume-preview">
+      <div class="preview-loading" id="preview-loading">
+        <span class="glow-dot"></span>
+        <span>Loading source…</span>
+      </div>
+      <pre id="resume-code" class="resume-code hidden" aria-label="LaTeX source"></pre>
+    </div>
+  </div>
+
+  <!-- Compile note -->
+  <div class="compile-note animate-in">
+    <span class="kicker">HOW TO USE</span>
+    <ol class="compile-steps">
+      <li>Click <strong>Copy LaTeX source</strong> above.</li>
+      <li>Open <a href="https://www.overleaf.com" target="_blank" rel="noopener" class="link-pill">Overleaf ↗</a> → New Project → Blank.</li>
+      <li>Paste into <code class="text-code">main.tex</code>, set compiler to <strong>XeLaTeX</strong>.</li>
+      <li>Add the <a href="https://github.com/posquit0/Awesome-CV" target="_blank" rel="noopener" class="link-pill">Awesome-CV ↗</a> class files (<code class="text-code">awesome-cv.cls</code> + fonts) or use the linked template.</li>
+      <li>Hit <strong>Recompile</strong>.</li>
+    </ol>
+  </div>
+
+</Layout>
+
+<script>
+  async function init() {
+    const btn = document.getElementById('btn-copy') as HTMLButtonElement | null
+    const label = document.getElementById('btn-copy-label')
+    const pre = document.getElementById('resume-code')
+    const loading = document.getElementById('preview-loading')
+
+    if (!btn || !label || !pre || !loading) return
+
+    const path = btn.dataset.path!
+
+    let src = ''
+    try {
+      const res = await fetch(path)
+      if (!res.ok) throw new Error('fetch failed')
+      src = await res.text()
+      pre.textContent = src
+      loading.classList.add('hidden')
+      pre.classList.remove('hidden')
+    } catch {
+      loading.innerHTML = '<span style="color:var(--amber)">Could not load source — use the Download button.</span>'
+    }
+
+    btn.addEventListener('click', async () => {
+      const text = src || pre.textContent || ''
+      if (!text) return
+      try {
+        await navigator.clipboard.writeText(text)
+        label.textContent = 'Copied!'
+        btn.classList.add('action-btn--copied')
+        setTimeout(() => {
+          label.textContent = 'Copy LaTeX source'
+          btn.classList.remove('action-btn--copied')
+        }, 2200)
+      } catch {
+        label.textContent = 'Copy failed — use Download'
+        setTimeout(() => { label.textContent = 'Copy LaTeX source' }, 2200)
+      }
+    })
+  }
+
+  init()
+</script>
+
+<style>
+  /* ── Action bar ── */
+  .resume-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 2rem;
+  }
+
+  .action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    height: 36px;
+    padding: 0 16px;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    border-radius: var(--r-md);
+    border: 1px solid transparent;
+    transition: background var(--ease), border-color var(--ease), color var(--ease), transform var(--ease);
+    white-space: nowrap;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .action-btn--primary {
+    background: var(--phosphor);
+    color: var(--void);
+    border-color: var(--phosphor);
+  }
+  .action-btn--primary:hover {
+    background: #58eace;
+    border-color: #58eace;
+    transform: translateY(-1px);
+  }
+  .action-btn--primary.action-btn--copied {
+    background: var(--phosphor-dim);
+    border-color: var(--phosphor-dim);
+  }
+
+  .action-btn--ghost {
+    background: color-mix(in srgb, var(--phosphor) 8%, var(--panel));
+    color: var(--phosphor);
+    border-color: color-mix(in srgb, var(--phosphor) 28%, transparent);
+  }
+  .action-btn--ghost:hover {
+    background: color-mix(in srgb, var(--phosphor) 16%, var(--panel));
+    border-color: color-mix(in srgb, var(--phosphor) 50%, transparent);
+    transform: translateY(-1px);
+  }
+
+  .action-icon {
+    font-size: 14px;
+    line-height: 1;
+  }
+
+  /* ── Preview panel ── */
+  .resume-panel {
+    margin-bottom: 2rem;
+    padding: 0;
+    max-height: 68vh;
+    overflow: hidden;
+  }
+
+  .resume-preview {
+    max-height: 68vh;
+    overflow-y: auto;
+    padding: 28px 24px 24px;
+  }
+
+  .preview-loading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--ink-3);
+    font-family: var(--font-mono);
+    font-size: 12px;
+    padding: 16px 0;
+  }
+
+  .resume-code {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    line-height: 1.65;
+    color: var(--ink-2);
+    white-space: pre;
+    overflow-x: auto;
+    tab-size: 2;
+  }
+
+  /* phosphor glow on LaTeX keywords */
+  .resume-code :global(.kw) {
+    color: var(--phosphor);
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  /* ── Compile note ── */
+  .compile-note {
+    background: var(--panel);
+    border: 1px solid var(--hair);
+    border-radius: var(--r-md);
+    padding: 20px 22px;
+  }
+
+  .compile-note .kicker {
+    margin-bottom: 1rem;
+  }
+
+  .compile-steps {
+    list-style: decimal;
+    padding-left: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+
+  .compile-steps li {
+    font-size: 13.5px;
+    color: var(--ink-2);
+    line-height: 1.6;
+  }
+
+  .compile-steps strong {
+    color: var(--ink);
+  }
+
+  /* ── Animate-in ── */
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .animate-in {
+    animation: fade-up 0.38s var(--ease-slow) both;
+  }
+  .resume-actions.animate-in { animation-delay: 0.06s; }
+  .resume-panel.animate-in   { animation-delay: 0.12s; }
+  .compile-note.animate-in   { animation-delay: 0.18s; }
+</style>
