@@ -1,22 +1,54 @@
 ---
 import Layout from '~/layouts/Layout.astro'
 
-/* Public certs — employer-facing + LinkedIn. TRUST ANCHOR = verifyUrl (issuer's
-   official verification: Coursera/Credly/SAP/AWS). file = optional local PDF in
-   public/certificates/. Replace REPLACE placeholders with real verify links. */
+/* Public certs — employer-facing + LinkedIn. */
 const certs = [
-  { title: 'Meta Backend Developer Professional Certificate', issuer: 'Meta (Coursera)', year: '2024',
-    verifyUrl: 'https://coursera.org/verify/professional-cert/REPLACE', file: null,
-    skills: ['Django','REST','MySQL','Version Control'] },
-  { title: 'AWS Certified Developer – Associate', issuer: 'Amazon Web Services', year: '2025',
-    verifyUrl: 'https://www.credly.com/badges/REPLACE', file: null,
-    skills: ['Lambda','DynamoDB','S3','CloudFormation','IAM'] },
+  { title: 'Claude Certified Associate — Foundations', issuer: 'Anthropic', year: '2026',
+    verifyUrl: 'https://www.anthropic.com/', file: null,
+    skills: ['Claude', 'LLMs', 'Prompting', 'Agents'] },
+]
+
+/* Professional development — completed via Udemy Business (TCS). */
+const devGroups = [
+  { group: 'AI & LLM', courses: [
+    ['Claude Code — The Practical Guide', 'Academind / Schwarzmüller'],
+    ['Generative AI for Beginners', 'Aakriti E-Learning'],
+    ['Executive Briefing: AI + ChatGPT', 'Eremenko / SuperDataScience'],
+    ['Intro to MCP — Model Context Protocol', 'Yash Thakker'],
+    ['AI Ethics / Responsible Use', 'Aggarwal, Singla'],
+    ['Vibe Coding from Scratch', 'Federico Garay'],
+  ] },
+  { group: 'Machine Learning', courses: [
+    ['Intro to ML for Data Engineers', 'Mike West'],
+  ] },
+  { group: 'Python', courses: [
+    ['Python for Beginners — Python 3', 'Jason Cannon'],
+    ['Practical Python Step by Step — Python 3', 'Edouard Renard'],
+    ['Automate the Boring Stuff with Python', 'Al Sweigart'],
+  ] },
+  { group: 'Compliance', courses: [
+    ['EU AI Act Compliance Masterclass 2026', 'Taimur Ijlal'],
+    ['Credit Card Security Basics', 'Carrie White'],
+  ] },
+  { group: 'JavaScript', courses: [
+    ['Master KnockoutJS — JavaScript MVVM', 'SkillBakery Studio'],
+  ] },
+  { group: 'Productivity', courses: [
+    ['Agile Project Management in 30 Minutes', 'Crystal Richards'],
+    ['A Mini Course on Time Management', 'Brandon Hakim'],
+  ] },
+  { group: 'Soft Skills', courses: [
+    ['Write Better Emails', 'Hassan Osman'],
+    ['Building Your English Brain', 'Luke Priddy'],
+    ['Negotiation Secrets for Master Negotiators', 'Dr. Claudia Winkler'],
+    ['Successful Negotiation: Master Your Negotiating Skills', 'Chris Croft'],
+  ] },
 ]
 ---
-<Layout title="Certifications" description="Verified professional certifications by Chirag Singhal — each links to the issuer's official verification.">
+<Layout title="Certifications" description="Professional certifications and continued learning by Chirag Singhal.">
   <div style="padding-top: 2rem; max-width: 600px;">
     <h1 class="page-title">Certifications</h1>
-    <p class="page-sub">Professional credentials — each links to the issuer's official verification.</p>
+    <p class="page-sub">Professional credentials and continued learning.</p>
 
     <div>
       {certs.map(c => (
@@ -31,7 +63,7 @@ const certs = [
           </div>
           <div style="display:flex;gap:14px;margin-top:10px;">
             <a href={c.verifyUrl} target="_blank" rel="noopener noreferrer"
-               style="font-family:var(--font-mono);font-size:11px;font-weight:600;">Verify credential ↗</a>
+               style="font-family:var(--font-mono);font-size:11px;font-weight:600;">Issuer ↗</a>
             {c.file && (
               <a href={c.file} target="_blank" rel="noopener noreferrer"
                  style="font-family:var(--font-mono);font-size:11px;color:var(--t-secondary);">View certificate</a>
@@ -40,6 +72,25 @@ const certs = [
         </div>
       ))}
     </div>
+
+    <h2 style="font-family:var(--font-display);font-weight:600;font-size:14px;color:#fff;margin:1.75rem 0 0.25rem;">Professional Development</h2>
+    <p class="page-sub" style="margin-bottom:1rem;">Completed via Udemy Business (TCS).</p>
+
+    <div style="display:flex;flex-direction:column;gap:14px;">
+      {devGroups.map(g => (
+        <div>
+          <div style="font-family:var(--font-mono);font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:#818cf8;margin-bottom:6px;">{g.group}</div>
+          <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:5px;">
+            {g.courses.map(([name, author]) => (
+              <li style="font-size:13px;color:var(--t-secondary);line-height:1.5;">
+                <span style="color:#fff;">{name}</span> · <span style="font-style:italic;">{author}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
   </div>
 </Layout>
+
 

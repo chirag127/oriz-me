@@ -6,10 +6,9 @@ const SKILLS = [
     group: 'LANGUAGES',
     icon: 'code',
     items: [
+      { name: 'TypeScript', expert: true },
       { name: 'Python', expert: true },
       { name: 'JavaScript', expert: true },
-      { name: 'TypeScript', expert: false },
-      { name: 'Go', expert: false },
       { name: 'SQL', expert: false },
       { name: 'Bash', expert: false },
     ],
@@ -20,9 +19,9 @@ const SKILLS = [
     items: [
       { name: 'React', expert: true },
       { name: 'Astro', expert: false },
+      { name: 'Tailwind CSS', expert: false },
       { name: 'HTML5/CSS3', expert: false },
-      { name: 'Next.js', expert: false },
-      { name: 'TailwindCSS', expert: false },
+      { name: 'Browser extensions', expert: false },
     ],
   },
   {
@@ -31,60 +30,45 @@ const SKILLS = [
     items: [
       { name: 'Node.js', expert: true },
       { name: 'FastAPI', expert: true },
-      { name: 'Django', expert: false },
+      { name: 'Flask', expert: false },
       { name: 'Express.js', expert: false },
       { name: 'REST APIs', expert: false },
-      { name: 'GraphQL', expert: false },
-      { name: 'gRPC', expert: false },
     ],
   },
   {
-    group: 'AI / ML',
+    group: 'AI / LLM',
     icon: 'brain',
     glow: true,
     items: [
-      { name: 'LangChain', expert: true },
-      { name: 'LangGraph', expert: false },
-      { name: 'HuggingFace', expert: false },
-      { name: 'ONNX', expert: false },
-      { name: 'T5', expert: false },
-      { name: 'Llama-3', expert: false },
-      { name: 'OpenAI API', expert: false },
-      { name: 'Whisper', expert: false },
+      { name: 'MCP servers', expert: true },
+      { name: 'RAG pipelines', expert: false },
+      { name: 'Gemini', expert: false },
+      { name: 'Groq', expert: false },
+      { name: 'Mistral', expert: false },
+      { name: 'NVIDIA NIM', expert: false },
+      { name: 'Web scraping', expert: false },
     ],
   },
   {
-    group: 'DATABASES',
+    group: 'DATA / STORAGE',
     icon: 'cylinder',
     items: [
-      { name: 'PostgreSQL', expert: false },
-      { name: 'MongoDB', expert: false },
-      { name: 'Redis', expert: false },
-      { name: 'MySQL', expert: false },
-      { name: 'DynamoDB', expert: false },
+      { name: 'Neon Postgres', expert: false },
+      { name: 'Supabase', expert: false },
       { name: 'Turso', expert: false },
+      { name: 'Redis', expert: false },
+      { name: 'MongoDB', expert: false },
     ],
   },
   {
     group: 'INFRA',
     icon: 'cloud',
     items: [
-      { name: 'AWS', expert: true, amber: true },
-      { name: 'Docker', expert: false },
-      { name: 'Kubernetes', expert: false },
+      { name: 'Cloudflare', expert: true },
+      { name: 'Firebase', expert: false },
       { name: 'GitHub Actions', expert: false },
-      { name: 'Cloudflare', expert: false },
-      { name: 'CI/CD', expert: false },
-    ],
-  },
-  {
-    group: 'MESSAGING',
-    icon: 'message',
-    items: [
-      { name: 'Kafka', expert: true },
-      { name: 'RabbitMQ', expert: false },
-      { name: 'Celery', expert: false },
-      { name: 'Redis Pub/Sub', expert: false },
+      { name: 'Docker', expert: false },
+      { name: 'Razorpay', expert: false },
     ],
   },
   {
@@ -96,7 +80,6 @@ const SKILLS = [
       { name: 'Playwright', expert: false },
       { name: 'Claude Code', expert: false },
       { name: 'Obsidian', expert: false },
-      { name: 'Screenpipe', expert: false },
     ],
   },
 ]
@@ -124,7 +107,7 @@ const ICONS: Record<string, string> = {
     <div class="card summary-card">
       <div class="summary-inner">
         <div class="summary-stat">
-          <span class="stat-number">8</span>
+          <span class="stat-number">7</span>
           <span class="stat-label">DOMAINS</span>
         </div>
         <div class="summary-divider" />

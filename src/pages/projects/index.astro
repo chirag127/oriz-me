@@ -3,82 +3,94 @@ import Layout from '~/layouts/Layout.astro'
 
 const projects = [
   {
-    name: 'Oriz — 1000+ Free Online Tools Platform',
+    name: 'Clear-Thought-MCP-Server — Systematic Thinking & Mental Models',
+    url: 'https://github.com/chirag127/Clear-Thought-MCP-server',
+    urlLabel: 'github.com/chirag127/Clear-Thought-MCP-server',
+    github: 'https://github.com/chirag127/Clear-Thought-MCP-server',
+    stack: ['TypeScript', 'MCP SDK'],
+    bullets: [
+      'Implements 16 structured-thinking tools (sequential reasoning, mental-model selection, debugging frameworks) as a Model Context Protocol server; consumed by MCP-compatible AI clients.',
+      'Clean TypeScript SDK surface; zero runtime dependencies beyond the MCP SDK.',
+    ],
+  },
+  {
+    name: 'bookmark-mind — AI Bookmark Organiser',
+    url: 'https://bookmark-mind.oriz.in',
+    urlLabel: 'github.com/chirag127/bookmark-mind · bookmark-mind.oriz.in',
+    github: 'https://github.com/chirag127/bookmark-mind',
+    stack: ['JavaScript', 'Chrome Extension'],
+    bullets: [
+      'Chrome extension that auto-categorises saved bookmarks using a local LLM call; zero cloud round-trip for classification.',
+      'Ships as a polished popup UI with folder management and one-click reorganise.',
+    ],
+  },
+  {
+    name: 'Stochastic-Thinking-MCP-Server — Probabilistic Reasoning',
+    url: 'https://stochastic-thinking-mcp-server.oriz.in',
+    urlLabel: 'github.com/chirag127/Stochastic-Thinking-MCP-Server · stochastic-thinking-mcp-server.oriz.in',
+    github: 'https://github.com/chirag127/Stochastic-Thinking-MCP-Server',
+    stack: ['JavaScript', 'MCP SDK'],
+    bullets: [
+      'MCP server exposing probabilistic and Bayesian reasoning primitives to AI agents.',
+      'Companion site provides a live interactive demo of each thinking mode.',
+    ],
+  },
+  {
+    name: 'youtube-ai-navigator-bs-ext — YouTube AI Navigator',
+    url: 'https://yt-nav.oriz.in',
+    urlLabel: 'github.com/chirag127/youtube-ai-navigator-bs-ext · yt-nav.oriz.in',
+    github: 'https://github.com/chirag127/youtube-ai-navigator-bs-ext',
+    stack: ['JavaScript', 'Browser Extension', 'Gemini'],
+    bullets: [
+      'Browser extension surfacing Gemini-powered chapter summaries, transcript search, and topic Q&A inline on YouTube pages.',
+    ],
+  },
+  {
+    name: 'OmniDistribute — Content Syndication Engine',
+    url: 'https://omnidistribute.oriz.in',
+    urlLabel: 'github.com/chirag127/OmniDistribute · omnidistribute.oriz.in',
+    github: 'https://github.com/chirag127/OmniDistribute',
+    stack: ['TypeScript', 'Adapter Pattern'],
+    bullets: [
+      'Resilient, idempotent multi-channel syndication engine; adapter pattern decouples channels (email, Telegram, webhook) from delivery logic.',
+      'Circuit-breaker and retry strategies ensure at-least-once delivery under partial outages.',
+    ],
+  },
+  {
+    name: 'olivia — Python Voice Assistant',
+    url: 'https://github.com/chirag127/olivia',
+    urlLabel: 'github.com/chirag127/olivia',
+    github: 'https://github.com/chirag127/olivia',
+    stack: ['Python', 'Whisper'],
+    bullets: [
+      'Modular, offline-capable voice assistant for Windows; speech-to-text via a local Whisper model, plugin architecture for extensibility.',
+    ],
+  },
+  {
+    name: 'sponsorblock-ai — ML-Powered Sponsor Detection',
+    url: 'https://github.com/chirag127/sponsorblock-ai',
+    urlLabel: 'github.com/chirag127/sponsorblock-ai',
+    github: 'https://github.com/chirag127/sponsorblock-ai',
+    stack: ['Python', 'Transformers'],
+    bullets: [
+      'Fine-tuned sequence classifier for sponsor, intro, and outro segment detection in YouTube video transcripts.',
+    ],
+  },
+  {
+    name: 'oriz.in — Free Browser-Based Tools & Live-Data APIs',
     url: 'https://oriz.in',
-    urlLabel: 'oriz.in',
-    github: null,
-    stack: ['TypeScript', 'React', 'Astro', 'Python', 'Cloudflare Workers', 'Firebase', 'Razorpay'],
+    urlLabel: 'oriz.in · github.com/chirag127',
+    github: 'https://github.com/chirag127',
+    stack: ['Astro', 'React', 'TypeScript', 'Cloudflare'],
     bullets: [
-      '192+ client-side tools across 8 categories; Astro + React + TypeScript + Tailwind on Cloudflare Pages',
-      '10 AI/LLM providers integrated: Gemini, Groq, Mistral, Cohere, NVIDIA NIM, OpenRouter, Cerebras, HuggingFace',
-      '40+ cryptographic algorithms, 100% client-side processing for privacy; 8 serverless edge functions',
-      'Multi-cloud: Firebase, Supabase, Turso, Upstash Redis, Cloudflare R2, Algolia, Sanity, Razorpay',
-    ],
-  },
-  {
-    name: 'NexusAI — Multi-Agent RAG Platform',
-    url: 'https://github.com/chirag127/NexusAI-Agentic-Workflows',
-    urlLabel: 'github.com/chirag127/NexusAI-Agentic-Workflows',
-    github: 'https://github.com/chirag127/NexusAI-Agentic-Workflows',
-    stack: ['Python', 'LangGraph', 'OpenAI', 'Docker', 'Kubernetes', 'Neo4j'],
-    bullets: [
-      'LangGraph orchestrating multiple autonomous LLM agents for complex agentic workflows',
-      'Graph-based RAG pipeline with Neo4j + Vector Embeddings for knowledge retrieval',
-      'Kubernetes deployment with auto-scaling for production workloads',
-    ],
-  },
-  {
-    name: 'TubeDigest — Multimodal Sponsor Detection',
-    url: 'https://github.com/chirag127/TubeDigest-AI-Sponsor-Block',
-    urlLabel: 'github.com/chirag127/TubeDigest-AI-Sponsor-Block',
-    github: 'https://github.com/chirag127/TubeDigest-AI-Sponsor-Block',
-    stack: ['Python', 'Transformers', 'ONNX Runtime', 'PyTorch'],
-    bullets: [
-      'Hugging Face Transformers for sponsor segment detection using Audio + Text modalities',
-      'Fine-tuned T5 model with 3× inference speedup via ONNX Runtime + quantization',
-      'Flask microservice with sub-second latency for real-time detection',
-    ],
-  },
-  {
-    name: 'Olivia — Edge AI Voice Assistant',
-    url: 'https://github.com/chirag127/Olivia-Voice-Assistant',
-    urlLabel: 'github.com/chirag127/Olivia-Voice-Assistant',
-    github: 'https://github.com/chirag127/Olivia-Voice-Assistant',
-    stack: ['Python', 'Edge AI', 'Llama-3', 'TensorFlow Lite'],
-    bullets: [
-      'Local LLMs (Llama-3) for intent classification — fully offline, zero cloud latency',
-      'Edge computing architecture enabling privacy-first voice processing on-device',
-      'Plugin-based IoT integration for extensible smart home and automation control',
-    ],
-  },
-  {
-    name: 'Crawl4AI — Distributed RAG Ingestion',
-    url: 'https://github.com/chirag127/Crawl4AI-LLM-Optimized-Web-Crawler',
-    urlLabel: 'github.com/chirag127/Crawl4AI-LLM-Optimized-Web-Crawler',
-    github: 'https://github.com/chirag127/Crawl4AI-LLM-Optimized-Web-Crawler',
-    stack: ['Python', 'Redis', 'Distributed Crawling', 'Selenium'],
-    bullets: [
-      'Redis task queues for massive dataset ingestion at scale across distributed workers',
-      'Stealth drivers, proxy rotation, anti-bot bypass for reliable large-scale crawling',
-      'HTML → structured JSON/Markdown pipeline optimized for Vector DB ingestion',
-    ],
-  },
-  {
-    name: 'OmniPublish — Content Orchestration Engine',
-    url: 'https://github.com/chirag127/OmniPublish-Platform',
-    urlLabel: 'github.com/chirag127/OmniPublish-Platform',
-    github: 'https://github.com/chirag127/OmniPublish-Platform',
-    stack: ['Python', 'Microservices', 'Node.js', 'System Design'],
-    bullets: [
-      'API Gateway using Adapter Pattern unifying 17+ publishing platforms under one interface',
-      'Circuit Breaker + Celery async retry for fault tolerance across platform integrations',
-      'Microservices architecture enabling independent scaling per publishing channel',
+      'A growing family of free, privacy-first, client-side web tools and live-data APIs; all compute runs in the browser or on Cloudflare Workers — no server required for end users.',
+      'Publishes reusable @chirag127/* npm packages (design-system atoms, keyless multi-provider LLM client).',
     ],
   },
 ]
 ---
 
-<Layout title="Projects" description="Key engineering projects — tools platforms, AI/ML systems, distributed crawlers, and content orchestration." active="/projects/">
+<Layout title="Projects" description="Open-source projects — MCP servers, browser extensions, AI tools, and the oriz.in family of free web tools." active="/projects/">
 
   <div class="section-title">
     <span class="kicker">Key Projects</span>

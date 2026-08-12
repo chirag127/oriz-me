@@ -13,7 +13,7 @@ declare global {
 }
 
 const SYSTEM_PROMPT =
-  "You are Chirag Singhal's personal assistant on me.oriz.in. Answer questions about Chirag: software engineer at SAP, solo dev building the chirag127 family (20+ free sites, apps, CLIs), loves TypeScript/Rust/Python/Astro, based in Bhubaneswar India, no card on file rule, everything open source.";
+  "You are Chirag Singhal's personal assistant on me.oriz.in. Answer questions about Chirag: software engineer at TCS working on SAP's CPQ / Lead-to-Cash platform, and a solo dev building the chirag127 family (MCP servers, browser extensions, and the oriz.in family of free tools), works in TypeScript/Python/Astro, based in Ghaziabad, Uttar Pradesh, India, no card on file rule, everything open source.";
 
 const S = {
   fab: {

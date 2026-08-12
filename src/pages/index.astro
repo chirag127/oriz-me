@@ -26,7 +26,7 @@ const hasLiveData = Boolean(lbNow?.track || (lastMovie?._tmdb?.poster_path) || t
 const scrobbles  = Number(lfmUser.playcount || 0).toLocaleString()
 ---
 
-<Layout title="Chirag Singhal — Backend & AI Systems Engineer" description="Chirag Singhal, software engineer building backend + AI infrastructure — Python services, event pipelines, RAG systems. Portfolio, open source, and live coding/media feeds. Free, no signup.">
+<Layout title="Chirag Singhal — Backend & Applied AI Engineer" description="Chirag Singhal, software engineer — SAP CPQ / Lead-to-Cash at TCS, MCP servers, browser extensions, and the oriz.in family of free tools. Portfolio, open source, and live coding/media feeds. Free, no signup.">
 
   <!-- HERO: the bench powers on. A trace draws across the phosphor screen. -->
   <section class="hero animate-in">
@@ -38,11 +38,11 @@ const scrobbles  = Number(lfmUser.playcount || 0).toLocaleString()
     </div>
 
     <div class="hero-copy">
-      <p class="hero-eyeball"><span class="glow-dot" aria-hidden="true"></span> {discordStatus === 'online' ? 'signal live' : 'trace armed'} · backend systems engineer</p>
-      <h1 class="text-hero">I build the systems<br />you never see fail.</h1>
+      <p class="hero-eyeball"><span class="glow-dot" aria-hidden="true"></span> {discordStatus === 'online' ? 'signal live' : 'trace armed'} · backend & applied-AI engineer</p>
+      <h1 class="text-hero">I build reliable systems<br />and open tools.</h1>
       <p class="hero-lede">
-        Chirag Singhal. I ship backend and AI infrastructure — Python services, event pipelines, RAG systems —
-        and instrument everything I make. This site is the readout: work, open source, and the feeds of a day.
+        Chirag Singhal. Software engineer at TCS on SAP's CPQ / Lead-to-Cash platform, and an open-source builder —
+        MCP servers, browser extensions, and the oriz.in family of free tools. This site is the readout: work, open source, and the feeds of a day.
       </p>
       <div class="hero-ctas">
         <a href="/work/projects" class="btn-primary">Trace the work →</a>
@@ -117,20 +117,20 @@ const scrobbles  = Number(lfmUser.playcount || 0).toLocaleString()
     <div class="grid-3 disc-grid">
       <div class="card-glow disc">
         <span class="disc-idx">01</span>
-        <h3 class="disc-title">Backend systems</h3>
-        <p class="disc-desc">Python, FastAPI, Kafka. Latency budgets, event pipelines, distributed correctness.</p>
+        <h3 class="disc-title">Backend engineering</h3>
+        <p class="disc-desc">Python, FastAPI, Node.js. Pricing/config validation, event pipelines on Kafka, Razorpay webhooks.</p>
         <div class="tag-list"><span class="tech-chip">Python</span><span class="tech-chip">FastAPI</span><span class="tech-chip">Kafka</span><span class="tech-chip">Postgres</span></div>
       </div>
       <div class="card-glow disc">
         <span class="disc-idx">02</span>
-        <h3 class="disc-title">AI infrastructure</h3>
-        <p class="disc-desc">RAG pipelines, multi-agent orchestration, model serving. LangGraph to ONNX.</p>
-        <div class="tag-list"><span class="tech-chip">LangGraph</span><span class="tech-chip">RAG</span><span class="tech-chip">ONNX</span></div>
+        <h3 class="disc-title">Applied AI</h3>
+        <p class="disc-desc">MCP servers, hybrid-RAG KT search, multi-provider LLM integration — Gemini, Groq, Mistral, NVIDIA NIM.</p>
+        <div class="tag-list"><span class="tech-chip">MCP</span><span class="tech-chip">RAG</span><span class="tech-chip">LLMs</span></div>
       </div>
       <div class="card-glow disc">
         <span class="disc-idx">03</span>
         <h3 class="disc-title">Open source</h3>
-        <p class="disc-desc">192+ tools shipped on oriz.in. Small, free, measured in public.</p>
+        <p class="disc-desc">MCP servers, browser extensions, and the oriz.in family of free tools. Small, free, measured in public.</p>
         <div class="tag-list"><span class="tech-chip">Astro</span><span class="tech-chip">Workers</span><span class="tech-chip">TS</span></div>
       </div>
     </div>
@@ -141,23 +141,25 @@ const scrobbles  = Number(lfmUser.playcount || 0).toLocaleString()
     <div class="kicker">Shipping log</div>
     <div class="projects-grid">
       <div class="card project-card">
-        <div class="project-impact">192+</div>
+        <div class="project-impact">oriz.in</div>
         <h3 class="project-name">Oriz</h3>
         <p class="project-desc">Free-forever family of small tools, apps, and content sites. Static + edge compute.</p>
         <div class="tag-list"><span class="tech-chip">Astro</span><span class="tech-chip">Cloudflare</span></div>
         <a href="https://oriz.in" target="_blank" rel="noopener" class="project-link">oriz.in ↗</a>
       </div>
       <div class="card project-card">
-        <div class="project-impact">Multi-agent</div>
-        <h3 class="project-name">NexusAI</h3>
-        <p class="project-desc">Multi-agent RAG with orchestrated LLM pipelines across 10 providers, Kubernetes scale.</p>
-        <div class="tag-list"><span class="tech-chip">LangGraph</span><span class="tech-chip">K8s</span></div>
+        <div class="project-impact">36★</div>
+        <h3 class="project-name">Clear-Thought-MCP-Server</h3>
+        <p class="project-desc">16 structured-thinking tools as a Model Context Protocol server. Clean TypeScript SDK surface.</p>
+        <div class="tag-list"><span class="tech-chip">TypeScript</span><span class="tech-chip">MCP</span></div>
+        <a href="https://github.com/chirag127/Clear-Thought-MCP-server" target="_blank" rel="noopener" class="project-link">github ↗</a>
       </div>
       <div class="card project-card">
-        <div class="project-impact">T5 · ONNX</div>
-        <h3 class="project-name">TubeDigest</h3>
-        <p class="project-desc">YouTube summariser. Fine-tuned T5, ONNX runtime for fast inference at the edge.</p>
-        <div class="tag-list"><span class="tech-chip">T5</span><span class="tech-chip">Python</span></div>
+        <div class="project-impact">10★</div>
+        <h3 class="project-name">bookmark-mind</h3>
+        <p class="project-desc">Chrome extension auto-categorising bookmarks with a local LLM call — zero cloud round-trip.</p>
+        <div class="tag-list"><span class="tech-chip">JS</span><span class="tech-chip">Chrome Ext</span></div>
+        <a href="https://bookmark-mind.oriz.in" target="_blank" rel="noopener" class="project-link">bookmark-mind.oriz.in ↗</a>
       </div>
     </div>
   </section>
@@ -167,10 +169,10 @@ const scrobbles  = Number(lfmUser.playcount || 0).toLocaleString()
     <div class="kicker">Timebase</div>
     <div class="timeline" style="padding-left:4px;">
       <div class="timeline-line"></div>
-      <div class="timeline-item"><span class="tl-date">Jun 2025</span><span class="tl-text">Software Engineer at TCS — pricing engines, 60% latency cut</span></div>
-      <div class="timeline-item"><span class="tl-date">2025</span><span class="tl-text">AWS Certified Developer — Associate</span></div>
-      <div class="timeline-item"><span class="tl-date">2024</span><span class="tl-text">192+ open-source tools shipped on oriz.in</span></div>
-      <div class="timeline-item timeline-item--dim"><span class="tl-date">2023</span><span class="tl-text">Full-stack at QRsay — 40% API response improvement</span></div>
+      <div class="timeline-item"><span class="tl-date">Jun 2025</span><span class="tl-text">Software Engineer at TCS — SAP CPQ / Lead-to-Cash, hybrid-RAG KT search</span></div>
+      <div class="timeline-item"><span class="tl-date">2026</span><span class="tl-text">Claude Certified Associate — Foundations (Anthropic)</span></div>
+      <div class="timeline-item"><span class="tl-date">2024</span><span class="tl-text">B.Tech CSE, AKTU — College Topper, CGPA 8.81</span></div>
+      <div class="timeline-item timeline-item--dim"><span class="tl-date">2023</span><span class="tl-text">Full-stack at QRsay — Kafka order pipeline, Razorpay webhooks</span></div>
     </div>
   </section>
 
