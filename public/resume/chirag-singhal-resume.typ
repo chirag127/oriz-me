@@ -46,6 +46,8 @@ Blend of enterprise delivery and builder's range: I ship production systems, run
 Vision: build AI-native products that make powerful tools free and effortless for everyone — the way oriz.in already does at small scale.
 
 #section("Experience")
+_3+ years shipping backend, full-stack, and applied-AI systems — from enterprise SAP CPQ at TCS to a self-run family of production web tools._
+#v(4pt)
 #entry("Software Engineer", "Tata Consultancy Services", "Bhubaneswar", "Jun 2025 – Present")
 - Support SAP CPQ Lead-to-Cash across 20+ areas (Bill of Materials & Pricing, Quote Terms, Deal Reviews, Provisioning, Contracting, OBV).
 - Built a hybrid-RAG search over the onboarding knowledge base (100+ videos, 40+ decks) that cuts ticket-resolution time.
@@ -65,11 +67,8 @@ Vision: build AI-native products that make powerful tools free and effortless fo
 *Frontend:* TypeScript, React, Astro, Tailwind CSS \
 *Data & Infra:* PostgreSQL, Redis, MongoDB, Cloudflare Workers, Docker, GitHub Actions CI/CD
 
-#section("Education")
+#section("Qualification")
 #entry("B.Tech, Computer Science & Engineering", "AKTU (A.P.J. Abdul Kalam Tech. University)", "Uttar Pradesh", "2020 – 2024")
 - College Topper (Rank 1) · Senior Secondary (CBSE) — 97%.
-
-#section("Honors & Recognition")
 - *JEE Advanced 2020* — All India Rank 11870 (top 1%).
-- *Claude Certified Associate — Foundations*, Anthropic (2026).
-- 20+ Udemy Business courses (TCS) across AI/LLM, Python, and MLOps.
+- *Claude Certified Associate — Foundations*, Anthropic (2026) · 20+ Udemy Business courses (TCS: AI/LLM, Python, MLOps).
