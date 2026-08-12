@@ -1,5 +1,23 @@
 [
   {
+    "id": 94997,
+    "tmdb_id": 94997,
+    "type": "tv",
+    "title": "House of the Dragon",
+    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "rating": 8.385,
+    "votes": 6912,
+    "release": "2022-08-21",
+    "genres": [
+      10765,
+      18,
+      10759
+    ],
+    "popularity": 498.462
+  },
+  {
     "id": 51025,
     "tmdb_id": 51025,
     "type": "tv",
@@ -16,22 +34,37 @@
     "popularity": 483.1372
   },
   {
-    "id": 94997,
-    "tmdb_id": 94997,
+    "id": 67707,
+    "tmdb_id": 67707,
     "type": "tv",
-    "title": "House of the Dragon",
-    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.384,
-    "votes": 6904,
-    "release": "2022-08-21",
+    "title": "Paradise Hotel",
+    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w342/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
+    "rating": 5,
+    "votes": 4,
+    "release": "2005-01-17",
     "genres": [
-      10765,
-      18,
-      10759
+      10764
     ],
-    "popularity": 498.462
+    "popularity": 390.7688
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.031,
+    "votes": 1325,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 342.4827
   },
   {
     "id": 36109,
@@ -50,40 +83,6 @@
     "popularity": 336.0795
   },
   {
-    "id": 260609,
-    "tmdb_id": 260609,
-    "type": "tv",
-    "title": "Com si fos ahir",
-    "overview": "A group of high school friends meet again after 25 years to attend the funeral of a mutual friend, and from that point on they try to recover their friendship.",
-    "poster": "https://image.tmdb.org/t/p/w342/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2ofetIR5RQmK3oWrFrHarFDFDnC.jpg",
-    "rating": 5.5,
-    "votes": 2,
-    "release": "2017-09-11",
-    "genres": [
-      18,
-      10766
-    ],
-    "popularity": 147.8393
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.03,
-    "votes": 1320,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 342.4827
-  },
-  {
     "id": 5920,
     "tmdb_id": 5920,
     "type": "tv",
@@ -91,8 +90,8 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-    "rating": 8.373,
-    "votes": 4528,
+    "rating": 8.375,
+    "votes": 4530,
     "release": "2008-09-23",
     "genres": [
       80,
@@ -118,22 +117,6 @@
     "popularity": 272.9633
   },
   {
-    "id": 67707,
-    "tmdb_id": 67707,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-    "poster": "https://image.tmdb.org/t/p/w342/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
-    "rating": 5,
-    "votes": 4,
-    "release": "2005-01-17",
-    "genres": [
-      10764
-    ],
-    "popularity": 390.7688
-  },
-  {
     "id": 2734,
     "tmdb_id": 2734,
     "type": "tv",
@@ -142,7 +125,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
     "rating": 7.958,
-    "votes": 4310,
+    "votes": 4309,
     "release": "1999-09-20",
     "genres": [
       80,
@@ -176,7 +159,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
     "rating": 8.543,
-    "votes": 3453,
+    "votes": 3452,
     "release": "2018-10-16",
     "genres": [
       80,
@@ -186,6 +169,23 @@
     "popularity": 243.2966
   },
   {
+    "id": 291496,
+    "tmdb_id": 291496,
+    "type": "tv",
+    "title": "Our Sticky Love",
+    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+    "poster": "https://image.tmdb.org/t/p/w342/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+    "rating": 7.8,
+    "votes": 22,
+    "release": "2026-08-07",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 227.7768
+  },
+  {
     "id": 65334,
     "tmdb_id": 65334,
     "type": "tv",
@@ -193,8 +193,8 @@
     "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
     "poster": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-    "rating": 8.059,
-    "votes": 4638,
+    "rating": 8.06,
+    "votes": 4640,
     "release": "2015-10-19",
     "genres": [
       10759,
@@ -204,6 +204,22 @@
     "popularity": 224.7623
   },
   {
+    "id": 46271,
+    "tmdb_id": 46271,
+    "type": "tv",
+    "title": "Secret Story",
+    "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+    "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+    "rating": 4.5,
+    "votes": 12,
+    "release": "2007-06-23",
+    "genres": [
+      10764
+    ],
+    "popularity": 223.817
+  },
+  {
     "id": 125988,
     "tmdb_id": 125988,
     "type": "tv",
@@ -211,8 +227,8 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.187,
-    "votes": 2399,
+    "rating": 8.188,
+    "votes": 2403,
     "release": "2023-05-04",
     "genres": [
       10765,
@@ -221,21 +237,18 @@
     "popularity": 222.9294
   },
   {
-    "id": 291496,
-    "tmdb_id": 291496,
+    "id": 310518,
+    "tmdb_id": 310518,
     "type": "tv",
-    "title": "Our Sticky Love",
-    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-    "poster": "https://image.tmdb.org/t/p/w342/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-    "rating": 7.9,
-    "votes": 18,
-    "release": "2026-08-07",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 227.7768
+    "title": "Hockey Psychology",
+    "overview": "Breaking down the game within the game for the best sport on earth.",
+    "poster": "",
+    "backdrop": "",
+    "rating": 0,
+    "votes": 0,
+    "release": "2021-04-10",
+    "genres": [],
+    "popularity": 217.2421
   },
   {
     "id": 549,
@@ -245,14 +258,31 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.3,
-    "votes": 705,
+    "rating": 7.267,
+    "votes": 704,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
     "popularity": 210.1427
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8,
+    "votes": 10927,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 208.6593
   },
   {
     "id": 4614,
@@ -281,7 +311,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
     "rating": 8.314,
-    "votes": 8587,
+    "votes": 8588,
     "release": "2005-09-13",
     "genres": [
       18,
@@ -299,7 +329,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
     "rating": 8.681,
-    "votes": 11253,
+    "votes": 11254,
     "release": "2013-12-02",
     "genres": [
       16,
@@ -308,37 +338,5 @@
       10759
     ],
     "popularity": 194.8499
-  },
-  {
-    "id": 310518,
-    "tmdb_id": 310518,
-    "type": "tv",
-    "title": "Hockey Psychology",
-    "overview": "Breaking down the game within the game for the best sport on earth.",
-    "poster": "",
-    "backdrop": "",
-    "rating": 0,
-    "votes": 0,
-    "release": "2021-04-10",
-    "genres": [],
-    "popularity": 217.2421
-  },
-  {
-    "id": 124364,
-    "tmdb_id": 124364,
-    "type": "tv",
-    "title": "FROM",
-    "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-    "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-    "rating": 8.499,
-    "votes": 4131,
-    "release": "2022-02-20",
-    "genres": [
-      9648,
-      18,
-      10765
-    ],
-    "popularity": 182.722
   }
 ]
