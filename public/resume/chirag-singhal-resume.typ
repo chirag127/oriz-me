@@ -68,7 +68,7 @@ _3+ years shipping backend, full-stack, and applied-AI systems — from enterpri
 - A growing family of free, privacy-first, client-side web tools and live-data APIs; all compute runs in-browser or on Cloudflare Workers — no server needed for end users. Publishes reusable `@chirag127/*` npm packages (design-system atoms, keyless multi-provider LLM client) that power every site.
 #v(3pt)
 #proj("Clear-Thought MCP Server", "36★ · TypeScript", link("https://github.com/chirag127/Clear-Thought-MCP-server")[chirag127/Clear-Thought-MCP-server])
-- Model Context Protocol server exposing 11 structured-thinking tools (sequential thinking, mental models, decision frameworks, debugging approaches, scientific method, structured argumentation) to MCP-compatible AI clients; a lean, typed toolset built on the MCP SDK.
+- Model Context Protocol server exposing 12 structured-thinking tools (sequential & stochastic reasoning, mental models, decision frameworks, debugging approaches, scientific method, structured argumentation) to MCP-compatible AI clients; typed toolset on the MCP SDK, covered end-to-end by a 69-test Vitest suite in CI.
 #v(3pt)
 #proj("bookmark-mind", "10★ · JavaScript", link("https://github.com/chirag127/bookmark-mind-bs-ext")[chirag127/bookmark-mind-bs-ext])
 - Chrome/Firefox extension that auto-categorises bookmarks with an LLM and offers AI chat + multi-model comparison over your saved links. Bring-your-own-key over any OpenAI-compatible endpoint (Groq, OpenRouter, Gemini, Mistral, local LM Studio / Ollama) through one uniform provider adapter — keys stored client-side, plus user-added custom providers.
@@ -76,7 +76,7 @@ _3+ years shipping backend, full-stack, and applied-AI systems — from enterpri
 #proj("OmniDistribute", "TypeScript", link("https://github.com/chirag127/OmniDistribute")[chirag127/OmniDistribute])
 - Resilient, idempotent content-distribution engine that publishes a single Markdown source to 30+ platforms; adapter pattern with circuit-breaker + retry for at-least-once delivery.
 #v(3pt)
-- *Also:* Stochastic-Thinking MCP Server (probabilistic reasoning) · YouTube AI Navigator (Gemini chapter summaries) · olivia (offline Python voice assistant) · sponsorblock-ai (ML sponsor detection) — #link("https://github.com/chirag127")[github.com/chirag127]
+- *Also:* Stochastic-Thinking MCP Server (probabilistic reasoning) · YouTube AI Navigator (Gemini chapter summaries) · olivia (Python voice assistant with fully offline speech recognition via local faster-whisper) · sponsorblock-ai (ML sponsor detection) — #link("https://github.com/chirag127")[github.com/chirag127]
 
 #section("Skills")
 *Languages:* Python (advanced), TypeScript, JavaScript, SQL, Bash \
