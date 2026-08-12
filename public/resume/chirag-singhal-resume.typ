@@ -76,17 +76,26 @@ _3+ years shipping backend, full-stack, and applied-AI systems — from enterpri
 #proj("OmniDistribute", "TypeScript", link("https://github.com/chirag127/OmniDistribute")[chirag127/OmniDistribute])
 - Resilient, idempotent content-distribution engine that publishes a single Markdown source to 30+ platforms; adapter pattern with circuit-breaker + retry for at-least-once delivery.
 #v(3pt)
+#proj("agent-forge", "Python · multi-agent · evals", link("https://github.com/chirag127/agent-forge")[chirag127/agent-forge])
+- Multi-agent LLM orchestrator — planner/executor/critic architecture with a pluggable tool system (JSON-schema-validated function calling), provider failover, and an LLM-as-judge eval harness; OpenTelemetry-instrumented, 67 tests.
+#v(3pt)
+#proj("rag-lens", "Python · RAG · vector search", link("https://github.com/chirag127/rag-lens")[chirag127/rag-lens])
+- Production hybrid-RAG service: dense embeddings + BM25 → RRF fusion → cross-encoder reranking over a vector DB (LanceDB), exposed via FastAPI + Docker; retrieval eval suite reports Recall\@k / MRR / nDCG, OpenTelemetry spans throughout.
+#v(3pt)
+#proj("deploy-kit / go-vault", "Kubernetes · Terraform · Go", link("https://github.com/chirag127/deploy-kit")[deploy-kit] + link("https://github.com/chirag127/go-vault")[go-vault])
+- *deploy-kit:* reference GitOps deploy — Kustomize + Helm manifests (HPA, probes, NetworkPolicy), Terraform IaC, Argo CD, Prometheus/Grafana. *go-vault:* Go gRPC microservice (Protocol Buffers) with Postgres (pgx), Redis read-through cache + rate limiting, Prometheus metrics, graceful shutdown.
+#v(3pt)
 - *Also:* Stochastic-Thinking MCP Server (probabilistic reasoning) · YouTube AI Navigator (Gemini chapter summaries) · olivia (Python voice assistant with fully offline speech recognition via local faster-whisper) · sponsorblock-ai (ML sponsor detection) — #link("https://github.com/chirag127")[github.com/chirag127]
 
 #section("Skills")
-*Languages:* Python (advanced), TypeScript, JavaScript, SQL, Bash \
-*Backend:* Node.js, FastAPI, Flask, Express.js, REST APIs, microservices, event-driven architecture (Apache Kafka), authentication (OAuth2) \
+*Languages:* Python (advanced), TypeScript, JavaScript, Go, SQL, Bash \
+*Backend:* Node.js, FastAPI, Flask, Express.js, REST + gRPC APIs, Protocol Buffers, microservices, event-driven architecture (Apache Kafka), authentication (OAuth2) \
 *Frontend:* React, Astro, Tailwind CSS, HTML5/CSS3, PWAs, browser extensions (Chrome/Firefox) \
-*AI / LLM:* MCP (Model Context Protocol) server development, RAG pipelines (dense embeddings + BM25 + reranking), multi-provider LLM integration (Gemini, Groq, Mistral, NVIDIA NIM, Cohere), prompt engineering, web scraping (Playwright / httpx / BeautifulSoup) \
-*Databases & Storage:* PostgreSQL (Neon / Supabase), Turso (SQLite edge), Redis / Upstash, MongoDB \
-*Cloud & DevOps:* Cloudflare Workers & Pages, Firebase, Docker, GitHub Actions CI/CD, Wrangler, Linux, cron-scheduled pipelines \
+*AI / LLM:* MCP (Model Context Protocol) server development, multi-agent orchestration (planner/executor/critic, tool-calling), RAG pipelines (dense + BM25 + RRF fusion + cross-encoder reranking), vector search (LanceDB), LLM evals (Recall\@k / MRR / nDCG, LLM-as-judge), multi-provider LLM integration (Gemini, Groq, Mistral, NVIDIA NIM, Cohere), prompt engineering, web scraping (Playwright / httpx / BeautifulSoup) \
+*Databases & Storage:* PostgreSQL (Neon / Supabase / pgx), Turso (SQLite edge), Redis / Upstash, MongoDB \
+*Cloud & DevOps:* Docker, Kubernetes (Kustomize, Helm, HPA), Terraform / IaC, Argo CD / GitOps, Prometheus / Grafana, OpenTelemetry, Cloudflare Workers & Pages, Firebase, GitHub Actions CI/CD, Linux, cron-scheduled pipelines \
 *Payments & Integrations:* Razorpay (orders, webhooks, HMAC verification), Clerk auth, sops + age secrets \
-*Practices:* System design (HLD/LLD), OOP & SOLID, TDD, unit + integration testing, Agile, Git
+*Practices:* System design (HLD/LLD), distributed systems, OOP & SOLID, TDD, unit + integration testing, observability, Agile, Git
 
 #section("Qualification")
 #entry("B.Tech, Computer Science & Engineering", "AKTU (A.P.J. Abdul Kalam Tech. University)", "Uttar Pradesh", "2020 – 2024")
