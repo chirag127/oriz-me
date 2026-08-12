@@ -1,81 +1,97 @@
 # Multi-field freelance profiles — chirag127
 
 Login everywhere: **whyiswhen@gmail.com** (Google SSO) · Contact in forms: **chirag@oriz.in** · Phone: +91 74284-49707 · Location: Ghaziabad, India
-Primary resume (Software): `chirag-singhal-resume.pdf` (this folder). Use the profile below matching each gig.
+Primary resume (Software): `chirag-singhal-resume.pdf` (this folder). Pick the profile matching each gig.
 
-> **Software/AI is the MAIN profile** — lead with it. The 3 below are secondary, for "any work" reach on Fiverr/Freelancer/Truelancer/PeoplePerHour.
+> **Software/AI = MAIN profile.** The 5 below are repo/credential-backed secondaries for "any high-value work" reach.
 
 ---
 
-## 1. SOFTWARE / AI  (PRIMARY — use the main resume PDF)
-**Title:** Software Engineer — Backend, Full-Stack & Applied AI
-**Rate:** $25–50/hr (entry-competitive; raise after reviews)
-**Headline:** Backend + AI engineer — Python/TypeScript/Go, FastAPI, RAG, multi-agent LLM, Kubernetes. Ship production repos, not demos.
-**Skills:** Python, TypeScript, Go, FastAPI, Node.js, gRPC, React, Astro, PostgreSQL, Redis, Docker, Kubernetes, Terraform, RAG, vector search, LangChain, MCP, multi-agent systems, AWS, Cloudflare, CI/CD
+## 1. SOFTWARE / AI  (PRIMARY — use main resume PDF)
+**Title:** Software Engineer — Backend, Full-Stack & Applied AI · **Rate $25–50/hr**
+**Headline:** Backend + AI engineer — Python/TypeScript/Go, FastAPI, RAG, multi-agent LLM, Kubernetes. Production repos, not demos.
+**Skills:** Python, TypeScript, Go, FastAPI, Node.js, gRPC, React, Astro, PostgreSQL, Redis, Docker, Kubernetes, Terraform, RAG, vector search, LangChain, MCP, multi-agent, AWS, Cloudflare, CI/CD
 **Proof:** github.com/chirag127 · agent-forge · rag-lens · deploy-kit · go-vault · Clear-Thought MCP (36★)
 
 ---
 
-## 2. WRITING / CONTENT  (secondary)
-**Title:** Technical & Content Writer — Dev, AI, Finance
-**Rate:** $15–35/hr or $0.05–0.10/word
+## 2. PROMPT ENGINEERING / AI-WORKFLOW CONSULTING  (highest pay)
+**Title:** AI Engineer — Prompt Engineering, RAG, Agents, Automation · **Rate $50–120/hr**
 **Headline:**
 ```
-Technical writer who actually ships code. I run a 24-blog network (oriz.in) covering tech, AI, finance, health & more — SEO-structured, cited, human-voiced. I explain complex topics clearly because I build them.
+I design AI systems that work in production: prompt pipelines, RAG over your docs, and multi-step agents with tool-calling + evals. Keyless LLM options so you don't pay per token. I ship tested, documented code.
 ```
 **Summary:**
 ```
-I write developer tutorials, AI/tech explainers, product docs, and researched long-form articles. I maintain oriz.in — 24 live niche blogs — so I handle the full pipeline: research, drafting, SEO, MDX/Markdown, publishing. Strong at turning technical subjects into clear, accurate, engaging copy. Native-level English; fast turnaround.
+I build and optimize LLM systems end-to-end — prompt engineering with measurable evals, retrieval-augmented generation (dense+BM25+rerank over vector DBs), and multi-agent orchestration (planner/executor/critic, tool-calling). I've shipped a multi-agent framework and a hybrid-RAG service with retrieval metrics (Recall@k/MRR/nDCG). I can wire keyless/local providers so there's no ongoing API bill, and I instrument everything (OpenTelemetry) so you can see what the model does.
 ```
-**Skills:** Technical writing, blog writing, SEO content, developer documentation, Markdown/MDX, editing, research, AI/ML explainers, finance writing, ghostwriting
-**Proof:** tech-blog.oriz.in (+ 23 sibling blogs) · sample posts on MCP, RAG, in-demand-skills · github.com/chirag127
-**Gigs to bid:** "technical writer", "blog writer AI/SaaS", "documentation", "SEO article"
+**Skills:** Prompt engineering, RAG, vector databases (LanceDB/pgvector), LangChain, multi-agent systems, LLM evals, MCP servers, OpenAI-compatible APIs, LLM cost optimization, Python, FastAPI, OpenTelemetry
+**Proof:** agent-forge (multi-agent + evals) · rag-lens (hybrid RAG, eval metrics) · Clear-Thought MCP (36★) · oz-ai (keyless multi-provider client)
+**Gigs:** "prompt engineer", "RAG", "AI agent", "chatbot on my docs", "LLM integration", "AI automation"
 
 ---
 
-## 3. DATA ENTRY / VIRTUAL ASSISTANT / ADMIN  (secondary — high-volume)
-**Title:** Virtual Assistant — Data Entry, Web Research, Automation
-**Rate:** $8–20/hr
+## 3. FINANCIAL ANALYSIS / RESEARCH  (repo-backed)
+**Title:** Financial Analyst — Markets, Valuation, Data-Driven Research · **Rate $30–60/hr**
 **Headline:**
 ```
-Detail-oriented VA + data specialist. Fast, accurate data entry, web research, and spreadsheet work — plus I can automate the repetitive parts with Python so your task finishes faster.
+Data-driven markets analyst. I build valuation models, portfolio optimizers, and live market-signal tools — and explain the numbers plainly. I ship the analysis as working, reproducible code, not just a slide.
 ```
 **Summary:**
 ```
-I handle data entry, web scraping/research, spreadsheet cleanup, PDF-to-data extraction, CRM updates, and admin tasks. Where a task repeats, I script it (Python) so it's faster and error-free. Reliable, organized, quick to respond. Comfortable with Excel/Google Sheets, Airtable, Notion.
+I analyze equities and markets with real tooling: max-Sharpe portfolio optimization, Nifty/index valuation (PE, Buffett indicator, MMI), IPO GMP tracking, and mutual-fund screening. I turn raw market data into clear buy/hold signals and reproducible reports. Comfortable with Python (pandas/numpy), financial data APIs, and communicating findings to non-technical clients.
 ```
-**Skills:** Data entry, web research, Excel, Google Sheets, data cleaning, PDF extraction, web scraping, CRM data, Airtable, Notion, typing 60+ wpm, attention to detail
-**Proof:** Python automation repos (github.com/chirag127) — real scraping/data tools
-**Gigs to bid:** "data entry", "web research", "virtual assistant", "copy paste", "PDF to Excel", "lead list"
+**Skills:** Financial analysis, equity valuation, portfolio optimization (max-Sharpe), market research, Python (pandas/numpy), data visualization, mutual funds, technical + fundamental analysis, financial modeling (Excel)
+**Proof:** portfolio-lab.oriz.in (max-Sharpe studio) · oriz-ipo / oriz-mmi / oriz-nifty-signal (live trackers) · MF analysis tools
+**Gigs:** "financial analyst", "stock research", "portfolio analysis", "financial model", "Excel finance", "investment research"
 
 ---
 
-## 4. AUTOMATION / AI-SERVICES  (secondary — premium niche)
-**Title:** Automation & AI Solutions — Bots, Scrapers, RAG, Agents
-**Rate:** $30–75/hr (premium; you can genuinely deliver)
+## 4. DATA ANALYSIS  (repo-backed)
+**Title:** Data Analyst — Python, SQL, Dashboards, Reporting · **Rate $30–70/hr**
 **Headline:**
 ```
-I automate your busywork with AI. Custom scrapers, workflow bots, RAG document-Q&A, and AI agents — built, deployed, and documented. Free/keyless LLM options so you don't pay per token.
+I turn messy data into clear answers. Python + SQL + dashboards, with the business framing that makes the numbers actionable. Automated pipelines so reports refresh themselves.
 ```
 **Summary:**
 ```
-I build practical automation: web scrapers (Playwright/httpx), scheduled data pipelines, Telegram/ntfy alert bots, RAG systems over your documents, and multi-step AI agents with tool-calling. I ship working, tested code with a README — and can wire keyless LLM providers so there's no ongoing API bill. Real examples: a hybrid-RAG service, a multi-agent orchestrator, live-data trackers.
+I clean, analyze, and visualize data — Python (pandas), SQL, and BI dashboards — then frame it around the decision you actually need. I build automated data pipelines (scraping, scheduled refresh, git-as-DB) so the analysis stays current without manual work. Strong at exploratory analysis, metrics, and clear reporting.
 ```
-**Skills:** Python automation, web scraping (Playwright, BeautifulSoup, httpx), RAG pipelines, vector databases, LangChain, AI agents, LLM integration, Telegram bots, cron/scheduled jobs, GitHub Actions, data pipelines
-**Proof:** agent-forge (multi-agent) · rag-lens (RAG) · oriz.in live-data APIs (IPO/MMI/nifty trackers) · github.com/chirag127
-**Gigs to bid:** "automation", "web scraping", "chatbot", "RAG", "AI agent", "n8n/zapier alternative", "data pipeline"
+**Skills:** Data analysis, Python (pandas/numpy), SQL, PostgreSQL, data cleaning, data visualization, dashboards, ETL pipelines, web scraping, Excel/Google Sheets, statistics
+**Proof:** live-data APIs + trackers on oriz.in · scraping/pipeline repos (github.com/chirag127)
+**Gigs:** "data analyst", "data cleaning", "dashboard", "SQL", "data pipeline", "analyze this dataset"
 
 ---
 
-## Freelance platforms to put these on
-| Platform | Which profiles | Note |
+## 5. TUTORING — Coding, JEE/Math, English  (credential-backed)
+**Title:** Tutor — Programming, JEE/Maths, English · **Rate $15–40/hr**
+**Headline:**
+```
+JEE Advanced AIR 11870 + college topper. I teach programming (Python, web, DSA), JEE/school maths, and English by building real things — not rote. Patient, structured, results-focused.
+```
+**Summary:**
+```
+I tutor coding (Python, JavaScript, web dev, data structures), JEE/CBSE mathematics, and spoken/written English. I learn by building, so I teach that way — concrete projects and problems over memorization. JEE Advanced 2020 AIR 11870 (top 1%), B.Tech CSE college topper. Clear explanations, flexible scheduling.
+```
+**Skills:** Python tutoring, web development teaching, DSA, JEE maths, CBSE maths, English (spoken + written), exam prep, beginner-friendly explanation
+**Proof:** JEE Advanced AIR 11870 · B.Tech CSE Rank 1 · github.com/chirag127 (teaching-by-building)
+**Platforms:** Wyzant, Preply, Superprof, Fiverr
+**Gigs:** "python tutor", "coding tutor", "JEE maths", "learn to code", "English conversation"
+
+---
+
+## Platforms — where to put each
+| Platform | Profiles | Note |
 |---|---|---|
-| Upwork | all 4 (one profile + specialized profiles) | **suspended — appeal first** |
-| Fiverr | create 1 gig per field (4 gigs) | gig-based, best for VA/writing/automation |
-| Freelancer.com | Software + Automation primary | |
-| Truelancer / PeoplePerHour | all 4 | India-friendly |
+| Upwork | all (1 main + specialized profiles) | **suspended — appeal first (log in to read reason)** |
+| Fiverr | 1 gig per field (5 gigs) | best non-IT entry — gig-based |
+| Toptal / Kolabtree / Guidepoint | Finance, AI consulting | premium, harder gate |
+| Contra, Contently | AI/tech writing, consulting | |
+| Wyzant / Preply / Superprof | Tutoring | credential-backed |
+| Truelancer / PeoplePerHour / WorkIndia | all | India-friendly, any-work |
 | LinkedIn / Naukri | Software primary | already have profiles |
 
-## Honesty guardrails (keep)
-- Only claim skills you can do. Software/automation = strong + repo-backed. Writing = real (the blogs). Data-entry/VA = honest general-competence, don't oversell.
-- No fake certs, no fabricated client history. New-freelancer profiles convert on clear scope + proof links, not inflated claims.
+## Honesty guardrails
+- Every profile here is backed by a real repo or credential (agent-forge, rag-lens, portfolio-lab, JEE AIR, trackers). No fabricated client history, no fake certs.
+- New-freelancer profiles win on **clear scope + proof links**, not inflated claims. Start rates at the low end, raise after 3–5 clean reviews.
+- Dropped: generic data-entry/VA (low pay, doesn't use your strengths).
