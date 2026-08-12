@@ -41,7 +41,9 @@
 ]
 
 #section("Summary")
-Backend and applied-AI engineer who ships tools people actually use. At TCS I keep SAP's Lead-to-Cash quoting engine running and build AI systems that make the work faster; outside it I run oriz.in — a growing family of free web tools and open-source MCP servers. I want to build products at the intersection of solid backend engineering and practical AI. JEE Advanced 2020 AIR 11870 · college topper (CGPA 8.81).
+Software engineer with 3+ years across backend, full-stack, and applied AI — currently on SAP's Lead-to-Cash platform at TCS. \
+Blend of enterprise delivery and builder's range: I ship production systems, run oriz.in (a family of free web tools + open-source MCP servers), and turn AI into tools that cut real work — backed by a JEE Advanced AIR 11870 and college-topper (CGPA 8.81) track record. \
+Vision: build AI-native products that make powerful tools free and effortless for everyone — the way oriz.in already does at small scale.
 
 #section("Experience")
 #entry("Software Engineer", "Tata Consultancy Services", "Bhubaneswar", "Jun 2025 – Present")
