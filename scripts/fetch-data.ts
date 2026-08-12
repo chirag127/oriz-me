@@ -404,12 +404,17 @@ async function fetchHardcover() {
 }
 
 async function fetchGitHub() {
-  const [user, repos] = await Promise.all([
-    safeFetch(`https://api.github.com/users/${GH_USER}`),
-    safeFetch(`https://api.github.com/users/${GH_USER}/repos?sort=updated&per_page=50`),
-  ])
+  const user = await safeFetch(`https://api.github.com/users/${GH_USER}`)
+  // paginate all public repos (user has 140+, single page caps at 100)
+  const repos: any[] = []
+  for (let page = 1; page <= 5; page++) {
+    const batch = await safeFetch(`https://api.github.com/users/${GH_USER}/repos?sort=updated&per_page=100&page=${page}`)
+    if (!Array.isArray(batch) || batch.length === 0) break
+    repos.push(...batch)
+    if (batch.length < 100) break
+  }
   save('github-user.json', user ?? {})
-  save('github-repos.json', Array.isArray(repos) ? repos : [])
+  save('github-repos.json', repos)
 }
 
 async function fetchNpm() {
