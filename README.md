@@ -39,7 +39,7 @@ npm exec astro build     # build WITHOUT refreshing data (safe)
 
 ## Deploy
 
-Push to `main` → `deploy.yml` runs `astro build` + `wrangler pages deploy dist --project-name=me-chirag127` (needs `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`). The info page at [chirag127.github.io/oriz-me](https://chirag127.github.io/oriz-me/) ships from `gh-info/` via `gh-pages-info.yml`.
+Push to `main` → `deploy.yml` runs `astro build` + `wrangler pages deploy dist --project-name=oriz-me` (needs `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`). The info page at [chirag127.github.io/oriz-me](https://chirag127.github.io/oriz-me/) ships from `gh-info/` via `gh-pages-info.yml`.
 
 ## License
 
