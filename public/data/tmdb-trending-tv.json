@@ -1,5 +1,23 @@
 [
   {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.1,
+    "votes": 3014,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      18,
+      80
+    ],
+    "popularity": 323.2214
+  },
+  {
     "id": 94997,
     "tmdb_id": 94997,
     "type": "tv",
@@ -7,32 +25,15 @@
     "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
     "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.385,
-    "votes": 6915,
+    "rating": 8.384,
+    "votes": 6931,
     "release": "2022-08-21",
     "genres": [
       10765,
       18,
       10759
     ],
-    "popularity": 469.4002
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-    "rating": 8.348,
-    "votes": 2518,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 138.5577
+    "popularity": 452.94
   },
   {
     "id": 125988,
@@ -42,137 +43,49 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.188,
-    "votes": 2405,
+    "rating": 8.19,
+    "votes": 2408,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 215.7666
+    "popularity": 207.6542
   },
   {
-    "id": 291496,
-    "tmdb_id": 291496,
+    "id": 97546,
+    "tmdb_id": 97546,
     "type": "tv",
-    "title": "Our Sticky Love",
-    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-    "poster": "https://image.tmdb.org/t/p/w342/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-    "rating": 7.804,
-    "votes": 23,
-    "release": "2026-08-07",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+    "rating": 8.349,
+    "votes": 2528,
+    "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 247.1807
+    "popularity": 158.1465
   },
   {
-    "id": 283297,
-    "tmdb_id": 283297,
+    "id": 138502,
+    "tmdb_id": 138502,
     "type": "tv",
-    "title": "Sterling Point",
-    "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-    "poster": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-    "rating": 7.7,
-    "votes": 33,
-    "release": "2026-08-05",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 95.194
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.031,
-    "votes": 1326,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 327.7482
-  },
-  {
-    "id": 615,
-    "tmdb_id": 615,
-    "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.365,
-    "votes": 3840,
-    "release": "1999-03-28",
+    "title": "X-Men '97",
+    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+    "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+    "rating": 8.7,
+    "votes": 834,
+    "release": "2024-03-20",
     "genres": [
       16,
-      35,
+      10759,
       10765
     ],
-    "popularity": 102.0925
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.369,
-    "votes": 2213,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 108.16
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.077,
-    "votes": 3008,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      18,
-      80
-    ],
-    "popularity": 189.0347
-  },
-  {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.8,
-    "votes": 5475,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 48.9752
+    "popularity": 103.1422
   },
   {
     "id": 289324,
@@ -190,41 +103,114 @@
       10765,
       10759
     ],
-    "popularity": 61.8079
+    "popularity": 52.9302
   },
   {
-    "id": 298168,
-    "tmdb_id": 298168,
+    "id": 65942,
+    "tmdb_id": 65942,
     "type": "tv",
-    "title": "The Shards",
-    "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-    "poster": "https://image.tmdb.org/t/p/w342/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-    "rating": 8.1,
-    "votes": 17,
-    "release": "2026-08-05",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "rating": 8,
+    "votes": 739,
+    "release": "2016-04-04",
     "genres": [
+      16,
       18,
-      9648
-    ],
-    "popularity": 83.3684
-  },
-  {
-    "id": 207333,
-    "tmdb_id": 207333,
-    "type": "tv",
-    "title": "One Hundred Years of Solitude",
-    "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-    "poster": "https://image.tmdb.org/t/p/w342/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-    "rating": 7.961,
-    "votes": 231,
-    "release": "2024-12-11",
-    "genres": [
-      18,
+      9648,
+      10759,
       10765
     ],
-    "popularity": 65.8403
+    "popularity": 91.7863
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.037,
+    "votes": 1330,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 321.7403
+  },
+  {
+    "id": 615,
+    "tmdb_id": 615,
+    "type": "tv",
+    "title": "Futurama",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "rating": 8.366,
+    "votes": 3842,
+    "release": "1999-03-28",
+    "genres": [
+      16,
+      35,
+      10765
+    ],
+    "popularity": 103.0322
+  },
+  {
+    "id": 215072,
+    "tmdb_id": 215072,
+    "type": "tv",
+    "title": "A Shop for Killers",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "poster": "https://image.tmdb.org/t/p/w342/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "rating": 8.4,
+    "votes": 209,
+    "release": "2024-01-17",
+    "genres": [
+      18,
+      10759,
+      9648
+    ],
+    "popularity": 106.0397
+  },
+  {
+    "id": 283297,
+    "tmdb_id": 283297,
+    "type": "tv",
+    "title": "Sterling Point",
+    "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+    "poster": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+    "rating": 7.822,
+    "votes": 45,
+    "release": "2026-08-05",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 88.7356
+  },
+  {
+    "id": 291496,
+    "tmdb_id": 291496,
+    "type": "tv",
+    "title": "Our Sticky Love",
+    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+    "poster": "https://image.tmdb.org/t/p/w342/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+    "rating": 8.304,
+    "votes": 28,
+    "release": "2026-08-07",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 232.7394
   },
   {
     "id": 278624,
@@ -234,14 +220,67 @@
     "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
     "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-    "rating": 7.362,
-    "votes": 130,
+    "rating": 7.36,
+    "votes": 132,
     "release": "2026-07-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 97.873
+    "popularity": 81.6113
+  },
+  {
+    "id": 298168,
+    "tmdb_id": 298168,
+    "type": "tv",
+    "title": "The Shards",
+    "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+    "poster": "https://image.tmdb.org/t/p/w342/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+    "rating": 8.105,
+    "votes": 19,
+    "release": "2026-08-05",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 73.9209
+  },
+  {
+    "id": 37854,
+    "tmdb_id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.752,
+    "votes": 5474,
+    "release": "1999-10-20",
+    "genres": [
+      10759,
+      35,
+      16
+    ],
+    "popularity": 50.37
+  },
+  {
+    "id": 30984,
+    "tmdb_id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.4,
+    "votes": 2213,
+    "release": "2004-10-05",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 100.9905
   },
   {
     "id": 271016,
@@ -258,40 +297,7 @@
       18,
       10759
     ],
-    "popularity": 42.5289
-  },
-  {
-    "id": 203744,
-    "tmdb_id": 203744,
-    "type": "tv",
-    "title": "Sugar",
-    "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-    "poster": "https://image.tmdb.org/t/p/w342/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-    "rating": 7.175,
-    "votes": 351,
-    "release": "2024-04-04",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 76.1871
-  },
-  {
-    "id": 199001,
-    "tmdb_id": 199001,
-    "type": "tv",
-    "title": "My Life with the Walter Boys",
-    "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-    "poster": "https://image.tmdb.org/t/p/w342/s2rHXmMk3TPLrRZE46YH9Ml97p8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-    "rating": 7.8,
-    "votes": 401,
-    "release": "2023-12-07",
-    "genres": [
-      18
-    ],
-    "popularity": 99.3574
+    "popularity": 46.6039
   },
   {
     "id": 300480,
@@ -301,49 +307,49 @@
     "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
     "poster": "https://image.tmdb.org/t/p/w342/4L3vMxNA7btwDAk33nDV3fB9clP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-    "rating": 7.2,
-    "votes": 20,
+    "rating": 7.261,
+    "votes": 23,
     "release": "2026-08-07",
     "genres": [
       16,
       35
     ],
-    "popularity": 47.9082
+    "popularity": 45.783
   },
   {
-    "id": 138502,
-    "tmdb_id": 138502,
+    "id": 207333,
+    "tmdb_id": 207333,
     "type": "tv",
-    "title": "X-Men '97",
-    "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-    "poster": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-    "rating": 8.687,
-    "votes": 832,
-    "release": "2024-03-20",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 88.8624
-  },
-  {
-    "id": 215072,
-    "tmdb_id": 215072,
-    "type": "tv",
-    "title": "A Shop for Killers",
-    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-    "poster": "https://image.tmdb.org/t/p/w342/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-    "rating": 8.397,
-    "votes": 208,
-    "release": "2024-01-17",
+    "title": "One Hundred Years of Solitude",
+    "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+    "poster": "https://image.tmdb.org/t/p/w342/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+    "rating": 7.961,
+    "votes": 231,
+    "release": "2024-12-11",
     "genres": [
       18,
-      10759,
-      9648
+      10765
     ],
-    "popularity": 82.671
+    "popularity": 58.6606
+  },
+  {
+    "id": 60625,
+    "tmdb_id": 60625,
+    "type": "tv",
+    "title": "Rick and Morty",
+    "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+    "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+    "rating": 8.681,
+    "votes": 11264,
+    "release": "2013-12-02",
+    "genres": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "popularity": 161.8178
   }
 ]
