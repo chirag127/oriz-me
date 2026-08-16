@@ -1,6 +1,42 @@
 [
   {
     "artist": {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "#text": "Troye Sivan"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1ca145aba5daa3b2a90c5c645e2f3346.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1ca145aba5daa3b2a90c5c645e2f3346.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1ca145aba5daa3b2a90c5c645e2f3346.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1ca145aba5daa3b2a90c5c645e2f3346.png"
+      }
+    ],
+    "mbid": "3a271d0f-3d2e-4b2d-b96e-02b6093ea4a1",
+    "album": {
+      "mbid": "292b1501-8b30-4026-81a4-215975885f1d",
+      "#text": "Bloom"
+    },
+    "name": "Seventeen",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Seventeen",
+    "date": {
+      "uts": "1786786998",
+      "#text": "15 Aug 2026, 09:43"
+    }
+  },
+  {
+    "artist": {
       "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
       "#text": "Ed Sheeran"
     },
@@ -3561,42 +3597,6 @@
     "date": {
       "uts": "1784661801",
       "#text": "21 Jul 2026, 19:23"
-    }
-  },
-  {
-    "artist": {
-      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-      "#text": "Ed Sheeran"
-    },
-    "streamable": "0",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4a4c806130770644830fbe53c92f3dd5.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4a4c806130770644830fbe53c92f3dd5.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4a4c806130770644830fbe53c92f3dd5.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4a4c806130770644830fbe53c92f3dd5.jpg"
-      }
-    ],
-    "mbid": "",
-    "album": {
-      "mbid": "",
-      "#text": "Beautiful People"
-    },
-    "name": "Beautiful People (feat. Khalid)",
-    "url": "https://www.last.fm/music/Ed+Sheeran/_/Beautiful+People+(feat.+Khalid)",
-    "date": {
-      "uts": "1784661603",
-      "#text": "21 Jul 2026, 19:20"
     }
   }
 ]

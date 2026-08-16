@@ -1,5 +1,40 @@
 [
   {
+    "inserted_at": 1786795696,
+    "listened_at": 1786786998,
+    "recording_msid": "1aead2d2-d2b0-4e1a-b119-bda8825233d3",
+    "track_metadata": {
+      "additional_info": {
+        "lastfm_artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+        "lastfm_release_mbid": "292b1501-8b30-4026-81a4-215975885f1d",
+        "lastfm_track_mbid": "3a271d0f-3d2e-4b2d-b96e-02b6093ea4a1",
+        "recording_msid": "1aead2d2-d2b0-4e1a-b119-bda8825233d3",
+        "submission_client": "ListenBrainz lastfm importer v2"
+      },
+      "artist_name": "Troye Sivan",
+      "mbid_mapping": {
+        "artist_mbids": [
+          "e5712ceb-c37a-4c49-a11c-ccf4e21852d4"
+        ],
+        "artists": [
+          {
+            "artist_credit_name": "Troye Sivan",
+            "artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+            "join_phrase": ""
+          }
+        ],
+        "caa_id": 20981221972,
+        "caa_release_mbid": "292b1501-8b30-4026-81a4-215975885f1d",
+        "recording_mbid": "3a271d0f-3d2e-4b2d-b96e-02b6093ea4a1",
+        "recording_name": "Seventeen",
+        "release_mbid": "f81817b0-0b07-4c9b-b3b4-9f754cd77da3"
+      },
+      "release_name": "Bloom",
+      "track_name": "Seventeen"
+    },
+    "user_name": "chirag127"
+  },
+  {
     "inserted_at": 1786199413,
     "listened_at": 1786194621,
     "recording_msid": "1e320236-aacc-4432-8f70-772c39aeee6b",
@@ -3697,23 +3732,6 @@
       },
       "artist_name": "Ponytail commands explained (light",
       "track_name": "full/ultra/review/audit/debt)"
-    },
-    "user_name": "chirag127"
-  },
-  {
-    "inserted_at": 1785076335,
-    "listened_at": 1785076304,
-    "recording_msid": "e6506670-2097-4f56-9394-c44f16a86aef",
-    "track_metadata": {
-      "additional_info": {
-        "music_service_name": "YouTube",
-        "origin_url": "https://youtu.be/n4qwKQ-zlgE",
-        "recording_msid": "e6506670-2097-4f56-9394-c44f16a86aef",
-        "submission_client": "Web Scrobbler",
-        "submission_client_version": "3.22.0"
-      },
-      "artist_name": "Brandon Melville",
-      "track_name": "Does this need to exist? (YAGNI principle)"
     },
     "user_name": "chirag127"
   }
