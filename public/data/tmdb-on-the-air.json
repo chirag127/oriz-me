@@ -7,15 +7,32 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.083,
-    "votes": 3050,
+    "rating": 8.082,
+    "votes": 3068,
     "release": "2022-02-03",
     "genres": [
       10759,
       18,
       80
     ],
-    "popularity": 466.9903
+    "popularity": 591.3122
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.062,
+    "votes": 1358,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 342.4596
   },
   {
     "id": 37528,
@@ -31,7 +48,24 @@
     "genres": [
       10764
     ],
-    "popularity": 298.7537
+    "popularity": 278.0376
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "rating": 8.19,
+    "votes": 2436,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 247.608
   },
   {
     "id": 46271,
@@ -47,41 +81,7 @@
     "genres": [
       10764
     ],
-    "popularity": 261.5994
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.051,
-    "votes": 1344,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 260.218
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.2,
-    "votes": 2425,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 239.9094
+    "popularity": 213.2883
   },
   {
     "id": 22980,
@@ -98,7 +98,40 @@
       10767,
       35
     ],
-    "popularity": 221.1495
+    "popularity": 217.5843
+  },
+  {
+    "id": 59941,
+    "tmdb_id": 59941,
+    "type": "tv",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "rating": 5.8,
+    "votes": 382,
+    "release": "2014-02-17",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 249.8218
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 111,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 133.5632
   },
   {
     "id": 97546,
@@ -107,15 +140,15 @@
     "title": "Ted Lasso",
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-    "rating": 8.353,
-    "votes": 2539,
+    "backdrop": "https://image.tmdb.org/t/p/w780/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+    "rating": 8.354,
+    "votes": 2545,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 147.6465
+    "popularity": 153.3509
   },
   {
     "id": 94664,
@@ -125,65 +158,15 @@
     "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.4,
-    "votes": 1659,
+    "rating": 8.447,
+    "votes": 1661,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 119.8859
-  },
-  {
-    "id": 14610,
-    "tmdb_id": 14610,
-    "type": "tv",
-    "title": "Secret Lives",
-    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-    "rating": 4.217,
-    "votes": 23,
-    "release": "1999-01-25",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 115.8334
-  },
-  {
-    "id": 91555,
-    "tmdb_id": 91555,
-    "type": "tv",
-    "title": "All Elite Wrestling: Dynamite",
-    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-    "poster": "https://image.tmdb.org/t/p/w342/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-    "rating": 8,
-    "votes": 86,
-    "release": "2019-10-02",
-    "genres": [
-      10759,
-      18
-    ],
-    "popularity": 112.6961
-  },
-  {
-    "id": 16807,
-    "tmdb_id": 16807,
-    "type": "tv",
-    "title": "Jornal Nacional",
-    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/meWAnliwwbNAwzgE8aVJpZlHWux.jpg",
-    "rating": 7,
-    "votes": 7,
-    "release": "1969-09-01",
-    "genres": [
-      10763
-    ],
-    "popularity": 110.6021
+    "popularity": 134.0743
   },
   {
     "id": 2661,
@@ -201,44 +184,7 @@
       10765,
       18
     ],
-    "popularity": 109.053
-  },
-  {
-    "id": 13945,
-    "tmdb_id": 13945,
-    "type": "tv",
-    "title": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "rating": 5.49,
-    "votes": 49,
-    "release": "1992-05-11",
-    "genres": [
-      18,
-      10766
-    ],
-    "popularity": 108.445
-  },
-  {
-    "id": 45140,
-    "tmdb_id": 45140,
-    "type": "tv",
-    "title": "Teen Titans Go!",
-    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "rating": 6.435,
-    "votes": 720,
-    "release": "2013-04-23",
-    "genres": [
-      16,
-      10759,
-      35,
-      10751,
-      10765
-    ],
-    "popularity": 106.5016
+    "popularity": 133.7484
   },
   {
     "id": 4656,
@@ -254,40 +200,24 @@
     "genres": [
       10764
     ],
-    "popularity": 104.1046
+    "popularity": 122.6408
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 91555,
+    "tmdb_id": 91555,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 111,
-    "release": "2005-10-13",
+    "title": "All Elite Wrestling: Dynamite",
+    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+    "poster": "https://image.tmdb.org/t/p/w342/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+    "rating": 8,
+    "votes": 86,
+    "release": "2019-10-02",
     "genres": [
-      10766
+      10759,
+      18
     ],
-    "popularity": 101.3871
-  },
-  {
-    "id": 278624,
-    "tmdb_id": 278624,
-    "type": "tv",
-    "title": "Lucky",
-    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
-    "rating": 7.345,
-    "votes": 139,
-    "release": "2026-07-14",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 100.4263
+    "popularity": 148.0476
   },
   {
     "id": 615,
@@ -298,47 +228,120 @@
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.364,
-    "votes": 3848,
+    "votes": 3850,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 97.9058
+    "popularity": 104.6516
   },
   {
-    "id": 72879,
-    "tmdb_id": 72879,
+    "id": 45140,
+    "tmdb_id": 45140,
     "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
-    "rating": 6.366,
-    "votes": 71,
-    "release": "2017-07-17",
+    "title": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "rating": 6.4,
+    "votes": 720,
+    "release": "2013-04-23",
     "genres": [
-      80,
+      16,
+      10759,
+      35,
+      10751,
+      10765
+    ],
+    "popularity": 122.9627
+  },
+  {
+    "id": 30984,
+    "tmdb_id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.4,
+    "votes": 2217,
+    "release": "2004-10-05",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 114.4718
+  },
+  {
+    "id": 278624,
+    "tmdb_id": 278624,
+    "type": "tv",
+    "title": "Lucky",
+    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
+    "rating": 7.324,
+    "votes": 142,
+    "release": "2026-07-14",
+    "genres": [
       18,
-      10766
+      80
     ],
-    "popularity": 97.8093
+    "popularity": 102.8206
   },
   {
-    "id": 291,
-    "tmdb_id": 291,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eYvhRHD06mNUJAfAMyRVwtxIWQx.jpg",
+    "rating": 7.053,
+    "votes": 19,
+    "release": "2026-08-16",
     "genres": [
-      10766
+      18,
+      9648,
+      10765
     ],
-    "popularity": 95.1091
+    "popularity": 98.5361
+  },
+  {
+    "id": 57532,
+    "tmdb_id": 57532,
+    "type": "tv",
+    "title": "PAW Patrol",
+    "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+    "poster": "https://image.tmdb.org/t/p/w342/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+    "rating": 6.988,
+    "votes": 816,
+    "release": "2013-08-12",
+    "genres": [
+      16,
+      10762
+    ],
+    "popularity": 101.2484
+  },
+  {
+    "id": 14610,
+    "tmdb_id": 14610,
+    "type": "tv",
+    "title": "Secret Lives",
+    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+    "rating": 4.217,
+    "votes": 23,
+    "release": "1999-01-25",
+    "genres": [
+      10766,
+      18
+    ],
+    "popularity": 91.1392
   }
 ]
