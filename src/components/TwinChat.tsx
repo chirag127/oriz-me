@@ -59,7 +59,7 @@ async function callG4F(messages: Message[]): Promise<string> {
   if (g4f) {
     try {
       const result = await g4f.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'auto',
         messages: [{ role: 'system', content: SYSTEM_PROMPT }, ...messages],
       });
       return result?.choices?.[0]?.message?.content ?? 'No response.';
@@ -80,7 +80,7 @@ async function callG4F(messages: Message[]): Promise<string> {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          model: 'gpt-4o-mini',
+          model: 'auto',
           messages: [{ role: 'system', content: SYSTEM_PROMPT }, ...messages],
         }),
         signal: AbortSignal.timeout(20000),
