@@ -7,8 +7,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.251,
-    "votes": 864,
+    "rating": 9.225,
+    "votes": 907,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       12,
       14
     ],
-    "popularity": 135.4752
+    "popularity": 105.1595
   },
   {
     "id": 1632181,
@@ -26,14 +26,14 @@
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
-    "rating": 8.903,
-    "votes": 352,
+    "rating": 8.888,
+    "votes": 356,
     "release": "2026-03-12",
     "genres": [
       35,
       10749
     ],
-    "popularity": 24.5345
+    "popularity": 24.9852
   },
   {
     "id": 1007757,
@@ -44,7 +44,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
     "rating": 8.88,
-    "votes": 2104,
+    "votes": 2112,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -52,24 +52,7 @@
       10751,
       14
     ],
-    "popularity": 51.7385
-  },
-  {
-    "id": 278,
-    "tmdb_id": 278,
-    "type": "movie",
-    "title": "The Shawshank Redemption",
-    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
-    "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
-    "rating": 8.727,
-    "votes": 31045,
-    "release": "1994-09-23",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 75.9207
+    "popularity": 49.9344
   },
   {
     "id": 1311031,
@@ -79,15 +62,32 @@
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.719,
-    "votes": 1847,
+    "rating": 8.73,
+    "votes": 1897,
     "release": "2025-07-18",
     "genres": [
       16,
       28,
       14
     ],
-    "popularity": 106.576
+    "popularity": 92.3438
+  },
+  {
+    "id": 278,
+    "tmdb_id": 278,
+    "type": "movie",
+    "title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "rating": 8.728,
+    "votes": 31085,
+    "release": "1994-09-23",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 87.6812
   },
   {
     "id": 238,
@@ -97,14 +97,14 @@
     "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
-    "rating": 8.686,
-    "votes": 23353,
+    "rating": 8.685,
+    "votes": 23378,
     "release": "1972-03-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 60.5067
+    "popularity": 58.7501
   },
   {
     "id": 936075,
@@ -112,16 +112,16 @@
     "type": "movie",
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-    "rating": 8.676,
-    "votes": 4039,
+    "rating": 8.674,
+    "votes": 4081,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 70.3095
+    "popularity": 78.3949
   },
   {
     "id": 687163,
@@ -131,14 +131,14 @@
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.653,
-    "votes": 7090,
+    "rating": 8.651,
+    "votes": 7180,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 133.7139
+    "popularity": 125.0677
   },
   {
     "id": 240,
@@ -149,13 +149,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
     "rating": 8.572,
-    "votes": 14182,
+    "votes": 14198,
     "release": "1974-12-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 31.8388
+    "popularity": 31.8998
   },
   {
     "id": 424,
@@ -165,15 +165,31 @@
     "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-    "rating": 8.6,
-    "votes": 17743,
+    "rating": 8.57,
+    "votes": 17764,
     "release": "1993-12-15",
     "genres": [
       18,
       36,
       10752
     ],
-    "popularity": 33.6388
+    "popularity": 35.3747
+  },
+  {
+    "id": 389,
+    "tmdb_id": 389,
+    "type": "movie",
+    "title": "12 Angry Men",
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "poster": "https://image.tmdb.org/t/p/w342/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+    "rating": 8.569,
+    "votes": 10253,
+    "release": "1957-04-10",
+    "genres": [
+      18
+    ],
+    "popularity": 26.9569
   },
   {
     "id": 1232449,
@@ -190,41 +206,7 @@
       18,
       10749
     ],
-    "popularity": 18.0108
-  },
-  {
-    "id": 389,
-    "tmdb_id": 389,
-    "type": "movie",
-    "title": "12 Angry Men",
-    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
-    "poster": "https://image.tmdb.org/t/p/w342/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-    "rating": 8.568,
-    "votes": 10237,
-    "release": "1957-04-10",
-    "genres": [
-      18
-    ],
-    "popularity": 26.3376
-  },
-  {
-    "id": 155,
-    "tmdb_id": 155,
-    "type": "movie",
-    "title": "The Dark Knight",
-    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
-    "rating": 8.534,
-    "votes": 36400,
-    "release": "2008-07-16",
-    "genres": [
-      28,
-      80,
-      53
-    ],
-    "popularity": 61.9973
+    "popularity": 15.9497
   },
   {
     "id": 129,
@@ -235,14 +217,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
     "rating": 8.534,
-    "votes": 18698,
+    "votes": 18729,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 32.9125
+    "popularity": 34.5587
+  },
+  {
+    "id": 155,
+    "tmdb_id": 155,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "rating": 8.534,
+    "votes": 36444,
+    "release": "2008-07-16",
+    "genres": [
+      28,
+      80,
+      53
+    ],
+    "popularity": 61.6543
   },
   {
     "id": 1218925,
@@ -250,10 +250,10 @@
     "type": "movie",
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-    "poster": "https://image.tmdb.org/t/p/w342/crBfxNvvsQV3rATX12EuX4W9ECo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "rating": 8.523,
-    "votes": 1117,
+    "rating": 8.5,
+    "votes": 1128,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -261,7 +261,7 @@
       10749,
       14
     ],
-    "popularity": 33.8972
+    "popularity": 30.679
   },
   {
     "id": 497,
@@ -272,14 +272,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
     "rating": 8.506,
-    "votes": 19619,
+    "votes": 19641,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 34.1317
+    "popularity": 32.0676
   },
   {
     "id": 19404,
@@ -289,15 +289,15 @@
     "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
     "poster": "https://image.tmdb.org/t/p/w342/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/84beTJf26mfhoasUlKSOiNSutyS.jpg",
-    "rating": 8.505,
-    "votes": 4613,
+    "rating": 8.5,
+    "votes": 4614,
     "release": "1995-10-20",
     "genres": [
       35,
       18,
       10749
     ],
-    "popularity": 14.6211
+    "popularity": 14.1902
   },
   {
     "id": 122,
@@ -308,14 +308,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
     "rating": 8.504,
-    "votes": 27094,
+    "votes": 27125,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 50.3234
+    "popularity": 48.7188
   },
   {
     "id": 496243,
@@ -326,31 +326,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vbC0rzdrb7Ohc2TkbEbxtOABECe.jpg",
     "rating": 8.49,
-    "votes": 21094,
+    "votes": 21123,
     "release": "2019-05-30",
     "genres": [
       35,
       53,
       18
     ],
-    "popularity": 38.0186
+    "popularity": 36.869
   },
   {
-    "id": 157336,
-    "tmdb_id": 157336,
+    "id": 372058,
+    "tmdb_id": 372058,
     "type": "movie",
-    "title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "poster": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
-    "rating": 8.5,
-    "votes": 40768,
-    "release": "2014-11-05",
+    "title": "Your Name.",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "poster": "https://image.tmdb.org/t/p/w342/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+    "rating": 8.484,
+    "votes": 12882,
+    "release": "2016-07-01",
     "genres": [
-      12,
-      18,
-      878
+      16,
+      10749,
+      18
     ],
-    "popularity": 67.8699
+    "popularity": 29.6334
   }
 ]
