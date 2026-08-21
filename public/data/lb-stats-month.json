@@ -1,1 +1,262 @@
-{}
+{
+  "artists": [
+    {
+      "artist_mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "artist_name": "Troye Sivan",
+      "listen_count": 189
+    },
+    {
+      "artist_mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+      "artist_name": "Lauv",
+      "listen_count": 139
+    },
+    {
+      "artist_mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+      "artist_name": "Justin Bieber",
+      "listen_count": 68
+    },
+    {
+      "artist_mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "artist_name": "Shawn Mendes",
+      "listen_count": 57
+    },
+    {
+      "artist_mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "artist_name": "Charlie Puth",
+      "listen_count": 32
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Kevin Stratvert",
+      "listen_count": 29
+    },
+    {
+      "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "artist_name": "Taylor Swift",
+      "listen_count": 21
+    },
+    {
+      "artist_mbid": "fb0c1ce1-a31b-4d30-aa68-0101213526c2",
+      "artist_name": "Omar Rudberg",
+      "listen_count": 20
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "MinuteEarth",
+      "listen_count": 17
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Fireship",
+      "listen_count": 17
+    },
+    {
+      "artist_mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+      "artist_name": "Harry Styles",
+      "listen_count": 16
+    },
+    {
+      "artist_mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "artist_name": "Ed Sheeran",
+      "listen_count": 15
+    },
+    {
+      "artist_mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+      "artist_name": "LANY",
+      "listen_count": 14
+    },
+    {
+      "artist_mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "artist_name": "Bruno Mars",
+      "listen_count": 14
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "AI Stack Engineer",
+      "listen_count": 14
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Young Royals",
+      "listen_count": 13
+    },
+    {
+      "artist_mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+      "artist_name": "One Direction",
+      "listen_count": 13
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Troye Sivan",
+      "listen_count": 12
+    },
+    {
+      "artist_mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+      "artist_name": "Ruel",
+      "listen_count": 12
+    },
+    {
+      "artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "artist_name": "Ariana Grande",
+      "listen_count": 12
+    },
+    {
+      "artist_mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+      "artist_name": "Maroon 5",
+      "listen_count": 11
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Justin Bieber",
+      "listen_count": 11
+    },
+    {
+      "artist_mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+      "artist_name": "Quavo",
+      "listen_count": 10
+    },
+    {
+      "artist_mbid": "33cf3954-10af-4dcb-985f-9420d1fa4168",
+      "artist_name": "Dan + Shay",
+      "listen_count": 10
+    },
+    {
+      "artist_mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "artist_name": "BTS",
+      "listen_count": 10
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "StudyIQ IAS",
+      "listen_count": 9
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Shawn Mendes",
+      "listen_count": 9
+    },
+    {
+      "artist_mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+      "artist_name": "Marshmello",
+      "listen_count": 9
+    },
+    {
+      "artist_mbid": "6e019bc6-5c23-4935-94f0-4a896631d846",
+      "artist_name": "Jonas Brothers",
+      "listen_count": 9
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "America Banned Nvidia Chips to Stop China's AI",
+      "listen_count": 9
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Maximilian Schwarzmüller",
+      "listen_count": 8
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Matt Pocock",
+      "listen_count": 8
+    },
+    {
+      "artist_mbid": "5a6131f9-f8db-4722-b4d7-6a0c7183c590",
+      "artist_name": "benny blanco",
+      "listen_count": 7
+    },
+    {
+      "artist_mbid": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+      "artist_name": "Selena Gomez",
+      "listen_count": 7
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "I Wanna Be Someone Who's Loved (from the Netflix Series",
+      "listen_count": 7
+    },
+    {
+      "artist_mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+      "artist_name": "Cardi B",
+      "listen_count": 7
+    },
+    {
+      "artist_mbid": "e3d5b5ec-101a-4529-9f2d-01dca64cf44e",
+      "artist_name": "Anne‐Marie",
+      "listen_count": 7
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "What Jantar Mantar looks like after protests, clean",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "War Of Words Between Rahul Gandhi vs Amit Shah , PM Modi Reaction In Lok Sabha",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "The Myth of Modi's Invincibility Was Just Broken",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "OmniRoute + OpenCode",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "News Buzz",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Minimax M3 + Open Design",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Mehul Mohan",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": "3e1f2ee4-16be-4406-bf18-6173840cf2b1",
+      "artist_name": "Martin Garrix",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+      "artist_name": "Khalid",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+      "artist_name": "Jeremy Zucker",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Graphify vs GitNexus vs CodeGraph",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": null,
+      "artist_name": "Graphify + Obsidian is INSANE",
+      "listen_count": 6
+    },
+    {
+      "artist_mbid": "ad322b8b-31b2-437d-8fd8-1af13c1d7b91",
+      "artist_name": "GIVĒON",
+      "listen_count": 6
+    }
+  ],
+  "count": 50,
+  "from_ts": 1782864000,
+  "last_updated": 1787198876,
+  "offset": 0,
+  "range": "month",
+  "to_ts": 1785542400,
+  "total_artist_count": 407,
+  "user_id": "chirag127"
+}

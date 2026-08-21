@@ -1,23 +1,5 @@
 [
   {
-    "id": 969681,
-    "tmdb_id": 969681,
-    "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-    "rating": 7.884,
-    "votes": 1944,
-    "release": "2026-07-29",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 1875.3748
-  },
-  {
     "id": 1084244,
     "tmdb_id": 1084244,
     "type": "movie",
@@ -25,8 +7,8 @@
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-    "rating": 7.935,
-    "votes": 1166,
+    "rating": 7.986,
+    "votes": 1226,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -34,7 +16,25 @@
       35,
       12
     ],
-    "popularity": 404.7642
+    "popularity": 373.2636
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "rating": 7.887,
+    "votes": 1984,
+    "release": "2026-07-29",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 1819.537
   },
   {
     "id": 1368337,
@@ -44,15 +44,32 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-    "rating": 8,
-    "votes": 2969,
+    "rating": 7.989,
+    "votes": 3004,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 728.3957
+    "popularity": 684.2902
+  },
+  {
+    "id": 1288445,
+    "tmdb_id": 1288445,
+    "type": "movie",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
+    "rating": 7,
+    "votes": 41,
+    "release": "2026-08-19",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 229.9234
   },
   {
     "id": 1315772,
@@ -62,8 +79,8 @@
     "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
     "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "rating": 7.497,
-    "votes": 756,
+    "rating": 7.496,
+    "votes": 770,
     "release": "2026-06-24",
     "genres": [
       12,
@@ -72,60 +89,7 @@
       10751,
       14
     ],
-    "popularity": 264.2694
-  },
-  {
-    "id": 1101383,
-    "tmdb_id": 1101383,
-    "type": "movie",
-    "title": "The End of Oak Street",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 6.482,
-    "votes": 256,
-    "release": "2026-08-12",
-    "genres": [
-      878,
-      9648,
-      53
-    ],
-    "popularity": 202.1509
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-    "rating": 7.8,
-    "votes": 16,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 84.6787
-  },
-  {
-    "id": 1284041,
-    "tmdb_id": 1284041,
-    "type": "movie",
-    "title": "The Last House",
-    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-    "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-    "rating": 6.912,
-    "votes": 895,
-    "release": "2026-08-06",
-    "genres": [
-      27,
-      878,
-      53
-    ],
-    "popularity": 218.8879
+    "popularity": 251.4252
   },
   {
     "id": 1339713,
@@ -135,14 +99,32 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.228,
-    "votes": 4846,
+    "rating": 8.227,
+    "votes": 4872,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 232.9651
+    "popularity": 235.136
+  },
+  {
+    "id": 1101383,
+    "tmdb_id": 1101383,
+    "type": "movie",
+    "title": "The End of Oak Street",
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "rating": 6.478,
+    "votes": 275,
+    "release": "2026-08-12",
+    "genres": [
+      878,
+      9648,
+      53
+    ],
+    "popularity": 183.4236
   },
   {
     "id": 1003596,
@@ -160,7 +142,97 @@
       28,
       12
     ],
-    "popularity": 129.3192
+    "popularity": 121.9952
+  },
+  {
+    "id": 950028,
+    "tmdb_id": 950028,
+    "type": "movie",
+    "title": "The Invite",
+    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "poster": "https://image.tmdb.org/t/p/w342/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+    "rating": 7.382,
+    "votes": 283,
+    "release": "2026-06-25",
+    "genres": [
+      35,
+      18,
+      10749
+    ],
+    "popularity": 80.8835
+  },
+  {
+    "id": 1291595,
+    "tmdb_id": 1291595,
+    "type": "movie",
+    "title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "rating": 6.536,
+    "votes": 14,
+    "release": "2026-08-19",
+    "genres": [
+      27,
+      53
+    ],
+    "popularity": 59.0625
+  },
+  {
+    "id": 1083381,
+    "tmdb_id": 1083381,
+    "type": "movie",
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "rating": 7.1,
+    "votes": 2864,
+    "release": "2026-05-27",
+    "genres": [
+      27,
+      9648,
+      878
+    ],
+    "popularity": 129.2423
+  },
+  {
+    "id": 1493400,
+    "tmdb_id": 1493400,
+    "type": "movie",
+    "title": "Camp Rock 3",
+    "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+    "poster": "https://image.tmdb.org/t/p/w342/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+    "rating": 6.366,
+    "votes": 71,
+    "release": "2026-08-13",
+    "genres": [
+      10402,
+      35,
+      18,
+      10770,
+      10749
+    ],
+    "popularity": 74.1587
+  },
+  {
+    "id": 1275779,
+    "tmdb_id": 1275779,
+    "type": "movie",
+    "title": "Disclosure Day",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+    "rating": 7.458,
+    "votes": 2918,
+    "release": "2026-06-10",
+    "genres": [
+      878,
+      53
+    ],
+    "popularity": 160.9101
   },
   {
     "id": 1504358,
@@ -171,120 +243,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
     "rating": 7,
-    "votes": 37,
+    "votes": 41,
     "release": "2026-08-13",
     "genres": [
       35,
       10402,
       18
     ],
-    "popularity": 66.2915
+    "popularity": 57.0413
   },
   {
-    "id": 950028,
-    "tmdb_id": 950028,
+    "id": 1284041,
+    "tmdb_id": 1284041,
     "type": "movie",
-    "title": "The Invite",
-    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-    "poster": "https://image.tmdb.org/t/p/w342/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-    "rating": 7.371,
-    "votes": 275,
-    "release": "2026-06-25",
+    "title": "The Last House",
+    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+    "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+    "rating": 6.912,
+    "votes": 912,
+    "release": "2026-08-06",
     "genres": [
-      35,
-      18,
-      10749
-    ],
-    "popularity": 91.2691
-  },
-  {
-    "id": 1275779,
-    "tmdb_id": 1275779,
-    "type": "movie",
-    "title": "Disclosure Day",
-    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-    "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-    "rating": 7.459,
-    "votes": 2903,
-    "release": "2026-06-10",
-    "genres": [
+      27,
       878,
       53
     ],
-    "popularity": 167.6166
-  },
-  {
-    "id": 1493400,
-    "tmdb_id": 1493400,
-    "type": "movie",
-    "title": "Camp Rock 3",
-    "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-    "poster": "https://image.tmdb.org/t/p/w342/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
-    "rating": 6.368,
-    "votes": 68,
-    "release": "2026-08-13",
-    "genres": [
-      10402,
-      35,
-      18,
-      10770
-    ],
-    "popularity": 81.6613
-  },
-  {
-    "id": 1083381,
-    "tmdb_id": 1083381,
-    "type": "movie",
-    "title": "Backrooms",
-    "overview": "A strange doorway appears in the basement of a furniture showroom.",
-    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.094,
-    "votes": 2854,
-    "release": "2026-05-27",
-    "genres": [
-      27,
-      9648,
-      878
-    ],
-    "popularity": 131.004
-  },
-  {
-    "id": 1291595,
-    "tmdb_id": 1291595,
-    "type": "movie",
-    "title": "Insidious: Out of the Further",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-    "rating": 5.8,
-    "votes": 7,
-    "release": "2026-08-19",
-    "genres": [
-      27,
-      53
-    ],
-    "popularity": 46.5651
-  },
-  {
-    "id": 687163,
-    "tmdb_id": 687163,
-    "type": "movie",
-    "title": "Project Hail Mary",
-    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-    "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.651,
-    "votes": 7181,
-    "release": "2026-03-15",
-    "genres": [
-      878,
-      12
-    ],
-    "popularity": 125.0677
+    "popularity": 196.9512
   },
   {
     "id": 1081003,
@@ -294,15 +278,48 @@
     "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
     "poster": "https://image.tmdb.org/t/p/w342/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-    "rating": 6.747,
-    "votes": 1947,
+    "rating": 6.749,
+    "votes": 1963,
     "release": "2026-06-24",
     "genres": [
       28,
       12,
       878
     ],
-    "popularity": 131.9168
+    "popularity": 125.9382
+  },
+  {
+    "id": 687163,
+    "tmdb_id": 687163,
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "rating": 8.652,
+    "votes": 7205,
+    "release": "2026-03-15",
+    "genres": [
+      878,
+      12
+    ],
+    "popularity": 121.372
+  },
+  {
+    "id": 1212763,
+    "tmdb_id": 1212763,
+    "type": "movie",
+    "title": "Evil Dead Burn",
+    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "rating": 7.873,
+    "votes": 1189,
+    "release": "2026-07-07",
+    "genres": [
+      27
+    ],
+    "popularity": 149.3819
   },
   {
     "id": 1280738,
@@ -312,49 +329,31 @@
     "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
     "poster": "https://image.tmdb.org/t/p/w342/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-    "rating": 8.103,
-    "votes": 567,
+    "rating": 8.1,
+    "votes": 573,
     "release": "2026-06-10",
     "genres": [
       28,
       80,
       53
     ],
-    "popularity": 86.4293
+    "popularity": 80.1077
   },
   {
-    "id": 1391021,
-    "tmdb_id": 1391021,
+    "id": 1418582,
+    "tmdb_id": 1418582,
     "type": "movie",
-    "title": "Once Upon a Time in the Middle East",
-    "overview": "Xu Fu travels to the Middle East to work as a chef in a Chinese restaurant to pay off family debts, where he meets floor manager Ma Junsheng. Their Dragon Restaurant rises to fame, attracting crowds with authentic‑tasting Chinese food. But war breaks out, and local conditions take a drastic turn for the worse. No one can remain unaffected. What lies ahead for them? And how will the Dragon Restaurant hold on amid the war?",
-    "poster": "https://image.tmdb.org/t/p/w342/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-    "rating": 9.235,
-    "votes": 17,
-    "release": "2026-08-08",
+    "title": "Here the Whole Time",
+    "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
+    "poster": "https://image.tmdb.org/t/p/w342/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg",
+    "rating": 6.9,
+    "votes": 12,
+    "release": "2026-06-18",
     "genres": [
-      18,
-      10752
+      35,
+      10749
     ],
-    "popularity": 45.5777
-  },
-  {
-    "id": 1308767,
-    "tmdb_id": 1308767,
-    "type": "movie",
-    "title": "Young Washington",
-    "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-    "poster": "https://image.tmdb.org/t/p/w342/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-    "rating": 7.785,
-    "votes": 86,
-    "release": "2026-07-02",
-    "genres": [
-      36,
-      10752,
-      18
-    ],
-    "popularity": 36.1376
+    "popularity": 42.9911
   }
 ]
