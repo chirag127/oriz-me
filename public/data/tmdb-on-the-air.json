@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.1,
-    "votes": 3094,
+    "rating": 8.087,
+    "votes": 3103,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 637.7978
+    "popularity": 659.7644
   },
   {
     "id": 113962,
@@ -25,13 +25,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
     "rating": 8.074,
-    "votes": 1378,
+    "votes": 1384,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 359.4068
+    "popularity": 336.7935
   },
   {
     "id": 95350,
@@ -41,32 +41,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.1,
-    "votes": 115,
+    "rating": 8.122,
+    "votes": 127,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 272.8087
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.19,
-    "votes": 2463,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 237.1217
+    "popularity": 271.8148
   },
   {
     "id": 456,
@@ -77,30 +60,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.021,
-    "votes": 10944,
+    "votes": 10945,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 210.1961
+    "popularity": 245.1967
   },
   {
-    "id": 59941,
-    "tmdb_id": 59941,
+    "id": 125988,
+    "tmdb_id": 125988,
     "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-    "rating": 5.8,
-    "votes": 385,
-    "release": "2014-02-17",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "rating": 8.2,
+    "votes": 2469,
+    "release": "2023-05-04",
     "genres": [
-      35,
-      10767
+      10765,
+      18
     ],
-    "popularity": 204.8759
+    "popularity": 232.4461
   },
   {
     "id": 37528,
@@ -116,23 +99,7 @@
     "genres": [
       10764
     ],
-    "popularity": 201.2475
-  },
-  {
-    "id": 46271,
-    "tmdb_id": 46271,
-    "type": "tv",
-    "title": "Secret Story",
-    "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-    "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-    "rating": 4.423,
-    "votes": 13,
-    "release": "2007-06-23",
-    "genres": [
-      10764
-    ],
-    "popularity": 185.5163
+    "popularity": 221.185
   },
   {
     "id": 97546,
@@ -142,49 +109,30 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.4,
-    "votes": 2568,
+    "rating": 8.36,
+    "votes": 2571,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 168.7456
+    "popularity": 179.4465
   },
   {
-    "id": 91555,
-    "tmdb_id": 91555,
+    "id": 16807,
+    "tmdb_id": 16807,
     "type": "tv",
-    "title": "All Elite Wrestling: Dynamite",
-    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-    "poster": "https://image.tmdb.org/t/p/w342/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-    "rating": 8,
-    "votes": 86,
-    "release": "2019-10-02",
+    "title": "Jornal Nacional",
+    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+    "rating": 7,
+    "votes": 7,
+    "release": "1969-09-01",
     "genres": [
-      10759,
-      18
+      10763
     ],
-    "popularity": 165.9789
-  },
-  {
-    "id": 615,
-    "tmdb_id": 615,
-    "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.363,
-    "votes": 3860,
-    "release": "1999-03-28",
-    "genres": [
-      16,
-      35,
-      10765
-    ],
-    "popularity": 139.8838
+    "popularity": 167.1473
   },
   {
     "id": 206559,
@@ -194,51 +142,13 @@
     "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 111,
+    "rating": 5.518,
+    "votes": 112,
     "release": "2005-10-13",
     "genres": [
       10766
     ],
-    "popularity": 130.8663
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.408,
-    "votes": 1677,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 130.6299
-  },
-  {
-    "id": 45140,
-    "tmdb_id": 45140,
-    "type": "tv",
-    "title": "Teen Titans Go!",
-    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "rating": 6.438,
-    "votes": 720,
-    "release": "2013-04-23",
-    "genres": [
-      16,
-      10759,
-      35,
-      10751,
-      10765
-    ],
-    "popularity": 127.9826
+    "popularity": 166.2488
   },
   {
     "id": 2661,
@@ -256,7 +166,158 @@
       10765,
       18
     ],
-    "popularity": 124.1507
+    "popularity": 161.179
+  },
+  {
+    "id": 13945,
+    "tmdb_id": 13945,
+    "type": "tv",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+    "rating": 5.49,
+    "votes": 49,
+    "release": "1992-05-11",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 160.8076
+  },
+  {
+    "id": 14610,
+    "tmdb_id": 14610,
+    "type": "tv",
+    "title": "Secret Lives",
+    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+    "rating": 4.217,
+    "votes": 23,
+    "release": "1999-01-25",
+    "genres": [
+      10766,
+      18
+    ],
+    "popularity": 147.9241
+  },
+  {
+    "id": 291856,
+    "tmdb_id": 291856,
+    "type": "tv",
+    "title": "Forging Justice",
+    "overview": "In the early years of China's reform and opening-up, five law school graduates—Chen Yizhong, Yu Gaoyuan, Lu Zeming, Xia Yingjie, and Zhang Lihui—embarked on diverse careers within the judicial system.",
+    "poster": "https://image.tmdb.org/t/p/w342/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/elfvJ7Quc5ffx1SK59UFEa5dRkQ.jpg",
+    "rating": 8,
+    "votes": 3,
+    "release": "2026-08-10",
+    "genres": [
+      18
+    ],
+    "popularity": 138.4612
+  },
+  {
+    "id": 615,
+    "tmdb_id": 615,
+    "type": "tv",
+    "title": "Futurama",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "rating": 8.363,
+    "votes": 3862,
+    "release": "1999-03-28",
+    "genres": [
+      16,
+      35,
+      10765
+    ],
+    "popularity": 133.3792
+  },
+  {
+    "id": 82873,
+    "tmdb_id": 82873,
+    "type": "tv",
+    "title": "The Kelly Clarkson Show",
+    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+    "rating": 6.306,
+    "votes": 72,
+    "release": "2019-09-09",
+    "genres": [
+      10767
+    ],
+    "popularity": 131.5468
+  },
+  {
+    "id": 91555,
+    "tmdb_id": 91555,
+    "type": "tv",
+    "title": "All Elite Wrestling: Dynamite",
+    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+    "poster": "https://image.tmdb.org/t/p/w342/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+    "rating": 8,
+    "votes": 86,
+    "release": "2019-10-02",
+    "genres": [
+      10759,
+      18
+    ],
+    "popularity": 129.7916
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.409,
+    "votes": 1679,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 128.7099
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
+    "rating": 6.801,
+    "votes": 369,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 126.4013
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.373,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 123.2906
   },
   {
     "id": 30984,
@@ -274,73 +335,6 @@
       16,
       10765
     ],
-    "popularity": 124.0551
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-    "rating": 6.8,
-    "votes": 368,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 111.1408
-  },
-  {
-    "id": 82873,
-    "tmdb_id": 82873,
-    "type": "tv",
-    "title": "The Kelly Clarkson Show",
-    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-    "rating": 6.306,
-    "votes": 72,
-    "release": "2019-09-09",
-    "genres": [
-      10767
-    ],
-    "popularity": 102.195
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 99.0174
-  },
-  {
-    "id": 30983,
-    "tmdb_id": 30983,
-    "type": "tv",
-    "title": "Detective Conan",
-    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-    "poster": "https://image.tmdb.org/t/p/w342/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "rating": 8,
-    "votes": 780,
-    "release": "1996-01-08",
-    "genres": [
-      16,
-      80,
-      9648,
-      35
-    ],
-    "popularity": 97.9622
+    "popularity": 118.9692
   }
 ]
