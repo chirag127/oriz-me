@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.087,
-    "votes": 3103,
+    "rating": 8.088,
+    "votes": 3108,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 659.7644
+    "popularity": 647.4904
   },
   {
     "id": 113962,
@@ -24,14 +24,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.074,
-    "votes": 1384,
+    "rating": 8.08,
+    "votes": 1389,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 336.7935
+    "popularity": 329.6932
   },
   {
     "id": 95350,
@@ -41,32 +41,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.122,
-    "votes": 127,
+    "rating": 8.2,
+    "votes": 136,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 271.8148
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.021,
-    "votes": 10945,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 245.1967
+    "popularity": 281.2723
   },
   {
     "id": 125988,
@@ -76,14 +59,14 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.2,
-    "votes": 2469,
+    "rating": 8.19,
+    "votes": 2478,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 232.4461
+    "popularity": 279.2478
   },
   {
     "id": 37528,
@@ -99,7 +82,24 @@
     "genres": [
       10764
     ],
-    "popularity": 221.185
+    "popularity": 249.8905
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8,
+    "votes": 10947,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 241.9749
   },
   {
     "id": 97546,
@@ -109,46 +109,14 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.36,
-    "votes": 2571,
+    "rating": 8.363,
+    "votes": 2578,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 179.4465
-  },
-  {
-    "id": 16807,
-    "tmdb_id": 16807,
-    "type": "tv",
-    "title": "Jornal Nacional",
-    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
-    "rating": 7,
-    "votes": 7,
-    "release": "1969-09-01",
-    "genres": [
-      10763
-    ],
-    "popularity": 167.1473
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.518,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 166.2488
+    "popularity": 164.7698
   },
   {
     "id": 2661,
@@ -166,57 +134,7 @@
       10765,
       18
     ],
-    "popularity": 161.179
-  },
-  {
-    "id": 13945,
-    "tmdb_id": 13945,
-    "type": "tv",
-    "title": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "rating": 5.49,
-    "votes": 49,
-    "release": "1992-05-11",
-    "genres": [
-      18,
-      10766
-    ],
-    "popularity": 160.8076
-  },
-  {
-    "id": 14610,
-    "tmdb_id": 14610,
-    "type": "tv",
-    "title": "Secret Lives",
-    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-    "rating": 4.217,
-    "votes": 23,
-    "release": "1999-01-25",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 147.9241
-  },
-  {
-    "id": 291856,
-    "tmdb_id": 291856,
-    "type": "tv",
-    "title": "Forging Justice",
-    "overview": "In the early years of China's reform and opening-up, five law school graduates—Chen Yizhong, Yu Gaoyuan, Lu Zeming, Xia Yingjie, and Zhang Lihui—embarked on diverse careers within the judicial system.",
-    "poster": "https://image.tmdb.org/t/p/w342/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/elfvJ7Quc5ffx1SK59UFEa5dRkQ.jpg",
-    "rating": 8,
-    "votes": 3,
-    "release": "2026-08-10",
-    "genres": [
-      18
-    ],
-    "popularity": 138.4612
+    "popularity": 145.0426
   },
   {
     "id": 615,
@@ -226,7 +144,7 @@
     "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.363,
+    "rating": 8.364,
     "votes": 3862,
     "release": "1999-03-28",
     "genres": [
@@ -234,23 +152,41 @@
       35,
       10765
     ],
-    "popularity": 133.3792
+    "popularity": 134.5357
   },
   {
-    "id": 82873,
-    "tmdb_id": 82873,
+    "id": 94664,
+    "tmdb_id": 94664,
     "type": "tv",
-    "title": "The Kelly Clarkson Show",
-    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-    "rating": 6.306,
-    "votes": 72,
-    "release": "2019-09-09",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.4,
+    "votes": 1680,
+    "release": "2021-01-11",
     "genres": [
-      10767
+      10759,
+      16,
+      10765
     ],
-    "popularity": 131.5468
+    "popularity": 129.4865
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 123.3531
   },
   {
     "id": 91555,
@@ -267,25 +203,40 @@
       10759,
       18
     ],
-    "popularity": 129.7916
+    "popularity": 120.3641
   },
   {
-    "id": 94664,
-    "tmdb_id": 94664,
+    "id": 82873,
+    "tmdb_id": 82873,
     "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.409,
-    "votes": 1679,
-    "release": "2021-01-11",
+    "title": "The Kelly Clarkson Show",
+    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+    "rating": 6.3,
+    "votes": 72,
+    "release": "2019-09-09",
     "genres": [
-      10759,
-      16,
-      10765
+      10767
     ],
-    "popularity": 128.7099
+    "popularity": 119.0195
+  },
+  {
+    "id": 206484,
+    "tmdb_id": 206484,
+    "type": "tv",
+    "title": "Jade Dynasty",
+    "overview": "Zhang Xiaofan, who turned into an orphan overnight, becomes a disciple of the Qingyun Sect. After five years of training, he performs well in the Seven Peak Martial Arts Competition. He's sent to the Kongsang Mountain to defeat the evil. During the journey, he and his senior, Lu Xueqi, met with an accident, and got to know and save the lady of the cult, Bi Yao. At the same time, new danger is ahead of him.",
+    "poster": "https://image.tmdb.org/t/p/w342/oOy0PskfCQyWwsQVdHyM2PoN9H4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5fq2lbecTwvpitm7WHfQGa0VGXh.jpg",
+    "rating": 8.1,
+    "votes": 22,
+    "release": "2022-08-02",
+    "genres": [
+      16,
+      10759
+    ],
+    "popularity": 111.503
   },
   {
     "id": 4656,
@@ -301,23 +252,27 @@
     "genres": [
       10764
     ],
-    "popularity": 126.4013
+    "popularity": 111.0253
   },
   {
-    "id": 291,
-    "tmdb_id": 291,
+    "id": 45140,
+    "tmdb_id": 45140,
     "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
+    "title": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "rating": 6.4,
+    "votes": 721,
+    "release": "2013-04-23",
     "genres": [
-      10766
+      16,
+      10759,
+      35,
+      10751,
+      10765
     ],
-    "popularity": 123.2906
+    "popularity": 110.6982
   },
   {
     "id": 30984,
@@ -327,14 +282,64 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.364,
-    "votes": 2225,
+    "rating": 8.4,
+    "votes": 2227,
     "release": "2004-10-05",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 118.9692
+    "popularity": 109.6755
+  },
+  {
+    "id": 13945,
+    "tmdb_id": 13945,
+    "type": "tv",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+    "rating": 5.5,
+    "votes": 49,
+    "release": "1992-05-11",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 107.4416
+  },
+  {
+    "id": 14610,
+    "tmdb_id": 14610,
+    "type": "tv",
+    "title": "Secret Lives",
+    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+    "rating": 4.2,
+    "votes": 23,
+    "release": "1999-01-25",
+    "genres": [
+      10766,
+      18
+    ],
+    "popularity": 100.1348
+  },
+  {
+    "id": 16807,
+    "tmdb_id": 16807,
+    "type": "tv",
+    "title": "Jornal Nacional",
+    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+    "rating": 7,
+    "votes": 7,
+    "release": "1969-09-01",
+    "genres": [
+      10763
+    ],
+    "popularity": 99.7945
   }
 ]
