@@ -39,6 +39,12 @@
   )
 ]
 
+#let proj(name, meta, link) = [
+  #grid(columns: (1fr, auto), align: (left, right), column-gutter: 10pt,
+    [*#name* #text(size:9pt, fill:rgb("#555"))[· #meta]], [#text(size:9pt, fill:accent)[#link]]
+  )
+]
+
 #section("Professional Summary")
 SAP CPQ Technical Consultant with 2+ years of hands-on experience on SAP's Lead-to-Cash (CPQ) platform at Tata Consultancy Services, supporting 20+ functional areas including Bill of Materials & Pricing, Opportunity Management, Quote Info & Terms, Deal Reviews & Approvals, Provisioning, Contracting, OBV, and Public Cloud Order Management. Deep expertise in SAP CPQ configuration, product modeling, pricing rules, quote management, and the end-to-end Quote-to-Cash process. Built a hybrid-RAG search system over the CPQ onboarding knowledge base (100+ videos, 40+ decks) to accelerate ticket resolution. Proficient in Python, JavaScript/TypeScript, SQL, and React for CPQ automation, testing, and dashboard development. Seeking to leverage SAP CPQ technical skills at Deloitte's Customer team to deliver enterprise configure-price-quote solutions.
 
@@ -101,9 +107,3 @@ SAP CPQ Technical Consultant with 2+ years of hands-on experience on SAP's Lead-
 - Production hybrid-RAG service: dense embeddings + BM25 → RRF fusion → cross-encoder reranking over LanceDB, exposed via FastAPI + Docker.
 #v(3pt)
 - *Also:* bookmark-mind (LLM bookmark organiser) · OmniDistribute (content distribution engine) · agent-forge (multi-agent orchestrator) — #link("https://github.com/chirag127")[github.com/chirag127]
-
-#let proj(name, meta, link) = [
-  #grid(columns: (1fr, auto), align: (left, right), column-gutter: 10pt,
-    [*#name* #text(size:9pt, fill:rgb("#555"))[· #meta]], [#text(size:9pt, fill:accent)[#link]]
-  )
-]
