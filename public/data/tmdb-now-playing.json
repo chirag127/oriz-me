@@ -5,10 +5,10 @@
     "type": "movie",
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
     "rating": 7.9,
-    "votes": 2057,
+    "votes": 2090,
     "release": "2026-07-29",
     "genres": [
       878,
@@ -25,15 +25,32 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "rating": 7.993,
-    "votes": 3076,
+    "rating": 7.998,
+    "votes": 3109,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 661.9219
+    "popularity": 655.2789
+  },
+  {
+    "id": 1288445,
+    "tmdb_id": 1288445,
+    "type": "movie",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+    "rating": 6.641,
+    "votes": 117,
+    "release": "2026-08-19",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 444.6252
   },
   {
     "id": 1084244,
@@ -43,8 +60,8 @@
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-    "rating": 8.082,
-    "votes": 1399,
+    "rating": 8.142,
+    "votes": 1473,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -62,32 +79,15 @@
     "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
     "poster": "https://image.tmdb.org/t/p/w342/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-    "rating": 4.3,
-    "votes": 20,
+    "rating": 4.964,
+    "votes": 28,
     "release": "2026-08-06",
     "genres": [
       28,
       878,
       53
     ],
-    "popularity": 366.1535
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-    "rating": 6.73,
-    "votes": 100,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 356.4024
+    "popularity": 368.9232
   },
   {
     "id": 1375646,
@@ -98,14 +98,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
     "rating": 8.1,
-    "votes": 577,
+    "votes": 582,
     "release": "2026-05-21",
     "genres": [
       28,
       27,
       878
     ],
-    "popularity": 287.5725
+    "popularity": 254.1711
   },
   {
     "id": 1339713,
@@ -115,33 +115,14 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.225,
-    "votes": 4932,
+    "rating": 8.224,
+    "votes": 4972,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 236.7035
-  },
-  {
-    "id": 1108427,
-    "tmdb_id": 1108427,
-    "type": "movie",
-    "title": "Moana",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 6.109,
-    "votes": 220,
-    "release": "2026-07-08",
-    "genres": [
-      10751,
-      14,
-      35,
-      12
-    ],
-    "popularity": 214.9725
+    "popularity": 253.0483
   },
   {
     "id": 1315772,
@@ -151,8 +132,8 @@
     "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
     "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "rating": 7.502,
-    "votes": 797,
+    "rating": 7.499,
+    "votes": 811,
     "release": "2026-06-24",
     "genres": [
       12,
@@ -164,22 +145,23 @@
     "popularity": 230.1696
   },
   {
-    "id": 1284041,
-    "tmdb_id": 1284041,
+    "id": 1108427,
+    "tmdb_id": 1108427,
     "type": "movie",
-    "title": "The Last House",
-    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-    "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-    "rating": 6.881,
-    "votes": 968,
-    "release": "2026-08-06",
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "rating": 6.113,
+    "votes": 221,
+    "release": "2026-07-08",
     "genres": [
-      27,
-      878,
-      53
+      10751,
+      14,
+      35,
+      12
     ],
-    "popularity": 180.446
+    "popularity": 225.3442
   },
   {
     "id": 1284465,
@@ -189,15 +171,33 @@
     "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
     "poster": "https://image.tmdb.org/t/p/w342/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-    "rating": 6.301,
-    "votes": 241,
+    "rating": 6.288,
+    "votes": 243,
     "release": "2026-06-18",
     "genres": [
       12,
       18,
       28
     ],
-    "popularity": 179.0883
+    "popularity": 170.5184
+  },
+  {
+    "id": 1284041,
+    "tmdb_id": 1284041,
+    "type": "movie",
+    "title": "The Last House",
+    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+    "poster": "https://image.tmdb.org/t/p/w342/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+    "rating": 6.889,
+    "votes": 989,
+    "release": "2026-08-06",
+    "genres": [
+      27,
+      878,
+      53
+    ],
+    "popularity": 165.5877
   },
   {
     "id": 1101383,
@@ -207,31 +207,15 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 6.394,
-    "votes": 306,
+    "rating": 6.39,
+    "votes": 317,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 170.315
-  },
-  {
-    "id": 1212763,
-    "tmdb_id": 1212763,
-    "type": "movie",
-    "title": "Evil Dead Burn",
-    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-    "poster": "https://image.tmdb.org/t/p/w342/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-    "rating": 7.85,
-    "votes": 1226,
-    "release": "2026-07-07",
-    "genres": [
-      27
-    ],
-    "popularity": 142.7107
+    "popularity": 149.1961
   },
   {
     "id": 1083381,
@@ -241,8 +225,8 @@
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.095,
-    "votes": 2902,
+    "rating": 7.098,
+    "votes": 2923,
     "release": "2026-05-27",
     "genres": [
       27,
@@ -252,22 +236,20 @@
     "popularity": 142.1531
   },
   {
-    "id": 1307118,
-    "tmdb_id": 1307118,
+    "id": 1212763,
+    "tmdb_id": 1212763,
     "type": "movie",
-    "title": "Soulm8te",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-    "poster": "https://image.tmdb.org/t/p/w342/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "rating": 7.274,
-    "votes": 237,
-    "release": "2026-07-31",
+    "title": "Evil Dead Burn",
+    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "rating": 7.843,
+    "votes": 1241,
+    "release": "2026-07-07",
     "genres": [
-      27,
-      878,
-      53
+      27
     ],
-    "popularity": 105.6059
+    "popularity": 140.1342
   },
   {
     "id": 1523145,
@@ -283,25 +265,25 @@
     "genres": [
       10749
     ],
-    "popularity": 105.3681
+    "popularity": 106.3118
   },
   {
-    "id": 1612018,
-    "tmdb_id": 1612018,
+    "id": 1307118,
+    "tmdb_id": 1307118,
     "type": "movie",
-    "title": "Jackass: Best and Last",
-    "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-    "poster": "https://image.tmdb.org/t/p/w342/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
-    "rating": 7.546,
-    "votes": 174,
-    "release": "2026-06-25",
+    "title": "Soulm8te",
+    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+    "poster": "https://image.tmdb.org/t/p/w342/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "rating": 7.278,
+    "votes": 241,
+    "release": "2026-07-31",
     "genres": [
-      28,
-      35,
-      99
+      27,
+      878,
+      53
     ],
-    "popularity": 99.1245
+    "popularity": 105.6059
   },
   {
     "id": 980431,
@@ -311,8 +293,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.197,
-    "votes": 944,
+    "rating": 9.2,
+    "votes": 954,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -321,6 +303,24 @@
       14
     ],
     "popularity": 101.4849
+  },
+  {
+    "id": 1612018,
+    "tmdb_id": 1612018,
+    "type": "movie",
+    "title": "Jackass: Best and Last",
+    "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "poster": "https://image.tmdb.org/t/p/w342/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+    "rating": 7.563,
+    "votes": 176,
+    "release": "2026-06-25",
+    "genres": [
+      28,
+      35,
+      99
+    ],
+    "popularity": 98.6102
   },
   {
     "id": 1594914,
@@ -337,23 +337,23 @@
       28,
       10752
     ],
-    "popularity": 93.8424
+    "popularity": 94.2689
   },
   {
-    "id": 1481343,
-    "tmdb_id": 1481343,
+    "id": 1291595,
+    "tmdb_id": 1291595,
     "type": "movie",
-    "title": "The Devil's Mouth",
-    "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
-    "rating": 6.58,
-    "votes": 681,
-    "release": "2026-07-29",
+    "title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "rating": 6.631,
+    "votes": 42,
+    "release": "2026-08-19",
     "genres": [
       27,
       53
     ],
-    "popularity": 91.6571
+    "popularity": 90.9065
   }
 ]

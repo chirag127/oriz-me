@@ -6,7 +6,7 @@
     },
     "dependents": "1",
     "updated": "2026-08-18T06:26:35.942Z",
-    "searchScore": 33.49714,
+    "searchScore": 32.74823,
     "package": {
       "name": "@chirag127/keyless-ovh",
       "keywords": [
@@ -44,7 +44,7 @@
       }
     },
     "score": {
-      "final": 33.49714,
+      "final": 32.74823,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -62,7 +62,7 @@
     },
     "dependents": "1",
     "updated": "2026-08-18T06:26:35.814Z",
-    "searchScore": 32.561543,
+    "searchScore": 32.26704,
     "package": {
       "name": "@chirag127/keyless-pollinations",
       "keywords": [
@@ -99,7 +99,7 @@
       }
     },
     "score": {
-      "final": 32.561543,
+      "final": 32.26704,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -117,7 +117,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T10:01:01.171Z",
-    "searchScore": 31.984262,
+    "searchScore": 31.35312,
     "package": {
       "name": "@chirag127/oz-ai",
       "keywords": [
@@ -156,7 +156,7 @@
       }
     },
     "score": {
-      "final": 31.984262,
+      "final": 31.35312,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -174,7 +174,7 @@
     },
     "dependents": "1",
     "updated": "2026-08-18T06:21:08.080Z",
-    "searchScore": 31.35662,
+    "searchScore": 30.737865,
     "package": {
       "name": "@chirag127/keyless-kilo",
       "keywords": [
@@ -212,7 +212,7 @@
       }
     },
     "score": {
-      "final": 31.35662,
+      "final": 30.737865,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -230,7 +230,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-18T06:21:37.442Z",
-    "searchScore": 29.578468,
+    "searchScore": 29.286484,
     "package": {
       "name": "@chirag127/keyless-opencode-zen",
       "keywords": [
@@ -268,7 +268,7 @@
       }
     },
     "score": {
-      "final": 29.578468,
+      "final": 29.286484,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -286,7 +286,7 @@
     },
     "dependents": "0",
     "updated": "2026-08-18T06:21:37.529Z",
-    "searchScore": 27.153946,
+    "searchScore": 26.885895,
     "package": {
       "name": "@chirag127/keyless-ai",
       "keywords": [
@@ -324,7 +324,7 @@
       }
     },
     "score": {
-      "final": 27.153946,
+      "final": 26.885895,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -342,7 +342,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-21T13:11:12.574Z",
-    "searchScore": 26.983824,
+    "searchScore": 26.629354,
     "package": {
       "name": "@chirag127/oz-tokens-base",
       "keywords": [
@@ -377,7 +377,7 @@
       }
     },
     "score": {
-      "final": 26.983824,
+      "final": 26.629354,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -395,7 +395,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T10:16:18.192Z",
-    "searchScore": 26.68964,
+    "searchScore": 26.092926,
     "package": {
       "name": "@chirag127/astro-chrome",
       "keywords": [
@@ -425,7 +425,7 @@
       }
     },
     "score": {
-      "final": 26.68964,
+      "final": 26.092926,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -443,7 +443,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-21T13:11:10.547Z",
-    "searchScore": 24.524082,
+    "searchScore": 24.056145,
     "package": {
       "name": "@chirag127/oz-chrome",
       "keywords": [
@@ -477,7 +477,7 @@
       }
     },
     "score": {
-      "final": 24.524082,
+      "final": 24.056145,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -495,7 +495,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-19T05:46:09.692Z",
-    "searchScore": 24.22244,
+    "searchScore": 23.744463,
     "package": {
       "name": "@chirag127/astro-shell",
       "keywords": [
@@ -525,7 +525,7 @@
       }
     },
     "score": {
-      "final": 24.22244,
+      "final": 23.744463,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -538,12 +538,12 @@
   },
   {
     "downloads": {
-      "monthly": 118,
-      "weekly": 48
+      "monthly": 115,
+      "weekly": 9
     },
     "dependents": 0,
-    "updated": "2026-08-16T17:46:10.329Z",
-    "searchScore": 23.812775,
+    "updated": "2026-08-23T17:51:13.494Z",
+    "searchScore": 23.354647,
     "package": {
       "name": "@chirag127/astro-data",
       "keywords": [
@@ -573,7 +573,7 @@
       }
     },
     "score": {
-      "final": 23.812775,
+      "final": 23.354647,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -591,7 +591,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-19T07:41:08.230Z",
-    "searchScore": 23.48371,
+    "searchScore": 23.148655,
     "package": {
       "name": "@chirag127/data-firebase",
       "keywords": [
@@ -626,7 +626,7 @@
       }
     },
     "score": {
-      "final": 23.48371,
+      "final": 23.148655,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -644,7 +644,7 @@
     },
     "dependents": "3",
     "updated": "2026-08-19T07:41:36.845Z",
-    "searchScore": 22.772373,
+    "searchScore": 22.33786,
     "package": {
       "name": "@chirag127/tokens",
       "keywords": [
@@ -677,59 +677,7 @@
       }
     },
     "score": {
-      "final": 22.772373,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 113,
-      "weekly": 34
-    },
-    "dependents": 0,
-    "updated": "2026-08-16T14:06:10.879Z",
-    "searchScore": 22.67588,
-    "package": {
-      "name": "@chirag127/astro-test-utils",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "testing",
-        "vitest",
-        "playwright",
-        "msw"
-      ],
-      "version": "0.1.1",
-      "description": "Common Vitest + Playwright + MSW + Firebase test fixtures for the chirag127/oriz family. Thin wrapper over @firebase/rules-unit-testing, msw, @playwright/test.",
-      "sanitized_name": "@chirag127/astro-test-utils",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T13:26:16.235Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-test-utils-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-test-utils-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-test-utils-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-test-utils"
-      }
-    },
-    "score": {
-      "final": 22.67588,
+      "final": 22.33786,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -747,7 +695,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-19T08:36:28.742Z",
-    "searchScore": 22.57524,
+    "searchScore": 22.278683,
     "package": {
       "name": "@chirag127/styling",
       "keywords": [
@@ -782,7 +730,7 @@
       }
     },
     "score": {
-      "final": 22.57524,
+      "final": 22.278683,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -800,7 +748,7 @@
     },
     "dependents": "2",
     "updated": "2026-08-19T07:51:35.803Z",
-    "searchScore": 22.449427,
+    "searchScore": 22.246382,
     "package": {
       "name": "@chirag127/theme",
       "keywords": [
@@ -833,7 +781,112 @@
       }
     },
     "score": {
-      "final": 22.449427,
+      "final": 22.246382,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 113,
+      "weekly": 5
+    },
+    "dependents": 0,
+    "updated": "2026-08-23T14:11:11.058Z",
+    "searchScore": 22.243208,
+    "package": {
+      "name": "@chirag127/astro-test-utils",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "testing",
+        "vitest",
+        "playwright",
+        "msw"
+      ],
+      "version": "0.1.1",
+      "description": "Common Vitest + Playwright + MSW + Firebase test fixtures for the chirag127/oriz family. Thin wrapper over @firebase/rules-unit-testing, msw, @playwright/test.",
+      "sanitized_name": "@chirag127/astro-test-utils",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T13:26:16.235Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-test-utils-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-test-utils-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-test-utils-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-test-utils"
+      }
+    },
+    "score": {
+      "final": 22.243208,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 96,
+      "weekly": 15
+    },
+    "dependents": "1",
+    "updated": "2026-08-19T07:41:08.455Z",
+    "searchScore": 21.913504,
+    "package": {
+      "name": "@chirag127/a11y",
+      "keywords": [
+        "a11y",
+        "accessibility",
+        "focus-trap",
+        "roving-tabindex",
+        "aria",
+        "framework-agnostic",
+        "design-system"
+      ],
+      "version": "0.2.0",
+      "description": "Framework-agnostic accessibility primitives: focus-trap, roving-tabindex, ARIA helpers. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
+      "sanitized_name": "@chirag127/a11y",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-05T07:30:16.673Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/a11y"
+      }
+    },
+    "score": {
+      "final": 21.913504,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -851,7 +904,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T16:36:11.422Z",
-    "searchScore": 22.166756,
+    "searchScore": 21.743797,
     "package": {
       "name": "@chirag127/mdv-mcp",
       "keywords": [
@@ -891,7 +944,7 @@
       }
     },
     "score": {
-      "final": 22.166756,
+      "final": 21.743797,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -904,26 +957,26 @@
   },
   {
     "downloads": {
-      "monthly": 96,
-      "weekly": 15
+      "monthly": 89,
+      "weekly": 14
     },
-    "dependents": "1",
-    "updated": "2026-08-19T07:41:08.455Z",
-    "searchScore": 22.13198,
+    "dependents": 0,
+    "updated": "2026-08-19T07:41:11.391Z",
+    "searchScore": 21.496227,
     "package": {
-      "name": "@chirag127/a11y",
+      "name": "@chirag127/auth",
       "keywords": [
-        "a11y",
-        "accessibility",
-        "focus-trap",
-        "roving-tabindex",
-        "aria",
-        "framework-agnostic",
-        "design-system"
+        "clerk",
+        "auth",
+        "react",
+        "island",
+        "oriz",
+        "design-system",
+        "framework-agnostic"
       ],
       "version": "0.2.0",
-      "description": "Framework-agnostic accessibility primitives: focus-trap, roving-tabindex, ARIA helpers. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
-      "sanitized_name": "@chirag127/a11y",
+      "description": "Clerk auth adapter for oriz family sites. Drop-in React island — ClerkProvider wrapper, sign-in/out buttons, account panel, and useOrizAuth hook. Unstyled with data-oriz-auth-* hooks so each site themes it.",
+      "sanitized_name": "@chirag127/auth",
       "publisher": {
         "email": "whyiswhen@gmail.com",
         "username": "chirag127"
@@ -935,16 +988,68 @@
         }
       ],
       "license": "MIT",
-      "date": "2026-08-05T07:30:16.673Z",
+      "date": "2026-08-05T07:30:43.402Z",
       "links": {
         "homepage": "https://github.com/chirag127/design-system#readme",
         "repository": "git+https://github.com/chirag127/design-system.git",
         "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/a11y"
+        "npm": "https://www.npmjs.com/package/@chirag127/auth"
       }
     },
     "score": {
-      "final": 22.13198,
+      "final": 21.496227,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 93,
+      "weekly": 4
+    },
+    "dependents": "2",
+    "updated": "2026-08-19T07:41:08.446Z",
+    "searchScore": 21.296083,
+    "package": {
+      "name": "@chirag127/atoms",
+      "keywords": [
+        "web-components",
+        "atoms",
+        "ui",
+        "design-system",
+        "framework-agnostic",
+        "vanilla-js"
+      ],
+      "version": "0.2.0",
+      "description": "Framework-agnostic atomic web components (buttons, chips, cards, badges, fields, nav links, prose). Vanilla custom elements, zero dependencies — they restyle automatically under any @chirag127/theme archetype.",
+      "sanitized_name": "@chirag127/atoms",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-05T07:30:28.028Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/atoms"
+      }
+    },
+    "score": {
+      "final": 21.296083,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -962,7 +1067,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-21T13:11:08.588Z",
-    "searchScore": 21.711704,
+    "searchScore": 21.28327,
     "package": {
       "name": "@chirag127/oz-file",
       "keywords": [
@@ -999,112 +1104,7 @@
       }
     },
     "score": {
-      "final": 21.711704,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 89,
-      "weekly": 14
-    },
-    "dependents": 0,
-    "updated": "2026-08-19T07:41:11.391Z",
-    "searchScore": 21.710543,
-    "package": {
-      "name": "@chirag127/auth",
-      "keywords": [
-        "clerk",
-        "auth",
-        "react",
-        "island",
-        "oriz",
-        "design-system",
-        "framework-agnostic"
-      ],
-      "version": "0.2.0",
-      "description": "Clerk auth adapter for oriz family sites. Drop-in React island — ClerkProvider wrapper, sign-in/out buttons, account panel, and useOrizAuth hook. Unstyled with data-oriz-auth-* hooks so each site themes it.",
-      "sanitized_name": "@chirag127/auth",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-05T07:30:43.402Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/auth"
-      }
-    },
-    "score": {
-      "final": 21.710543,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 93,
-      "weekly": 4
-    },
-    "dependents": "2",
-    "updated": "2026-08-19T07:41:08.446Z",
-    "searchScore": 21.509493,
-    "package": {
-      "name": "@chirag127/atoms",
-      "keywords": [
-        "web-components",
-        "atoms",
-        "ui",
-        "design-system",
-        "framework-agnostic",
-        "vanilla-js"
-      ],
-      "version": "0.2.0",
-      "description": "Framework-agnostic atomic web components (buttons, chips, cards, badges, fields, nav links, prose). Vanilla custom elements, zero dependencies — they restyle automatically under any @chirag127/theme archetype.",
-      "sanitized_name": "@chirag127/atoms",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-05T07:30:28.028Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/atoms"
-      }
-    },
-    "score": {
-      "final": 21.509493,
+      "final": 21.28327,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1122,7 +1122,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-19T07:41:13.389Z",
-    "searchScore": 21.146015,
+    "searchScore": 20.936213,
     "package": {
       "name": "@chirag127/astro",
       "keywords": [
@@ -1155,7 +1155,7 @@
       }
     },
     "score": {
-      "final": 21.146015,
+      "final": 20.936213,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1173,7 +1173,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T06:26:15.641Z",
-    "searchScore": 21.019386,
+    "searchScore": 20.81084,
     "package": {
       "name": "@chirag127/oriz-ai-providers",
       "keywords": [
@@ -1215,7 +1215,7 @@
       }
     },
     "score": {
-      "final": 21.019386,
+      "final": 20.81084,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1233,7 +1233,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T07:36:17.629Z",
-    "searchScore": 19.221102,
+    "searchScore": 19.0304,
     "package": {
       "name": "@chirag127/oriz-ui",
       "keywords": [
@@ -1267,7 +1267,7 @@
       }
     },
     "score": {
-      "final": 19.221102,
+      "final": 19.0304,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1285,7 +1285,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-22T09:06:12.235Z",
-    "searchScore": 19.149118,
+    "searchScore": 18.960087,
     "package": {
       "name": "secenv-mcp",
       "keywords": [
@@ -1321,7 +1321,7 @@
       }
     },
     "score": {
-      "final": 19.149118,
+      "final": 18.960087,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1339,7 +1339,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-20T22:01:11.044Z",
-    "searchScore": 18.362274,
+    "searchScore": 18.180092,
     "package": {
       "name": "@chirag127/okf-knowledge-mcp",
       "keywords": [
@@ -1371,7 +1371,7 @@
       }
     },
     "score": {
-      "final": 18.362274,
+      "final": 18.180092,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1389,7 +1389,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-18T06:26:31.628Z",
-    "searchScore": 17.420908,
+    "searchScore": 17.077145,
     "package": {
       "name": "envpact-mcp",
       "keywords": [
@@ -1428,7 +1428,7 @@
       }
     },
     "score": {
-      "final": 17.420908,
+      "final": 17.077145,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1446,7 +1446,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-17T05:26:15.640Z",
-    "searchScore": 15.552892,
+    "searchScore": 15.348583,
     "package": {
       "name": "@chirag127/omni-publish",
       "keywords": [
@@ -1488,7 +1488,7 @@
       }
     },
     "score": {
-      "final": 15.552892,
+      "final": 15.348583,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1501,12 +1501,57 @@
   },
   {
     "downloads": {
-      "monthly": 30,
-      "weekly": 3
+      "monthly": 26,
+      "weekly": 6
     },
     "dependents": 0,
-    "updated": "2026-08-16T17:36:11.628Z",
-    "searchScore": 15.516837,
+    "updated": "2026-08-19T19:01:10.812Z",
+    "searchScore": 14.487714,
+    "package": {
+      "name": "@chirag127/lastfm",
+      "keywords": [],
+      "version": "1.0.0",
+      "description": "Last.fm API client — getRecentTracks, getTopArtists, getTopTracks, getUserInfo",
+      "sanitized_name": "@chirag127/lastfm",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-07-08T18:31:54.875Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/workspace#readme",
+        "repository": "git+https://github.com/chirag127/workspace.git",
+        "bugs": "https://github.com/chirag127/workspace/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/lastfm"
+      }
+    },
+    "score": {
+      "final": 14.487714,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 25,
+      "weekly": 2
+    },
+    "dependents": 0,
+    "updated": "2026-08-23T17:41:09.827Z",
+    "searchScore": 14.288065,
     "package": {
       "name": "@chirag127/oriz-book-build",
       "keywords": [
@@ -1544,52 +1589,7 @@
       }
     },
     "score": {
-      "final": 15.516837,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 26,
-      "weekly": 6
-    },
-    "dependents": 0,
-    "updated": "2026-08-19T19:01:10.812Z",
-    "searchScore": 14.7695265,
-    "package": {
-      "name": "@chirag127/lastfm",
-      "keywords": [],
-      "version": "1.0.0",
-      "description": "Last.fm API client — getRecentTracks, getTopArtists, getTopTracks, getUserInfo",
-      "sanitized_name": "@chirag127/lastfm",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-07-08T18:31:54.875Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/workspace#readme",
-        "repository": "git+https://github.com/chirag127/workspace.git",
-        "bugs": "https://github.com/chirag127/workspace/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/lastfm"
-      }
-    },
-    "score": {
-      "final": 14.7695265,
+      "final": 14.288065,
       "detail": {
         "popularity": 1,
         "quality": 1,
