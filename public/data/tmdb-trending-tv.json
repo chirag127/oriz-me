@@ -7,15 +7,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.178,
-    "votes": 146,
+    "rating": 8.1,
+    "votes": 158,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 280.1615
+    "popularity": 320.4384
   },
   {
     "id": 125988,
@@ -25,14 +25,14 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.193,
-    "votes": 2486,
+    "rating": 8.196,
+    "votes": 2491,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 301.0535
+    "popularity": 263.6181
   },
   {
     "id": 108978,
@@ -42,14 +42,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.086,
-    "votes": 3118,
+    "rating": 8.1,
+    "votes": 3122,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 662.9716
+    "popularity": 573.4865
   },
   {
     "id": 30984,
@@ -59,32 +59,15 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.367,
-    "votes": 2232,
+    "rating": 8.368,
+    "votes": 2236,
     "release": "2004-10-05",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 136.5879
-  },
-  {
-    "id": 278624,
-    "tmdb_id": 278624,
-    "type": "tv",
-    "title": "Lucky",
-    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-    "rating": 7.228,
-    "votes": 206,
-    "release": "2026-07-14",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 124.1889
+    "popularity": 134.0714
   },
   {
     "id": 100757,
@@ -94,14 +77,31 @@
     "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
     "poster": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-    "rating": 8.243,
-    "votes": 1241,
+    "rating": 8.246,
+    "votes": 1243,
     "release": "2020-04-15",
     "genres": [
       10759,
       9648
     ],
-    "popularity": 297.1122
+    "popularity": 277.038
+  },
+  {
+    "id": 278624,
+    "tmdb_id": 278624,
+    "type": "tv",
+    "title": "Lucky",
+    "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+    "rating": 7.2,
+    "votes": 207,
+    "release": "2026-07-14",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 107.0885
   },
   {
     "id": 113962,
@@ -110,50 +110,15 @@
     "title": "Lioness",
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-    "rating": 8.1,
-    "votes": 1395,
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.082,
+    "votes": 1403,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 368.7606
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.362,
-    "votes": 2582,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 186.3862
-  },
-  {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.751,
-    "votes": 5497,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 52.7429
+    "popularity": 313.7421
   },
   {
     "id": 94997,
@@ -163,53 +128,50 @@
     "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
     "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.385,
-    "votes": 7023,
+    "rating": 8.386,
+    "votes": 7025,
     "release": "2022-08-21",
     "genres": [
       10765,
       18,
       10759
     ],
-    "popularity": 236.5301
+    "popularity": 216.9349
   },
   {
-    "id": 65942,
-    "tmdb_id": 65942,
+    "id": 97546,
+    "tmdb_id": 97546,
     "type": "tv",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "rating": 8.079,
-    "votes": 758,
-    "release": "2016-04-04",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.363,
+    "votes": 2583,
+    "release": "2020-08-14",
     "genres": [
-      16,
       18,
-      9648,
+      35
+    ],
+    "popularity": 163.6842
+  },
+  {
+    "id": 37854,
+    "tmdb_id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.8,
+    "votes": 5497,
+    "release": "1999-10-20",
+    "genres": [
       10759,
-      10765
+      35,
+      16
     ],
-    "popularity": 97.8114
-  },
-  {
-    "id": 303351,
-    "tmdb_id": 303351,
-    "type": "tv",
-    "title": "Blood Sacrifice",
-    "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
-    "poster": "https://image.tmdb.org/t/p/w342/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
-    "rating": 5.6,
-    "votes": 14,
-    "release": "2026-08-20",
-    "genres": [
-      18,
-      80,
-      9648
-    ],
-    "popularity": 72.0838
+    "popularity": 45.3983
   },
   {
     "id": 615,
@@ -220,48 +182,49 @@
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.364,
-    "votes": 3866,
+    "votes": 3867,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 171.4645
+    "popularity": 151.7234
   },
   {
-    "id": 298610,
-    "tmdb_id": 298610,
+    "id": 303351,
+    "tmdb_id": 303351,
     "type": "tv",
-    "title": "Spooky in Love",
-    "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-    "poster": "https://image.tmdb.org/t/p/w342/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-    "rating": 8.9,
-    "votes": 51,
-    "release": "2026-07-18",
+    "title": "Blood Sacrifice",
+    "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+    "poster": "https://image.tmdb.org/t/p/w342/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+    "rating": 5.875,
+    "votes": 15,
+    "release": "2026-08-20",
     "genres": [
-      35,
-      10765,
-      18
+      18,
+      80,
+      9648
     ],
-    "popularity": 62.6434
+    "popularity": 67.8943
   },
   {
-    "id": 2710,
-    "tmdb_id": 2710,
+    "id": 287238,
+    "tmdb_id": 287238,
     "type": "tv",
-    "title": "It's Always Sunny in Philadelphia",
-    "overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
-    "poster": "https://image.tmdb.org/t/p/w342/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-    "rating": 8.263,
-    "votes": 1391,
-    "release": "2005-08-04",
+    "title": "Furious",
+    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "poster": "https://image.tmdb.org/t/p/w342/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+    "rating": 7.1,
+    "votes": 56,
+    "release": "2026-07-27",
     "genres": [
-      35
+      18,
+      80
     ],
-    "popularity": 89.3139
+    "popularity": 68.0427
   },
   {
     "id": 287620,
@@ -271,14 +234,69 @@
     "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
     "poster": "https://image.tmdb.org/t/p/w342/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-    "rating": 9,
-    "votes": 120,
+    "rating": 9.045,
+    "votes": 123,
     "release": "2026-07-23",
     "genres": [
       35,
       10765
     ],
-    "popularity": 66.8205
+    "popularity": 58.1331
+  },
+  {
+    "id": 65942,
+    "tmdb_id": 65942,
+    "type": "tv",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "rating": 8.1,
+    "votes": 758,
+    "release": "2016-04-04",
+    "genres": [
+      16,
+      9648,
+      10759,
+      10765
+    ],
+    "popularity": 89.5153
+  },
+  {
+    "id": 283297,
+    "tmdb_id": 283297,
+    "type": "tv",
+    "title": "Sterling Point",
+    "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+    "poster": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+    "rating": 8.2,
+    "votes": 97,
+    "release": "2026-08-05",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 64.5862
+  },
+  {
+    "id": 60625,
+    "tmdb_id": 60625,
+    "type": "tv",
+    "title": "Rick and Morty",
+    "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+    "poster": "https://image.tmdb.org/t/p/w342/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+    "rating": 8.683,
+    "votes": 11314,
+    "release": "2013-12-02",
+    "genres": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "popularity": 177.1888
   },
   {
     "id": 94664,
@@ -288,50 +306,32 @@
     "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.409,
-    "votes": 1683,
+    "rating": 8.41,
+    "votes": 1685,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 138.3159
+    "popularity": 118.6392
   },
   {
-    "id": 243360,
-    "tmdb_id": 243360,
+    "id": 286709,
+    "tmdb_id": 286709,
     "type": "tv",
-    "title": "Ludwig",
-    "overview": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
-    "poster": "https://image.tmdb.org/t/p/w342/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
-    "rating": 7.786,
-    "votes": 133,
-    "release": "2024-09-25",
+    "title": "The Westies",
+    "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
+    "poster": "https://image.tmdb.org/t/p/w342/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
+    "rating": 7.3,
+    "votes": 27,
+    "release": "2026-07-12",
     "genres": [
-      9648,
-      80,
       18,
-      35
+      80
     ],
-    "popularity": 37.4522
-  },
-  {
-    "id": 312523,
-    "tmdb_id": 312523,
-    "type": "tv",
-    "title": "S&X",
-    "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
-    "poster": "https://image.tmdb.org/t/p/w342/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
-    "rating": 7.333,
-    "votes": 3,
-    "release": "2026-08-20",
-    "genres": [
-      18
-    ],
-    "popularity": 28.6647
+    "popularity": 30.4523
   },
   {
     "id": 103516,
@@ -341,13 +341,13 @@
     "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
     "poster": "https://image.tmdb.org/t/p/w342/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-    "rating": 7.897,
-    "votes": 823,
+    "rating": 7.899,
+    "votes": 824,
     "release": "2022-05-05",
     "genres": [
       10765,
       18
     ],
-    "popularity": 62.3159
+    "popularity": 54.1547
   }
 ]
