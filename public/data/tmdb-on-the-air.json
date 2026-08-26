@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.086,
-    "votes": 3122,
+    "rating": 8.087,
+    "votes": 3126,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 662.9716
+    "popularity": 607.0318
   },
   {
     "id": 113962,
@@ -24,31 +24,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.08,
-    "votes": 1398,
+    "rating": 8.091,
+    "votes": 1410,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 368.7606
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.196,
-    "votes": 2491,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 301.0535
+    "popularity": 378.1923
   },
   {
     "id": 95350,
@@ -58,15 +41,32 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.146,
-    "votes": 157,
+    "rating": 8.158,
+    "votes": 171,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 280.1615
+    "popularity": 300.2267
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "rating": 8.197,
+    "votes": 2497,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 269.4276
   },
   {
     "id": 67707,
@@ -74,15 +74,15 @@
     "type": "tv",
     "title": "Paradise Hotel",
     "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-    "poster": "https://image.tmdb.org/t/p/w342/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
     "rating": 5,
     "votes": 4,
     "release": "2005-01-17",
     "genres": [
       10764
     ],
-    "popularity": 270.82
+    "popularity": 251.9705
   },
   {
     "id": 456,
@@ -93,13 +93,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.022,
-    "votes": 10956,
+    "votes": 10960,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 262.7853
+    "popularity": 220.1059
   },
   {
     "id": 37528,
@@ -115,7 +115,74 @@
     "genres": [
       10764
     ],
-    "popularity": 247.1459
+    "popularity": 252.365
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 111.6704
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.362,
+    "votes": 2588,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 160.7465
+  },
+  {
+    "id": 16807,
+    "tmdb_id": 16807,
+    "type": "tv",
+    "title": "Jornal Nacional",
+    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+    "rating": 6.6,
+    "votes": 8,
+    "release": "1969-09-01",
+    "genres": [
+      10763
+    ],
+    "popularity": 127.1926
+  },
+  {
+    "id": 13945,
+    "tmdb_id": 13945,
+    "type": "tv",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+    "rating": 5.5,
+    "votes": 49,
+    "release": "1992-05-11",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 130.4053
   },
   {
     "id": 2661,
@@ -133,74 +200,7 @@
       10765,
       18
     ],
-    "popularity": 186.7178
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.363,
-    "votes": 2583,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 186.3862
-  },
-  {
-    "id": 70672,
-    "tmdb_id": 70672,
-    "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
-    "genres": [
-      10764,
-      35
-    ],
-    "popularity": 181.1298
-  },
-  {
-    "id": 16807,
-    "tmdb_id": 16807,
-    "type": "tv",
-    "title": "Jornal Nacional",
-    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
-    "rating": 6.625,
-    "votes": 8,
-    "release": "1969-09-01",
-    "genres": [
-      10763
-    ],
-    "popularity": 173.851
-  },
-  {
-    "id": 13945,
-    "tmdb_id": 13945,
-    "type": "tv",
-    "title": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "rating": 5.5,
-    "votes": 49,
-    "release": "1992-05-11",
-    "genres": [
-      18,
-      10766
-    ],
-    "popularity": 173.0478
+    "popularity": 132.9333
   },
   {
     "id": 615,
@@ -211,14 +211,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.364,
-    "votes": 3867,
+    "votes": 3871,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 171.4645
+    "popularity": 137.258
   },
   {
     "id": 206559,
@@ -234,7 +234,7 @@
     "genres": [
       10766
     ],
-    "popularity": 167.6599
+    "popularity": 121.4611
   },
   {
     "id": 11890,
@@ -250,7 +250,7 @@
     "genres": [
       10766
     ],
-    "popularity": 158.2037
+    "popularity": 129.2859
   },
   {
     "id": 14610,
@@ -267,7 +267,25 @@
       10766,
       18
     ],
-    "popularity": 156.1602
+    "popularity": 120.7748
+  },
+  {
+    "id": 30984,
+    "tmdb_id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.4,
+    "votes": 2238,
+    "release": "2004-10-05",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 128.0876
   },
   {
     "id": 82873,
@@ -283,7 +301,25 @@
     "genres": [
       10767
     ],
-    "popularity": 144.5931
+    "popularity": 108.4551
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.41,
+    "votes": 1685,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 130.9278
   },
   {
     "id": 91555,
@@ -300,42 +336,6 @@
       10759,
       18
     ],
-    "popularity": 141.2032
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.41,
-    "votes": 1684,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 138.3159
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.368,
-    "votes": 2236,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 136.5879
+    "popularity": 109.4905
   }
 ]
