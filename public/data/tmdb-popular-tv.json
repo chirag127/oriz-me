@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.086,
-    "votes": 3125,
+    "rating": 8.091,
+    "votes": 3146,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 607.0318
+    "popularity": 627.652
   },
   {
     "id": 5920,
@@ -24,31 +24,15 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-    "rating": 8.389,
-    "votes": 4611,
+    "rating": 8.392,
+    "votes": 4621,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 407.3044
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.768,
-    "votes": 256,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 269.9074
+    "popularity": 349.0056
   },
   {
     "id": 113962,
@@ -58,49 +42,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.09,
-    "votes": 1409,
+    "rating": 8.095,
+    "votes": 1421,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 378.1923
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.2,
-    "votes": 170,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 300.2267
-  },
-  {
-    "id": 59941,
-    "tmdb_id": 59941,
-    "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-    "rating": 5.764,
-    "votes": 386,
-    "release": "2014-02-17",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 211.5816
+    "popularity": 351.5061
   },
   {
     "id": 100757,
@@ -110,14 +59,32 @@
     "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
     "poster": "https://image.tmdb.org/t/p/w342/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-    "rating": 8.245,
-    "votes": 1244,
+    "rating": 8.244,
+    "votes": 1245,
     "release": "2020-04-15",
     "genres": [
       10759,
       9648
     ],
-    "popularity": 325.949
+    "popularity": 313.8597
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "rating": 8.206,
+    "votes": 180,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 275.6969
   },
   {
     "id": 51025,
@@ -133,7 +100,23 @@
     "genres": [
       10764
     ],
-    "popularity": 274.3663
+    "popularity": 264.2844
+  },
+  {
+    "id": 94722,
+    "tmdb_id": 94722,
+    "type": "tv",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.768,
+    "votes": 256,
+    "release": "1952-12-26",
+    "genres": [
+      10763
+    ],
+    "popularity": 371.1913
   },
   {
     "id": 125988,
@@ -143,14 +126,64 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.196,
-    "votes": 2496,
+    "rating": 8.194,
+    "votes": 2502,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 269.4276
+    "popularity": 254.3844
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 7.959,
+    "votes": 4319,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 255.7605
+  },
+  {
+    "id": 37528,
+    "tmdb_id": 37528,
+    "type": "tv",
+    "title": "Gran hermano",
+    "overview": "Argentina's version of the Big Brother franchise.",
+    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+    "rating": 4.5,
+    "votes": 4,
+    "release": "2001-03-10",
+    "genres": [
+      10764
+    ],
+    "popularity": 265.5846
+  },
+  {
+    "id": 67707,
+    "tmdb_id": 67707,
+    "type": "tv",
+    "title": "Paradise Hotel",
+    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
+    "rating": 5,
+    "votes": 4,
+    "release": "2005-01-17",
+    "genres": [
+      10764
+    ],
+    "popularity": 230.9841
   },
   {
     "id": 1434,
@@ -167,7 +200,58 @@
       16,
       35
     ],
-    "popularity": 236.0549
+    "popularity": 242.714
+  },
+  {
+    "id": 79744,
+    "tmdb_id": 79744,
+    "type": "tv",
+    "title": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "rating": 8.545,
+    "votes": 3488,
+    "release": "2018-10-16",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 242.8755
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "rating": 8.2,
+    "votes": 11024,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 224.9992
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.022,
+    "votes": 10962,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 232.694
   },
   {
     "id": 22980,
@@ -184,126 +268,7 @@
       10767,
       35
     ],
-    "popularity": 217.3937
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.959,
-    "votes": 4317,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 254.1506
-  },
-  {
-    "id": 67707,
-    "tmdb_id": 67707,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
-    "rating": 5,
-    "votes": 4,
-    "release": "2005-01-17",
-    "genres": [
-      10764
-    ],
-    "popularity": 251.9705
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.022,
-    "votes": 10960,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 220.1059
-  },
-  {
-    "id": 79744,
-    "tmdb_id": 79744,
-    "type": "tv",
-    "title": "The Rookie",
-    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-    "rating": 8.545,
-    "votes": 3486,
-    "release": "2018-10-16",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 228.3709
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-    "rating": 8.2,
-    "votes": 11023,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 222.9201
-  },
-  {
-    "id": 94997,
-    "tmdb_id": 94997,
-    "type": "tv",
-    "title": "House of the Dragon",
-    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.4,
-    "votes": 7033,
-    "release": "2022-08-21",
-    "genres": [
-      10765,
-      18,
-      10759
-    ],
-    "popularity": 206.3758
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 252.365
+    "popularity": 232.8049
   },
   {
     "id": 4614,
@@ -313,30 +278,67 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
-    "rating": 7.611,
-    "votes": 2551,
+    "rating": 7.612,
+    "votes": 2552,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 206.2203
+    "popularity": 212.8926
   },
   {
-    "id": 53270,
-    "tmdb_id": 53270,
+    "id": 59941,
+    "tmdb_id": 59941,
     "type": "tv",
-    "title": "Barwy szczęścia",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/yPAk9l2KMfMXZKuoGLZMadCZRF3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zgDpajdlOKetwZ9Ys296o3qBjFy.jpg",
-    "rating": 5,
-    "votes": 5,
-    "release": "2007-09-27",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "rating": 5.764,
+    "votes": 386,
+    "release": "2014-02-17",
     "genres": [
-      10766
+      35,
+      10767
     ],
-    "popularity": 124.058
+    "popularity": 225.204
+  },
+  {
+    "id": 94997,
+    "tmdb_id": 94997,
+    "type": "tv",
+    "title": "House of the Dragon",
+    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "rating": 8.387,
+    "votes": 7045,
+    "release": "2022-08-21",
+    "genres": [
+      10765,
+      18,
+      10759
+    ],
+    "popularity": 192.574
+  },
+  {
+    "id": 1622,
+    "tmdb_id": 1622,
+    "type": "tv",
+    "title": "Supernatural",
+    "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+    "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+    "rating": 8.314,
+    "votes": 8628,
+    "release": "2005-09-13",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 208.176
   }
 ]
