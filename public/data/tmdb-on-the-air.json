@@ -8,13 +8,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
     "rating": 8.095,
-    "votes": 3152,
+    "votes": 3157,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 610.7791
+    "popularity": 565.7909
   },
   {
     "id": 113962,
@@ -24,14 +24,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.095,
-    "votes": 1423,
+    "rating": 8.098,
+    "votes": 1427,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 337.8898
+    "popularity": 323.8059
   },
   {
     "id": 37528,
@@ -47,7 +47,7 @@
     "genres": [
       10764
     ],
-    "popularity": 260.9859
+    "popularity": 266.4421
   },
   {
     "id": 95350,
@@ -65,7 +65,7 @@
       9648,
       10765
     ],
-    "popularity": 260.5168
+    "popularity": 247.9363
   },
   {
     "id": 125988,
@@ -75,30 +75,14 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.193,
-    "votes": 2507,
+    "rating": 8.189,
+    "votes": 2510,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 249.3311
-  },
-  {
-    "id": 67707,
-    "tmdb_id": 67707,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
-    "rating": 5,
-    "votes": 4,
-    "release": "2005-01-17",
-    "genres": [
-      10764
-    ],
-    "popularity": 201.0477
+    "popularity": 279.601
   },
   {
     "id": 97546,
@@ -115,7 +99,7 @@
       18,
       35
     ],
-    "popularity": 241.5747
+    "popularity": 222.0098
   },
   {
     "id": 16807,
@@ -131,24 +115,23 @@
     "genres": [
       10763
     ],
-    "popularity": 204.6271
+    "popularity": 173.9994
   },
   {
-    "id": 13945,
-    "tmdb_id": 13945,
+    "id": 67707,
+    "tmdb_id": 67707,
     "type": "tv",
-    "title": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "rating": 5.5,
-    "votes": 49,
-    "release": "1992-05-11",
+    "title": "Paradise Hotel",
+    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
+    "rating": 5,
+    "votes": 4,
+    "release": "2005-01-17",
     "genres": [
-      18,
-      10766
+      10764
     ],
-    "popularity": 186.8019
+    "popularity": 172.5256
   },
   {
     "id": 2661,
@@ -166,91 +149,57 @@
       10765,
       18
     ],
-    "popularity": 191.4475
+    "popularity": 163.3583
   },
   {
-    "id": 615,
-    "tmdb_id": 615,
+    "id": 13945,
+    "tmdb_id": 13945,
     "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.365,
-    "votes": 3874,
-    "release": "1999-03-28",
-    "genres": [
-      16,
-      35,
-      10765
-    ],
-    "popularity": 133.3963
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 115.4234
-  },
-  {
-    "id": 14610,
-    "tmdb_id": 14610,
-    "type": "tv",
-    "title": "Secret Lives",
-    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-    "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-    "rating": 4.2,
-    "votes": 23,
-    "release": "1999-01-25",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 110.7162
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
     "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
+    "votes": 49,
+    "release": "1992-05-11",
     "genres": [
+      18,
       10766
     ],
-    "popularity": 116.0807
+    "popularity": 162.036
   },
   {
-    "id": 224,
-    "tmdb_id": 224,
+    "id": 82873,
+    "tmdb_id": 82873,
     "type": "tv",
-    "title": "Match of the Day",
-    "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-    "poster": "https://image.tmdb.org/t/p/w342/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
-    "rating": 7.6,
-    "votes": 51,
-    "release": "1964-08-22",
+    "title": "The Kelly Clarkson Show",
+    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+    "rating": 6.3,
+    "votes": 72,
+    "release": "2019-09-09",
     "genres": [
-      10767,
-      10763
+      10767
     ],
-    "popularity": 124.5224
+    "popularity": 136.1742
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 120.5403
   },
   {
     "id": 94664,
@@ -261,14 +210,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
     "rating": 8.414,
-    "votes": 1689,
+    "votes": 1690,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 136.1494
+    "popularity": 136.466
   },
   {
     "id": 30984,
@@ -286,7 +235,25 @@
       16,
       10765
     ],
-    "popularity": 134.7295
+    "popularity": 127.3732
+  },
+  {
+    "id": 615,
+    "tmdb_id": 615,
+    "type": "tv",
+    "title": "Futurama",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "rating": 8.365,
+    "votes": 3874,
+    "release": "1999-03-28",
+    "genres": [
+      16,
+      35,
+      10765
+    ],
+    "popularity": 122.902
   },
   {
     "id": 91555,
@@ -303,39 +270,71 @@
       10759,
       18
     ],
-    "popularity": 131.499
+    "popularity": 120.601
   },
   {
-    "id": 82873,
-    "tmdb_id": 82873,
+    "id": 65282,
+    "tmdb_id": 65282,
     "type": "tv",
-    "title": "The Kelly Clarkson Show",
-    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-    "rating": 6.3,
-    "votes": 72,
-    "release": "2019-09-09",
+    "title": "Home Alone",
+    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "rating": 7.5,
+    "votes": 18,
+    "release": "2013-03-22",
     "genres": [
-      10767
+      10764
     ],
-    "popularity": 156.4204
+    "popularity": 92.1644
   },
   {
-    "id": 70672,
-    "tmdb_id": 70672,
+    "id": 224,
+    "tmdb_id": 224,
     "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
+    "title": "Match of the Day",
+    "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+    "poster": "https://image.tmdb.org/t/p/w342/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+    "rating": 7.6,
+    "votes": 51,
+    "release": "1964-08-22",
     "genres": [
-      10764,
-      35
+      10767,
+      10763
     ],
-    "popularity": 156.2242
+    "popularity": 106.8733
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 102.8995
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 97.7652
   }
 ]
