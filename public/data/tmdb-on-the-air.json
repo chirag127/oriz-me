@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.095,
-    "votes": 3157,
+    "rating": 8.098,
+    "votes": 3167,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 565.7909
+    "popularity": 550.9451
   },
   {
     "id": 113962,
@@ -24,48 +24,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.098,
-    "votes": 1427,
+    "rating": 8.104,
+    "votes": 1434,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 323.8059
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 266.4421
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.2,
-    "votes": 181,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 247.9363
+    "popularity": 311.9788
   },
   {
     "id": 125988,
@@ -75,14 +41,32 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.189,
-    "votes": 2510,
+    "rating": 8.193,
+    "votes": 2517,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 279.601
+    "popularity": 324.0661
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "rating": 8.25,
+    "votes": 188,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 237.1869
   },
   {
     "id": 97546,
@@ -93,13 +77,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
     "rating": 8.4,
-    "votes": 2593,
+    "votes": 2599,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 222.0098
+    "popularity": 224.9191
   },
   {
     "id": 16807,
@@ -109,13 +93,13 @@
     "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
     "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
-    "rating": 6.6,
-    "votes": 8,
+    "rating": 7,
+    "votes": 9,
     "release": "1969-09-01",
     "genres": [
       10763
     ],
-    "popularity": 173.9994
+    "popularity": 162.4989
   },
   {
     "id": 67707,
@@ -131,7 +115,7 @@
     "genres": [
       10764
     ],
-    "popularity": 172.5256
+    "popularity": 147.6332
   },
   {
     "id": 2661,
@@ -149,7 +133,7 @@
       10765,
       18
     ],
-    "popularity": 163.3583
+    "popularity": 149.7876
   },
   {
     "id": 13945,
@@ -166,7 +150,25 @@
       18,
       10766
     ],
-    "popularity": 162.036
+    "popularity": 156.1277
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.415,
+    "votes": 1691,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 132.099
   },
   {
     "id": 82873,
@@ -182,42 +184,23 @@
     "genres": [
       10767
     ],
-    "popularity": 136.1742
+    "popularity": 119.1862
   },
   {
-    "id": 70672,
-    "tmdb_id": 70672,
+    "id": 299952,
+    "tmdb_id": 299952,
     "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "rating": 6.2,
+    "votes": 3,
+    "release": "2026-08-26",
     "genres": [
-      10764,
-      35
+      18
     ],
-    "popularity": 120.5403
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.414,
-    "votes": 1690,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 136.466
+    "popularity": 134.6134
   },
   {
     "id": 30984,
@@ -227,15 +210,15 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.4,
-    "votes": 2242,
+    "rating": 8.367,
+    "votes": 2244,
     "release": "2004-10-05",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 127.3732
+    "popularity": 127.6185
   },
   {
     "id": 615,
@@ -245,15 +228,15 @@
     "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.365,
-    "votes": 3874,
+    "rating": 8.364,
+    "votes": 3875,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 122.902
+    "popularity": 112.9494
   },
   {
     "id": 91555,
@@ -270,23 +253,24 @@
       10759,
       18
     ],
-    "popularity": 120.601
+    "popularity": 121.2644
   },
   {
-    "id": 65282,
-    "tmdb_id": 65282,
+    "id": 70672,
+    "tmdb_id": 70672,
     "type": "tv",
-    "title": "Home Alone",
-    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-    "rating": 7.5,
-    "votes": 18,
-    "release": "2013-03-22",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
     "genres": [
-      10764
+      10764,
+      35
     ],
-    "popularity": 92.1644
+    "popularity": 104.149
   },
   {
     "id": 224,
@@ -303,7 +287,23 @@
       10767,
       10763
     ],
-    "popularity": 106.8733
+    "popularity": 105.5821
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fvnxFPUsTFMh81cMoIGBrJo8F6z.jpg",
+    "rating": 6.785,
+    "votes": 370,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 103.4491
   },
   {
     "id": 206559,
@@ -319,7 +319,7 @@
     "genres": [
       10766
     ],
-    "popularity": 102.8995
+    "popularity": 105.7189
   },
   {
     "id": 11890,
@@ -335,6 +335,6 @@
     "genres": [
       10766
     ],
-    "popularity": 97.7652
+    "popularity": 104.6409
   }
 ]
