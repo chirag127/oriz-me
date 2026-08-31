@@ -4,228 +4,6 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "",
-    "name": "Reply quickly in Gmail",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Kevin+Stratvert",
-      "name": "Kevin Stratvert",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Kevin+Stratvert/_/Reply+quickly+in+Gmail",
-    "duration": "0",
-    "@attr": {
-      "rank": "1"
-    },
-    "playcount": "11"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Get Grammarly",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Kevin+Stratvert",
-      "name": "Kevin Stratvert",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Kevin+Stratvert/_/Get+Grammarly",
-    "duration": "0",
-    "@attr": {
-      "rank": "2"
-    },
-    "playcount": "9"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Improve text in PowerPoint",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Kevin+Stratvert",
-      "name": "Kevin Stratvert",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Kevin+Stratvert/_/Improve+text+in+PowerPoint",
-    "duration": "0",
-    "@attr": {
-      "rank": "3"
-    },
-    "playcount": "6"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
-    "name": "The Fate of Ophelia",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Taylor+Swift",
-      "name": "Taylor Swift",
-      "mbid": "20244d07-534f-4eff-b4d4-930878889970"
-    },
-    "url": "https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia",
-    "duration": "226",
-    "@attr": {
-      "rank": "4"
-    },
-    "playcount": "4"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "250K Lines of Production Rust, Exposed by a Privacy Scandal",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Grok+Build+Architecture+Deep+Dive",
-      "name": "Grok Build Architecture Deep Dive",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Grok+Build+Architecture+Deep+Dive/_/250K+Lines+of+Production+Rust,+Exposed+by+a+Privacy+Scandal",
-    "duration": "0",
-    "@attr": {
-      "rank": "5"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Brainstorm new emails in Outlook",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Kevin+Stratvert",
-      "name": "Kevin Stratvert",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Kevin+Stratvert/_/Brainstorm+new+emails+in+Outlook",
-    "duration": "0",
-    "@attr": {
-      "rank": "6"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
     "mbid": "3a271d0f-3d2e-4b2d-b96e-02b6093ea4a1",
     "name": "Seventeen",
     "image": [
@@ -254,7 +32,7 @@
     "url": "https://www.last.fm/music/Troye+Sivan/_/Seventeen",
     "duration": "218",
     "@attr": {
-      "rank": "7"
+      "rank": "1"
     },
     "playcount": "2"
   },
@@ -291,7 +69,7 @@
     "url": "https://www.last.fm/music/Ed+Sheeran/_/All+of+the+Stars",
     "duration": "237",
     "@attr": {
-      "rank": "8"
+      "rank": "2"
     },
     "playcount": "1"
   },
@@ -328,81 +106,7 @@
     "url": "https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You",
     "duration": "233",
     "@attr": {
-      "rank": "9"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Massive Border Crisis Hits Spain",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Europe+in+shock",
-      "name": "Europe in shock",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Europe+in+shock/_/Massive+Border+Crisis+Hits+Spain",
-    "duration": "0",
-    "@attr": {
-      "rank": "10"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Opus 5 is Anthropic's most anxious model yet...",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Fireship",
-      "name": "Fireship",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Fireship/_/Opus+5+is+Anthropic%27s+most+anxious+model+yet...",
-    "duration": "0",
-    "@attr": {
-      "rank": "11"
+      "rank": "3"
     },
     "playcount": "1"
   },
@@ -439,44 +143,7 @@
     "url": "https://www.last.fm/music/Harry+Styles/_/Falling+(Official+Video)",
     "duration": "0",
     "@attr": {
-      "rank": "12"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Dev",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/JCode:+245x+Faster+&+Cheaper%E2%80%94+Agent+Swarms,+Semantic+Memory,+Self",
-      "name": "JCode: 245x Faster & Cheaper— Agent Swarms, Semantic Memory, Self",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/JCode:+245x+Faster+&+Cheaper%E2%80%94+Agent+Swarms,+Semantic+Memory,+Self/_/Dev",
-    "duration": "0",
-    "@attr": {
-      "rank": "13"
+      "rank": "4"
     },
     "playcount": "1"
   },
@@ -513,7 +180,7 @@
     "url": "https://www.last.fm/music/John+Michael+Howell/_/Carnival",
     "duration": "104",
     "@attr": {
-      "rank": "14"
+      "rank": "5"
     },
     "playcount": "1"
   },
@@ -550,7 +217,7 @@
     "url": "https://www.last.fm/music/Khalid,+Dove+Cameron/_/We+Go+Down+Together+(Official+Video)",
     "duration": "0",
     "@attr": {
-      "rank": "15"
+      "rank": "6"
     },
     "playcount": "1"
   },
@@ -587,44 +254,7 @@
     "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
     "duration": "0",
     "@attr": {
-      "rank": "16"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "LLM cybersecurity capabilities are NOT my biggest fear",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Maximilian+Schwarzm%C3%BCller",
-      "name": "Maximilian Schwarzmüller",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Maximilian+Schwarzm%C3%BCller/_/LLM+cybersecurity+capabilities+are+NOT+my+biggest+fear",
-    "duration": "0",
-    "@attr": {
-      "rank": "17"
+      "rank": "7"
     },
     "playcount": "1"
   },
@@ -661,7 +291,7 @@
     "url": "https://www.last.fm/music/Omar+Rudberg/_/Simon%27s+Song+(from+the+Netflix+Series+Young+Royals)",
     "duration": "147",
     "@attr": {
-      "rank": "18"
+      "rank": "8"
     },
     "playcount": "1"
   },
@@ -698,7 +328,7 @@
     "url": "https://www.last.fm/music/Ruel/_/I+Can+Die+Now",
     "duration": "171",
     "@attr": {
-      "rank": "19"
+      "rank": "9"
     },
     "playcount": "1"
   },
@@ -735,7 +365,7 @@
     "url": "https://www.last.fm/music/Shawn+Mendes/_/In+My+Blood",
     "duration": "211",
     "@attr": {
-      "rank": "20"
+      "rank": "10"
     },
     "playcount": "1"
   },
@@ -772,7 +402,7 @@
     "url": "https://www.last.fm/music/Ten+Music+Group/_/Omar+Rudberg+-+Breathe+(Audio)",
     "duration": "0",
     "@attr": {
-      "rank": "21"
+      "rank": "11"
     },
     "playcount": "1"
   },
@@ -809,44 +439,7 @@
     "url": "https://www.last.fm/music/Ten+Music+Group/_/Omar+Rudberg+-+Coast+Side+(Audio)",
     "duration": "0",
     "@attr": {
-      "rank": "22"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Bring Infra, then Ethanol",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/THE+INDIAN+EXPRESS",
-      "name": "THE INDIAN EXPRESS",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/THE+INDIAN+EXPRESS/_/Bring+Infra,+then+Ethanol",
-    "duration": "0",
-    "@attr": {
-      "rank": "23"
+      "rank": "12"
     },
     "playcount": "1"
   },
@@ -883,81 +476,7 @@
     "url": "https://www.last.fm/music/Troye+Sivan/_/could+cry+just+thinkin+about+you+(full+version)",
     "duration": "158",
     "@attr": {
-      "rank": "24"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "We Bought An AI Product To Explain Why Online Shopping Is Broken",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Two+Cents",
-      "name": "Two Cents",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Two+Cents/_/We+Bought+An+AI+Product+To+Explain+Why+Online+Shopping+Is+Broken",
-    "duration": "0",
-    "@attr": {
-      "rank": "25"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Why No One Wants to Hire Gen Z",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Two+Cents",
-      "name": "Two Cents",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Two+Cents/_/Why+No+One+Wants+to+Hire+Gen+Z",
-    "duration": "0",
-    "@attr": {
-      "rank": "26"
+      "rank": "13"
     },
     "playcount": "1"
   }
