@@ -7,14 +7,31 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.101,
-    "votes": 3173,
+    "rating": 8.102,
+    "votes": 3183,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 556.5367
+    "popularity": 542.0665
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.109,
+    "votes": 1445,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 379.8473
   },
   {
     "id": 125988,
@@ -25,30 +42,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
     "rating": 8.192,
-    "votes": 2524,
+    "votes": 2532,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 339.6842
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.111,
-    "votes": 1441,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 344.688
+    "popularity": 306.9606
   },
   {
     "id": 95350,
@@ -58,15 +58,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.247,
-    "votes": 194,
+    "rating": 8.362,
+    "votes": 225,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 255.6563
+    "popularity": 309.0675
   },
   {
     "id": 97546,
@@ -76,14 +76,47 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.367,
-    "votes": 2604,
+    "rating": 8.4,
+    "votes": 2605,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 236.6622
+    "popularity": 233.8462
+  },
+  {
+    "id": 284825,
+    "tmdb_id": 284825,
+    "type": "tv",
+    "title": "Mr. Fanboy",
+    "overview": "Cast in a BL drama with his idol, devoted fanboy Wan finds his heart pulled in a shocking new direction by the idol's protective partner, Third.",
+    "poster": "https://image.tmdb.org/t/p/w342/vNo2ik8L1NdlgKdV2MJzU3mYKLV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4wsQ7ZvIBscpWupLPFltfKv0Ca8.jpg",
+    "rating": 9,
+    "votes": 1,
+    "release": "2026-08-29",
+    "genres": [
+      18
+    ],
+    "popularity": 149.1531
+  },
+  {
+    "id": 7967,
+    "tmdb_id": 7967,
+    "type": "tv",
+    "title": "The Rachel Maddow Show",
+    "overview": "The Rachel Maddow Show is a daily news and opinion television program that airs on MSNBC, running in the 9:00 pm ET timeslot. It is hosted by Rachel Maddow, who gained popularity with her frequent appearances as a liberal pundit on various MSNBC programs. It is based on her former radio show of the same name. The show debuted on September 8, 2008.",
+    "poster": "https://image.tmdb.org/t/p/w342/7Jzrp2piY29h8UgA2hEXsxCskt1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lrKyCG1DSJHvpJsw7YozU3e4ydV.jpg",
+    "rating": 5.9,
+    "votes": 30,
+    "release": "2008-09-08",
+    "genres": [
+      10763,
+      10767
+    ],
+    "popularity": 93.2056
   },
   {
     "id": 16807,
@@ -99,7 +132,7 @@
     "genres": [
       10763
     ],
-    "popularity": 166.4205
+    "popularity": 127.9409
   },
   {
     "id": 13945,
@@ -116,57 +149,7 @@
       18,
       10766
     ],
-    "popularity": 152.5966
-  },
-  {
-    "id": 2661,
-    "tmdb_id": 2661,
-    "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.4,
-    "votes": 105,
-    "release": "1971-04-03",
-    "genres": [
-      10759,
-      10765,
-      18
-    ],
-    "popularity": 123.9998
-  },
-  {
-    "id": 67707,
-    "tmdb_id": 67707,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
-    "rating": 5,
-    "votes": 4,
-    "release": "2005-01-17",
-    "genres": [
-      10764
-    ],
-    "popularity": 128.4426
-  },
-  {
-    "id": 299952,
-    "tmdb_id": 299952,
-    "type": "tv",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "rating": 6.125,
-    "votes": 4,
-    "release": "2026-08-26",
-    "genres": [
-      18
-    ],
-    "popularity": 126.6936
+    "popularity": 141.4603
   },
   {
     "id": 94664,
@@ -176,15 +159,48 @@
     "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.414,
-    "votes": 1690,
+    "rating": 8.415,
+    "votes": 1691,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 151.2041
+    "popularity": 152.9132
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 156.8441
+  },
+  {
+    "id": 82873,
+    "tmdb_id": 82873,
+    "type": "tv",
+    "title": "The Kelly Clarkson Show",
+    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+    "rating": 6.3,
+    "votes": 72,
+    "release": "2019-09-09",
+    "genres": [
+      10767
+    ],
+    "popularity": 143.5987
   },
   {
     "id": 45140,
@@ -204,7 +220,7 @@
       10751,
       10765
     ],
-    "popularity": 134.1892
+    "popularity": 141.8854
   },
   {
     "id": 30984,
@@ -214,15 +230,47 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.369,
-    "votes": 2249,
+    "rating": 8.363,
+    "votes": 2251,
     "release": "2004-10-05",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 132.7329
+    "popularity": 131.7346
+  },
+  {
+    "id": 67707,
+    "tmdb_id": 67707,
+    "type": "tv",
+    "title": "Paradise Hotel",
+    "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w342/zE4hi4gDP0T8HDC4noHasNsBKtb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg",
+    "rating": 5,
+    "votes": 4,
+    "release": "2005-01-17",
+    "genres": [
+      10764
+    ],
+    "popularity": 116.0389
+  },
+  {
+    "id": 299952,
+    "tmdb_id": 299952,
+    "type": "tv",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "rating": 6.1,
+    "votes": 4,
+    "release": "2026-08-26",
+    "genres": [
+      18
+    ],
+    "popularity": 209.9656
   },
   {
     "id": 91555,
@@ -239,74 +287,7 @@
       10759,
       18
     ],
-    "popularity": 120.4605
-  },
-  {
-    "id": 82873,
-    "tmdb_id": 82873,
-    "type": "tv",
-    "title": "The Kelly Clarkson Show",
-    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-    "rating": 6.3,
-    "votes": 72,
-    "release": "2019-09-09",
-    "genres": [
-      10767
-    ],
-    "popularity": 141.9796
-  },
-  {
-    "id": 615,
-    "tmdb_id": 615,
-    "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.364,
-    "votes": 3877,
-    "release": "1999-03-28",
-    "genres": [
-      16,
-      35,
-      10765
-    ],
-    "popularity": 102.7984
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 107.6968
-  },
-  {
-    "id": 224,
-    "tmdb_id": 224,
-    "type": "tv",
-    "title": "Match of the Day",
-    "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-    "poster": "https://image.tmdb.org/t/p/w342/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
-    "rating": 7.6,
-    "votes": 51,
-    "release": "1964-08-22",
-    "genres": [
-      10767,
-      10763
-    ],
-    "popularity": 100.3317
+    "popularity": 124.2799
   },
   {
     "id": 11890,
@@ -322,23 +303,38 @@
     "genres": [
       10766
     ],
-    "popularity": 108.2899
+    "popularity": 87.2281
   },
   {
-    "id": 70672,
-    "tmdb_id": 70672,
+    "id": 206559,
+    "tmdb_id": 206559,
     "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
     "genres": [
-      10764,
-      35
+      10766
     ],
-    "popularity": 150.7892
+    "popularity": 93.4171
+  },
+  {
+    "id": 65282,
+    "tmdb_id": 65282,
+    "type": "tv",
+    "title": "Home Alone",
+    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "rating": 7.5,
+    "votes": 18,
+    "release": "2013-03-22",
+    "genres": [
+      10764
+    ],
+    "popularity": 107.447
   }
 ]
