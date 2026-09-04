@@ -6,16 +6,16 @@
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-    "rating": 7.874,
-    "votes": 2363,
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "rating": 7.9,
+    "votes": 2398,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 952.532
+    "popularity": 857.7444
   },
   {
     "id": 1368337,
@@ -24,16 +24,16 @@
     "title": "The Odyssey",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "rating": 7.991,
-    "votes": 3410,
+    "backdrop": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "rating": 7.996,
+    "votes": 3437,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 544.3226
+    "popularity": 497.9764
   },
   {
     "id": 1288445,
@@ -43,31 +43,33 @@
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-    "rating": 6.351,
-    "votes": 259,
+    "rating": 6.371,
+    "votes": 264,
     "release": "2026-08-19",
     "genres": [
       28,
       53
     ],
-    "popularity": 412.2288
+    "popularity": 392.0104
   },
   {
-    "id": 1516698,
-    "tmdb_id": 1516698,
+    "id": 1204680,
+    "tmdb_id": 1204680,
     "type": "movie",
-    "title": "The Last Sunrise",
-    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-    "rating": 6.6,
-    "votes": 95,
-    "release": "2026-08-26",
+    "title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+    "rating": 7.8,
+    "votes": 117,
+    "release": "2026-08-20",
     "genres": [
-      10749,
-      18
+      35,
+      12,
+      10751,
+      16
     ],
-    "popularity": 318.6222
+    "popularity": 324.8273
   },
   {
     "id": 1621552,
@@ -77,15 +79,50 @@
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "poster": "https://image.tmdb.org/t/p/w342/z8eF0ACFFKtIZ4pUeo02PCzxRVO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.848,
-    "votes": 461,
+    "rating": 8.852,
+    "votes": 488,
     "release": "2026-08-21",
     "genres": [
       80,
       28,
       53
     ],
-    "popularity": 275.713
+    "popularity": 230.3441
+  },
+  {
+    "id": 1516698,
+    "tmdb_id": 1516698,
+    "type": "movie",
+    "title": "The Last Sunrise",
+    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+    "poster": "https://image.tmdb.org/t/p/w342/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+    "rating": 6.695,
+    "votes": 105,
+    "release": "2026-08-26",
+    "genres": [
+      10749,
+      18
+    ],
+    "popularity": 250.2477
+  },
+  {
+    "id": 1386315,
+    "tmdb_id": 1386315,
+    "type": "movie",
+    "title": "The Runner",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+    "rating": 6.246,
+    "votes": 126,
+    "release": "2026-09-03",
+    "genres": [
+      53,
+      28,
+      12
+    ],
+    "popularity": 248.5934
   },
   {
     "id": 1213243,
@@ -93,35 +130,17 @@
     "type": "movie",
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-    "poster": "https://image.tmdb.org/t/p/w342/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/uPDutjavZO22SbIngBezk173vSb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-    "rating": 7.686,
-    "votes": 51,
+    "rating": 7.7,
+    "votes": 63,
     "release": "2026-08-26",
     "genres": [
       28,
       80,
       18
     ],
-    "popularity": 260.8412
-  },
-  {
-    "id": 1204680,
-    "tmdb_id": 1204680,
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "rating": 7.809,
-    "votes": 94,
-    "release": "2026-08-20",
-    "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 246.8996
+    "popularity": 236.3746
   },
   {
     "id": 860508,
@@ -131,33 +150,15 @@
     "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
     "poster": "https://image.tmdb.org/t/p/w342/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-    "rating": 6.497,
-    "votes": 298,
+    "rating": 6.644,
+    "votes": 343,
     "release": "2026-08-27",
     "genres": [
       80,
       18,
       53
     ],
-    "popularity": 233.5012
-  },
-  {
-    "id": 1232569,
-    "tmdb_id": 1232569,
-    "type": "movie",
-    "title": "Pinocchio: Unstrung",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "poster": "https://image.tmdb.org/t/p/w342/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
-    "rating": 6.7,
-    "votes": 72,
-    "release": "2026-07-22",
-    "genres": [
-      27,
-      14,
-      9648
-    ],
-    "popularity": 230.3675
+    "popularity": 213.5041
   },
   {
     "id": 1339713,
@@ -168,51 +169,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
     "rating": 8.205,
-    "votes": 5241,
+    "votes": 5270,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 218.7101
+    "popularity": 210.2429
   },
   {
-    "id": 1323244,
-    "tmdb_id": 1323244,
+    "id": 1232569,
+    "tmdb_id": 1232569,
     "type": "movie",
-    "title": "Rage of Stars",
-    "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
-    "poster": "https://image.tmdb.org/t/p/w342/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-    "rating": 5.554,
-    "votes": 57,
-    "release": "2026-08-06",
+    "title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "poster": "https://image.tmdb.org/t/p/w342/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+    "rating": 6.689,
+    "votes": 74,
+    "release": "2026-07-22",
     "genres": [
-      28,
-      878,
-      53
+      27,
+      14,
+      9648
     ],
-    "popularity": 198.3525
-  },
-  {
-    "id": 1315772,
-    "tmdb_id": 1315772,
-    "type": "movie",
-    "title": "Minions & Monsters",
-    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "rating": 7.589,
-    "votes": 980,
-    "release": "2026-06-24",
-    "genres": [
-      12,
-      16,
-      35,
-      10751,
-      14
-    ],
-    "popularity": 183.0322
+    "popularity": 170.4168
   },
   {
     "id": 1375646,
@@ -222,34 +203,33 @@
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-    "rating": 8.1,
-    "votes": 665,
+    "rating": 8.091,
+    "votes": 674,
     "release": "2026-05-21",
     "genres": [
       28,
       27,
       878
     ],
-    "popularity": 177.3214
+    "popularity": 204.1842
   },
   {
-    "id": 1108427,
-    "tmdb_id": 1108427,
+    "id": 1323244,
+    "tmdb_id": 1323244,
     "type": "movie",
-    "title": "Moana",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 6.139,
-    "votes": 251,
-    "release": "2026-07-08",
+    "title": "Rage of Stars",
+    "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+    "poster": "https://image.tmdb.org/t/p/w342/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+    "rating": 5.738,
+    "votes": 65,
+    "release": "2026-08-06",
     "genres": [
-      10751,
-      14,
-      35,
-      12
+      28,
+      878,
+      53
     ],
-    "popularity": 174.0445
+    "popularity": 173.9924
   },
   {
     "id": 1393326,
@@ -259,15 +239,54 @@
     "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
     "poster": "https://image.tmdb.org/t/p/w342/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-    "rating": 7.1,
-    "votes": 39,
+    "rating": 7,
+    "votes": 41,
     "release": "2026-04-16",
     "genres": [
       27,
       35,
       53
     ],
-    "popularity": 159.9308
+    "popularity": 197.7294
+  },
+  {
+    "id": 1315772,
+    "tmdb_id": 1315772,
+    "type": "movie",
+    "title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "rating": 7.6,
+    "votes": 994,
+    "release": "2026-06-24",
+    "genres": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "popularity": 160.3543
+  },
+  {
+    "id": 1108427,
+    "tmdb_id": 1108427,
+    "type": "movie",
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "rating": 6.1,
+    "votes": 253,
+    "release": "2026-07-08",
+    "genres": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "popularity": 155.1311
   },
   {
     "id": 1514682,
@@ -277,8 +296,8 @@
     "overview": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
     "poster": "https://image.tmdb.org/t/p/w342/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-    "rating": 6.308,
-    "votes": 13,
+    "rating": 6.2,
+    "votes": 15,
     "release": "2026-07-29",
     "genres": [
       28,
@@ -286,7 +305,7 @@
       27,
       80
     ],
-    "popularity": 148.3248
+    "popularity": 161.3942
   },
   {
     "id": 1130948,
@@ -296,15 +315,32 @@
     "overview": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
     "poster": "https://image.tmdb.org/t/p/w342/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-    "rating": 6.045,
-    "votes": 33,
+    "rating": 6.015,
+    "votes": 34,
     "release": "2026-04-23",
     "genres": [
       35,
       18,
       53
     ],
-    "popularity": 127.5928
+    "popularity": 118.9504
+  },
+  {
+    "id": 278,
+    "tmdb_id": 278,
+    "type": "movie",
+    "title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "rating": 8.729,
+    "votes": 31223,
+    "release": "1994-09-23",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 110.8935
   },
   {
     "id": 1083381,
@@ -314,50 +350,14 @@
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.063,
-    "votes": 3095,
+    "rating": 7.065,
+    "votes": 3106,
     "release": "2026-05-27",
     "genres": [
       27,
       9648,
       878
     ],
-    "popularity": 122.1488
-  },
-  {
-    "id": 1284465,
-    "tmdb_id": 1284465,
-    "type": "movie",
-    "title": "The Death of Robin Hood",
-    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-    "poster": "https://image.tmdb.org/t/p/w342/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-    "rating": 6.3,
-    "votes": 267,
-    "release": "2026-06-18",
-    "genres": [
-      12,
-      18,
-      28
-    ],
-    "popularity": 119.3583
-  },
-  {
-    "id": 1384216,
-    "tmdb_id": 1384216,
-    "type": "movie",
-    "title": "The Dog Stars",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
-    "rating": 6.693,
-    "votes": 168,
-    "release": "2026-08-26",
-    "genres": [
-      878,
-      12,
-      53
-    ],
-    "popularity": 117.1592
+    "popularity": 109.4872
   }
 ]
