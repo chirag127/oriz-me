@@ -6,7 +6,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-01T04:36:07.340Z",
-    "searchScore": 40.3999,
+    "searchScore": 39.954052,
     "package": {
       "name": "@chirag127/ai",
       "keywords": [
@@ -43,7 +43,7 @@
       }
     },
     "score": {
-      "final": 40.3999,
+      "final": 39.954052,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -61,7 +61,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-31T10:11:07.678Z",
-    "searchScore": 34.51614,
+    "searchScore": 34.572575,
     "package": {
       "name": "@chirag127/oz-ai",
       "keywords": [
@@ -100,7 +100,7 @@
       }
     },
     "score": {
-      "final": 34.51614,
+      "final": 34.572575,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -118,7 +118,7 @@
     },
     "dependents": "1",
     "updated": "2026-09-01T07:26:24.277Z",
-    "searchScore": 33.912537,
+    "searchScore": 33.82694,
     "package": {
       "name": "@chirag127/keyless-ovh",
       "keywords": [
@@ -156,7 +156,7 @@
       }
     },
     "score": {
-      "final": 33.912537,
+      "final": 33.82694,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -174,7 +174,7 @@
     },
     "dependents": "1",
     "updated": "2026-09-01T07:26:22.371Z",
-    "searchScore": 32.772743,
+    "searchScore": 32.411068,
     "package": {
       "name": "@chirag127/keyless-pollinations",
       "keywords": [
@@ -211,7 +211,7 @@
       }
     },
     "score": {
-      "final": 32.772743,
+      "final": 32.411068,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -229,7 +229,7 @@
     },
     "dependents": "1",
     "updated": "2026-09-01T06:31:35.683Z",
-    "searchScore": 31.89448,
+    "searchScore": 31.946627,
     "package": {
       "name": "@chirag127/keyless-kilo",
       "keywords": [
@@ -267,7 +267,7 @@
       }
     },
     "score": {
-      "final": 31.89448,
+      "final": 31.946627,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -285,7 +285,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-01T06:31:38.427Z",
-    "searchScore": 29.757616,
+    "searchScore": 30.112312,
     "package": {
       "name": "@chirag127/keyless-opencode-zen",
       "keywords": [
@@ -323,7 +323,7 @@
       }
     },
     "score": {
-      "final": 29.757616,
+      "final": 30.112312,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -341,7 +341,7 @@
     },
     "dependents": "0",
     "updated": "2026-09-01T06:31:38.109Z",
-    "searchScore": 27.95514,
+    "searchScore": 28.288351,
     "package": {
       "name": "@chirag127/keyless-ai",
       "keywords": [
@@ -379,7 +379,7 @@
       }
     },
     "score": {
-      "final": 27.95514,
+      "final": 28.288351,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -392,12 +392,12 @@
   },
   {
     "downloads": {
-      "monthly": 227,
-      "weekly": 19
+      "monthly": 232,
+      "weekly": 18
     },
     "dependents": 0,
-    "updated": "2026-08-28T13:16:08.997Z",
-    "searchScore": 27.557552,
+    "updated": "2026-09-04T13:21:10.167Z",
+    "searchScore": 27.592106,
     "package": {
       "name": "@chirag127/oz-tokens-base",
       "keywords": [
@@ -432,7 +432,7 @@
       }
     },
     "score": {
-      "final": 27.557552,
+      "final": 27.592106,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -450,7 +450,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-31T10:26:14.548Z",
-    "searchScore": 26.162575,
+    "searchScore": 26.096537,
     "package": {
       "name": "@chirag127/astro-chrome",
       "keywords": [
@@ -480,7 +480,7 @@
       }
     },
     "score": {
-      "final": 26.162575,
+      "final": 26.096537,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -493,12 +493,12 @@
   },
   {
     "downloads": {
-      "monthly": 178,
+      "monthly": 182,
       "weekly": 17
     },
     "dependents": 0,
-    "updated": "2026-08-28T13:16:08.299Z",
-    "searchScore": 25.01551,
+    "updated": "2026-09-04T13:21:08.940Z",
+    "searchScore": 25.172754,
     "package": {
       "name": "@chirag127/oz-chrome",
       "keywords": [
@@ -532,7 +532,7 @@
       }
     },
     "score": {
-      "final": 25.01551,
+      "final": 25.172754,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -550,7 +550,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T07:51:16.849Z",
-    "searchScore": 24.391823,
+    "searchScore": 24.575466,
     "package": {
       "name": "@chirag127/data-firebase",
       "keywords": [
@@ -585,7 +585,7 @@
       }
     },
     "score": {
-      "final": 24.391823,
+      "final": 24.575466,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -603,7 +603,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T05:56:08.732Z",
-    "searchScore": 23.88728,
+    "searchScore": 23.926334,
     "package": {
       "name": "@chirag127/astro-shell",
       "keywords": [
@@ -633,7 +633,7 @@
       }
     },
     "score": {
-      "final": 23.88728,
+      "final": 23.926334,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -651,7 +651,7 @@
     },
     "dependents": "2",
     "updated": "2026-09-02T08:36:24.555Z",
-    "searchScore": 23.712954,
+    "searchScore": 23.451262,
     "package": {
       "name": "@chirag127/theme",
       "keywords": [
@@ -684,55 +684,7 @@
       }
     },
     "score": {
-      "final": 23.712954,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 112,
-      "weekly": 11
-    },
-    "dependents": 0,
-    "updated": "2026-08-30T17:56:11.071Z",
-    "searchScore": 23.50276,
-    "package": {
-      "name": "@chirag127/astro-data",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.1",
-      "description": "Data-fetching primitives — TanStack Query setup, typed Firestore helpers, LocalStorage hooks.",
-      "sanitized_name": "@chirag127/astro-data",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-21T17:05:49.184Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-data-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-data-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-data-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-data"
-      }
-    },
-    "score": {
-      "final": 23.50276,
+      "final": 23.451262,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -750,7 +702,7 @@
     },
     "dependents": "3",
     "updated": "2026-09-02T07:51:40.449Z",
-    "searchScore": 23.416218,
+    "searchScore": 23.448874,
     "package": {
       "name": "@chirag127/tokens",
       "keywords": [
@@ -783,7 +735,55 @@
       }
     },
     "score": {
-      "final": 23.416218,
+      "final": 23.448874,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 112,
+      "weekly": 11
+    },
+    "dependents": 0,
+    "updated": "2026-08-30T17:56:11.071Z",
+    "searchScore": 23.425499,
+    "package": {
+      "name": "@chirag127/astro-data",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.1",
+      "description": "Data-fetching primitives — TanStack Query setup, typed Firestore helpers, LocalStorage hooks.",
+      "sanitized_name": "@chirag127/astro-data",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-21T17:05:49.184Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-data-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-data-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-data-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-data"
+      }
+    },
+    "score": {
+      "final": 23.425499,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -801,7 +801,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T08:46:34.351Z",
-    "searchScore": 23.242039,
+    "searchScore": 23.165634,
     "package": {
       "name": "@chirag127/styling",
       "keywords": [
@@ -836,7 +836,7 @@
       }
     },
     "score": {
-      "final": 23.242039,
+      "final": 23.165634,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -849,12 +849,12 @@
   },
   {
     "downloads": {
-      "monthly": 124,
-      "weekly": 18
+      "monthly": 127,
+      "weekly": 15
     },
     "dependents": 0,
-    "updated": "2026-08-28T13:16:06.937Z",
-    "searchScore": 22.71628,
+    "updated": "2026-09-04T13:21:08.314Z",
+    "searchScore": 22.882647,
     "package": {
       "name": "@chirag127/oz-file",
       "keywords": [
@@ -891,7 +891,7 @@
       }
     },
     "score": {
-      "final": 22.71628,
+      "final": 22.882647,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -909,7 +909,7 @@
     },
     "dependents": "1",
     "updated": "2026-09-02T07:51:19.344Z",
-    "searchScore": 22.602169,
+    "searchScore": 22.871576,
     "package": {
       "name": "@chirag127/a11y",
       "keywords": [
@@ -944,7 +944,7 @@
       }
     },
     "score": {
-      "final": 22.602169,
+      "final": 22.871576,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -962,7 +962,7 @@
     },
     "dependents": "2",
     "updated": "2026-09-02T07:51:12.700Z",
-    "searchScore": 22.43184,
+    "searchScore": 22.599543,
     "package": {
       "name": "@chirag127/atoms",
       "keywords": [
@@ -996,7 +996,7 @@
       }
     },
     "score": {
-      "final": 22.43184,
+      "final": 22.599543,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1014,7 +1014,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T07:51:14.676Z",
-    "searchScore": 22.299911,
+    "searchScore": 22.565716,
     "package": {
       "name": "@chirag127/auth",
       "keywords": [
@@ -1049,7 +1049,7 @@
       }
     },
     "score": {
-      "final": 22.299911,
+      "final": 22.565716,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1067,7 +1067,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T07:51:21.177Z",
-    "searchScore": 22.117868,
+    "searchScore": 22.283224,
     "package": {
       "name": "@chirag127/astro",
       "keywords": [
@@ -1100,7 +1100,7 @@
       }
     },
     "score": {
-      "final": 22.117868,
+      "final": 22.283224,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1118,7 +1118,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-30T14:16:11.068Z",
-    "searchScore": 21.284327,
+    "searchScore": 21.31401,
     "package": {
       "name": "@chirag127/astro-test-utils",
       "keywords": [
@@ -1152,7 +1152,7 @@
       }
     },
     "score": {
-      "final": 21.284327,
+      "final": 21.31401,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1170,7 +1170,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-31T06:36:09.805Z",
-    "searchScore": 20.855307,
+    "searchScore": 21.011223,
     "package": {
       "name": "@chirag127/oriz-ai-providers",
       "keywords": [
@@ -1212,7 +1212,7 @@
       }
     },
     "score": {
-      "final": 20.855307,
+      "final": 21.011223,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1230,7 +1230,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-31T16:46:09.977Z",
-    "searchScore": 20.437428,
+    "searchScore": 20.46593,
     "package": {
       "name": "@chirag127/mdv-mcp",
       "keywords": [
@@ -1270,7 +1270,7 @@
       }
     },
     "score": {
-      "final": 20.437428,
+      "final": 20.46593,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1288,7 +1288,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-31T07:46:08.094Z",
-    "searchScore": 19.222422,
+    "searchScore": 19.366133,
     "package": {
       "name": "@chirag127/oriz-ui",
       "keywords": [
@@ -1322,7 +1322,7 @@
       }
     },
     "score": {
-      "final": 19.222422,
+      "final": 19.366133,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1340,7 +1340,7 @@
     },
     "dependents": 0,
     "updated": "2026-08-29T09:11:09.578Z",
-    "searchScore": 17.151564,
+    "searchScore": 17.356,
     "package": {
       "name": "secenv-mcp",
       "keywords": [
@@ -1376,7 +1376,7 @@
       }
     },
     "score": {
-      "final": 17.151564,
+      "final": 17.356,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1394,7 +1394,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-01T06:36:35.710Z",
-    "searchScore": 16.821743,
+    "searchScore": 16.849247,
     "package": {
       "name": "envpact-mcp",
       "keywords": [
@@ -1433,7 +1433,7 @@
       }
     },
     "score": {
-      "final": 16.821743,
+      "final": 16.849247,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1451,7 +1451,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-03T22:11:10.231Z",
-    "searchScore": 16.021736,
+    "searchScore": 16.141516,
     "package": {
       "name": "@chirag127/okf-knowledge-mcp",
       "keywords": [
@@ -1483,7 +1483,7 @@
       }
     },
     "score": {
-      "final": 16.021736,
+      "final": 16.141516,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1501,7 +1501,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-01T08:06:09.563Z",
-    "searchScore": 15.84754,
+    "searchScore": 15.87345,
     "package": {
       "name": "@chirag127/react",
       "keywords": [
@@ -1534,7 +1534,7 @@
       }
     },
     "score": {
-      "final": 15.84754,
+      "final": 15.87345,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1552,7 +1552,7 @@
     },
     "dependents": 0,
     "updated": "2026-09-02T19:11:09.478Z",
-    "searchScore": 14.866227,
+    "searchScore": 14.88696,
     "package": {
       "name": "@chirag127/lastfm",
       "keywords": [],
@@ -1579,7 +1579,7 @@
       }
     },
     "score": {
-      "final": 14.866227,
+      "final": 14.88696,
       "detail": {
         "popularity": 1,
         "quality": 1,
