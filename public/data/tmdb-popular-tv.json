@@ -1,22 +1,5 @@
 [
   {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.108,
-    "votes": 3217,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 588.2525
-  },
-  {
     "id": 22980,
     "tmdb_id": 22980,
     "type": "tv",
@@ -24,14 +7,31 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.921,
-    "votes": 89,
+    "rating": 4.911,
+    "votes": 90,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 781.1408
+    "popularity": 447.4424
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.109,
+    "votes": 3224,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 581.2452
   },
   {
     "id": 5920,
@@ -41,15 +41,31 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-    "rating": 8.4,
-    "votes": 4652,
+    "rating": 8.401,
+    "votes": 4658,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 406.6163
+    "popularity": 387.0539
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.373,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 225.7432
   },
   {
     "id": 125988,
@@ -59,14 +75,14 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.202,
-    "votes": 2573,
+    "rating": 8.2,
+    "votes": 2581,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 362.9155
+    "popularity": 355.3231
   },
   {
     "id": 65282,
@@ -82,7 +98,7 @@
     "genres": [
       10764
     ],
-    "popularity": 351.8121
+    "popularity": 180.3104
   },
   {
     "id": 113962,
@@ -92,14 +108,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.122,
-    "votes": 1459,
+    "rating": 8.126,
+    "votes": 1464,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 348.021
+    "popularity": 336.1769
   },
   {
     "id": 456,
@@ -109,32 +125,14 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8,
+    "rating": 8.022,
     "votes": 10980,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 316.2587
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 8,
-    "votes": 4331,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 291.5504
+    "popularity": 272.1693
   },
   {
     "id": 97546,
@@ -145,81 +143,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
     "rating": 8.368,
-    "votes": 2619,
+    "votes": 2621,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 299.5786
-  },
-  {
-    "id": 79744,
-    "tmdb_id": 79744,
-    "type": "tv",
-    "title": "The Rookie",
-    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-    "rating": 8.541,
-    "votes": 3502,
-    "release": "2018-10-16",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 261.9566
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.276,
-    "votes": 254,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 226.251
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.768,
-    "votes": 256,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 262.6235
-  },
-  {
-    "id": 117217,
-    "tmdb_id": 117217,
-    "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.7,
-    "votes": 3,
-    "release": "2005-01-03",
-    "genres": [
-      10764
-    ],
-    "popularity": 283.0136
+    "popularity": 275.7569
   },
   {
     "id": 59941,
@@ -236,76 +166,25 @@
       35,
       10767
     ],
-    "popularity": 295.0917
+    "popularity": 227.4727
   },
   {
-    "id": 4057,
-    "tmdb_id": 4057,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "Criminal Minds",
-    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-    "rating": 8.298,
-    "votes": 4160,
-    "release": "2005-09-22",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 7.961,
+    "votes": 4331,
+    "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 284.4733
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.3,
-    "votes": 709,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 216.4489
-  },
-  {
-    "id": 2661,
-    "tmdb_id": 2661,
-    "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.4,
-    "votes": 105,
-    "release": "1971-04-03",
-    "genres": [
-      10759,
-      10765,
-      18
-    ],
-    "popularity": 216.413
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 215.114
+    "popularity": 273.5009
   },
   {
     "id": 63770,
@@ -322,24 +201,142 @@
       35,
       10767
     ],
-    "popularity": 285.1087
+    "popularity": 209.0536
   },
   {
-    "id": 1622,
-    "tmdb_id": 1622,
+    "id": 4057,
+    "tmdb_id": 4057,
     "type": "tv",
-    "title": "Supernatural",
-    "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-    "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
-    "rating": 8.314,
-    "votes": 8647,
-    "release": "2005-09-13",
+    "title": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.299,
+    "votes": 4164,
+    "release": "2005-09-22",
     "genres": [
+      80,
       18,
-      9648,
-      10765
+      9648
     ],
-    "popularity": 232.8731
+    "popularity": 210.0822
+  },
+  {
+    "id": 117217,
+    "tmdb_id": 117217,
+    "type": "tv",
+    "title": "El conquistador",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+    "rating": 5.7,
+    "votes": 3,
+    "release": "2005-01-03",
+    "genres": [
+      10764
+    ],
+    "popularity": 378.0416
+  },
+  {
+    "id": 2261,
+    "tmdb_id": 2261,
+    "type": "tv",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.536,
+    "votes": 96,
+    "release": "1962-10-01",
+    "genres": [
+      10767
+    ],
+    "popularity": 199.7353
+  },
+  {
+    "id": 94722,
+    "tmdb_id": 94722,
+    "type": "tv",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.768,
+    "votes": 256,
+    "release": "1952-12-26",
+    "genres": [
+      10763
+    ],
+    "popularity": 298.4967
+  },
+  {
+    "id": 79744,
+    "tmdb_id": 79744,
+    "type": "tv",
+    "title": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "rating": 8.541,
+    "votes": 3506,
+    "release": "2018-10-16",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 258.6103
+  },
+  {
+    "id": 1399,
+    "tmdb_id": 1399,
+    "type": "tv",
+    "title": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "poster": "https://image.tmdb.org/t/p/w342/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+    "rating": 8.471,
+    "votes": 27673,
+    "release": "2011-04-17",
+    "genres": [
+      10765,
+      18,
+      10759
+    ],
+    "popularity": 191.9917
+  },
+  {
+    "id": 502,
+    "tmdb_id": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "rating": 7.1,
+    "votes": 290,
+    "release": "1969-11-10",
+    "genres": [
+      10762,
+      35
+    ],
+    "popularity": 166.2875
+  },
+  {
+    "id": 1433,
+    "tmdb_id": 1433,
+    "type": "tv",
+    "title": "American Dad!",
+    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+    "rating": 7.021,
+    "votes": 2437,
+    "release": "2005-02-06",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 195.082
   }
 ]

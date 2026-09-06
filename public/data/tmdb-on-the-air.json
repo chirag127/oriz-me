@@ -1,22 +1,5 @@
 [
   {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.108,
-    "votes": 3215,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 588.2525
-  },
-  {
     "id": 22980,
     "tmdb_id": 22980,
     "type": "tv",
@@ -24,82 +7,31 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.921,
-    "votes": 89,
+    "rating": 4.911,
+    "votes": 90,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 781.1408
+    "popularity": 447.4424
   },
   {
-    "id": 113962,
-    "tmdb_id": 113962,
+    "id": 108978,
+    "tmdb_id": 108978,
     "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.122,
-    "votes": 1459,
-    "release": "2023-07-23",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.109,
+    "votes": 3224,
+    "release": "2022-02-03",
     "genres": [
-      18,
-      10768
+      10759,
+      80
     ],
-    "popularity": 348.021
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.367,
-    "votes": 2618,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 299.5786
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "rating": 8.3,
-    "votes": 252,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 226.251
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 215.114
+    "popularity": 581.2452
   },
   {
     "id": 291,
@@ -115,7 +47,7 @@
     "genres": [
       10766
     ],
-    "popularity": 397.441
+    "popularity": 225.7432
   },
   {
     "id": 65282,
@@ -131,23 +63,93 @@
     "genres": [
       10764
     ],
-    "popularity": 351.8121
+    "popularity": 180.3104
   },
   {
-    "id": 299952,
-    "tmdb_id": 299952,
+    "id": 113962,
+    "tmdb_id": 113962,
     "type": "tv",
-    "title": "The Early Spring",
-    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "rating": 7.6,
-    "votes": 7,
-    "release": "2026-08-26",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.123,
+    "votes": 1462,
+    "release": "2023-07-23",
     "genres": [
+      18,
+      10768
+    ],
+    "popularity": 336.1769
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.368,
+    "votes": 2621,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 275.7569
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "rating": 8.28,
+    "votes": 261,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 217.679
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.4,
+    "votes": 105,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
       18
     ],
-    "popularity": 168.6704
+    "popularity": 167.5215
+  },
+  {
+    "id": 37528,
+    "tmdb_id": 37528,
+    "type": "tv",
+    "title": "Gran hermano",
+    "overview": "Argentina's version of the Big Brother franchise.",
+    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+    "rating": 4.5,
+    "votes": 4,
+    "release": "2001-03-10",
+    "genres": [
+      10764
+    ],
+    "popularity": 209.3523
   },
   {
     "id": 45140,
@@ -157,8 +159,8 @@
     "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
     "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "rating": 6.419,
-    "votes": 729,
+    "rating": 6.421,
+    "votes": 730,
     "release": "2013-04-23",
     "genres": [
       16,
@@ -167,7 +169,7 @@
       10751,
       10765
     ],
-    "popularity": 195.571
+    "popularity": 177.3915
   },
   {
     "id": 91555,
@@ -184,7 +186,23 @@
       10759,
       18
     ],
-    "popularity": 193.6622
+    "popularity": 135.9437
+  },
+  {
+    "id": 299952,
+    "tmdb_id": 299952,
+    "type": "tv",
+    "title": "The Early Spring",
+    "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "rating": 7.6,
+    "votes": 7,
+    "release": "2026-08-26",
+    "genres": [
+      18
+    ],
+    "popularity": 157.796
   },
   {
     "id": 2224,
@@ -194,83 +212,48 @@
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
     "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.4,
-    "votes": 656,
+    "rating": 6.406,
+    "votes": 657,
     "release": "1996-07-22",
     "genres": [
       10763,
       35
     ],
-    "popularity": 168.5274
+    "popularity": 157.203
   },
   {
-    "id": 13945,
-    "tmdb_id": 13945,
+    "id": 72879,
+    "tmdb_id": 72879,
     "type": "tv",
-    "title": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "rating": 5.5,
-    "votes": 49,
-    "release": "1992-05-11",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+    "rating": 6.292,
+    "votes": 72,
+    "release": "2017-07-17",
     "genres": [
+      80,
       18,
       10766
     ],
-    "popularity": 168.9213
+    "popularity": 144.4091
   },
   {
-    "id": 94664,
-    "tmdb_id": 94664,
+    "id": 65701,
+    "tmdb_id": 65701,
     "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.413,
-    "votes": 1698,
-    "release": "2021-01-11",
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "rating": 6.892,
+    "votes": 93,
+    "release": "2012-01-09",
     "genres": [
-      10759,
-      16,
-      10765
+      35
     ],
-    "popularity": 132.0271
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.361,
-    "votes": 2258,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 142.2097
-  },
-  {
-    "id": 284825,
-    "tmdb_id": 284825,
-    "type": "tv",
-    "title": "Mr. Fanboy",
-    "overview": "Cast in a BL drama with his idol, devoted fanboy Wan finds his heart pulled in a shocking new direction by the idol's protective partner, Third.",
-    "poster": "https://image.tmdb.org/t/p/w342/vNo2ik8L1NdlgKdV2MJzU3mYKLV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4wsQ7ZvIBscpWupLPFltfKv0Ca8.jpg",
-    "rating": 9,
-    "votes": 1,
-    "release": "2026-08-29",
-    "genres": [
-      18
-    ],
-    "popularity": 129.6762
+    "popularity": 124.5221
   },
   {
     "id": 70672,
@@ -287,39 +270,59 @@
       10764,
       35
     ],
-    "popularity": 147.4113
+    "popularity": 102.9592
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 30984,
+    "tmdb_id": 30984,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.358,
+    "votes": 2259,
+    "release": "2004-10-05",
     "genres": [
-      10766
+      10759,
+      16,
+      10765
     ],
-    "popularity": 122.5691
+    "popularity": 151.7018
   },
   {
-    "id": 4656,
-    "tmdb_id": 4656,
+    "id": 94664,
+    "tmdb_id": 94664,
     "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-    "rating": 6.8,
-    "votes": 370,
-    "release": "1993-01-11",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.4,
+    "votes": 1700,
+    "release": "2021-01-11",
     "genres": [
-      10764
+      10759,
+      16,
+      10765
     ],
-    "popularity": 109.5334
+    "popularity": 136.3549
+  },
+  {
+    "id": 284825,
+    "tmdb_id": 284825,
+    "type": "tv",
+    "title": "Mr. Fanboy",
+    "overview": "Cast in a BL drama with his idol, devoted fanboy Wan finds his heart pulled in a shocking new direction by the idol's protective partner, Third.",
+    "poster": "https://image.tmdb.org/t/p/w342/vNo2ik8L1NdlgKdV2MJzU3mYKLV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4wsQ7ZvIBscpWupLPFltfKv0Ca8.jpg",
+    "rating": 9,
+    "votes": 1,
+    "release": "2026-08-29",
+    "genres": [
+      18
+    ],
+    "popularity": 138.2374
   },
   {
     "id": 4419,
@@ -336,6 +339,6 @@
       35,
       10767
     ],
-    "popularity": 128.5112
+    "popularity": 107.3212
   }
 ]
