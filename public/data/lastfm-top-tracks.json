@@ -4,43 +4,6 @@
       "fulltrack": "0",
       "#text": "0"
     },
-    "mbid": "d7500dd6-b815-4299-88c6-3fbda358f1fc",
-    "name": "Shape of You",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Ed+Sheeran",
-      "name": "Ed Sheeran",
-      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6"
-    },
-    "url": "https://www.last.fm/music/Ed+Sheeran/_/Shape+of+You",
-    "duration": "233",
-    "@attr": {
-      "rank": "1"
-    },
-    "playcount": "1"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
     "mbid": "3a271d0f-3d2e-4b2d-b96e-02b6093ea4a1",
     "name": "Seventeen",
     "image": [
@@ -69,7 +32,7 @@
     "url": "https://www.last.fm/music/Troye+Sivan/_/Seventeen",
     "duration": "218",
     "@attr": {
-      "rank": "2"
+      "rank": "1"
     },
     "playcount": "1"
   }
