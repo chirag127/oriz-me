@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.109,
-    "votes": 3238,
+    "rating": 8.111,
+    "votes": 3248,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 605.2635
+    "popularity": 583.5827
   },
   {
     "id": 22980,
@@ -31,75 +31,7 @@
       10767,
       35
     ],
-    "popularity": 512.3536
-  },
-  {
-    "id": 117217,
-    "tmdb_id": 117217,
-    "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.7,
-    "votes": 3,
-    "release": "2005-01-03",
-    "genres": [
-      10764
-    ],
-    "popularity": 442.689
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.1,
-    "votes": 1484,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 424.8669
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-    "rating": 8.403,
-    "votes": 4670,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 396.068
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.2,
-    "votes": 2603,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 346.844
+    "popularity": 440.0731
   },
   {
     "id": 51025,
@@ -115,41 +47,56 @@
     "genres": [
       10764
     ],
-    "popularity": 489.4462
+    "popularity": 692.2149
   },
   {
-    "id": 79744,
-    "tmdb_id": 79744,
+    "id": 117217,
+    "tmdb_id": 117217,
     "type": "tv",
-    "title": "The Rookie",
-    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-    "rating": 8.542,
-    "votes": 3511,
-    "release": "2018-10-16",
+    "title": "El conquistador",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+    "rating": 5.667,
+    "votes": 3,
+    "release": "2005-01-03",
     "genres": [
-      80,
+      10764
+    ],
+    "popularity": 417.6418
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.148,
+    "votes": 1495,
+    "release": "2023-07-23",
+    "genres": [
       18,
-      35
+      10768
     ],
-    "popularity": 307.5452
+    "popularity": 398.7062
   },
   {
-    "id": 291,
-    "tmdb_id": 291,
+    "id": 65270,
+    "tmdb_id": 65270,
     "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
+    "title": "Radio Star",
+    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "rating": 5.4,
+    "votes": 5,
+    "release": "2007-05-30",
     "genres": [
-      10766
+      10767
     ],
-    "popularity": 310.4669
+    "popularity": 201.0624
   },
   {
     "id": 36109,
@@ -165,7 +112,7 @@
     "genres": [
       10764
     ],
-    "popularity": 417.3816
+    "popularity": 544.9805
   },
   {
     "id": 30801,
@@ -175,32 +122,115 @@
     "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
     "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-    "rating": 6.7,
+    "rating": 6.667,
     "votes": 30,
     "release": "2007-08-05",
     "genres": [
       35,
       10764
     ],
-    "popularity": 404.004
+    "popularity": 606.0363
   },
   {
-    "id": 95350,
-    "tmdb_id": 95350,
+    "id": 5920,
+    "tmdb_id": 5920,
     "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.3,
-    "votes": 286,
-    "release": "2026-08-16",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+    "rating": 8.403,
+    "votes": 4677,
+    "release": "2008-09-23",
     "genres": [
+      80,
       18,
-      9648,
-      10765
+      9648
     ],
-    "popularity": 277.2042
+    "popularity": 378.876
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 176.2604
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+    "rating": 8.203,
+    "votes": 2614,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 334.8337
+  },
+  {
+    "id": 52910,
+    "tmdb_id": 52910,
+    "type": "tv",
+    "title": "Law of the Jungle",
+    "overview": "Law of the Jungle is a hybrid reality show combining elements of drama and documentary. The show is hosted by comedian Kim Byung Man, and each episode invites various celebrities from the various field. So far, many of idol stars and famous actors have appeared on the show. The show introduces viewers to exotic locations around the world where celebrities must work together in order to complete missions and survive. The cast celebrities travel to less habituated, natural places to survive on their own and experience life with local tribes and people. In each location, the guests are tasked to hunt and prepare their meals and also create shelter for the tribe. They sometimes confronted by many difficult challenges. Where will the tribe visit? And how will they survive on their own? Stay tuned to check out!",
+    "poster": "https://image.tmdb.org/t/p/w342/zgMOq3H27nYikqjykeXCIIFRbjK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sgE2evtpaP5b9tavrgYCy2nKYLT.jpg",
+    "rating": 5.7,
+    "votes": 10,
+    "release": "2011-10-21",
+    "genres": [
+      10764
+    ],
+    "popularity": 176.1696
+  },
+  {
+    "id": 65282,
+    "tmdb_id": 65282,
+    "type": "tv",
+    "title": "Home Alone",
+    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "rating": 7.5,
+    "votes": 18,
+    "release": "2013-03-22",
+    "genres": [
+      10764
+    ],
+    "popularity": 200.1477
+  },
+  {
+    "id": 78648,
+    "tmdb_id": 78648,
+    "type": "tv",
+    "title": "Amazing Saturday",
+    "overview": "A group of hungry celebrities listen to poppin’ tunes, from recent hits to all-time-favorites, to correctly dictate a part of the lyrics.\n\nThe songs may sound familiar, but the part they must dictate are unclear to the naked ear, as the lyrics are slurred, muffled by strong beats, etc.\n\nIf they get the lyrics right, they get to share exquisite regional dishes. But if they get them wrong, a professional eater gobbles it up instead.",
+    "poster": "https://image.tmdb.org/t/p/w342/nEwybsfZBSPjcZamPpKDTaTI5g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
+    "rating": 7.6,
+    "votes": 10,
+    "release": "2018-04-07",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 157.1245
   },
   {
     "id": 2734,
@@ -210,32 +240,49 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.961,
-    "votes": 4333,
+    "rating": 7.962,
+    "votes": 4335,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 311.9797
+    "popularity": 272.4683
   },
   {
-    "id": 456,
-    "tmdb_id": 456,
+    "id": 291,
+    "tmdb_id": 291,
     "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8,
-    "votes": 10986,
-    "release": "1989-12-17",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.373,
+    "votes": 118,
+    "release": "1960-12-09",
     "genres": [
-      16,
+      10766
+    ],
+    "popularity": 245.1484
+  },
+  {
+    "id": 79744,
+    "tmdb_id": 79744,
+    "type": "tv",
+    "title": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "rating": 8.542,
+    "votes": 3514,
+    "release": "2018-10-16",
+    "genres": [
+      80,
+      18,
       35
     ],
-    "popularity": 297.3709
+    "popularity": 269.5935
   },
   {
     "id": 94722,
@@ -251,94 +298,41 @@
     "genres": [
       10763
     ],
-    "popularity": 299.8673
+    "popularity": 390.697
   },
   {
-    "id": 97546,
-    "tmdb_id": 97546,
+    "id": 2661,
+    "tmdb_id": 2661,
     "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-    "rating": 8.371,
-    "votes": 2628,
-    "release": "2020-08-14",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.396,
+    "votes": 106,
+    "release": "1971-04-03",
     "genres": [
-      18,
-      35
-    ],
-    "popularity": 254.9088
-  },
-  {
-    "id": 45857,
-    "tmdb_id": 45857,
-    "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.133,
-    "votes": 192,
-    "release": "2006-10-07",
-    "genres": [
-      16,
-      35,
-      10759
-    ],
-    "popularity": 278.8158
-  },
-  {
-    "id": 764,
-    "tmdb_id": 764,
-    "type": "tv",
-    "title": "Midsomer Murders",
-    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
-    "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-    "rating": 7.5,
-    "votes": 372,
-    "release": "1997-03-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 228.3823
-  },
-  {
-    "id": 236235,
-    "tmdb_id": 236235,
-    "type": "tv",
-    "title": "The Gentlemen",
-    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-    "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-    "rating": 7.835,
-    "votes": 881,
-    "release": "2024-03-07",
-    "genres": [
-      35,
-      18,
-      80
-    ],
-    "popularity": 240.4067
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.27,
-    "votes": 710,
-    "release": "1990-09-13",
-    "genres": [
-      80,
+      10759,
+      10765,
       18
     ],
-    "popularity": 236.8271
+    "popularity": 196.0791
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.022,
+    "votes": 10989,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 256.8752
   }
 ]

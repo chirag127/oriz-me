@@ -7,14 +7,14 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.206,
-    "votes": 2604,
+    "rating": 8.2,
+    "votes": 2614,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 346.844
+    "popularity": 334.8337
   },
   {
     "id": 95350,
@@ -23,16 +23,16 @@
     "title": "Lanterns",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
     "rating": 8.3,
-    "votes": 286,
+    "votes": 292,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 277.2042
+    "popularity": 253.5113
   },
   {
     "id": 236235,
@@ -42,15 +42,50 @@
     "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
     "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-    "rating": 7.835,
-    "votes": 881,
+    "rating": 7.839,
+    "votes": 886,
     "release": "2024-03-07",
     "genres": [
       35,
       18,
       80
     ],
-    "popularity": 240.4067
+    "popularity": 245.1087
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.111,
+    "votes": 3248,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 583.5827
+  },
+  {
+    "id": 30984,
+    "tmdb_id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.4,
+    "votes": 2264,
+    "release": "2004-10-05",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 129.2525
   },
   {
     "id": 329471,
@@ -66,41 +101,7 @@
     "genres": [
       10764
     ],
-    "popularity": 33.9371
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.109,
-    "votes": 3238,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 605.2635
-  },
-  {
-    "id": 196322,
-    "tmdb_id": 196322,
-    "type": "tv",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-    "rating": 7.799,
-    "votes": 762,
-    "release": "2024-05-07",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 76.5591
+    "popularity": 34.8006
   },
   {
     "id": 113962,
@@ -110,32 +111,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.1,
-    "votes": 1484,
+    "rating": 8.148,
+    "votes": 1495,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 424.8669
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.352,
-    "votes": 2263,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 149.502
+    "popularity": 398.7062
   },
   {
     "id": 37854,
@@ -145,7 +128,7 @@
     "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.749,
+    "rating": 8.7,
     "votes": 5527,
     "release": "1999-10-20",
     "genres": [
@@ -153,59 +136,7 @@
       35,
       16
     ],
-    "popularity": 62.3708
-  },
-  {
-    "id": 287238,
-    "tmdb_id": 287238,
-    "type": "tv",
-    "title": "Furious",
-    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-    "poster": "https://image.tmdb.org/t/p/w342/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-    "rating": 7.219,
-    "votes": 105,
-    "release": "2026-07-27",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 66.4462
-  },
-  {
-    "id": 65942,
-    "tmdb_id": 65942,
-    "type": "tv",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "rating": 8.101,
-    "votes": 769,
-    "release": "2016-04-04",
-    "genres": [
-      16,
-      9648,
-      10759,
-      10765
-    ],
-    "popularity": 99.2119
-  },
-  {
-    "id": 247168,
-    "tmdb_id": 247168,
-    "type": "tv",
-    "title": "Chad Powers",
-    "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
-    "poster": "https://image.tmdb.org/t/p/w342/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wGmJg0wHBpifiHFsC6VgAOlQTge.jpg",
-    "rating": 7.944,
-    "votes": 117,
-    "release": "2025-09-30",
-    "genres": [
-      35
-    ],
-    "popularity": 57.9664
+    "popularity": 56.4663
   },
   {
     "id": 97546,
@@ -215,14 +146,47 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
-    "rating": 8.371,
-    "votes": 2628,
+    "rating": 8.373,
+    "votes": 2632,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 254.9088
+    "popularity": 228.4412
+  },
+  {
+    "id": 247168,
+    "tmdb_id": 247168,
+    "type": "tv",
+    "title": "Chad Powers",
+    "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
+    "poster": "https://image.tmdb.org/t/p/w342/aXetUcD4wfalCj90QmT6kSvwO6D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wGmJg0wHBpifiHFsC6VgAOlQTge.jpg",
+    "rating": 8,
+    "votes": 119,
+    "release": "2025-09-30",
+    "genres": [
+      35
+    ],
+    "popularity": 55.0816
+  },
+  {
+    "id": 196322,
+    "tmdb_id": 196322,
+    "type": "tv",
+    "title": "Dark Matter",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "rating": 7.795,
+    "votes": 764,
+    "release": "2024-05-07",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 70.3049
   },
   {
     "id": 615,
@@ -233,14 +197,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.366,
-    "votes": 3885,
+    "votes": 3888,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 112.9325
+    "popularity": 100.3427
   },
   {
     "id": 290234,
@@ -250,13 +214,30 @@
     "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
     "poster": "https://image.tmdb.org/t/p/w342/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
-    "rating": 7.143,
-    "votes": 7,
+    "rating": 7.25,
+    "votes": 8,
     "release": "2026-09-02",
     "genres": [
       18
     ],
-    "popularity": 45.8097
+    "popularity": 42.3223
+  },
+  {
+    "id": 287238,
+    "tmdb_id": 287238,
+    "type": "tv",
+    "title": "Furious",
+    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "poster": "https://image.tmdb.org/t/p/w342/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+    "rating": 7.25,
+    "votes": 108,
+    "release": "2026-07-27",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 59.58
   },
   {
     "id": 299952,
@@ -264,86 +245,102 @@
     "type": "tv",
     "title": "The Early Spring",
     "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-    "poster": "https://image.tmdb.org/t/p/w342/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "rating": 7.7,
-    "votes": 8,
+    "rating": 7.9,
+    "votes": 9,
     "release": "2026-08-26",
     "genres": [
       18
     ],
-    "popularity": 131.522
+    "popularity": 137.793
   },
   {
-    "id": 290193,
-    "tmdb_id": 290193,
+    "id": 286686,
+    "tmdb_id": 286686,
     "type": "tv",
-    "title": "Mousetrap",
-    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-    "poster": "https://image.tmdb.org/t/p/w342/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-    "rating": 7.969,
-    "votes": 32,
-    "release": "2026-08-28",
+    "title": "In My Prime",
+    "overview": "In a small 1980s town, two families face an unexpected child swap between Qi Shi, a courageous girl with albinism, and Cao Xin, a disciplined boy seen as perfect. As they navigate identity, family, and love, both children and parents confront personal and societal challenges. Together, they struggle through hardships to find happiness and belonging in a changing world.",
+    "poster": "https://image.tmdb.org/t/p/w342/5fvUpmY1JJiOz1HNG4QnNmacNIc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
+    "rating": 9,
+    "votes": 1,
+    "release": "2026-09-03",
     "genres": [
-      80,
-      18,
-      9648
+      10751,
+      18
     ],
-    "popularity": 51.4772
+    "popularity": 21.0858
   },
   {
-    "id": 194583,
-    "tmdb_id": 194583,
+    "id": 296140,
+    "tmdb_id": 296140,
     "type": "tv",
-    "title": "The Walking Dead: Dead City",
-    "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-    "poster": "https://image.tmdb.org/t/p/w342/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-    "rating": 7.9,
-    "votes": 791,
-    "release": "2023-06-18",
+    "title": "My Bias, My Boss",
+    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+    "poster": "https://image.tmdb.org/t/p/w342/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+    "rating": 7.5,
+    "votes": 8,
+    "release": "2026-08-03",
     "genres": [
-      10759,
-      18,
-      10765
+      35,
+      18
     ],
-    "popularity": 63.3828
+    "popularity": 31.058
   },
   {
-    "id": 94664,
-    "tmdb_id": 94664,
+    "id": 65942,
+    "tmdb_id": 65942,
     "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.4,
-    "votes": 1705,
-    "release": "2021-01-11",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+    "rating": 8.1,
+    "votes": 769,
+    "release": "2016-04-04",
     "genres": [
-      10759,
       16,
+      9648,
+      10759,
       10765
     ],
-    "popularity": 150.6933
+    "popularity": 85.2079
   },
   {
-    "id": 94997,
-    "tmdb_id": 94997,
+    "id": 220102,
+    "tmdb_id": 220102,
     "type": "tv",
-    "title": "House of the Dragon",
-    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-    "poster": "https://image.tmdb.org/t/p/w342/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "rating": 8.383,
-    "votes": 7093,
-    "release": "2022-08-21",
+    "title": "Spider-Noir",
+    "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+    "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "rating": 8.358,
+    "votes": 833,
+    "release": "2026-05-25",
     "genres": [
-      10765,
       18,
-      10759
+      9648,
+      80
     ],
-    "popularity": 140.4872
+    "popularity": 37.9948
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.335,
+    "votes": 5133,
+    "release": "1997-08-13",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 101.7917
   }
 ]

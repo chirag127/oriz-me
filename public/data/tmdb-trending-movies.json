@@ -6,15 +6,15 @@
     "title": "The Runner",
     "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
     "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
     "rating": 6.7,
-    "votes": 321,
+    "votes": 343,
     "release": "2026-09-03",
     "genres": [
       53,
       28
     ],
-    "popularity": 312.0164
+    "popularity": 284.4272
   },
   {
     "id": 1108427,
@@ -22,10 +22,10 @@
     "type": "movie",
     "title": "Moana",
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-    "rating": 6.495,
-    "votes": 323,
+    "rating": 6.8,
+    "votes": 382,
     "release": "2026-07-08",
     "genres": [
       10751,
@@ -33,7 +33,25 @@
       35,
       12
     ],
-    "popularity": 198.1513
+    "popularity": 260.8674
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "rating": 7.864,
+    "votes": 2526,
+    "release": "2026-07-29",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 839.8698
   },
   {
     "id": 1368337,
@@ -42,34 +60,16 @@
     "title": "The Odyssey",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "rating": 7.999,
-    "votes": 3542,
+    "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
+    "rating": 8,
+    "votes": 3555,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 464.1594
-  },
-  {
-    "id": 860508,
-    "tmdb_id": 860508,
-    "type": "movie",
-    "title": "The Whisper Man",
-    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-    "poster": "https://image.tmdb.org/t/p/w342/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-    "rating": 6.802,
-    "votes": 518,
-    "release": "2026-08-27",
-    "genres": [
-      80,
-      18,
-      53
-    ],
-    "popularity": 136.8255
+    "popularity": 437.8516
   },
   {
     "id": 1339713,
@@ -80,31 +80,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
     "rating": 8.195,
-    "votes": 5364,
+    "votes": 5382,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 205.4049
-  },
-  {
-    "id": 969681,
-    "tmdb_id": 969681,
-    "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "rating": 7.865,
-    "votes": 2506,
-    "release": "2026-07-29",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 839.8385
+    "popularity": 194.6239
   },
   {
     "id": 1204680,
@@ -114,15 +96,15 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-    "rating": 7.692,
-    "votes": 219,
+    "rating": 7.674,
+    "votes": 244,
     "release": "2026-08-20",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 654.7252
+    "popularity": 643.9483
   },
   {
     "id": 1137844,
@@ -132,14 +114,49 @@
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-    "rating": 7.975,
-    "votes": 300,
+    "rating": 7.989,
+    "votes": 329,
     "release": "2026-09-03",
     "genres": [
       28,
       35
     ],
-    "popularity": 237.3724
+    "popularity": 237.6288
+  },
+  {
+    "id": 1288445,
+    "tmdb_id": 1288445,
+    "type": "movie",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "rating": 6.4,
+    "votes": 326,
+    "release": "2026-08-19",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 394.5615
+  },
+  {
+    "id": 860508,
+    "tmdb_id": 860508,
+    "type": "movie",
+    "title": "The Whisper Man",
+    "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+    "poster": "https://image.tmdb.org/t/p/w342/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+    "rating": 6.794,
+    "votes": 543,
+    "release": "2026-08-27",
+    "genres": [
+      80,
+      18,
+      53
+    ],
+    "popularity": 118.3923
   },
   {
     "id": 1480574,
@@ -156,57 +173,24 @@
       53,
       80
     ],
-    "popularity": 74.1953
+    "popularity": 64.0573
   },
   {
-    "id": 1101412,
-    "tmdb_id": 1101412,
+    "id": 1433367,
+    "tmdb_id": 1433367,
     "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-    "rating": 6.8,
-    "votes": 20,
-    "release": "2026-09-01",
+    "title": "One Night Only",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "poster": "https://image.tmdb.org/t/p/w342/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "rating": 7,
+    "votes": 77,
+    "release": "2026-07-28",
     "genres": [
-      53
+      35,
+      10749
     ],
-    "popularity": 93.3782
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-    "rating": 6.4,
-    "votes": 315,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 408.1873
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878
-    ],
-    "popularity": 45.0749
+    "popularity": 71.2824
   },
   {
     "id": 1083381,
@@ -216,109 +200,50 @@
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.066,
-    "votes": 3168,
+    "rating": 7.06,
+    "votes": 3182,
     "release": "2026-05-27",
     "genres": [
       27,
       9648,
       878
     ],
-    "popularity": 98.2806
+    "popularity": 92.7503
   },
   {
-    "id": 1514026,
-    "tmdb_id": 1514026,
+    "id": 1423191,
+    "tmdb_id": 1423191,
     "type": "movie",
-    "title": "Buddy",
-    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-    "poster": "https://image.tmdb.org/t/p/w342/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "rating": 8.22,
-    "votes": 42,
-    "release": "2026-08-27",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-09-16",
     "genres": [
       27,
-      35,
-      14
+      878
     ],
-    "popularity": 50.267
+    "popularity": 41.967
   },
   {
-    "id": 1084244,
-    "tmdb_id": 1084244,
+    "id": 1302904,
+    "tmdb_id": 1302904,
     "type": "movie",
-    "title": "Toy Story 5",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.352,
-    "votes": 2033,
-    "release": "2026-06-17",
+    "title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "poster": "https://image.tmdb.org/t/p/w342/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "rating": 6.542,
+    "votes": 12,
+    "release": "2026-09-09",
     "genres": [
-      16,
-      10751,
-      35,
-      12
+      10749,
+      14,
+      35
     ],
-    "popularity": 173.6579
-  },
-  {
-    "id": 1315772,
-    "tmdb_id": 1315772,
-    "type": "movie",
-    "title": "Minions & Monsters",
-    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "rating": 7.566,
-    "votes": 1044,
-    "release": "2026-06-24",
-    "genres": [
-      12,
-      16,
-      35,
-      10751,
-      14
-    ],
-    "popularity": 153.0307
-  },
-  {
-    "id": 1731694,
-    "tmdb_id": 1731694,
-    "type": "movie",
-    "title": "LEGO Star Wars: The Mandalorian",
-    "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
-    "poster": "https://image.tmdb.org/t/p/w342/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
-    "rating": 7.024,
-    "votes": 21,
-    "release": "2026-09-02",
-    "genres": [
-      16,
-      878,
-      12,
-      10751,
-      28
-    ],
-    "popularity": 58.2517
-  },
-  {
-    "id": 192139,
-    "tmdb_id": 192139,
-    "type": "movie",
-    "title": "The Brink of War",
-    "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-    "poster": "https://image.tmdb.org/t/p/w342/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
-    "rating": 7.2,
-    "votes": 18,
-    "release": "2026-08-13",
-    "genres": [
-      18,
-      36
-    ],
-    "popularity": 28.2156
+    "popularity": 37.882
   },
   {
     "id": 1288059,
@@ -328,30 +253,106 @@
     "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
     "poster": "https://image.tmdb.org/t/p/w342/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-    "rating": 6.2,
-    "votes": 56,
+    "rating": 6.175,
+    "votes": 60,
     "release": "2026-07-29",
     "genres": [
       35
     ],
-    "popularity": 50.5405
+    "popularity": 39.7455
   },
   {
-    "id": 1081003,
-    "tmdb_id": 1081003,
+    "id": 1514026,
+    "tmdb_id": 1514026,
     "type": "movie",
-    "title": "Supergirl",
-    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-    "rating": 6.7,
-    "votes": 2192,
+    "title": "Buddy",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "poster": "https://image.tmdb.org/t/p/w342/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "rating": 8.222,
+    "votes": 45,
+    "release": "2026-08-27",
+    "genres": [
+      27,
+      35,
+      14
+    ],
+    "popularity": 44.3512
+  },
+  {
+    "id": 1315772,
+    "tmdb_id": 1315772,
+    "type": "movie",
+    "title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "rating": 7.553,
+    "votes": 1057,
     "release": "2026-06-24",
     "genres": [
-      28,
       12,
-      878
+      16,
+      35,
+      10751,
+      14
     ],
-    "popularity": 88.9657
+    "popularity": 141.8469
+  },
+  {
+    "id": 687163,
+    "tmdb_id": 687163,
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "rating": 8.643,
+    "votes": 7618,
+    "release": "2026-03-15",
+    "genres": [
+      878,
+      12
+    ],
+    "popularity": 95.7346
+  },
+  {
+    "id": 1084244,
+    "tmdb_id": 1084244,
+    "type": "movie",
+    "title": "Toy Story 5",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "rating": 8.353,
+    "votes": 2045,
+    "release": "2026-06-17",
+    "genres": [
+      16,
+      10751,
+      35,
+      12
+    ],
+    "popularity": 163.306
+  },
+  {
+    "id": 1506560,
+    "tmdb_id": 1506560,
+    "type": "movie",
+    "title": "Clash of the Thundermans",
+    "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+    "poster": "https://image.tmdb.org/t/p/w342/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+    "rating": 6.677,
+    "votes": 31,
+    "release": "2026-09-03",
+    "genres": [
+      10770,
+      10751,
+      878,
+      28,
+      35
+    ],
+    "popularity": 219.5836
   }
 ]
