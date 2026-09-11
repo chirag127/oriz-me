@@ -13,7 +13,40 @@
     "genres": [
       10764
     ],
-    "popularity": 888.1214
+    "popularity": 1077.4557
+  },
+  {
+    "id": 36109,
+    "tmdb_id": 36109,
+    "type": "tv",
+    "title": "Paradise Hotel",
+    "overview": "Norwegian girls and boys check in at the Paradise Hotel in Mexico, where Triana Iglesias is the hotel manager. The hotel has great views and a fantastic pool. Cameras with a full view of the idyllic site tells the story of what happens when the single boys and girls meet in the hot surroundings of the hotel. The task they have is basically simple: Find a partner or check out.",
+    "poster": "https://image.tmdb.org/t/p/w342/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
+    "rating": 5.7,
+    "votes": 10,
+    "release": "2009-03-09",
+    "genres": [
+      10764
+    ],
+    "popularity": 755.3714
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.111,
+    "votes": 3262,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 625.6462
   },
   {
     "id": 30801,
@@ -30,24 +63,7 @@
       35,
       10764
     ],
-    "popularity": 566.495
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.108,
-    "votes": 3254,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 633.2375
+    "popularity": 605.4462
   },
   {
     "id": 91759,
@@ -65,23 +81,58 @@
       35,
       18
     ],
-    "popularity": 483.6697
+    "popularity": 326.9727
   },
   {
-    "id": 36109,
-    "tmdb_id": 36109,
+    "id": 117217,
+    "tmdb_id": 117217,
     "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "Norwegian girls and boys check in at the Paradise Hotel in Mexico, where Triana Iglesias is the hotel manager. The hotel has great views and a fantastic pool. Cameras with a full view of the idyllic site tells the story of what happens when the single boys and girls meet in the hot surroundings of the hotel. The task they have is basically simple: Find a partner or check out.",
-    "poster": "https://image.tmdb.org/t/p/w342/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
-    "rating": 5.7,
-    "votes": 10,
-    "release": "2009-03-09",
+    "title": "El conquistador",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+    "rating": 5.667,
+    "votes": 3,
+    "release": "2005-01-03",
     "genres": [
       10764
     ],
-    "popularity": 651.5846
+    "popularity": 368.4783
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.155,
+    "votes": 1507,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 367.0119
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.404,
+    "votes": 4688,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 376.412
   },
   {
     "id": 22980,
@@ -98,23 +149,75 @@
       10767,
       35
     ],
-    "popularity": 378.2503
+    "popularity": 259.7994
   },
   {
-    "id": 117217,
-    "tmdb_id": 117217,
+    "id": 45857,
+    "tmdb_id": 45857,
     "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.667,
-    "votes": 3,
-    "release": "2005-01-03",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "rating": 8.137,
+    "votes": 193,
+    "release": "2006-10-07",
     "genres": [
-      10764
+      16,
+      35,
+      10759
     ],
-    "popularity": 390.9473
+    "popularity": 432.6545
+  },
+  {
+    "id": 94722,
+    "tmdb_id": 94722,
+    "type": "tv",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.768,
+    "votes": 256,
+    "release": "1952-12-26",
+    "genres": [
+      10763
+    ],
+    "popularity": 267.5675
+  },
+  {
+    "id": 50821,
+    "tmdb_id": 50821,
+    "type": "tv",
+    "title": "Among Friends",
+    "overview": "Miklós introduces viewers into the world of Money and Charm.",
+    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+    "rating": 3.775,
+    "votes": 20,
+    "release": "1998-10-26",
+    "genres": [
+      18,
+      10751
+    ],
+    "popularity": 221.9269
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "rating": 8.207,
+    "votes": 2633,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 291.9951
   },
   {
     "id": 72879,
@@ -132,92 +235,28 @@
       18,
       10766
     ],
-    "popularity": 310.8018
+    "popularity": 231.8094
   },
   {
-    "id": 113962,
-    "tmdb_id": 113962,
+    "id": 65733,
+    "tmdb_id": 65733,
     "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.149,
-    "votes": 1500,
-    "release": "2023-07-23",
+    "title": "Doraemon",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "rating": 8.081,
+    "votes": 241,
+    "release": "2005-04-22",
     "genres": [
-      18,
-      10768
-    ],
-    "popularity": 381.2124
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.768,
-    "votes": 256,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 344.6081
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.4,
-    "votes": 4684,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 380.0567
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.205,
-    "votes": 2621,
-    "release": "2023-05-04",
-    "genres": [
+      10759,
+      16,
+      35,
       10765,
-      18
-    ],
-    "popularity": 312.9706
-  },
-  {
-    "id": 50821,
-    "tmdb_id": 50821,
-    "type": "tv",
-    "title": "Among Friends",
-    "overview": "Miklós introduces viewers into the world of Money and Charm.",
-    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
-    "rating": 3.775,
-    "votes": 20,
-    "release": "1998-10-26",
-    "genres": [
-      18,
+      10762,
       10751
     ],
-    "popularity": 315.51
+    "popularity": 199.0585
   },
   {
     "id": 2734,
@@ -228,14 +267,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
     "rating": 7.959,
-    "votes": 4337,
+    "votes": 4342,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 273.8859
+    "popularity": 255.6058
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.369,
+    "votes": 2638,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 259.7555
   },
   {
     "id": 79744,
@@ -246,47 +302,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
     "rating": 8.538,
-    "votes": 3517,
+    "votes": 3520,
     "release": "2018-10-16",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 259.2216
+    "popularity": 237.566
   },
   {
-    "id": 37528,
-    "tmdb_id": 37528,
+    "id": 236235,
+    "tmdb_id": 236235,
     "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
+    "title": "The Gentlemen",
+    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+    "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+    "rating": 7.8,
+    "votes": 895,
+    "release": "2024-03-07",
     "genres": [
-      10764
+      35,
+      18,
+      80
     ],
-    "popularity": 260.4234
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.021,
-    "votes": 10993,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 236.7717
+    "popularity": 223.9661
   },
   {
     "id": 95350,
@@ -296,48 +337,14 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.279,
-    "votes": 299,
+    "rating": 8.3,
+    "votes": 306,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 237.7147
-  },
-  {
-    "id": 45857,
-    "tmdb_id": 45857,
-    "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.1,
-    "votes": 192,
-    "release": "2006-10-07",
-    "genres": [
-      16,
-      35,
-      10759
-    ],
-    "popularity": 354.358
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 213.6409
+    "popularity": 223.2484
   }
 ]

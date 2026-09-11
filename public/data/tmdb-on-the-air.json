@@ -7,14 +7,31 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.109,
-    "votes": 3255,
+    "rating": 8.112,
+    "votes": 3263,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 633.2375
+    "popularity": 625.6462
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.158,
+    "votes": 1510,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 367.0119
   },
   {
     "id": 22980,
@@ -31,7 +48,7 @@
       10767,
       35
     ],
-    "popularity": 378.2503
+    "popularity": 259.7994
   },
   {
     "id": 72879,
@@ -49,40 +66,24 @@
       18,
       10766
     ],
-    "popularity": 310.8018
+    "popularity": 231.8094
   },
   {
-    "id": 113962,
-    "tmdb_id": 113962,
+    "id": 97546,
+    "tmdb_id": 97546,
     "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.149,
-    "votes": 1500,
-    "release": "2023-07-23",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.369,
+    "votes": 2638,
+    "release": "2020-08-14",
     "genres": [
       18,
-      10768
+      35
     ],
-    "popularity": 381.2124
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 260.4234
+    "popularity": 259.7555
   },
   {
     "id": 95350,
@@ -92,15 +93,32 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.285,
-    "votes": 300,
+    "rating": 8.3,
+    "votes": 306,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 237.7147
+    "popularity": 223.2484
+  },
+  {
+    "id": 13945,
+    "tmdb_id": 13945,
+    "type": "tv",
+    "title": "Gute Zeiten, schlechte Zeiten",
+    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+    "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+    "rating": 5.46,
+    "votes": 50,
+    "release": "1992-05-11",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 174.9439
   },
   {
     "id": 291,
@@ -116,24 +134,7 @@
     "genres": [
       10766
     ],
-    "popularity": 213.6409
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.37,
-    "votes": 2637,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 259.5376
+    "popularity": 155.4109
   },
   {
     "id": 206559,
@@ -149,23 +150,7 @@
     "genres": [
       10766
     ],
-    "popularity": 191.8912
-  },
-  {
-    "id": 65282,
-    "tmdb_id": 65282,
-    "type": "tv",
-    "title": "Home Alone",
-    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-    "rating": 7.5,
-    "votes": 18,
-    "release": "2013-03-22",
-    "genres": [
-      10764
-    ],
-    "popularity": 172.4196
+    "popularity": 162.6796
   },
   {
     "id": 2661,
@@ -183,7 +168,7 @@
       10765,
       18
     ],
-    "popularity": 187.9487
+    "popularity": 169.3879
   },
   {
     "id": 16807,
@@ -199,7 +184,7 @@
     "genres": [
       10763
     ],
-    "popularity": 181.5452
+    "popularity": 135.6784
   },
   {
     "id": 14610,
@@ -216,24 +201,39 @@
       10766,
       18
     ],
-    "popularity": 174.3964
+    "popularity": 128.7453
   },
   {
-    "id": 2224,
-    "tmdb_id": 2224,
+    "id": 37528,
+    "tmdb_id": 37528,
     "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.399,
-    "votes": 658,
-    "release": "1996-07-22",
+    "title": "Gran hermano",
+    "overview": "Argentina's version of the Big Brother franchise.",
+    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+    "rating": 4.5,
+    "votes": 4,
+    "release": "2001-03-10",
     "genres": [
-      10763,
-      35
+      10764
     ],
-    "popularity": 165.5272
+    "popularity": 173.3204
+  },
+  {
+    "id": 65282,
+    "tmdb_id": 65282,
+    "type": "tv",
+    "title": "Home Alone",
+    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "rating": 7.5,
+    "votes": 18,
+    "release": "2013-03-22",
+    "genres": [
+      10764
+    ],
+    "popularity": 126.5611
   },
   {
     "id": 70672,
@@ -250,23 +250,24 @@
       10764,
       35
     ],
-    "popularity": 165.9653
+    "popularity": 147.1633
   },
   {
-    "id": 65701,
-    "tmdb_id": 65701,
+    "id": 2224,
+    "tmdb_id": 2224,
     "type": "tv",
-    "title": "Good Mythical Morning",
-    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-    "rating": 6.9,
-    "votes": 93,
-    "release": "2012-01-09",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.399,
+    "votes": 658,
+    "release": "1996-07-22",
     "genres": [
+      10763,
       35
     ],
-    "popularity": 155.8626
+    "popularity": 137.0864
   },
   {
     "id": 1433,
@@ -276,14 +277,50 @@
     "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
     "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-    "rating": 7.021,
-    "votes": 2440,
+    "rating": 7.02,
+    "votes": 2442,
     "release": "2005-02-06",
     "genres": [
       16,
       35
     ],
-    "popularity": 164.6803
+    "popularity": 144.7533
+  },
+  {
+    "id": 45140,
+    "tmdb_id": 45140,
+    "type": "tv",
+    "title": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "rating": 6.417,
+    "votes": 732,
+    "release": "2013-04-23",
+    "genres": [
+      16,
+      10759,
+      35,
+      10751,
+      10765
+    ],
+    "popularity": 150.0913
+  },
+  {
+    "id": 65701,
+    "tmdb_id": 65701,
+    "type": "tv",
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "rating": 6.926,
+    "votes": 94,
+    "release": "2012-01-09",
+    "genres": [
+      35
+    ],
+    "popularity": 119.9644
   },
   {
     "id": 11890,
@@ -299,43 +336,6 @@
     "genres": [
       10766
     ],
-    "popularity": 151.0807
-  },
-  {
-    "id": 45140,
-    "tmdb_id": 45140,
-    "type": "tv",
-    "title": "Teen Titans Go!",
-    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "rating": 6.415,
-    "votes": 732,
-    "release": "2013-04-23",
-    "genres": [
-      16,
-      10759,
-      35,
-      10751,
-      10765
-    ],
-    "popularity": 163.1216
-  },
-  {
-    "id": 2912,
-    "tmdb_id": 2912,
-    "type": "tv",
-    "title": "Jeopardy!",
-    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-    "poster": "https://image.tmdb.org/t/p/w342/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-    "rating": 6.899,
-    "votes": 163,
-    "release": "1984-09-10",
-    "genres": [
-      10764,
-      10751
-    ],
-    "popularity": 132.591
+    "popularity": 120.7574
   }
 ]
