@@ -13,7 +13,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1077.4557
+    "popularity": 1214.2916
   },
   {
     "id": 36109,
@@ -29,7 +29,7 @@
     "genres": [
       10764
     ],
-    "popularity": 755.3714
+    "popularity": 831.7155
   },
   {
     "id": 108978,
@@ -40,13 +40,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
     "rating": 8.111,
-    "votes": 3262,
+    "votes": 3272,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 625.6462
+    "popularity": 623.828
   },
   {
     "id": 30801,
@@ -63,7 +63,76 @@
       35,
       10764
     ],
-    "popularity": 605.4462
+    "popularity": 635.4685
+  },
+  {
+    "id": 45857,
+    "tmdb_id": 45857,
+    "type": "tv",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "rating": 8.147,
+    "votes": 194,
+    "release": "2006-10-07",
+    "genres": [
+      16,
+      35,
+      10759
+    ],
+    "popularity": 379.8209
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.406,
+    "votes": 4696,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 370.9864
+  },
+  {
+    "id": 117217,
+    "tmdb_id": 117217,
+    "type": "tv",
+    "title": "El conquistador",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+    "rating": 5.667,
+    "votes": 3,
+    "release": "2005-01-03",
+    "genres": [
+      10764
+    ],
+    "popularity": 325.301
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.162,
+    "votes": 1514,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 361.4458
   },
   {
     "id": 91759,
@@ -81,93 +150,24 @@
       35,
       18
     ],
-    "popularity": 326.9727
+    "popularity": 400.5903
   },
   {
-    "id": 117217,
-    "tmdb_id": 117217,
+    "id": 125988,
+    "tmdb_id": 125988,
     "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.667,
-    "votes": 3,
-    "release": "2005-01-03",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "rating": 8.21,
+    "votes": 2640,
+    "release": "2023-05-04",
     "genres": [
-      10764
+      10765,
+      18
     ],
-    "popularity": 368.4783
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.155,
-    "votes": 1507,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 367.0119
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.404,
-    "votes": 4688,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 376.412
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.902,
-    "votes": 92,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 259.7994
-  },
-  {
-    "id": 45857,
-    "tmdb_id": 45857,
-    "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.137,
-    "votes": 193,
-    "release": "2006-10-07",
-    "genres": [
-      16,
-      35,
-      10759
-    ],
-    "popularity": 432.6545
+    "popularity": 266.9809
   },
   {
     "id": 94722,
@@ -183,41 +183,93 @@
     "genres": [
       10763
     ],
-    "popularity": 267.5675
+    "popularity": 274.3185
   },
   {
-    "id": 50821,
-    "tmdb_id": 50821,
+    "id": 22980,
+    "tmdb_id": 22980,
     "type": "tv",
-    "title": "Among Friends",
-    "overview": "Miklós introduces viewers into the world of Money and Charm.",
-    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
-    "rating": 3.775,
-    "votes": 20,
-    "release": "1998-10-26",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 4.915,
+    "votes": 94,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 260.9292
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.4,
+    "votes": 2641,
+    "release": "2020-08-14",
     "genres": [
       18,
-      10751
+      35
     ],
-    "popularity": 221.9269
+    "popularity": 248.1429
   },
   {
-    "id": 125988,
-    "tmdb_id": 125988,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.207,
-    "votes": 2633,
-    "release": "2023-05-04",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 7.959,
+    "votes": 4344,
+    "release": "1999-09-20",
     "genres": [
-      10765,
-      18
+      80,
+      18,
+      9648
     ],
-    "popularity": 291.9951
+    "popularity": 256.668
+  },
+  {
+    "id": 31472,
+    "tmdb_id": 31472,
+    "type": "tv",
+    "title": "Pelotón",
+    "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
+    "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+    "backdrop": "",
+    "rating": 9,
+    "votes": 1,
+    "release": "2007-01-02",
+    "genres": [
+      10764
+    ],
+    "popularity": 282.669
+  },
+  {
+    "id": 79744,
+    "tmdb_id": 79744,
+    "type": "tv",
+    "title": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "rating": 8.537,
+    "votes": 3526,
+    "release": "2018-10-16",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 218.4631
   },
   {
     "id": 72879,
@@ -235,81 +287,7 @@
       18,
       10766
     ],
-    "popularity": 231.8094
-  },
-  {
-    "id": 65733,
-    "tmdb_id": 65733,
-    "type": "tv",
-    "title": "Doraemon",
-    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "rating": 8.081,
-    "votes": 241,
-    "release": "2005-04-22",
-    "genres": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "popularity": 199.0585
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.959,
-    "votes": 4342,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 255.6058
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.369,
-    "votes": 2638,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 259.7555
-  },
-  {
-    "id": 79744,
-    "tmdb_id": 79744,
-    "type": "tv",
-    "title": "The Rookie",
-    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-    "rating": 8.538,
-    "votes": 3520,
-    "release": "2018-10-16",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 237.566
+    "popularity": 245.7151
   },
   {
     "id": 236235,
@@ -319,15 +297,15 @@
     "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
     "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-    "rating": 7.8,
-    "votes": 895,
+    "rating": 7.851,
+    "votes": 903,
     "release": "2024-03-07",
     "genres": [
       35,
       18,
       80
     ],
-    "popularity": 223.9661
+    "popularity": 210.6436
   },
   {
     "id": 95350,
@@ -337,14 +315,31 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.3,
-    "votes": 306,
+    "rating": 8.28,
+    "votes": 312,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 223.2484
+    "popularity": 218.2137
+  },
+  {
+    "id": 50821,
+    "tmdb_id": 50821,
+    "type": "tv",
+    "title": "Among Friends",
+    "overview": "Miklós introduces viewers into the world of Money and Charm.",
+    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+    "rating": 3.775,
+    "votes": 20,
+    "release": "1998-10-26",
+    "genres": [
+      18,
+      10751
+    ],
+    "popularity": 228.0059
   }
 ]
