@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.111,
-    "votes": 3272,
+    "rating": 8.114,
+    "votes": 3282,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 623.828
+    "popularity": 598.7406
   },
   {
     "id": 113962,
@@ -24,14 +24,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.163,
-    "votes": 1515,
+    "rating": 8.165,
+    "votes": 1520,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 361.4458
+    "popularity": 360.0234
   },
   {
     "id": 22980,
@@ -48,7 +48,7 @@
       10767,
       35
     ],
-    "popularity": 260.9292
+    "popularity": 515.7774
   },
   {
     "id": 97546,
@@ -58,14 +58,14 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.4,
-    "votes": 2641,
+    "rating": 8.371,
+    "votes": 2643,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 248.1429
+    "popularity": 251.5668
   },
   {
     "id": 72879,
@@ -83,7 +83,7 @@
       18,
       10766
     ],
-    "popularity": 245.7151
+    "popularity": 350.4234
   },
   {
     "id": 95350,
@@ -93,15 +93,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.28,
-    "votes": 312,
+    "rating": 8.274,
+    "votes": 316,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 218.2137
+    "popularity": 213.7486
   },
   {
     "id": 13945,
@@ -118,7 +118,24 @@
       18,
       10766
     ],
-    "popularity": 169.1394
+    "popularity": 225.5857
+  },
+  {
+    "id": 16322,
+    "tmdb_id": 16322,
+    "type": "tv",
+    "title": "X Factor",
+    "overview": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, but since 2011 it has been broadcast on Sky Uno, with reruns on TV8, after Rai dropped the show due to high costs. Sky Italia acquired the format, extending its broadcast until 2024. Starting from the eleventh season, RTL 102.5 became the official radio station, replacing Radio Deejay and Radio 105. The show was hosted by Francesco Facchinetti (2008-2010), Alessandro Cattelan (2011-2020), Ludovico Tersigni (2021), and Francesca Michielin (2022-2023). From 2024 onwards, Giorgia will take over as host. Since the seventh season, the show has been produced by Fremantle Italia without the collaboration of Magnolia, which had produced the selection episodes in the early seasons.",
+    "poster": "https://image.tmdb.org/t/p/w342/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pwP9zHx1L6FTxDtekx8VZJ9OZdK.jpg",
+    "rating": 7.5,
+    "votes": 12,
+    "release": "2008-03-10",
+    "genres": [
+      10764,
+      10751
+    ],
+    "popularity": 191.9247
   },
   {
     "id": 59941,
@@ -135,7 +152,73 @@
       35,
       10767
     ],
-    "popularity": 159.6965
+    "popularity": 211.3405
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 189.4838
+  },
+  {
+    "id": 207468,
+    "tmdb_id": 207468,
+    "type": "tv",
+    "title": "Kaiju No. 8",
+    "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
+    "poster": "https://image.tmdb.org/t/p/w342/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+    "rating": 8.442,
+    "votes": 807,
+    "release": "2024-04-13",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 154.5205
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.373,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 285.1315
+  },
+  {
+    "id": 37528,
+    "tmdb_id": 37528,
+    "type": "tv",
+    "title": "Gran hermano",
+    "overview": "Argentina's version of the Big Brother franchise.",
+    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+    "rating": 4.5,
+    "votes": 4,
+    "release": "2001-03-10",
+    "genres": [
+      10764
+    ],
+    "popularity": 134.1608
   },
   {
     "id": 2661,
@@ -153,75 +236,24 @@
       10765,
       18
     ],
-    "popularity": 152.6456
+    "popularity": 214.2977
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 1433,
+    "tmdb_id": 1433,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 159.5915
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.373,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 153.6507
-  },
-  {
-    "id": 37528,
-    "tmdb_id": 37528,
-    "type": "tv",
-    "title": "Gran hermano",
-    "overview": "Argentina's version of the Big Brother franchise.",
-    "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "rating": 4.5,
-    "votes": 4,
-    "release": "2001-03-10",
-    "genres": [
-      10764
-    ],
-    "popularity": 153.1562
-  },
-  {
-    "id": 45140,
-    "tmdb_id": 45140,
-    "type": "tv",
-    "title": "Teen Titans Go!",
-    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "poster": "https://image.tmdb.org/t/p/w342/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "rating": 6.415,
-    "votes": 733,
-    "release": "2013-04-23",
+    "title": "American Dad!",
+    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+    "rating": 7.021,
+    "votes": 2442,
+    "release": "2005-02-06",
     "genres": [
       16,
-      10759,
-      35,
-      10751,
-      10765
+      35
     ],
-    "popularity": 123.8726
+    "popularity": 208.6515
   },
   {
     "id": 70672,
@@ -238,24 +270,41 @@
       10764,
       35
     ],
-    "popularity": 138.9953
+    "popularity": 168.9389
   },
   {
-    "id": 1433,
-    "tmdb_id": 1433,
+    "id": 94664,
+    "tmdb_id": 94664,
     "type": "tv",
-    "title": "American Dad!",
-    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
-    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-    "rating": 7.02,
-    "votes": 2442,
-    "release": "2005-02-06",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.4,
+    "votes": 1710,
+    "release": "2021-01-11",
     "genres": [
+      10759,
       16,
-      35
+      10765
     ],
-    "popularity": 149.2714
+    "popularity": 140.8605
+  },
+  {
+    "id": 16807,
+    "tmdb_id": 16807,
+    "type": "tv",
+    "title": "Jornal Nacional",
+    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+    "rating": 7,
+    "votes": 9,
+    "release": "1969-09-01",
+    "genres": [
+      10763
+    ],
+    "popularity": 181.8116
   },
   {
     "id": 2224,
@@ -272,58 +321,7 @@
       10763,
       35
     ],
-    "popularity": 134.6232
-  },
-  {
-    "id": 16322,
-    "tmdb_id": 16322,
-    "type": "tv",
-    "title": "X Factor",
-    "overview": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, but since 2011 it has been broadcast on Sky Uno, with reruns on TV8, after Rai dropped the show due to high costs. Sky Italia acquired the format, extending its broadcast until 2024. Starting from the eleventh season, RTL 102.5 became the official radio station, replacing Radio Deejay and Radio 105. The show was hosted by Francesco Facchinetti (2008-2010), Alessandro Cattelan (2011-2020), Ludovico Tersigni (2021), and Francesca Michielin (2022-2023). From 2024 onwards, Giorgia will take over as host. Since the seventh season, the show has been produced by Fremantle Italia without the collaboration of Magnolia, which had produced the selection episodes in the early seasons.",
-    "poster": "https://image.tmdb.org/t/p/w342/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwP9zHx1L6FTxDtekx8VZJ9OZdK.jpg",
-    "rating": 7.5,
-    "votes": 12,
-    "release": "2008-03-10",
-    "genres": [
-      10764,
-      10751
-    ],
-    "popularity": 162.9717
-  },
-  {
-    "id": 16807,
-    "tmdb_id": 16807,
-    "type": "tv",
-    "title": "Jornal Nacional",
-    "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-    "poster": "https://image.tmdb.org/t/p/w342/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
-    "rating": 7,
-    "votes": 9,
-    "release": "1969-09-01",
-    "genres": [
-      10763
-    ],
-    "popularity": 134.9184
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.409,
-    "votes": 1710,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 135.8139
+    "popularity": 176.6791
   },
   {
     "id": 14610,
@@ -340,6 +338,6 @@
       10766,
       18
     ],
-    "popularity": 133.8793
+    "popularity": 183.8266
   }
 ]
