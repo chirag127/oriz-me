@@ -13,7 +13,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1273.8198
+    "popularity": 1107.4643
   },
   {
     "id": 36109,
@@ -29,41 +29,7 @@
     "genres": [
       10764
     ],
-    "popularity": 783.4496
-  },
-  {
-    "id": 30801,
-    "tmdb_id": 30801,
-    "type": "tv",
-    "title": "2 Days and 1 Night",
-    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-    "rating": 6.667,
-    "votes": 30,
-    "release": "2007-08-05",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 629.8237
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.113,
-    "votes": 3283,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 598.7406
+    "popularity": 532.2701
   },
   {
     "id": 91759,
@@ -81,7 +47,92 @@
       35,
       18
     ],
-    "popularity": 650.5072
+    "popularity": 750.4806
+  },
+  {
+    "id": 30801,
+    "tmdb_id": 30801,
+    "type": "tv",
+    "title": "2 Days and 1 Night",
+    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
+    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
+    "rating": 6.667,
+    "votes": 30,
+    "release": "2007-08-05",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 691.455
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+    "rating": 8.113,
+    "votes": 3289,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 650.433
+  },
+  {
+    "id": 22980,
+    "tmdb_id": 22980,
+    "type": "tv",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 4.915,
+    "votes": 94,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 584.0501
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.407,
+    "votes": 4706,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 393.3101
+  },
+  {
+    "id": 94722,
+    "tmdb_id": 94722,
+    "type": "tv",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.765,
+    "votes": 257,
+    "release": "1952-12-26",
+    "genres": [
+      10763
+    ],
+    "popularity": 307.9876
   },
   {
     "id": 45857,
@@ -99,25 +150,7 @@
       35,
       10759
     ],
-    "popularity": 371.6807
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.406,
-    "votes": 4701,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 384.3676
+    "popularity": 330.5
   },
   {
     "id": 113962,
@@ -127,30 +160,66 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.165,
-    "votes": 1520,
+    "rating": 8.167,
+    "votes": 1523,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 360.0234
+    "popularity": 403.5216
   },
   {
-    "id": 117217,
-    "tmdb_id": 117217,
+    "id": 72879,
+    "tmdb_id": 72879,
     "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.667,
-    "votes": 3,
-    "release": "2005-01-03",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+    "rating": 6.3,
+    "votes": 72,
+    "release": "2017-07-17",
     "genres": [
-      10764
+      80,
+      18,
+      10766
     ],
-    "popularity": 273.5578
+    "popularity": 393.5255
+  },
+  {
+    "id": 50821,
+    "tmdb_id": 50821,
+    "type": "tv",
+    "title": "Among Friends",
+    "overview": "Miklós introduces viewers into the world of Money and Charm.",
+    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+    "rating": 3.775,
+    "votes": 20,
+    "release": "1998-10-26",
+    "genres": [
+      18,
+      10751
+    ],
+    "popularity": 299.3568
+  },
+  {
+    "id": 502,
+    "tmdb_id": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "rating": 7.132,
+    "votes": 292,
+    "release": "1969-11-10",
+    "genres": [
+      10762,
+      35
+    ],
+    "popularity": 614.3406
   },
   {
     "id": 31472,
@@ -166,144 +235,56 @@
     "genres": [
       10764
     ],
-    "popularity": 319.3174
+    "popularity": 356.8789
   },
   {
-    "id": 94722,
-    "tmdb_id": 94722,
+    "id": 2261,
+    "tmdb_id": 2261,
     "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.765,
-    "votes": 257,
-    "release": "1952-12-26",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.536,
+    "votes": 96,
+    "release": "1962-10-01",
     "genres": [
-      10763
+      10767
     ],
-    "popularity": 373.9893
+    "popularity": 249.799
   },
   {
-    "id": 125988,
-    "tmdb_id": 125988,
+    "id": 291,
+    "tmdb_id": 291,
     "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.21,
-    "votes": 2644,
-    "release": "2023-05-04",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.4,
+    "votes": 118,
+    "release": "1960-12-09",
     "genres": [
-      10765,
-      18
+      10766
     ],
-    "popularity": 262.2487
+    "popularity": 321.2705
   },
   {
-    "id": 1396,
-    "tmdb_id": 1396,
+    "id": 456,
+    "tmdb_id": 456,
     "type": "tv",
-    "title": "Breaking Bad",
-    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-    "rating": 8.95,
-    "votes": 18596,
-    "release": "2008-01-20",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 266.4131
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.915,
-    "votes": 94,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 515.7774
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.958,
-    "votes": 4345,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 264.219
-  },
-  {
-    "id": 1434,
-    "tmdb_id": 1434,
-    "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-    "rating": 7.41,
-    "votes": 5105,
-    "release": "1999-01-31",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
+    "rating": 8.021,
+    "votes": 11001,
+    "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 255.5333
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.37,
-    "votes": 2644,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 251.5668
-  },
-  {
-    "id": 72879,
-    "tmdb_id": 72879,
-    "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
-    "rating": 6.292,
-    "votes": 72,
-    "release": "2017-07-17",
-    "genres": [
-      80,
-      18,
-      10766
-    ],
-    "popularity": 350.4234
+    "popularity": 274.9139
   },
   {
     "id": 49847,
@@ -319,23 +300,39 @@
     "genres": [
       10764
     ],
-    "popularity": 273.8588
+    "popularity": 293.2019
   },
   {
-    "id": 456,
-    "tmdb_id": 456,
+    "id": 117217,
+    "tmdb_id": 117217,
     "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
-    "rating": 8.021,
-    "votes": 10999,
-    "release": "1989-12-17",
+    "title": "El conquistador",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
+    "rating": 5.667,
+    "votes": 3,
+    "release": "2005-01-03",
     "genres": [
-      16,
-      35
+      10764
     ],
-    "popularity": 229.3019
+    "popularity": 226.8566
+  },
+  {
+    "id": 1396,
+    "tmdb_id": 1396,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 8.95,
+    "votes": 18603,
+    "release": "2008-01-20",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 344.0272
   }
 ]
