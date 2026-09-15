@@ -7,29 +7,13 @@
     "overview": "Danish version of the reality series \"Paradise Hotel\".",
     "poster": "https://image.tmdb.org/t/p/w342/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
-    "rating": 5.6,
-    "votes": 10,
+    "rating": 5.182,
+    "votes": 11,
     "release": "2005-09-14",
     "genres": [
       10764
     ],
-    "popularity": 1107.4643
-  },
-  {
-    "id": 36109,
-    "tmdb_id": 36109,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "Norwegian girls and boys check in at the Paradise Hotel in Mexico, where Triana Iglesias is the hotel manager. The hotel has great views and a fantastic pool. Cameras with a full view of the idyllic site tells the story of what happens when the single boys and girls meet in the hot surroundings of the hotel. The task they have is basically simple: Find a partner or check out.",
-    "poster": "https://image.tmdb.org/t/p/w342/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
-    "rating": 5.7,
-    "votes": 10,
-    "release": "2009-03-09",
-    "genres": [
-      10764
-    ],
-    "popularity": 532.2701
+    "popularity": 785.7085
   },
   {
     "id": 91759,
@@ -47,7 +31,7 @@
       35,
       18
     ],
-    "popularity": 750.4806
+    "popularity": 739.3404
   },
   {
     "id": 30801,
@@ -64,7 +48,7 @@
       35,
       10764
     ],
-    "popularity": 691.455
+    "popularity": 511.3525
   },
   {
     "id": 108978,
@@ -73,15 +57,32 @@
     "title": "Reacher",
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
-    "rating": 8.113,
-    "votes": 3289,
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.114,
+    "votes": 3302,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 650.433
+    "popularity": 627.3766
+  },
+  {
+    "id": 502,
+    "tmdb_id": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "rating": 7.135,
+    "votes": 293,
+    "release": "1969-11-10",
+    "genres": [
+      10762,
+      35
+    ],
+    "popularity": 578.1668
   },
   {
     "id": 22980,
@@ -91,14 +92,65 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.915,
-    "votes": 94,
+    "rating": 4.916,
+    "votes": 95,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 584.0501
+    "popularity": 617.699
+  },
+  {
+    "id": 36109,
+    "tmdb_id": 36109,
+    "type": "tv",
+    "title": "Paradise Hotel",
+    "overview": "Norwegian girls and boys check in at the Paradise Hotel in Mexico, where Triana Iglesias is the hotel manager. The hotel has great views and a fantastic pool. Cameras with a full view of the idyllic site tells the story of what happens when the single boys and girls meet in the hot surroundings of the hotel. The task they have is basically simple: Find a partner or check out.",
+    "poster": "https://image.tmdb.org/t/p/w342/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
+    "rating": 5.7,
+    "votes": 10,
+    "release": "2009-03-09",
+    "genres": [
+      10764
+    ],
+    "popularity": 439.7485
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "rating": 8.18,
+    "votes": 1541,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 437.6363
+  },
+  {
+    "id": 72879,
+    "tmdb_id": 72879,
+    "type": "tv",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+    "rating": 6.292,
+    "votes": 72,
+    "release": "2017-07-17",
+    "genres": [
+      80,
+      18,
+      10766
+    ],
+    "popularity": 334.0156
   },
   {
     "id": 5920,
@@ -108,15 +160,100 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.407,
-    "votes": 4706,
+    "rating": 8.4,
+    "votes": 4714,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 393.3101
+    "popularity": 398.0708
+  },
+  {
+    "id": 31472,
+    "tmdb_id": 31472,
+    "type": "tv",
+    "title": "Pelotón",
+    "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
+    "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+    "backdrop": "",
+    "rating": 9,
+    "votes": 1,
+    "release": "2007-01-02",
+    "genres": [
+      10764
+    ],
+    "popularity": 401.8695
+  },
+  {
+    "id": 1396,
+    "tmdb_id": 1396,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 9,
+    "votes": 18614,
+    "release": "2008-01-20",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 287.3342
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.4,
+    "votes": 106,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 347.4956
+  },
+  {
+    "id": 45857,
+    "tmdb_id": 45857,
+    "type": "tv",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "rating": 8.2,
+    "votes": 195,
+    "release": "2006-10-07",
+    "genres": [
+      16,
+      35,
+      10759
+    ],
+    "popularity": 418.9293
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.4,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 307.5448
   },
   {
     "id": 94722,
@@ -132,60 +269,7 @@
     "genres": [
       10763
     ],
-    "popularity": 307.9876
-  },
-  {
-    "id": 45857,
-    "tmdb_id": 45857,
-    "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.147,
-    "votes": 194,
-    "release": "2006-10-07",
-    "genres": [
-      16,
-      35,
-      10759
-    ],
-    "popularity": 330.5
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.167,
-    "votes": 1523,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 403.5216
-  },
-  {
-    "id": 72879,
-    "tmdb_id": 72879,
-    "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
-    "rating": 6.3,
-    "votes": 72,
-    "release": "2017-07-17",
-    "genres": [
-      80,
-      18,
-      10766
-    ],
-    "popularity": 393.5255
+    "popularity": 319.5771
   },
   {
     "id": 50821,
@@ -202,89 +286,7 @@
       18,
       10751
     ],
-    "popularity": 299.3568
-  },
-  {
-    "id": 502,
-    "tmdb_id": 502,
-    "type": "tv",
-    "title": "Sesame Street",
-    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-    "rating": 7.132,
-    "votes": 292,
-    "release": "1969-11-10",
-    "genres": [
-      10762,
-      35
-    ],
-    "popularity": 614.3406
-  },
-  {
-    "id": 31472,
-    "tmdb_id": 31472,
-    "type": "tv",
-    "title": "Pelotón",
-    "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
-    "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-    "backdrop": "",
-    "rating": 9,
-    "votes": 1,
-    "release": "2007-01-02",
-    "genres": [
-      10764
-    ],
-    "popularity": 356.8789
-  },
-  {
-    "id": 2261,
-    "tmdb_id": 2261,
-    "type": "tv",
-    "title": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-    "rating": 7.536,
-    "votes": 96,
-    "release": "1962-10-01",
-    "genres": [
-      10767
-    ],
-    "popularity": 249.799
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.4,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 321.2705
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
-    "rating": 8.021,
-    "votes": 11001,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 274.9139
+    "popularity": 292.3294
   },
   {
     "id": 49847,
@@ -300,39 +302,41 @@
     "genres": [
       10764
     ],
-    "popularity": 293.2019
+    "popularity": 302.227
   },
   {
-    "id": 117217,
-    "tmdb_id": 117217,
+    "id": 206693,
+    "tmdb_id": 206693,
     "type": "tv",
-    "title": "El conquistador",
-    "overview": "",
-    "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5PlsqkObgR5br4jhoSzVqjPB44I.jpg",
-    "rating": 5.667,
-    "votes": 3,
-    "release": "2005-01-03",
-    "genres": [
-      10764
-    ],
-    "popularity": 226.8566
-  },
-  {
-    "id": 1396,
-    "tmdb_id": 1396,
-    "type": "tv",
-    "title": "Breaking Bad",
-    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-    "rating": 8.95,
-    "votes": 18603,
-    "release": "2008-01-20",
+    "title": "My Dearest",
+    "overview": "A love-story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion.",
+    "poster": "https://image.tmdb.org/t/p/w342/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
+    "rating": 8.3,
+    "votes": 56,
+    "release": "2023-08-04",
     "genres": [
       18,
-      80
+      10768,
+      9648
     ],
-    "popularity": 344.0272
+    "popularity": 284.7316
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "rating": 8.2,
+    "votes": 2663,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 260.5373
   }
 ]
