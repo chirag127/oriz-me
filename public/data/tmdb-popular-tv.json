@@ -13,7 +13,7 @@
     "genres": [
       10764
     ],
-    "popularity": 785.7085
+    "popularity": 625.073
   },
   {
     "id": 91759,
@@ -31,24 +31,7 @@
       35,
       18
     ],
-    "popularity": 739.3404
-  },
-  {
-    "id": 30801,
-    "tmdb_id": 30801,
-    "type": "tv",
-    "title": "2 Days and 1 Night",
-    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-    "rating": 6.667,
-    "votes": 30,
-    "release": "2007-08-05",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 511.3525
+    "popularity": 681.5711
   },
   {
     "id": 108978,
@@ -58,31 +41,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.114,
-    "votes": 3302,
+    "rating": 8.113,
+    "votes": 3309,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 627.3766
-  },
-  {
-    "id": 502,
-    "tmdb_id": 502,
-    "type": "tv",
-    "title": "Sesame Street",
-    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-    "rating": 7.135,
-    "votes": 293,
-    "release": "1969-11-10",
-    "genres": [
-      10762,
-      35
-    ],
-    "popularity": 578.1668
+    "popularity": 612.6863
   },
   {
     "id": 22980,
@@ -99,7 +65,41 @@
       10767,
       35
     ],
-    "popularity": 617.699
+    "popularity": 534.6928
+  },
+  {
+    "id": 502,
+    "tmdb_id": 502,
+    "type": "tv",
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "rating": 7.135,
+    "votes": 293,
+    "release": "1969-11-10",
+    "genres": [
+      10762,
+      35
+    ],
+    "popularity": 567.8418
+  },
+  {
+    "id": 30801,
+    "tmdb_id": 30801,
+    "type": "tv",
+    "title": "2 Days and 1 Night",
+    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
+    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
+    "rating": 6.667,
+    "votes": 30,
+    "release": "2007-08-05",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 413.4343
   },
   {
     "id": 36109,
@@ -115,7 +115,7 @@
     "genres": [
       10764
     ],
-    "popularity": 439.7485
+    "popularity": 329.8031
   },
   {
     "id": 113962,
@@ -125,50 +125,32 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.18,
-    "votes": 1541,
+    "rating": 8.188,
+    "votes": 1550,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 437.6363
+    "popularity": 422.5844
   },
   {
-    "id": 72879,
-    "tmdb_id": 72879,
+    "id": 45857,
+    "tmdb_id": 45857,
     "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
-    "rating": 6.292,
-    "votes": 72,
-    "release": "2017-07-17",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "rating": 8.165,
+    "votes": 197,
+    "release": "2006-10-07",
     "genres": [
-      80,
-      18,
-      10766
+      16,
+      35,
+      10759
     ],
-    "popularity": 334.0156
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.4,
-    "votes": 4714,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 398.0708
+    "popularity": 374.58
   },
   {
     "id": 31472,
@@ -184,24 +166,58 @@
     "genres": [
       10764
     ],
-    "popularity": 401.8695
+    "popularity": 458.2201
   },
   {
-    "id": 1396,
-    "tmdb_id": 1396,
+    "id": 5920,
+    "tmdb_id": 5920,
     "type": "tv",
-    "title": "Breaking Bad",
-    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-    "rating": 9,
-    "votes": 18614,
-    "release": "2008-01-20",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.407,
+    "votes": 4721,
+    "release": "2008-09-23",
     "genres": [
+      80,
       18,
-      80
+      9648
     ],
-    "popularity": 287.3342
+    "popularity": 391.9205
+  },
+  {
+    "id": 65270,
+    "tmdb_id": 65270,
+    "type": "tv",
+    "title": "Radio Star",
+    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "rating": 5.5,
+    "votes": 6,
+    "release": "2007-05-30",
+    "genres": [
+      10767
+    ],
+    "popularity": 347.3693
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 333.7052
   },
   {
     "id": 2661,
@@ -212,32 +228,82 @@
     "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
     "rating": 6.4,
-    "votes": 106,
+    "votes": 107,
     "release": "1971-04-03",
     "genres": [
       10759,
       10765,
       18
     ],
-    "popularity": 347.4956
+    "popularity": 356.5045
   },
   {
-    "id": 45857,
-    "tmdb_id": 45857,
+    "id": 72879,
+    "tmdb_id": 72879,
     "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.2,
-    "votes": 195,
-    "release": "2006-10-07",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+    "rating": 6.247,
+    "votes": 73,
+    "release": "2017-07-17",
     "genres": [
-      16,
-      35,
-      10759
+      80,
+      18,
+      10766
     ],
-    "popularity": 418.9293
+    "popularity": 301.0925
+  },
+  {
+    "id": 1396,
+    "tmdb_id": 1396,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 8.95,
+    "votes": 18621,
+    "release": "2008-01-20",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 323.0946
+  },
+  {
+    "id": 94722,
+    "tmdb_id": 94722,
+    "type": "tv",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.768,
+    "votes": 256,
+    "release": "1952-12-26",
+    "genres": [
+      10763
+    ],
+    "popularity": 325.4256
+  },
+  {
+    "id": 59941,
+    "tmdb_id": 59941,
+    "type": "tv",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "rating": 5.765,
+    "votes": 387,
+    "release": "2014-02-17",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 322.8121
   },
   {
     "id": 291,
@@ -253,40 +319,7 @@
     "genres": [
       10766
     ],
-    "popularity": 307.5448
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.765,
-    "votes": 257,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 319.5771
-  },
-  {
-    "id": 50821,
-    "tmdb_id": 50821,
-    "type": "tv",
-    "title": "Among Friends",
-    "overview": "Miklós introduces viewers into the world of Money and Charm.",
-    "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
-    "rating": 3.775,
-    "votes": 20,
-    "release": "1998-10-26",
-    "genres": [
-      18,
-      10751
-    ],
-    "popularity": 292.3294
+    "popularity": 258.3616
   },
   {
     "id": 49847,
@@ -302,41 +335,6 @@
     "genres": [
       10764
     ],
-    "popularity": 302.227
-  },
-  {
-    "id": 206693,
-    "tmdb_id": 206693,
-    "type": "tv",
-    "title": "My Dearest",
-    "overview": "A love-story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion.",
-    "poster": "https://image.tmdb.org/t/p/w342/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
-    "rating": 8.3,
-    "votes": 56,
-    "release": "2023-08-04",
-    "genres": [
-      18,
-      10768,
-      9648
-    ],
-    "popularity": 284.7316
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-    "rating": 8.2,
-    "votes": 2663,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 260.5373
+    "popularity": 297.0787
   }
 ]

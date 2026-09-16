@@ -1,24 +1,5 @@
 [
   {
-    "id": 1108427,
-    "tmdb_id": 1108427,
-    "type": "movie",
-    "title": "Moana",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 7.23,
-    "votes": 627,
-    "release": "2026-07-08",
-    "genres": [
-      10751,
-      14,
-      35,
-      12
-    ],
-    "popularity": 303.5334
-  },
-  {
     "id": 1101383,
     "tmdb_id": 1101383,
     "type": "movie",
@@ -26,50 +7,34 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 6.496,
-    "votes": 631,
+    "rating": 6.742,
+    "votes": 809,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 288.4254
+    "popularity": 367.9096
   },
   {
-    "id": 1433367,
-    "tmdb_id": 1433367,
+    "id": 1108427,
+    "tmdb_id": 1108427,
     "type": "movie",
-    "title": "One Night Only",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-    "rating": 6.6,
-    "votes": 124,
-    "release": "2026-08-06",
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "rating": 7.261,
+    "votes": 644,
+    "release": "2026-07-08",
     "genres": [
-      10749,
-      35
-    ],
-    "popularity": 73.9888
-  },
-  {
-    "id": 969681,
-    "tmdb_id": 969681,
-    "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "rating": 7.851,
-    "votes": 2680,
-    "release": "2026-07-29",
-    "genres": [
-      878,
-      28,
+      10751,
+      14,
+      35,
       12
     ],
-    "popularity": 728.0506
+    "popularity": 254.1025
   },
   {
     "id": 1137844,
@@ -79,14 +44,50 @@
     "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
     "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-    "rating": 7.937,
-    "votes": 591,
+    "rating": 7.97,
+    "votes": 609,
     "release": "2026-09-03",
     "genres": [
       28,
       35
     ],
-    "popularity": 177.6469
+    "popularity": 160.8062
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "rating": 7.848,
+    "votes": 2703,
+    "release": "2026-07-29",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 691.7198
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "rating": 8.4,
+    "votes": 8,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      53,
+      878
+    ],
+    "popularity": 110.1608
   },
   {
     "id": 1368337,
@@ -96,15 +97,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-    "rating": 8.007,
-    "votes": 3701,
+    "rating": 8.009,
+    "votes": 3727,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 404.6591
+    "popularity": 383.4669
   },
   {
     "id": 1302904,
@@ -115,31 +116,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
     "rating": 6.1,
-    "votes": 46,
+    "votes": 49,
     "release": "2026-09-09",
     "genres": [
       10749,
       14,
       35
     ],
-    "popularity": 82.0211
+    "popularity": 79.7192
   },
   {
-    "id": 1339713,
-    "tmdb_id": 1339713,
+    "id": 1440098,
+    "tmdb_id": 1440098,
     "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.191,
-    "votes": 5507,
-    "release": "2026-05-13",
+    "title": "Drawn Together",
+    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+    "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "rating": 6.649,
+    "votes": 77,
+    "release": "2026-09-09",
     "genres": [
-      27,
+      10749,
       53
     ],
-    "popularity": 138.9709
+    "popularity": 238.0158
   },
   {
     "id": 1204680,
@@ -149,85 +150,69 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "rating": 7.613,
-    "votes": 380,
+    "rating": 7.588,
+    "votes": 400,
     "release": "2026-08-20",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 556.2409
+    "popularity": 539.7588
   },
   {
-    "id": 1058424,
-    "tmdb_id": 1058424,
+    "id": 1433367,
+    "tmdb_id": 1433367,
     "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-    "rating": 7.8,
-    "votes": 53,
-    "release": "2026-07-15",
+    "title": "One Night Only",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+    "rating": 6.6,
+    "votes": 126,
+    "release": "2026-08-06",
     "genres": [
-      878,
-      9648,
-      28
+      10749,
+      35
     ],
-    "popularity": 106.3198
+    "popularity": 62.5247
   },
   {
-    "id": 1423191,
-    "tmdb_id": 1423191,
+    "id": 1339713,
+    "tmdb_id": 1339713,
     "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 9.2,
-    "votes": 4,
-    "release": "2026-09-16",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "rating": 8.192,
+    "votes": 5529,
+    "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 65.4169
+    "popularity": 118.4635
   },
   {
-    "id": 1377237,
-    "tmdb_id": 1377237,
+    "id": 1185806,
+    "tmdb_id": 1185806,
     "type": "movie",
-    "title": "Runner",
-    "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 7.8,
-    "votes": 20,
-    "release": "2026-09-07",
+    "title": "PAW Patrol: The Dino Movie",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "poster": "https://image.tmdb.org/t/p/w342/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "rating": 7.629,
+    "votes": 105,
+    "release": "2026-07-23",
     "genres": [
-      28,
-      35,
-      53
+      16,
+      12,
+      10751,
+      14,
+      35
     ],
-    "popularity": 63.4778
-  },
-  {
-    "id": 1440098,
-    "tmdb_id": 1440098,
-    "type": "movie",
-    "title": "Drawn Together",
-    "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
-    "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "rating": 6.599,
-    "votes": 71,
-    "release": "2026-09-09",
-    "genres": [
-      10749,
-      53
-    ],
-    "popularity": 247.0997
+    "popularity": 88.046
   },
   {
     "id": 1288445,
@@ -237,69 +222,32 @@
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 6.436,
-    "votes": 396,
+    "rating": 6.4,
+    "votes": 401,
     "release": "2026-08-19",
     "genres": [
       28,
       53
     ],
-    "popularity": 309.7203
+    "popularity": 287.628
   },
   {
-    "id": 1386315,
-    "tmdb_id": 1386315,
+    "id": 1058424,
+    "tmdb_id": 1058424,
     "type": "movie",
-    "title": "The Runner",
-    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-    "rating": 6.778,
-    "votes": 468,
-    "release": "2026-09-03",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+    "rating": 7.5,
+    "votes": 60,
+    "release": "2026-07-15",
     "genres": [
-      53,
+      878,
+      9648,
       28
     ],
-    "popularity": 183.662
-  },
-  {
-    "id": 1522689,
-    "tmdb_id": 1522689,
-    "type": "movie",
-    "title": "Why Did I Get Married Again?",
-    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-    "poster": "https://image.tmdb.org/t/p/w342/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-    "rating": 7.2,
-    "votes": 18,
-    "release": "2026-09-08",
-    "genres": [
-      35,
-      10749,
-      18
-    ],
-    "popularity": 48.1301
-  },
-  {
-    "id": 1185806,
-    "tmdb_id": 1185806,
-    "type": "movie",
-    "title": "PAW Patrol: The Dino Movie",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "poster": "https://image.tmdb.org/t/p/w342/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-    "rating": 7.554,
-    "votes": 101,
-    "release": "2026-07-23",
-    "genres": [
-      16,
-      12,
-      10751,
-      14,
-      35
-    ],
-    "popularity": 83.7431
+    "popularity": 110.866
   },
   {
     "id": 1365884,
@@ -309,14 +257,66 @@
     "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
     "poster": "https://image.tmdb.org/t/p/w342/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-    "rating": 6.208,
-    "votes": 53,
+    "rating": 6.298,
+    "votes": 57,
     "release": "2026-08-29",
     "genres": [
       35,
       18
     ],
-    "popularity": 49.1441
+    "popularity": 44.4339
+  },
+  {
+    "id": 1386315,
+    "tmdb_id": 1386315,
+    "type": "movie",
+    "title": "The Runner",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "rating": 6.78,
+    "votes": 478,
+    "release": "2026-09-03",
+    "genres": [
+      53,
+      28
+    ],
+    "popularity": 158.7295
+  },
+  {
+    "id": 1275779,
+    "tmdb_id": 1275779,
+    "type": "movie",
+    "title": "Disclosure Day",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+    "rating": 7.468,
+    "votes": 3332,
+    "release": "2026-06-10",
+    "genres": [
+      878,
+      53
+    ],
+    "popularity": 83.0572
+  },
+  {
+    "id": 1522689,
+    "tmdb_id": 1522689,
+    "type": "movie",
+    "title": "Why Did I Get Married Again?",
+    "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+    "poster": "https://image.tmdb.org/t/p/w342/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "rating": 7,
+    "votes": 20,
+    "release": "2026-09-08",
+    "genres": [
+      35,
+      10749,
+      18
+    ],
+    "popularity": 43.9456
   },
   {
     "id": 1003596,
@@ -334,25 +334,24 @@
       28,
       12
     ],
-    "popularity": 40.2246
+    "popularity": 39.9123
   },
   {
-    "id": 1084244,
-    "tmdb_id": 1084244,
+    "id": 1377237,
+    "tmdb_id": 1377237,
     "type": "movie",
-    "title": "Toy Story 5",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.351,
-    "votes": 2138,
-    "release": "2026-06-17",
+    "title": "Runner",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "rating": 7.773,
+    "votes": 22,
+    "release": "2026-09-07",
     "genres": [
-      16,
-      10751,
+      28,
       35,
-      12
+      53
     ],
-    "popularity": 145.1579
+    "popularity": 61.9034
   }
 ]
