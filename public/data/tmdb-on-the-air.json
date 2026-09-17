@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.114,
-    "votes": 3310,
+    "rating": 8.118,
+    "votes": 3323,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 612.6863
+    "popularity": 799.9434
   },
   {
     "id": 22980,
@@ -31,7 +31,7 @@
       10767,
       35
     ],
-    "popularity": 534.6928
+    "popularity": 414.7873
   },
   {
     "id": 113962,
@@ -41,14 +41,32 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.188,
-    "votes": 1550,
+    "rating": 8.195,
+    "votes": 1557,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 422.5844
+    "popularity": 403.2944
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.389,
+    "votes": 108,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 267.5081
   },
   {
     "id": 70672,
@@ -65,25 +83,24 @@
       10764,
       35
     ],
-    "popularity": 333.7052
+    "popularity": 235.8007
   },
   {
-    "id": 2661,
-    "tmdb_id": 2661,
+    "id": 59941,
+    "tmdb_id": 59941,
     "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.4,
-    "votes": 107,
-    "release": "1971-04-03",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "rating": 5.765,
+    "votes": 387,
+    "release": "2014-02-17",
     "genres": [
-      10759,
-      10765,
-      18
+      35,
+      10767
     ],
-    "popularity": 356.5045
+    "popularity": 298.5387
   },
   {
     "id": 72879,
@@ -101,40 +118,7 @@
       18,
       10766
     ],
-    "popularity": 301.0925
-  },
-  {
-    "id": 59941,
-    "tmdb_id": 59941,
-    "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-    "rating": 5.765,
-    "votes": 387,
-    "release": "2014-02-17",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 322.8121
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.4,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 258.3616
+    "popularity": 268.9315
   },
   {
     "id": 95350,
@@ -144,15 +128,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.248,
-    "votes": 345,
+    "rating": 8.25,
+    "votes": 350,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 270.1078
+    "popularity": 248.3093
   },
   {
     "id": 2224,
@@ -169,7 +153,7 @@
       10763,
       35
     ],
-    "popularity": 259.1989
+    "popularity": 187.7876
   },
   {
     "id": 13945,
@@ -186,7 +170,7 @@
       18,
       10766
     ],
-    "popularity": 254.9871
+    "popularity": 176.4247
   },
   {
     "id": 97546,
@@ -196,14 +180,14 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.373,
-    "votes": 2660,
+    "rating": 8.372,
+    "votes": 2662,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 228.6068
+    "popularity": 258.7959
   },
   {
     "id": 2912,
@@ -220,7 +204,7 @@
       10764,
       10751
     ],
-    "popularity": 224.167
+    "popularity": 158.8986
   },
   {
     "id": 65282,
@@ -236,7 +220,23 @@
     "genres": [
       10764
     ],
-    "popularity": 214.3166
+    "popularity": 149.8546
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.4,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 207.8235
   },
   {
     "id": 206559,
@@ -252,24 +252,24 @@
     "genres": [
       10766
     ],
-    "popularity": 205.4947
+    "popularity": 150.1425
   },
   {
-    "id": 16322,
-    "tmdb_id": 16322,
+    "id": 2527,
+    "tmdb_id": 2527,
     "type": "tv",
-    "title": "X Factor",
-    "overview": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, but since 2011 it has been broadcast on Sky Uno, with reruns on TV8, after Rai dropped the show due to high costs. Sky Italia acquired the format, extending its broadcast until 2024. Starting from the eleventh season, RTL 102.5 became the official radio station, replacing Radio Deejay and Radio 105. The show was hosted by Francesco Facchinetti (2008-2010), Alessandro Cattelan (2011-2020), Ludovico Tersigni (2021), and Francesca Michielin (2022-2023). From 2024 onwards, Giorgia will take over as host. Since the seventh season, the show has been produced by Fremantle Italia without the collaboration of Magnolia, which had produced the selection episodes in the early seasons.",
-    "poster": "https://image.tmdb.org/t/p/w342/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwP9zHx1L6FTxDtekx8VZJ9OZdK.jpg",
-    "rating": 7.5,
-    "votes": 12,
-    "release": "2008-03-10",
+    "title": "Emmerdale",
+    "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+    "poster": "https://image.tmdb.org/t/p/w342/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+    "rating": 4.3,
+    "votes": 100,
+    "release": "1972-10-16",
     "genres": [
-      10764,
-      10751
+      10766,
+      18
     ],
-    "popularity": 145.8959
+    "popularity": 192.8619
   },
   {
     "id": 94664,
@@ -279,31 +279,15 @@
     "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.413,
-    "votes": 1713,
+    "rating": 8.4,
+    "votes": 1714,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 184.3784
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-    "rating": 6.79,
-    "votes": 374,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 181.1453
+    "popularity": 175.3831
   },
   {
     "id": 61818,
@@ -320,7 +304,23 @@
       10767,
       35
     ],
-    "popularity": 183.7401
+    "popularity": 131.4244
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
+    "rating": 6.79,
+    "votes": 374,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 135.8597
   },
   {
     "id": 2221,
@@ -336,6 +336,6 @@
     "genres": [
       10767
     ],
-    "popularity": 156.6391
+    "popularity": 111.8733
   }
 ]

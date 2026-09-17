@@ -7,51 +7,15 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 6.742,
-    "votes": 809,
+    "rating": 6.878,
+    "votes": 954,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 367.9096
-  },
-  {
-    "id": 1108427,
-    "tmdb_id": 1108427,
-    "type": "movie",
-    "title": "Moana",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 7.261,
-    "votes": 644,
-    "release": "2026-07-08",
-    "genres": [
-      10751,
-      14,
-      35,
-      12
-    ],
-    "popularity": 254.1025
-  },
-  {
-    "id": 1137844,
-    "tmdb_id": 1137844,
-    "type": "movie",
-    "title": "Mayday",
-    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-    "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-    "rating": 7.97,
-    "votes": 609,
-    "release": "2026-09-03",
-    "genres": [
-      28,
-      35
-    ],
-    "popularity": 160.8062
+    "popularity": 414.9533
   },
   {
     "id": 969681,
@@ -62,14 +26,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "rating": 7.848,
-    "votes": 2703,
+    "votes": 2724,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 691.7198
+    "popularity": 690.8873
   },
   {
     "id": 1423191,
@@ -78,34 +42,34 @@
     "title": "Resident Evil",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 8.4,
-    "votes": 8,
+    "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "rating": 8.182,
+    "votes": 22,
     "release": "2026-09-16",
     "genres": [
       27,
-      53,
       878
     ],
-    "popularity": 110.1608
+    "popularity": 169.2206
   },
   {
-    "id": 1368337,
-    "tmdb_id": 1368337,
+    "id": 1108427,
+    "tmdb_id": 1108427,
     "type": "movie",
-    "title": "The Odyssey",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-    "rating": 8.009,
-    "votes": 3727,
-    "release": "2026-07-15",
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "rating": 7.3,
+    "votes": 662,
+    "release": "2026-07-08",
     "genres": [
-      12,
-      28,
-      14
+      10751,
+      14,
+      35,
+      12
     ],
-    "popularity": 383.4669
+    "popularity": 255.7324
   },
   {
     "id": 1302904,
@@ -116,14 +80,67 @@
     "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
     "rating": 6.1,
-    "votes": 49,
+    "votes": 52,
     "release": "2026-09-09",
     "genres": [
       10749,
       14,
       35
     ],
-    "popularity": 79.7192
+    "popularity": 74.7425
+  },
+  {
+    "id": 1368337,
+    "tmdb_id": 1368337,
+    "type": "movie",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "rating": 8,
+    "votes": 3748,
+    "release": "2026-07-15",
+    "genres": [
+      12,
+      28,
+      14
+    ],
+    "popularity": 383.2533
+  },
+  {
+    "id": 1137844,
+    "tmdb_id": 1137844,
+    "type": "movie",
+    "title": "Mayday",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "rating": 7.988,
+    "votes": 640,
+    "release": "2026-09-03",
+    "genres": [
+      28,
+      35
+    ],
+    "popularity": 151.1766
+  },
+  {
+    "id": 1204680,
+    "tmdb_id": 1204680,
+    "type": "movie",
+    "title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "rating": 7.579,
+    "votes": 420,
+    "release": "2026-08-20",
+    "genres": [
+      35,
+      12,
+      10751
+    ],
+    "popularity": 539.5072
   },
   {
     "id": 1440098,
@@ -133,49 +150,14 @@
     "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
     "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "rating": 6.649,
-    "votes": 77,
+    "rating": 6.676,
+    "votes": 85,
     "release": "2026-09-09",
     "genres": [
       10749,
       53
     ],
-    "popularity": 238.0158
-  },
-  {
-    "id": 1204680,
-    "tmdb_id": 1204680,
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "rating": 7.588,
-    "votes": 400,
-    "release": "2026-08-20",
-    "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 539.7588
-  },
-  {
-    "id": 1433367,
-    "tmdb_id": 1433367,
-    "type": "movie",
-    "title": "One Night Only",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-    "rating": 6.6,
-    "votes": 126,
-    "release": "2026-08-06",
-    "genres": [
-      10749,
-      35
-    ],
-    "popularity": 62.5247
+    "popularity": 217.9092
   },
   {
     "id": 1339713,
@@ -185,51 +167,31 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.192,
-    "votes": 5529,
+    "rating": 8.193,
+    "votes": 5552,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 118.4635
+    "popularity": 136.0533
   },
   {
-    "id": 1185806,
-    "tmdb_id": 1185806,
+    "id": 1433367,
+    "tmdb_id": 1433367,
     "type": "movie",
-    "title": "PAW Patrol: The Dino Movie",
-    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-    "poster": "https://image.tmdb.org/t/p/w342/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-    "rating": 7.629,
-    "votes": 105,
-    "release": "2026-07-23",
+    "title": "One Night Only",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+    "rating": 6.546,
+    "votes": 130,
+    "release": "2026-08-06",
     "genres": [
-      16,
-      12,
-      10751,
-      14,
+      10749,
       35
     ],
-    "popularity": 88.046
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 6.4,
-    "votes": 401,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 287.628
+    "popularity": 55.0156
   },
   {
     "id": 1058424,
@@ -239,32 +201,32 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-    "rating": 7.5,
-    "votes": 60,
+    "rating": 7.4,
+    "votes": 65,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 110.866
+    "popularity": 117.9063
   },
   {
-    "id": 1365884,
-    "tmdb_id": 1365884,
+    "id": 1288445,
+    "tmdb_id": 1288445,
     "type": "movie",
-    "title": "Call My Agent! The Movie",
-    "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
-    "poster": "https://image.tmdb.org/t/p/w342/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-    "rating": 6.298,
-    "votes": 57,
-    "release": "2026-08-29",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "rating": 6.431,
+    "votes": 407,
+    "release": "2026-08-19",
     "genres": [
-      35,
-      18
+      28,
+      53
     ],
-    "popularity": 44.4339
+    "popularity": 280.2298
   },
   {
     "id": 1386315,
@@ -274,31 +236,32 @@
     "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
     "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-    "rating": 6.78,
-    "votes": 478,
+    "rating": 6.771,
+    "votes": 494,
     "release": "2026-09-03",
     "genres": [
       53,
       28
     ],
-    "popularity": 158.7295
+    "popularity": 167.9176
   },
   {
-    "id": 1275779,
-    "tmdb_id": 1275779,
+    "id": 1124142,
+    "tmdb_id": 1124142,
     "type": "movie",
-    "title": "Disclosure Day",
-    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-    "poster": "https://image.tmdb.org/t/p/w342/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-    "rating": 7.468,
-    "votes": 3332,
-    "release": "2026-06-10",
+    "title": "The Rivals of Amziah King",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+    "poster": "https://image.tmdb.org/t/p/w342/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "rating": 6.83,
+    "votes": 53,
+    "release": "2026-08-13",
     "genres": [
-      878,
+      80,
+      18,
       53
     ],
-    "popularity": 83.0572
+    "popularity": 50.0111
   },
   {
     "id": 1522689,
@@ -316,25 +279,24 @@
       10749,
       18
     ],
-    "popularity": 43.9456
+    "popularity": 38.6111
   },
   {
-    "id": 1003596,
-    "tmdb_id": 1003596,
+    "id": 1365884,
+    "tmdb_id": 1365884,
     "type": "movie",
-    "title": "Avengers: Doomsday",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-16",
+    "title": "Call My Agent! The Movie",
+    "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+    "poster": "https://image.tmdb.org/t/p/w342/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+    "rating": 6.405,
+    "votes": 63,
+    "release": "2026-08-29",
     "genres": [
-      878,
-      28,
-      12
+      35,
+      18
     ],
-    "popularity": 39.9123
+    "popularity": 40.4928
   },
   {
     "id": 1377237,
@@ -344,14 +306,49 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 7.773,
-    "votes": 22,
+    "rating": 7.8,
+    "votes": 23,
     "release": "2026-09-07",
     "genres": [
       28,
       35,
       53
     ],
-    "popularity": 61.9034
+    "popularity": 60.7809
+  },
+  {
+    "id": 1083381,
+    "tmdb_id": 1083381,
+    "type": "movie",
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "rating": 7.044,
+    "votes": 3295,
+    "release": "2026-05-27",
+    "genres": [
+      27,
+      9648,
+      878
+    ],
+    "popularity": 84.7106
+  },
+  {
+    "id": 687163,
+    "tmdb_id": 687163,
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "rating": 8.6,
+    "votes": 7789,
+    "release": "2026-03-15",
+    "genres": [
+      878,
+      12
+    ],
+    "popularity": 94.8994
   }
 ]
