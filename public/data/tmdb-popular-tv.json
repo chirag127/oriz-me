@@ -7,14 +7,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.119,
-    "votes": 3325,
+    "rating": 8.123,
+    "votes": 3340,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 799.9434
+    "popularity": 903.9109
   },
   {
     "id": 91759,
@@ -32,7 +32,23 @@
       35,
       18
     ],
-    "popularity": 765.8522
+    "popularity": 740.5436
+  },
+  {
+    "id": 31472,
+    "tmdb_id": 31472,
+    "type": "tv",
+    "title": "Pelotón",
+    "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
+    "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+    "backdrop": "",
+    "rating": 9,
+    "votes": 1,
+    "release": "2007-01-02",
+    "genres": [
+      10764
+    ],
+    "popularity": 436.5524
   },
   {
     "id": 51025,
@@ -48,7 +64,7 @@
     "genres": [
       10764
     ],
-    "popularity": 446.9331
+    "popularity": 285.8829
   },
   {
     "id": 502,
@@ -65,7 +81,7 @@
       10762,
       35
     ],
-    "popularity": 417.2976
+    "popularity": 438.691
   },
   {
     "id": 22980,
@@ -82,40 +98,7 @@
       10767,
       35
     ],
-    "popularity": 414.7873
-  },
-  {
-    "id": 31472,
-    "tmdb_id": 31472,
-    "type": "tv",
-    "title": "Pelotón",
-    "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
-    "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-    "backdrop": "",
-    "rating": 9,
-    "votes": 1,
-    "release": "2007-01-02",
-    "genres": [
-      10764
-    ],
-    "popularity": 481.4536
-  },
-  {
-    "id": 30801,
-    "tmdb_id": 30801,
-    "type": "tv",
-    "title": "2 Days and 1 Night",
-    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-    "rating": 6.667,
-    "votes": 30,
-    "release": "2007-08-05",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 297.1337
+    "popularity": 535.2519
   },
   {
     "id": 113962,
@@ -125,14 +108,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.195,
-    "votes": 1557,
+    "rating": 8.196,
+    "votes": 1559,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 403.2944
+    "popularity": 389.9348
   },
   {
     "id": 5920,
@@ -143,66 +126,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.405,
-    "votes": 4728,
+    "votes": 4731,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 374.4868
+    "popularity": 381.7414
   },
   {
-    "id": 45857,
-    "tmdb_id": 45857,
+    "id": 18165,
+    "tmdb_id": 18165,
     "type": "tv",
-    "title": "REBORN!",
-    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
-    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "rating": 8.149,
-    "votes": 198,
-    "release": "2006-10-07",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.3,
+    "votes": 9763,
+    "release": "2009-09-10",
     "genres": [
-      16,
-      35,
-      10759
+      18,
+      10765
     ],
-    "popularity": 268.0346
+    "popularity": 325.2645
   },
   {
-    "id": 2661,
-    "tmdb_id": 2661,
+    "id": 35007,
+    "tmdb_id": 35007,
     "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.389,
-    "votes": 108,
-    "release": "1971-04-03",
+    "title": "The Daily Fable",
+    "overview": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in 1968 by Leen Valkenier and produced by Thijs Chanowski and Loek de Levita, it ended in 1989 and was broadcast on the Dutch channels NOS, RTL 4 and RTL 8 and on Belgian channel VRT. From 1973 to 1975 it was broadcast also in the United Kingdom, on ITV, with the title The Daily Fable.",
+    "poster": "https://image.tmdb.org/t/p/w342/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+    "backdrop": "",
+    "rating": 8,
+    "votes": 5,
+    "release": "1968-09-29",
     "genres": [
-      10759,
-      10765,
-      18
+      10762
     ],
-    "popularity": 267.5081
-  },
-  {
-    "id": 65270,
-    "tmdb_id": 65270,
-    "type": "tv",
-    "title": "Radio Star",
-    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-    "rating": 5.5,
-    "votes": 6,
-    "release": "2007-05-30",
-    "genres": [
-      10767
-    ],
-    "popularity": 239.8241
+    "popularity": 302.7481
   },
   {
     "id": 206693,
@@ -220,73 +184,7 @@
       10768,
       9648
     ],
-    "popularity": 302.6668
-  },
-  {
-    "id": 70672,
-    "tmdb_id": 70672,
-    "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
-    "genres": [
-      10764,
-      35
-    ],
-    "popularity": 235.8007
-  },
-  {
-    "id": 36109,
-    "tmdb_id": 36109,
-    "type": "tv",
-    "title": "Paradise Hotel",
-    "overview": "Norwegian girls and boys check in at the Paradise Hotel in Mexico, where Triana Iglesias is the hotel manager. The hotel has great views and a fantastic pool. Cameras with a full view of the idyllic site tells the story of what happens when the single boys and girls meet in the hot surroundings of the hotel. The task they have is basically simple: Find a partner or check out.",
-    "poster": "https://image.tmdb.org/t/p/w342/k6KhQBpW4gdcoSp9JQvQFq14lFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/naUighMJIjHGQJIXSj7wMOgKbSd.jpg",
-    "rating": 5.7,
-    "votes": 10,
-    "release": "2009-03-09",
-    "genres": [
-      10764
-    ],
-    "popularity": 217.2048
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.768,
-    "votes": 256,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 224.1193
-  },
-  {
-    "id": 1396,
-    "tmdb_id": 1396,
-    "type": "tv",
-    "title": "Breaking Bad",
-    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-    "rating": 8.9,
-    "votes": 18627,
-    "release": "2008-01-20",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 284.8692
+    "popularity": 296.0252
   },
   {
     "id": 59941,
@@ -297,30 +195,99 @@
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
     "rating": 5.765,
-    "votes": 387,
+    "votes": 388,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 298.5387
+    "popularity": 388.8052
   },
   {
-    "id": 549,
-    "tmdb_id": 549,
+    "id": 30801,
+    "tmdb_id": 30801,
     "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.3,
-    "votes": 720,
-    "release": "1990-09-13",
+    "title": "2 Days and 1 Night",
+    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
+    "poster": "https://image.tmdb.org/t/p/w342/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
+    "rating": 6.667,
+    "votes": 30,
+    "release": "2007-08-05",
     "genres": [
-      80,
-      18
+      35,
+      10764
     ],
-    "popularity": 263.6006
+    "popularity": 254.519
+  },
+  {
+    "id": 1396,
+    "tmdb_id": 1396,
+    "type": "tv",
+    "title": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 8.951,
+    "votes": 18636,
+    "release": "2008-01-20",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 255.9448
+  },
+  {
+    "id": 51817,
+    "tmdb_id": 51817,
+    "type": "tv",
+    "title": "Teenage Mutant Ninja Turtles",
+    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
+    "poster": "https://image.tmdb.org/t/p/w342/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7NWAe3Bc7s3hYDKdarkwGuxT1GM.jpg",
+    "rating": 8.3,
+    "votes": 806,
+    "release": "2012-09-28",
+    "genres": [
+      10762,
+      16,
+      10759,
+      10765,
+      35
+    ],
+    "popularity": 304.3446
+  },
+  {
+    "id": 49847,
+    "tmdb_id": 49847,
+    "type": "tv",
+    "title": "House Rules",
+    "overview": "The Australia-wide competition following six state-based couples who renovate each others homes to receive the highest scores with the winner having their mortgage paid off.",
+    "poster": "https://image.tmdb.org/t/p/w342/JTzASS9kdvmeIPZgK27dl6DdQw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDXLXkzexJOq9rhQXTqgLMepQac.jpg",
+    "rating": 7.2,
+    "votes": 4,
+    "release": "2013-05-14",
+    "genres": [
+      10764
+    ],
+    "popularity": 255.4601
+  },
+  {
+    "id": 209992,
+    "tmdb_id": 209992,
+    "type": "tv",
+    "title": "N.N.",
+    "overview": "Colombian Sitcom focused on the adventures and misadventures of Nerón Navarrete,(A.K.A. \"NN\") a nice and playful gambler with huge desire to overcome, which comes from the countryside to the city. His clumsiness, because of many contradictions, only equal to the tenderness of her character, always polite, which makes engaging in all sorts of crazy situations in their quest to conquer the world.",
+    "poster": "",
+    "backdrop": "",
+    "rating": 7,
+    "votes": 1,
+    "release": "1990-08-11",
+    "genres": [
+      35
+    ],
+    "popularity": 267.5808
   },
   {
     "id": 72879,
@@ -338,6 +305,42 @@
       18,
       10766
     ],
-    "popularity": 268.9315
+    "popularity": 251.2341
+  },
+  {
+    "id": 45857,
+    "tmdb_id": 45857,
+    "type": "tv",
+    "title": "REBORN!",
+    "overview": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has been completely changed when a baby called Reborn, who claims to be an Italian hit man from Vongola family shows up! Reborn was sent to groom Tsuna for his future life as a mafia boss of the family!",
+    "poster": "https://image.tmdb.org/t/p/w342/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "rating": 8.149,
+    "votes": 198,
+    "release": "2006-10-07",
+    "genres": [
+      16,
+      35,
+      10759
+    ],
+    "popularity": 210.3453
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.389,
+    "votes": 108,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 317.3371
   }
 ]
