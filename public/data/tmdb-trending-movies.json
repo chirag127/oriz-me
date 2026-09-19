@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
     "rating": 6.9,
-    "votes": 1045,
+    "votes": 1124,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 435.243
+    "popularity": 467.2595
   },
   {
     "id": 1423191,
@@ -25,15 +25,15 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "rating": 7.8,
-    "votes": 53,
+    "rating": 7.6,
+    "votes": 105,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 243.9374
+    "popularity": 399.1021
   },
   {
     "id": 969681,
@@ -43,15 +43,15 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "rating": 7.848,
-    "votes": 2742,
+    "rating": 7.85,
+    "votes": 2762,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 652.7006
+    "popularity": 659.5404
   },
   {
     "id": 1108427,
@@ -59,10 +59,10 @@
     "type": "movie",
     "title": "Moana",
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "poster": "https://image.tmdb.org/t/p/w342/cRrf3UIw1HmiFEkKo0Vi85fFjqF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 7.332,
-    "votes": 675,
+    "rating": 7.337,
+    "votes": 693,
     "release": "2026-07-08",
     "genres": [
       10751,
@@ -70,7 +70,7 @@
       35,
       12
     ],
-    "popularity": 236.7842
+    "popularity": 221.3946
   },
   {
     "id": 1368337,
@@ -80,240 +80,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-    "rating": 8.012,
-    "votes": 3758,
+    "rating": 8.014,
+    "votes": 3780,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 371.0646
-  },
-  {
-    "id": 1339713,
-    "tmdb_id": 1339713,
-    "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.2,
-    "votes": 5566,
-    "release": "2026-05-13",
-    "genres": [
-      27,
-      53
-    ],
-    "popularity": 130.418
-  },
-  {
-    "id": 1302904,
-    "tmdb_id": 1302904,
-    "type": "movie",
-    "title": "Practical Magic 2",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-    "rating": 6.081,
-    "votes": 62,
-    "release": "2026-09-09",
-    "genres": [
-      10749,
-      14,
-      35
-    ],
-    "popularity": 71.0185
-  },
-  {
-    "id": 1137844,
-    "tmdb_id": 1137844,
-    "type": "movie",
-    "title": "Mayday",
-    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-    "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-    "rating": 7.992,
-    "votes": 652,
-    "release": "2026-09-03",
-    "genres": [
-      28,
-      35
-    ],
-    "popularity": 136.0147
-  },
-  {
-    "id": 1204680,
-    "tmdb_id": 1204680,
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "rating": 7.537,
-    "votes": 431,
-    "release": "2026-08-20",
-    "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 526.2222
-  },
-  {
-    "id": 1433367,
-    "tmdb_id": 1433367,
-    "type": "movie",
-    "title": "One Night Only",
-    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-    "rating": 6.531,
-    "votes": 130,
-    "release": "2026-08-06",
-    "genres": [
-      10749,
-      35
-    ],
-    "popularity": 49.9653
-  },
-  {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-    "rating": 7.371,
-    "votes": 70,
-    "release": "2026-07-15",
-    "genres": [
-      878,
-      9648,
-      28
-    ],
-    "popularity": 108.1623
-  },
-  {
-    "id": 1440098,
-    "tmdb_id": 1440098,
-    "type": "movie",
-    "title": "Drawn Together",
-    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
-    "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "rating": 6.624,
-    "votes": 89,
-    "release": "2026-09-09",
-    "genres": [
-      10749,
-      53
-    ],
-    "popularity": 189.2801
-  },
-  {
-    "id": 1124142,
-    "tmdb_id": 1124142,
-    "type": "movie",
-    "title": "The Rivals of Amziah King",
-    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-    "poster": "https://image.tmdb.org/t/p/w342/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "rating": 6.784,
-    "votes": 58,
-    "release": "2026-08-13",
-    "genres": [
-      80,
-      18,
-      53
-    ],
-    "popularity": 47.0505
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 6.437,
-    "votes": 411,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 264.5423
-  },
-  {
-    "id": 1377237,
-    "tmdb_id": 1377237,
-    "type": "movie",
-    "title": "Runner",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 7.8,
-    "votes": 25,
-    "release": "2026-09-07",
-    "genres": [
-      28,
-      35,
-      53
-    ],
-    "popularity": 59.3503
-  },
-  {
-    "id": 1386315,
-    "tmdb_id": 1386315,
-    "type": "movie",
-    "title": "The Runner",
-    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-    "rating": 6.777,
-    "votes": 505,
-    "release": "2026-09-03",
-    "genres": [
-      53,
-      28
-    ],
-    "popularity": 160.2724
-  },
-  {
-    "id": 1365884,
-    "tmdb_id": 1365884,
-    "type": "movie",
-    "title": "Call My Agent! The Movie",
-    "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
-    "poster": "https://image.tmdb.org/t/p/w342/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-    "rating": 6.455,
-    "votes": 66,
-    "release": "2026-08-29",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 31.1736
-  },
-  {
-    "id": 1248832,
-    "tmdb_id": 1248832,
-    "type": "movie",
-    "title": "Digger",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-09-30",
-    "genres": [
-      35
-    ],
-    "popularity": 21.4448
+    "popularity": 367.3657
   },
   {
     "id": 1083381,
@@ -323,15 +98,138 @@
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.047,
-    "votes": 3306,
+    "rating": 7.044,
+    "votes": 3319,
     "release": "2026-05-27",
     "genres": [
       27,
       9648,
       878
     ],
-    "popularity": 84.4522
+    "popularity": 83.6218
+  },
+  {
+    "id": 1339713,
+    "tmdb_id": 1339713,
+    "type": "movie",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "rating": 8.195,
+    "votes": 5596,
+    "release": "2026-05-13",
+    "genres": [
+      27,
+      53
+    ],
+    "popularity": 136.6207
+  },
+  {
+    "id": 1204680,
+    "tmdb_id": 1204680,
+    "type": "movie",
+    "title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "rating": 7.6,
+    "votes": 444,
+    "release": "2026-08-20",
+    "genres": [
+      35,
+      12,
+      10751
+    ],
+    "popularity": 496.9094
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+    "rating": 7.4,
+    "votes": 76,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 104.9859
+  },
+  {
+    "id": 1137844,
+    "tmdb_id": 1137844,
+    "type": "movie",
+    "title": "Mayday",
+    "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+    "poster": "https://image.tmdb.org/t/p/w342/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "rating": 8.013,
+    "votes": 676,
+    "release": "2026-09-03",
+    "genres": [
+      28,
+      35
+    ],
+    "popularity": 128.5369
+  },
+  {
+    "id": 1302904,
+    "tmdb_id": 1302904,
+    "type": "movie",
+    "title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "rating": 6,
+    "votes": 64,
+    "release": "2026-09-09",
+    "genres": [
+      10749,
+      14,
+      35
+    ],
+    "popularity": 70.0029
+  },
+  {
+    "id": 1124142,
+    "tmdb_id": 1124142,
+    "type": "movie",
+    "title": "The Rivals of Amziah King",
+    "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+    "poster": "https://image.tmdb.org/t/p/w342/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "rating": 6.742,
+    "votes": 60,
+    "release": "2026-08-13",
+    "genres": [
+      53,
+      80,
+      18
+    ],
+    "popularity": 49.298
+  },
+  {
+    "id": 1288445,
+    "tmdb_id": 1288445,
+    "type": "movie",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "rating": 6.439,
+    "votes": 416,
+    "release": "2026-08-19",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 254.7093
   },
   {
     "id": 1084244,
@@ -342,7 +240,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
     "rating": 8.357,
-    "votes": 2175,
+    "votes": 2187,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -350,6 +248,112 @@
       35,
       12
     ],
-    "popularity": 143.7971
+    "popularity": 143.7689
+  },
+  {
+    "id": 1240889,
+    "tmdb_id": 1240889,
+    "type": "movie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "poster": "https://image.tmdb.org/t/p/w342/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "rating": 6.6,
+    "votes": 120,
+    "release": "2026-08-06",
+    "genres": [
+      35,
+      27,
+      10749
+    ],
+    "popularity": 44.2136
+  },
+  {
+    "id": 1440098,
+    "tmdb_id": 1440098,
+    "type": "movie",
+    "title": "Drawn Together",
+    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+    "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "rating": 6.606,
+    "votes": 94,
+    "release": "2026-09-09",
+    "genres": [
+      10749,
+      53
+    ],
+    "popularity": 150.4704
+  },
+  {
+    "id": 1315772,
+    "tmdb_id": 1315772,
+    "type": "movie",
+    "title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "rating": 7.548,
+    "votes": 1131,
+    "release": "2026-06-24",
+    "genres": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "popularity": 117.3038
+  },
+  {
+    "id": 1514026,
+    "tmdb_id": 1514026,
+    "type": "movie",
+    "title": "Buddy",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "poster": "https://image.tmdb.org/t/p/w342/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "rating": 7.934,
+    "votes": 61,
+    "release": "2026-08-27",
+    "genres": [
+      27,
+      35
+    ],
+    "popularity": 30.9665
+  },
+  {
+    "id": 1641629,
+    "tmdb_id": 1641629,
+    "type": "movie",
+    "title": "You+Me - Against the World",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "poster": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "rating": 5.464,
+    "votes": 14,
+    "release": "2026-09-18",
+    "genres": [
+      10749,
+      18
+    ],
+    "popularity": 58.9162
+  },
+  {
+    "id": 1433367,
+    "tmdb_id": 1433367,
+    "type": "movie",
+    "title": "One Night Only",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "poster": "https://image.tmdb.org/t/p/w342/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+    "rating": 6.5,
+    "votes": 133,
+    "release": "2026-08-06",
+    "genres": [
+      10749,
+      35
+    ],
+    "popularity": 46.2825
   }
 ]
