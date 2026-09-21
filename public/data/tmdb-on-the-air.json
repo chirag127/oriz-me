@@ -14,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 639.8308
+    "popularity": 682.0594
   },
   {
     "id": 59941,
@@ -31,7 +31,7 @@
       35,
       10767
     ],
-    "popularity": 519.7983
+    "popularity": 458.2957
   },
   {
     "id": 113962,
@@ -42,13 +42,64 @@
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
     "rating": 8.2,
-    "votes": 1570,
+    "votes": 1577,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 385.7829
+    "popularity": 497.8167
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
+    "rating": 8.023,
+    "votes": 11018,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 396.9325
+  },
+  {
+    "id": 61818,
+    "tmdb_id": 61818,
+    "type": "tv",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.112,
+    "votes": 134,
+    "release": "2014-02-25",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 420.5538
+  },
+  {
+    "id": 112470,
+    "tmdb_id": 112470,
+    "type": "tv",
+    "title": "Ici tout commence",
+    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+    "poster": "https://image.tmdb.org/t/p/w342/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+    "rating": 6.8,
+    "votes": 92,
+    "release": "2020-11-02",
+    "genres": [
+      10766,
+      18
+    ],
+    "popularity": 169.8364
   },
   {
     "id": 70672,
@@ -65,7 +116,7 @@
       10764,
       35
     ],
-    "popularity": 322.2193
+    "popularity": 355.9466
   },
   {
     "id": 2661,
@@ -83,24 +134,7 @@
       10765,
       18
     ],
-    "popularity": 316.5316
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
-    "rating": 8.023,
-    "votes": 11016,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 457.0739
+    "popularity": 333.6016
   },
   {
     "id": 2224,
@@ -117,7 +151,23 @@
       10763,
       35
     ],
-    "popularity": 301.4194
+    "popularity": 329.1312
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 259.3535
   },
   {
     "id": 4656,
@@ -127,13 +177,63 @@
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-    "rating": 6.79,
+    "rating": 6.8,
     "votes": 374,
     "release": "1993-01-11",
     "genres": [
       10764
     ],
-    "popularity": 283.8381
+    "popularity": 267.7171
+  },
+  {
+    "id": 72879,
+    "tmdb_id": 72879,
+    "type": "tv",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+    "rating": 6.2,
+    "votes": 73,
+    "release": "2017-07-17",
+    "genres": [
+      80,
+      18,
+      10766
+    ],
+    "popularity": 176.1783
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 213.9101
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.4,
+    "votes": 118,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 191.1025
   },
   {
     "id": 97546,
@@ -143,83 +243,14 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.37,
-    "votes": 2672,
+    "rating": 8.371,
+    "votes": 2673,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 253.806
-  },
-  {
-    "id": 65282,
-    "tmdb_id": 65282,
-    "type": "tv",
-    "title": "Home Alone",
-    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-    "rating": 7.5,
-    "votes": 18,
-    "release": "2013-03-22",
-    "genres": [
-      10764
-    ],
-    "popularity": 223.8608
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.112,
-    "votes": 134,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 456.5261
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.3,
-    "votes": 363,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 223.2856
-  },
-  {
-    "id": 72879,
-    "tmdb_id": 72879,
-    "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/7BjipkA48xXLauTg45QKiOb144a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
-    "rating": 6.247,
-    "votes": 73,
-    "release": "2017-07-17",
-    "genres": [
-      80,
-      18,
-      10766
-    ],
-    "popularity": 273.591
+    "popularity": 252.2491
   },
   {
     "id": 2527,
@@ -236,74 +267,25 @@
       10766,
       18
     ],
-    "popularity": 248.1417
+    "popularity": 191.6768
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.287,
+    "votes": 371,
+    "release": "2026-08-16",
     "genres": [
-      10766
-    ],
-    "popularity": 295.302
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.4,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 259.4433
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.413,
-    "votes": 1720,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
+      18,
+      9648,
       10765
     ],
-    "popularity": 206.9604
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.384,
-    "votes": 865,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 224.6664
+    "popularity": 229.2047
   },
   {
     "id": 1667,
@@ -320,24 +302,39 @@
       35,
       10763
     ],
-    "popularity": 227.1735
+    "popularity": 211.6148
   },
   {
-    "id": 106449,
-    "tmdb_id": 106449,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "A Record of a Mortal's Journey to Immortality",
-    "overview": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
-    "poster": "https://image.tmdb.org/t/p/w342/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
-    "rating": 8.425,
-    "votes": 87,
-    "release": "2020-07-25",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+    "rating": 8.392,
+    "votes": 869,
+    "release": "2025-03-30",
     "genres": [
-      16,
-      10759,
+      80,
       18
     ],
-    "popularity": 158.5954
+    "popularity": 233.6858
+  },
+  {
+    "id": 65282,
+    "tmdb_id": 65282,
+    "type": "tv",
+    "title": "Home Alone",
+    "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+    "poster": "https://image.tmdb.org/t/p/w342/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "rating": 7.5,
+    "votes": 18,
+    "release": "2013-03-22",
+    "genres": [
+      10764
+    ],
+    "popularity": 245.7242
   }
 ]

@@ -7,8 +7,8 @@
     "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
     "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "rating": 9.196,
-    "votes": 341,
+    "rating": 9.201,
+    "votes": 349,
     "release": "2026-06-23",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       12,
       878
     ],
-    "popularity": 77.2879
+    "popularity": 64.4233
   },
   {
     "id": 980431,
@@ -26,8 +26,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.142,
-    "votes": 1158,
+    "rating": 9.1,
+    "votes": 1166,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -35,7 +35,7 @@
       14,
       28
     ],
-    "popularity": 85.6244
+    "popularity": 90.2397
   },
   {
     "id": 1007757,
@@ -45,8 +45,8 @@
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-    "rating": 8.868,
-    "votes": 2189,
+    "rating": 8.867,
+    "votes": 2190,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -54,7 +54,7 @@
       10751,
       14
     ],
-    "popularity": 41.527
+    "popularity": 49.0313
   },
   {
     "id": 1632181,
@@ -64,32 +64,14 @@
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
-    "rating": 8.853,
-    "votes": 382,
+    "rating": 8.836,
+    "votes": 383,
     "release": "2026-03-12",
     "genres": [
       35,
       10749
     ],
-    "popularity": 16.6243
-  },
-  {
-    "id": 1621552,
-    "tmdb_id": 1621552,
-    "type": "movie",
-    "title": "Facing El Chapo",
-    "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-    "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.777,
-    "votes": 742,
-    "release": "2026-08-21",
-    "genres": [
-      80,
-      28,
-      53
-    ],
-    "popularity": 102.8604
+    "popularity": 17.4864
   },
   {
     "id": 1311031,
@@ -99,15 +81,33 @@
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.798,
-    "votes": 2153,
+    "rating": 8.8,
+    "votes": 2160,
     "release": "2025-07-18",
     "genres": [
       16,
       28,
       14
     ],
-    "popularity": 64.4788
+    "popularity": 58.5856
+  },
+  {
+    "id": 1621552,
+    "tmdb_id": 1621552,
+    "type": "movie",
+    "title": "Facing El Chapo",
+    "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+    "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+    "rating": 8.779,
+    "votes": 764,
+    "release": "2026-08-21",
+    "genres": [
+      80,
+      28,
+      53
+    ],
+    "popularity": 106.0866
   },
   {
     "id": 278,
@@ -116,15 +116,15 @@
     "title": "The Shawshank Redemption",
     "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "rating": 8.731,
-    "votes": 31356,
+    "votes": 31366,
     "release": "1994-09-23",
     "genres": [
       18,
       80
     ],
-    "popularity": 75.6701
+    "popularity": 78.69
   },
   {
     "id": 238,
@@ -135,13 +135,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
     "rating": 8.687,
-    "votes": 23588,
+    "votes": 23601,
     "release": "1972-03-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 64.2399
+    "popularity": 69.1893
   },
   {
     "id": 687163,
@@ -152,13 +152,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
     "rating": 8.639,
-    "votes": 7840,
+    "votes": 7867,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 93.8207
+    "popularity": 101.1844
   },
   {
     "id": 936075,
@@ -169,13 +169,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
     "rating": 8.633,
-    "votes": 4366,
+    "votes": 4380,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 55.9604
+    "popularity": 62.9
   },
   {
     "id": 1232449,
@@ -192,7 +192,7 @@
       18,
       10749
     ],
-    "popularity": 15.4457
+    "popularity": 17.6345
   },
   {
     "id": 240,
@@ -203,13 +203,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
     "rating": 8.572,
-    "votes": 14337,
+    "votes": 14345,
     "release": "1974-12-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 35.5474
+    "popularity": 43.4056
   },
   {
     "id": 389,
@@ -220,12 +220,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
     "rating": 8.571,
-    "votes": 10373,
+    "votes": 10381,
     "release": "1957-04-10",
     "genres": [
       18
     ],
-    "popularity": 34.6967
+    "popularity": 38.8216
   },
   {
     "id": 424,
@@ -236,14 +236,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "rating": 8.57,
-    "votes": 17916,
+    "votes": 17919,
     "release": "1993-12-15",
     "genres": [
       18,
       36,
       10752
     ],
-    "popularity": 31.4045
+    "popularity": 35.1334
   },
   {
     "id": 1218925,
@@ -253,8 +253,8 @@
     "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "rating": 8.549,
-    "votes": 1187,
+    "rating": 8.553,
+    "votes": 1193,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -262,7 +262,7 @@
       10749,
       14
     ],
-    "popularity": 33.2536
+    "popularity": 38.2161
   },
   {
     "id": 155,
@@ -273,14 +273,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
     "rating": 8.535,
-    "votes": 36733,
+    "votes": 36743,
     "release": "2008-07-16",
     "genres": [
       28,
       53,
       80
     ],
-    "popularity": 63.9126
+    "popularity": 69.6462
   },
   {
     "id": 129,
@@ -290,15 +290,15 @@
     "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
     "poster": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
-    "rating": 8.5,
-    "votes": 18914,
+    "rating": 8.535,
+    "votes": 18920,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 42.1636
+    "popularity": 45.0241
   },
   {
     "id": 497,
@@ -308,15 +308,15 @@
     "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-    "rating": 8.506,
-    "votes": 19816,
+    "rating": 8.5,
+    "votes": 19824,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 36.4016
+    "popularity": 41.2841
   },
   {
     "id": 122,
@@ -327,14 +327,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
     "rating": 8.506,
-    "votes": 27364,
+    "votes": 27371,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 48.5722
+    "popularity": 55.7679
   },
   {
     "id": 19404,
@@ -352,6 +352,6 @@
       18,
       10749
     ],
-    "popularity": 13.9492
+    "popularity": 15.3039
   }
 ]
