@@ -1,23 +1,5 @@
 [
   {
-    "id": 273207,
-    "tmdb_id": 273207,
-    "type": "tv",
-    "title": "Neagley",
-    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-    "rating": 7.973,
-    "votes": 91,
-    "release": "2026-09-16",
-    "genres": [
-      18,
-      9648,
-      80
-    ],
-    "popularity": 166.2382
-  },
-  {
     "id": 299939,
     "tmdb_id": 299939,
     "type": "tv",
@@ -25,14 +7,32 @@
     "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
     "poster": "https://image.tmdb.org/t/p/w342/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-    "rating": 7.1,
-    "votes": 51,
+    "rating": 7.085,
+    "votes": 65,
     "release": "2026-09-17",
     "genres": [
       18,
       80
     ],
-    "popularity": 157.0329
+    "popularity": 147.455
+  },
+  {
+    "id": 273207,
+    "tmdb_id": 273207,
+    "type": "tv",
+    "title": "Neagley",
+    "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+    "poster": "https://image.tmdb.org/t/p/w342/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+    "rating": 8,
+    "votes": 102,
+    "release": "2026-09-16",
+    "genres": [
+      18,
+      9648,
+      80
+    ],
+    "popularity": 163.2562
   },
   {
     "id": 108978,
@@ -42,14 +42,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.127,
-    "votes": 3372,
+    "rating": 8.129,
+    "votes": 3383,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 918.352
+    "popularity": 867.0873
   },
   {
     "id": 247718,
@@ -58,15 +58,15 @@
     "title": "MobLand",
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
-    "rating": 8.392,
-    "votes": 869,
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+    "rating": 8.4,
+    "votes": 875,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 233.6858
+    "popularity": 248.4724
   },
   {
     "id": 95350,
@@ -76,15 +76,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.305,
-    "votes": 375,
+    "rating": 8.289,
+    "votes": 398,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 229.2047
+    "popularity": 306.4526
   },
   {
     "id": 275102,
@@ -94,13 +94,13 @@
     "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
     "poster": "https://image.tmdb.org/t/p/w342/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "rating": 6.5,
-    "votes": 8,
+    "rating": 6.273,
+    "votes": 11,
     "release": "2026-09-18",
     "genres": [
       18
     ],
-    "popularity": 3427.0312
+    "popularity": 3400.2893
   },
   {
     "id": 113962,
@@ -110,14 +110,14 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "rating": 8.218,
-    "votes": 1581,
+    "rating": 8.2,
+    "votes": 1592,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 497.8167
+    "popularity": 568.1133
   },
   {
     "id": 95480,
@@ -126,16 +126,16 @@
     "title": "Slow Horses",
     "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-    "rating": 8.024,
-    "votes": 991,
+    "backdrop": "https://image.tmdb.org/t/p/w780/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+    "rating": 8,
+    "votes": 993,
     "release": "2022-04-01",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 158.9498
+    "popularity": 158.4524
   },
   {
     "id": 232018,
@@ -143,16 +143,49 @@
     "type": "tv",
     "title": "Has Fallen",
     "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-    "poster": "https://image.tmdb.org/t/p/w342/pbjUYxmI2BdqpXpr89XaBnKlc6F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
     "rating": 7,
-    "votes": 122,
+    "votes": 123,
     "release": "2024-09-23",
     "genres": [
       10759,
       10768
     ],
-    "popularity": 53.9106
+    "popularity": 59.3027
+  },
+  {
+    "id": 332401,
+    "tmdb_id": 332401,
+    "type": "tv",
+    "title": "City of Blood",
+    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+    "poster": "https://image.tmdb.org/t/p/w342/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+    "rating": 6.385,
+    "votes": 13,
+    "release": "2026-09-16",
+    "genres": [
+      9648
+    ],
+    "popularity": 48.6161
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.371,
+    "votes": 2675,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 241.2895
   },
   {
     "id": 2190,
@@ -163,29 +196,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
     "rating": 8.332,
-    "votes": 5153,
+    "votes": 5157,
     "release": "1997-08-13",
     "genres": [
       16,
       35
     ],
-    "popularity": 144.7365
+    "popularity": 146.9213
   },
   {
-    "id": 332401,
-    "tmdb_id": 332401,
+    "id": 37854,
+    "tmdb_id": 37854,
     "type": "tv",
-    "title": "City of Blood",
-    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-    "poster": "https://image.tmdb.org/t/p/w342/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-    "rating": 6.9,
-    "votes": 8,
-    "release": "2026-09-16",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.7,
+    "votes": 5552,
+    "release": "1999-10-20",
     "genres": [
-      9648
+      10759,
+      35,
+      16
     ],
-    "popularity": 49.6207
+    "popularity": 85.7114
   },
   {
     "id": 224263,
@@ -204,43 +239,7 @@
       9648,
       10759
     ],
-    "popularity": 50.5594
-  },
-  {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
-    "rating": 8.748,
-    "votes": 5552,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 85.8668
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.35,
-    "votes": 2276,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 222.8188
+    "popularity": 51.9462
   },
   {
     "id": 125988,
@@ -250,66 +249,49 @@
     "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
     "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-    "rating": 8.22,
-    "votes": 2705,
+    "rating": 8.221,
+    "votes": 2708,
     "release": "2023-05-04",
     "genres": [
       10765,
       18
     ],
-    "popularity": 215.941
+    "popularity": 207.7989
   },
   {
-    "id": 97546,
-    "tmdb_id": 97546,
+    "id": 239618,
+    "tmdb_id": 239618,
     "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.371,
-    "votes": 2673,
-    "release": "2020-08-14",
+    "title": "American Hostage",
+    "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+    "poster": "https://image.tmdb.org/t/p/w342/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+    "rating": 7.2,
+    "votes": 5,
+    "release": "2026-09-20",
     "genres": [
-      18,
-      35
+      80,
+      18
     ],
-    "popularity": 252.2491
+    "popularity": 45.5338
   },
   {
-    "id": 287620,
-    "tmdb_id": 287620,
+    "id": 30984,
+    "tmdb_id": 30984,
     "type": "tv",
-    "title": "Stuart Fails to Save the Universe",
-    "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-    "poster": "https://image.tmdb.org/t/p/w342/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-    "rating": 8.716,
-    "votes": 174,
-    "release": "2026-07-23",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.3,
+    "votes": 2276,
+    "release": "2004-10-05",
     "genres": [
-      35,
-      10765
-    ],
-    "popularity": 58.3798
-  },
-  {
-    "id": 615,
-    "tmdb_id": 615,
-    "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.4,
-    "votes": 3907,
-    "release": "1999-03-28",
-    "genres": [
+      10759,
       16,
-      35,
       10765
     ],
-    "popularity": 110.6914
+    "popularity": 216.7669
   },
   {
     "id": 94664,
@@ -319,15 +301,15 @@
     "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
     "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.4,
-    "votes": 1723,
+    "rating": 8.413,
+    "votes": 1727,
     "release": "2021-01-11",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 244.7441
+    "popularity": 284.5913
   },
   {
     "id": 196322,
@@ -337,13 +319,31 @@
     "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
     "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-    "rating": 7.787,
-    "votes": 788,
+    "rating": 7.79,
+    "votes": 789,
     "release": "2024-05-07",
     "genres": [
       10765,
       18
     ],
-    "popularity": 64.3332
+    "popularity": 64.8044
+  },
+  {
+    "id": 236235,
+    "tmdb_id": 236235,
+    "type": "tv",
+    "title": "The Gentlemen",
+    "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+    "poster": "https://image.tmdb.org/t/p/w342/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+    "rating": 7.877,
+    "votes": 941,
+    "release": "2024-03-07",
+    "genres": [
+      35,
+      18,
+      80
+    ],
+    "popularity": 138.5971
   }
 ]
