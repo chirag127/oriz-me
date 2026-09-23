@@ -14,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 676.0239
+    "popularity": 639.758
   },
   {
     "id": 59941,
@@ -24,31 +24,14 @@
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.756,
+    "rating": 5.8,
     "votes": 389,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 516.034
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.112,
-    "votes": 134,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 394.2658
+    "popularity": 500.1797
   },
   {
     "id": 456,
@@ -59,13 +42,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
     "rating": 8.022,
-    "votes": 11024,
+    "votes": 11026,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 411.3515
+    "popularity": 389.7691
+  },
+  {
+    "id": 61818,
+    "tmdb_id": 61818,
+    "type": "tv",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.1,
+    "votes": 134,
+    "release": "2014-02-25",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 386.5761
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.405,
+    "votes": 663,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 305.1739
   },
   {
     "id": 65270,
@@ -81,24 +98,7 @@
     "genres": [
       10767
     ],
-    "popularity": 309.5015
-  },
-  {
-    "id": 70672,
-    "tmdb_id": 70672,
-    "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
-    "genres": [
-      10764,
-      35
-    ],
-    "popularity": 302.2832
+    "popularity": 250.9057
   },
   {
     "id": 2661,
@@ -116,24 +116,42 @@
       10765,
       18
     ],
-    "popularity": 308.3429
+    "popularity": 258.8929
   },
   {
-    "id": 2224,
-    "tmdb_id": 2224,
+    "id": 70672,
+    "tmdb_id": 70672,
     "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.408,
-    "votes": 661,
-    "release": "1996-07-22",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
     "genres": [
-      10763,
+      10764,
       35
     ],
-    "popularity": 321.3057
+    "popularity": 245.9044
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.413,
+    "votes": 1728,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 275.1399
   },
   {
     "id": 95350,
@@ -143,15 +161,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.3,
-    "votes": 395,
+    "rating": 8.237,
+    "votes": 405,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 306.4526
+    "popularity": 276.6365
   },
   {
     "id": 2912,
@@ -161,14 +179,14 @@
     "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
     "poster": "https://image.tmdb.org/t/p/w342/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-    "rating": 6.925,
+    "rating": 6.9,
     "votes": 166,
     "release": "1984-09-10",
     "genres": [
       10764,
       10751
     ],
-    "popularity": 274.1586
+    "popularity": 248.6244
   },
   {
     "id": 4656,
@@ -184,7 +202,7 @@
     "genres": [
       10764
     ],
-    "popularity": 269.3226
+    "popularity": 264.0236
   },
   {
     "id": 206559,
@@ -200,7 +218,40 @@
     "genres": [
       10766
     ],
-    "popularity": 251.6402
+    "popularity": 236.4606
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+    "rating": 8.405,
+    "votes": 879,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 255.9333
+  },
+  {
+    "id": 2221,
+    "tmdb_id": 2221,
+    "type": "tv",
+    "title": "The View",
+    "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+    "poster": "https://image.tmdb.org/t/p/w342/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+    "rating": 4.345,
+    "votes": 113,
+    "release": "1997-08-11",
+    "genres": [
+      10767
+    ],
+    "popularity": 228.7835
   },
   {
     "id": 97546,
@@ -211,13 +262,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
     "rating": 8.371,
-    "votes": 2675,
+    "votes": 2677,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 241.2895
+    "popularity": 229.6314
   },
   {
     "id": 65282,
@@ -233,42 +284,24 @@
     "genres": [
       10764
     ],
-    "popularity": 227.1205
+    "popularity": 191.747
   },
   {
-    "id": 94664,
-    "tmdb_id": 94664,
+    "id": 1667,
+    "tmdb_id": 1667,
     "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.411,
-    "votes": 1725,
-    "release": "2021-01-11",
+    "title": "Saturday Night Live",
+    "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+    "poster": "https://image.tmdb.org/t/p/w342/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+    "rating": 6.91,
+    "votes": 528,
+    "release": "1975-10-11",
     "genres": [
-      10759,
-      16,
-      10765
+      35,
+      10763
     ],
-    "popularity": 284.5913
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
-    "rating": 8.4,
-    "votes": 874,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 248.4724
+    "popularity": 215.7822
   },
   {
     "id": 11890,
@@ -284,7 +317,7 @@
     "genres": [
       10766
     ],
-    "popularity": 222.9697
+    "popularity": 227.4598
   },
   {
     "id": 223911,
@@ -302,40 +335,6 @@
       18,
       10759
     ],
-    "popularity": 191.9734
-  },
-  {
-    "id": 1667,
-    "tmdb_id": 1667,
-    "type": "tv",
-    "title": "Saturday Night Live",
-    "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-    "poster": "https://image.tmdb.org/t/p/w342/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-    "rating": 6.91,
-    "votes": 528,
-    "release": "1975-10-11",
-    "genres": [
-      35,
-      10763
-    ],
-    "popularity": 223.4238
-  },
-  {
-    "id": 2527,
-    "tmdb_id": 2527,
-    "type": "tv",
-    "title": "Emmerdale",
-    "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-    "poster": "https://image.tmdb.org/t/p/w342/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-    "rating": 4.3,
-    "votes": 100,
-    "release": "1972-10-16",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 144.9475
+    "popularity": 212.6209
   }
 ]

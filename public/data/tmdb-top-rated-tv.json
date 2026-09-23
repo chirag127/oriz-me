@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
     "rating": 9.393,
-    "votes": 919,
+    "votes": 922,
     "release": "2026-06-05",
     "genres": [
       10759,
       18,
       35
     ],
-    "popularity": 53.1839
+    "popularity": 53.1765
   },
   {
     "id": 299167,
@@ -25,14 +25,14 @@
     "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
     "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-    "rating": 9.2,
-    "votes": 596,
+    "rating": 9.166,
+    "votes": 597,
     "release": "2026-05-15",
     "genres": [
       37,
       18
     ],
-    "popularity": 45.8958
+    "popularity": 44.0968
   },
   {
     "id": 278573,
@@ -49,7 +49,7 @@
       35,
       18
     ],
-    "popularity": 25.2702
+    "popularity": 23.7576
   },
   {
     "id": 1396,
@@ -60,13 +60,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
     "rating": 8.952,
-    "votes": 18674,
+    "votes": 18677,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 247.126
+    "popularity": 217.044
   },
   {
     "id": 273240,
@@ -76,13 +76,13 @@
     "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
     "poster": "https://image.tmdb.org/t/p/w342/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
-    "rating": 8.907,
-    "votes": 856,
+    "rating": 8.91,
+    "votes": 859,
     "release": "2026-05-13",
     "genres": [
       18
     ],
-    "popularity": 69.1691
+    "popularity": 68.9882
   },
   {
     "id": 322430,
@@ -99,7 +99,7 @@
       18,
       10766
     ],
-    "popularity": 22.655
+    "popularity": 23.026
   },
   {
     "id": 259837,
@@ -118,7 +118,7 @@
       10765,
       18
     ],
-    "popularity": 22.7831
+    "popularity": 20.5732
   },
   {
     "id": 245026,
@@ -136,7 +136,41 @@
       10765,
       10751
     ],
-    "popularity": 28.8577
+    "popularity": 28.2061
+  },
+  {
+    "id": 284445,
+    "tmdb_id": 284445,
+    "type": "tv",
+    "title": "Takopi's Original Sin",
+    "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+    "poster": "https://image.tmdb.org/t/p/w342/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+    "rating": 8.815,
+    "votes": 205,
+    "release": "2025-06-28",
+    "genres": [
+      16,
+      18,
+      10765
+    ],
+    "popularity": 15.5129
+  },
+  {
+    "id": 219246,
+    "tmdb_id": 219246,
+    "type": "tv",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+    "rating": 8.808,
+    "votes": 589,
+    "release": "2025-03-07",
+    "genres": [
+      18
+    ],
+    "popularity": 30.2825
   },
   {
     "id": 209867,
@@ -155,41 +189,7 @@
       18,
       10765
     ],
-    "popularity": 92.3055
-  },
-  {
-    "id": 219246,
-    "tmdb_id": 219246,
-    "type": "tv",
-    "title": "When Life Gives You Tangerines",
-    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "rating": 8.808,
-    "votes": 589,
-    "release": "2025-03-07",
-    "genres": [
-      18
-    ],
-    "popularity": 34.8816
-  },
-  {
-    "id": 284445,
-    "tmdb_id": 284445,
-    "type": "tv",
-    "title": "Takopi's Original Sin",
-    "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
-    "poster": "https://image.tmdb.org/t/p/w342/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-    "rating": 8.809,
-    "votes": 204,
-    "release": "2025-06-28",
-    "genres": [
-      16,
-      18,
-      10765
-    ],
-    "popularity": 15.7841
+    "popularity": 125.8581
   },
   {
     "id": 85077,
@@ -199,15 +199,15 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "rating": 8.803,
-    "votes": 989,
+    "rating": 8.808,
+    "votes": 993,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 85.1188
+    "popularity": 81.8764
   },
   {
     "id": 259666,
@@ -217,14 +217,14 @@
     "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
     "poster": "https://image.tmdb.org/t/p/w342/5U3WiAz67fJn5gnvFk4zOJAx9Sc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
-    "rating": 8.784,
-    "votes": 379,
+    "rating": 8.774,
+    "votes": 381,
     "release": "2024-08-09",
     "genres": [
       18,
       35
     ],
-    "popularity": 10.6999
+    "popularity": 10.6607
   },
   {
     "id": 246,
@@ -234,15 +234,15 @@
     "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
     "poster": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-    "rating": 8.8,
-    "votes": 5109,
+    "rating": 8.78,
+    "votes": 5111,
     "release": "2005-02-21",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 38.6768
+    "popularity": 36.4893
   },
   {
     "id": 64010,
@@ -258,25 +258,7 @@
     "genres": [
       35
     ],
-    "popularity": 16.6772
-  },
-  {
-    "id": 94605,
-    "tmdb_id": 94605,
-    "type": "tv",
-    "title": "Arcane",
-    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
-    "poster": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-    "rating": 8.748,
-    "votes": 6183,
-    "release": "2021-11-06",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 54.7138
+    "popularity": 15.4998
   },
   {
     "id": 37854,
@@ -286,15 +268,33 @@
     "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.7,
-    "votes": 5552,
+    "rating": 8.749,
+    "votes": 5554,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 85.7114
+    "popularity": 91.1794
+  },
+  {
+    "id": 94605,
+    "tmdb_id": 94605,
+    "type": "tv",
+    "title": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "poster": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+    "rating": 8.7,
+    "votes": 6185,
+    "release": "2021-11-06",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 55.0565
   },
   {
     "id": 301507,
@@ -304,13 +304,13 @@
     "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
     "poster": "https://image.tmdb.org/t/p/w342/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
-    "rating": 8.7,
-    "votes": 611,
+    "rating": 8.741,
+    "votes": 612,
     "release": "2025-11-28",
     "genres": [
       18
     ],
-    "popularity": 30.3154
+    "popularity": 29.8008
   },
   {
     "id": 250307,
@@ -320,13 +320,13 @@
     "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-    "rating": 8.737,
-    "votes": 976,
+    "rating": 8.7,
+    "votes": 979,
     "release": "2025-01-09",
     "genres": [
       18
     ],
-    "popularity": 125.0901
+    "popularity": 122.6483
   },
   {
     "id": 87108,
@@ -336,12 +336,12 @@
     "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
     "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
-    "rating": 8.727,
-    "votes": 8321,
+    "rating": 8.726,
+    "votes": 8325,
     "release": "2019-05-06",
     "genres": [
       18
     ],
-    "popularity": 39.9319
+    "popularity": 37.5937
   }
 ]
