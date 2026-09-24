@@ -13,7 +13,7 @@
     "genres": [
       18
     ],
-    "popularity": 3190.8628
+    "popularity": 2907.3056
   },
   {
     "id": 108978,
@@ -23,14 +23,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.129,
-    "votes": 3389,
+    "rating": 8.128,
+    "votes": 3392,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 832.6872
+    "popularity": 795.7436
   },
   {
     "id": 2261,
@@ -46,7 +46,7 @@
     "genres": [
       10767
     ],
-    "popularity": 792.1582
+    "popularity": 774.9749
   },
   {
     "id": 63770,
@@ -56,14 +56,14 @@
     "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
     "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-    "rating": 6.093,
-    "votes": 366,
+    "rating": 6.101,
+    "votes": 367,
     "release": "2015-09-08",
     "genres": [
       35,
       10767
     ],
-    "popularity": 676.7704
+    "popularity": 672.3329
   },
   {
     "id": 22980,
@@ -80,7 +80,7 @@
       10767,
       35
     ],
-    "popularity": 639.758
+    "popularity": 669.8951
   },
   {
     "id": 91759,
@@ -98,7 +98,7 @@
       35,
       18
     ],
-    "popularity": 639.0739
+    "popularity": 678.8005
   },
   {
     "id": 549,
@@ -108,14 +108,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.287,
-    "votes": 727,
+    "rating": 7.284,
+    "votes": 728,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 556.3723
+    "popularity": 571.1816
   },
   {
     "id": 113962,
@@ -125,14 +125,32 @@
     "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
     "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-    "rating": 8.227,
-    "votes": 1606,
+    "rating": 8.236,
+    "votes": 1616,
     "release": "2023-07-23",
     "genres": [
       18,
       10768
     ],
-    "popularity": 536.134
+    "popularity": 520.6287
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 7.958,
+    "votes": 4360,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 511.2671
   },
   {
     "id": 59941,
@@ -149,23 +167,7 @@
       35,
       10767
     ],
-    "popularity": 500.1797
-  },
-  {
-    "id": 62223,
-    "tmdb_id": 62223,
-    "type": "tv",
-    "title": "The Late Late Show with James Corden",
-    "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
-    "poster": "https://image.tmdb.org/t/p/w342/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
-    "rating": 5.149,
-    "votes": 148,
-    "release": "2015-03-23",
-    "genres": [
-      10767
-    ],
-    "popularity": 436.874
+    "popularity": 504.8194
   },
   {
     "id": 94722,
@@ -181,25 +183,23 @@
     "genres": [
       10763
     ],
-    "popularity": 455.0979
+    "popularity": 471.8962
   },
   {
-    "id": 2734,
-    "tmdb_id": 2734,
+    "id": 62223,
+    "tmdb_id": 62223,
     "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 8,
-    "votes": 4357,
-    "release": "1999-09-20",
+    "title": "The Late Late Show with James Corden",
+    "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+    "poster": "https://image.tmdb.org/t/p/w342/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+    "rating": 5.149,
+    "votes": 148,
+    "release": "2015-03-23",
     "genres": [
-      80,
-      18,
-      9648
+      10767
     ],
-    "popularity": 521.9307
+    "popularity": 416.1677
   },
   {
     "id": 5920,
@@ -209,32 +209,15 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.408,
-    "votes": 4753,
+    "rating": 8.406,
+    "votes": 4765,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 431.6855
-  },
-  {
-    "id": 1433,
-    "tmdb_id": 1433,
-    "type": "tv",
-    "title": "American Dad!",
-    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
-    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-    "rating": 7.019,
-    "votes": 2451,
-    "release": "2005-02-06",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 389.4738
+    "popularity": 509.3698
   },
   {
     "id": 456,
@@ -245,13 +228,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.022,
-    "votes": 11027,
+    "votes": 11031,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 389.7691
+    "popularity": 404.2056
+  },
+  {
+    "id": 1433,
+    "tmdb_id": 1433,
+    "type": "tv",
+    "title": "American Dad!",
+    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+    "rating": 7.018,
+    "votes": 2452,
+    "release": "2005-02-06",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 386.1313
   },
   {
     "id": 61818,
@@ -268,24 +268,7 @@
       10767,
       35
     ],
-    "popularity": 386.5761
-  },
-  {
-    "id": 1434,
-    "tmdb_id": 1434,
-    "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-    "rating": 7.411,
-    "votes": 5121,
-    "release": "1999-01-31",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 364.6222
+    "popularity": 417.21
   },
   {
     "id": 4614,
@@ -296,14 +279,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.611,
-    "votes": 2573,
+    "votes": 2574,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 367.8382
+    "popularity": 383.1617
+  },
+  {
+    "id": 1434,
+    "tmdb_id": 1434,
+    "type": "tv",
+    "title": "Family Guy",
+    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+    "rating": 7.41,
+    "votes": 5122,
+    "release": "1999-01-31",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 368.4159
   },
   {
     "id": 1416,
@@ -313,13 +313,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-    "rating": 8.205,
-    "votes": 11057,
+    "rating": 8.206,
+    "votes": 11059,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 364.4236
+    "popularity": 383.1359
   },
   {
     "id": 82873,
@@ -335,6 +335,6 @@
     "genres": [
       10767
     ],
-    "popularity": 324.757
+    "popularity": 334.1086
   }
 ]
