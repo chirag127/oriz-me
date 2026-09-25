@@ -1,5 +1,22 @@
 [
   {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+    "rating": 8.414,
+    "votes": 897,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 263.3603
+  },
+  {
     "id": 299939,
     "tmdb_id": 299939,
     "type": "tv",
@@ -8,30 +25,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
     "rating": 6.8,
-    "votes": 87,
+    "votes": 95,
     "release": "2026-09-17",
     "genres": [
       18,
       80
     ],
-    "popularity": 162.8782
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-    "rating": 8.2,
-    "votes": 1620,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 520.6287
+    "popularity": 148.1727
   },
   {
     "id": 273207,
@@ -41,49 +41,32 @@
     "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
     "poster": "https://image.tmdb.org/t/p/w342/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-    "rating": 8.059,
-    "votes": 119,
+    "rating": 8.031,
+    "votes": 130,
     "release": "2026-09-16",
     "genres": [
       18,
       9648,
       80
     ],
-    "popularity": 150.8613
+    "popularity": 136.0804
   },
   {
-    "id": 247718,
-    "tmdb_id": 247718,
+    "id": 113962,
+    "tmdb_id": 113962,
     "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.406,
-    "votes": 891,
-    "release": "2025-03-30",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "rating": 8.246,
+    "votes": 1627,
+    "release": "2023-07-23",
     "genres": [
-      80,
-      18
+      18,
+      10768
     ],
-    "popularity": 266.225
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.128,
-    "votes": 3393,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 795.7436
+    "popularity": 515.9816
   },
   {
     "id": 95350,
@@ -93,33 +76,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.3,
-    "votes": 419,
+    "rating": 8.254,
+    "votes": 422,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 262.5778
-  },
-  {
-    "id": 95480,
-    "tmdb_id": 95480,
-    "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
-    "rating": 8.023,
-    "votes": 995,
-    "release": "2022-04-01",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 206.1408
+    "popularity": 255.8752
   },
   {
     "id": 275102,
@@ -129,13 +94,81 @@
     "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
     "poster": "https://image.tmdb.org/t/p/w342/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "rating": 6.917,
-    "votes": 12,
+    "rating": 7.2,
+    "votes": 13,
     "release": "2026-09-18",
     "genres": [
       18
     ],
-    "popularity": 2907.3056
+    "popularity": 2415.3879
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.1,
+    "votes": 3398,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 743.5217
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.3,
+    "votes": 5161,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 143.837
+  },
+  {
+    "id": 95480,
+    "tmdb_id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+    "rating": 8.025,
+    "votes": 997,
+    "release": "2022-04-01",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 181.86
+  },
+  {
+    "id": 250203,
+    "tmdb_id": 250203,
+    "type": "tv",
+    "title": "Brothers",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "rating": 9.5,
+    "votes": 8,
+    "release": "2026-09-22",
+    "genres": [
+      35
+    ],
+    "popularity": 64.4685
   },
   {
     "id": 37854,
@@ -146,14 +179,133 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.749,
-    "votes": 5555,
+    "votes": 5557,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 86.214
+    "popularity": 81.2128
+  },
+  {
+    "id": 287620,
+    "tmdb_id": 287620,
+    "type": "tv",
+    "title": "Stuart Fails to Save the Universe",
+    "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+    "poster": "https://image.tmdb.org/t/p/w342/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+    "rating": 8.691,
+    "votes": 183,
+    "release": "2026-07-23",
+    "genres": [
+      35,
+      10765
+    ],
+    "popularity": 62.3415
+  },
+  {
+    "id": 232018,
+    "tmdb_id": 232018,
+    "type": "tv",
+    "title": "Has Fallen",
+    "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+    "poster": "https://image.tmdb.org/t/p/w342/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
+    "rating": 7,
+    "votes": 124,
+    "release": "2024-09-23",
+    "genres": [
+      10759,
+      10768
+    ],
+    "popularity": 49.6388
+  },
+  {
+    "id": 196322,
+    "tmdb_id": 196322,
+    "type": "tv",
+    "title": "Dark Matter",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+    "rating": 7.8,
+    "votes": 793,
+    "release": "2024-05-07",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 61.2116
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.37,
+    "votes": 2687,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 252.3646
+  },
+  {
+    "id": 125988,
+    "tmdb_id": 125988,
+    "type": "tv",
+    "title": "Silo",
+    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+    "rating": 8.221,
+    "votes": 2722,
+    "release": "2023-05-04",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 210.3551
+  },
+  {
+    "id": 239618,
+    "tmdb_id": 239618,
+    "type": "tv",
+    "title": "American Hostage",
+    "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+    "poster": "https://image.tmdb.org/t/p/w342/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+    "rating": 7.2,
+    "votes": 5,
+    "release": "2026-09-20",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 41.8979
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8,
+    "votes": 11032,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 411.8326
   },
   {
     "id": 615,
@@ -171,179 +323,24 @@
       35,
       10765
     ],
-    "popularity": 111.9342
+    "popularity": 116.642
   },
   {
-    "id": 232018,
-    "tmdb_id": 232018,
+    "id": 312949,
+    "tmdb_id": 312949,
     "type": "tv",
-    "title": "Has Fallen",
-    "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-    "poster": "https://image.tmdb.org/t/p/w342/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
-    "rating": 7,
-    "votes": 124,
-    "release": "2024-09-23",
-    "genres": [
-      10759,
-      10768
-    ],
-    "popularity": 53.3388
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.332,
-    "votes": 5160,
-    "release": "1997-08-13",
+    "title": "Chainsmoker Cat",
+    "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+    "poster": "https://image.tmdb.org/t/p/w342/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+    "rating": 8.538,
+    "votes": 66,
+    "release": "2026-07-03",
     "genres": [
       16,
-      35
-    ],
-    "popularity": 142.9747
-  },
-  {
-    "id": 332401,
-    "tmdb_id": 332401,
-    "type": "tv",
-    "title": "City of Blood",
-    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-    "poster": "https://image.tmdb.org/t/p/w342/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-    "rating": 6.4,
-    "votes": 14,
-    "release": "2026-09-16",
-    "genres": [
-      9648
-    ],
-    "popularity": 37.5722
-  },
-  {
-    "id": 196322,
-    "tmdb_id": 196322,
-    "type": "tv",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-    "rating": 7.787,
-    "votes": 792,
-    "release": "2024-05-07",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 63.4328
-  },
-  {
-    "id": 239618,
-    "tmdb_id": 239618,
-    "type": "tv",
-    "title": "American Hostage",
-    "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-    "poster": "https://image.tmdb.org/t/p/w342/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-    "rating": 7.2,
-    "votes": 5,
-    "release": "2026-09-20",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 41.0342
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.371,
-    "votes": 2683,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 252.8091
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.3,
-    "votes": 2277,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
+      35,
       10765
     ],
-    "popularity": 205.1572
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.415,
-    "votes": 1730,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 279.2905
-  },
-  {
-    "id": 224263,
-    "tmdb_id": 224263,
-    "type": "tv",
-    "title": "Stranger Things: Tales from '85",
-    "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
-    "poster": "https://image.tmdb.org/t/p/w342/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-    "rating": 7.639,
-    "votes": 108,
-    "release": "2026-04-23",
-    "genres": [
-      16,
-      10765,
-      9648,
-      10759
-    ],
-    "popularity": 50.27
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
-    "rating": 8.221,
-    "votes": 2717,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 207.1319
+    "popularity": 36.4633
   }
 ]

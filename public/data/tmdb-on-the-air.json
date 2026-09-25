@@ -14,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 669.8951
+    "popularity": 720.2457
   },
   {
     "id": 59941,
@@ -24,14 +24,14 @@
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.756,
+    "rating": 5.8,
     "votes": 389,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 504.8194
+    "popularity": 529.1451
   },
   {
     "id": 61818,
@@ -48,7 +48,7 @@
       10767,
       35
     ],
-    "popularity": 417.21
+    "popularity": 434.014
   },
   {
     "id": 456,
@@ -65,7 +65,7 @@
       16,
       35
     ],
-    "popularity": 404.2056
+    "popularity": 411.8326
   },
   {
     "id": 2224,
@@ -82,43 +82,7 @@
       10763,
       35
     ],
-    "popularity": 322.4482
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.3,
-    "votes": 419,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 262.5778
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.415,
-    "votes": 1730,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 279.2905
+    "popularity": 334.1112
   },
   {
     "id": 4656,
@@ -134,7 +98,77 @@
     "genres": [
       10764
     ],
-    "popularity": 281.4413
+    "popularity": 294.3981
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.416,
+    "votes": 1730,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 275.3598
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+    "rating": 8.412,
+    "votes": 896,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 263.3603
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "rating": 8.254,
+    "votes": 422,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 255.8752
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.371,
+    "votes": 2686,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 252.3646
   },
   {
     "id": 2661,
@@ -144,49 +178,31 @@
     "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
     "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.394,
-    "votes": 109,
+    "rating": 6.407,
+    "votes": 108,
     "release": "1971-04-03",
     "genres": [
       10759,
       10765,
       18
     ],
-    "popularity": 256.5111
+    "popularity": 250.4188
   },
   {
-    "id": 247718,
-    "tmdb_id": 247718,
+    "id": 206559,
+    "tmdb_id": 206559,
     "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.406,
-    "votes": 891,
-    "release": "2025-03-30",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
     "genres": [
-      80,
-      18
+      10766
     ],
-    "popularity": 266.225
-  },
-  {
-    "id": 70672,
-    "tmdb_id": 70672,
-    "type": "tv",
-    "title": "Men on a Mission",
-    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "rating": 7.4,
-    "votes": 42,
-    "release": "2015-12-05",
-    "genres": [
-      10764,
-      35
-    ],
-    "popularity": 235.1463
+    "popularity": 252.3263
   },
   {
     "id": 2912,
@@ -203,56 +219,7 @@
       10764,
       10751
     ],
-    "popularity": 241.2433
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 242.439
-  },
-  {
-    "id": 2221,
-    "tmdb_id": 2221,
-    "type": "tv",
-    "title": "The View",
-    "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
-    "poster": "https://image.tmdb.org/t/p/w342/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
-    "rating": 4.345,
-    "votes": 113,
-    "release": "1997-08-11",
-    "genres": [
-      10767
-    ],
-    "popularity": 230.2553
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.371,
-    "votes": 2683,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 252.8091
+    "popularity": 200.4452
   },
   {
     "id": 11890,
@@ -268,7 +235,40 @@
     "genres": [
       10766
     ],
-    "popularity": 235.8371
+    "popularity": 237.1981
+  },
+  {
+    "id": 70672,
+    "tmdb_id": 70672,
+    "type": "tv",
+    "title": "Men on a Mission",
+    "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
+    "poster": "https://image.tmdb.org/t/p/w342/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "rating": 7.4,
+    "votes": 42,
+    "release": "2015-12-05",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 212.0269
+  },
+  {
+    "id": 2221,
+    "tmdb_id": 2221,
+    "type": "tv",
+    "title": "The View",
+    "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+    "poster": "https://image.tmdb.org/t/p/w342/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+    "rating": 4.316,
+    "votes": 114,
+    "release": "1997-08-11",
+    "genres": [
+      10767
+    ],
+    "popularity": 227.1833
   },
   {
     "id": 1667,
@@ -285,7 +285,7 @@
       35,
       10763
     ],
-    "popularity": 224.7466
+    "popularity": 235.1735
   },
   {
     "id": 223911,
@@ -303,7 +303,25 @@
       18,
       10759
     ],
-    "popularity": 212.8818
+    "popularity": 160.9323
+  },
+  {
+    "id": 95480,
+    "tmdb_id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+    "rating": 8.025,
+    "votes": 997,
+    "release": "2022-04-01",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 181.86
   },
   {
     "id": 65282,
@@ -319,22 +337,6 @@
     "genres": [
       10764
     ],
-    "popularity": 189.1971
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.4,
-    "votes": 118,
-    "release": "1960-12-09",
-    "genres": [
-      10766
-    ],
-    "popularity": 183.3571
+    "popularity": 182.1205
   }
 ]

@@ -7,15 +7,15 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.3,
-    "votes": 391,
+    "rating": 7.285,
+    "votes": 430,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 560.076
+    "popularity": 513.2853
   },
   {
     "id": 1101383,
@@ -25,15 +25,15 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 7,
-    "votes": 1467,
+    "rating": 6.998,
+    "votes": 1482,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 452.4649
+    "popularity": 413.3113
   },
   {
     "id": 1204680,
@@ -42,16 +42,16 @@
     "title": "Coyote vs. Acme",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "rating": 7.556,
-    "votes": 502,
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "rating": 7.548,
+    "votes": 505,
     "release": "2026-08-20",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 380.8501
+    "popularity": 347.0415
   },
   {
     "id": 1368337,
@@ -62,14 +62,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
     "rating": 8.019,
-    "votes": 3880,
+    "votes": 3889,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 354.9498
+    "popularity": 333.221
+  },
+  {
+    "id": 1032863,
+    "tmdb_id": 1032863,
+    "type": "movie",
+    "title": "The Love Hypothesis",
+    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "rating": 8.1,
+    "votes": 117,
+    "release": "2026-09-23",
+    "genres": [
+      10749,
+      35
+    ],
+    "popularity": 273.1621
   },
   {
     "id": 1375646,
@@ -79,15 +96,15 @@
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-    "rating": 8.1,
-    "votes": 872,
+    "rating": 8.07,
+    "votes": 873,
     "release": "2026-05-21",
     "genres": [
       28,
       27,
       878
     ],
-    "popularity": 266.4299
+    "popularity": 243.0215
   },
   {
     "id": 1288445,
@@ -97,31 +114,14 @@
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 6.419,
-    "votes": 437,
+    "rating": 6.519,
+    "votes": 451,
     "release": "2026-08-19",
     "genres": [
       28,
       53
     ],
-    "popularity": 218.3599
-  },
-  {
-    "id": 1032863,
-    "tmdb_id": 1032863,
-    "type": "movie",
-    "title": "The Love Hypothesis",
-    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
-    "rating": 8.2,
-    "votes": 47,
-    "release": "2026-09-23",
-    "genres": [
-      10749,
-      35
-    ],
-    "popularity": 218.1516
+    "popularity": 209.3601
   },
   {
     "id": 1482547,
@@ -138,7 +138,7 @@
       28,
       53
     ],
-    "popularity": 183.7693
+    "popularity": 173.7655
   },
   {
     "id": 1108427,
@@ -148,8 +148,8 @@
     "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
     "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-    "rating": 7.4,
-    "votes": 755,
+    "rating": 7.405,
+    "votes": 763,
     "release": "2026-07-08",
     "genres": [
       10751,
@@ -157,7 +157,7 @@
       35,
       12
     ],
-    "popularity": 174.2799
+    "popularity": 162.0438
   },
   {
     "id": 1440098,
@@ -167,14 +167,14 @@
     "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
     "poster": "https://image.tmdb.org/t/p/w342/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-    "rating": 6.7,
-    "votes": 113,
+    "rating": 6.655,
+    "votes": 116,
     "release": "2026-09-09",
     "genres": [
       10749,
       53
     ],
-    "popularity": 143.3663
+    "popularity": 143.0148
   },
   {
     "id": 1607127,
@@ -184,14 +184,14 @@
     "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
     "poster": "https://image.tmdb.org/t/p/w342/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-    "rating": 7.591,
-    "votes": 33,
+    "rating": 7.713,
+    "votes": 40,
     "release": "2026-09-22",
     "genres": [
       28,
       53
     ],
-    "popularity": 142.2671
+    "popularity": 143.5208
   },
   {
     "id": 1228834,
@@ -201,67 +201,14 @@
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-    "rating": 7.5,
-    "votes": 26,
+    "rating": 7.222,
+    "votes": 27,
     "release": "2026-09-10",
     "genres": [
       28,
       53
     ],
-    "popularity": 141.2186
-  },
-  {
-    "id": 1232569,
-    "tmdb_id": 1232569,
-    "type": "movie",
-    "title": "Pinocchio: Unstrung",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "poster": "https://image.tmdb.org/t/p/w342/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
-    "rating": 6.597,
-    "votes": 108,
-    "release": "2026-07-22",
-    "genres": [
-      27,
-      14,
-      9648
-    ],
-    "popularity": 132.9001
-  },
-  {
-    "id": 1240889,
-    "tmdb_id": 1240889,
-    "type": "movie",
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "poster": "https://image.tmdb.org/t/p/w342/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "rating": 6.4,
-    "votes": 173,
-    "release": "2026-08-06",
-    "genres": [
-      35,
-      27,
-      10749
-    ],
-    "popularity": 132.0024
-  },
-  {
-    "id": 1386315,
-    "tmdb_id": 1386315,
-    "type": "movie",
-    "title": "The Runner",
-    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-    "rating": 6.754,
-    "votes": 558,
-    "release": "2026-09-03",
-    "genres": [
-      53,
-      28
-    ],
-    "popularity": 112.0989
+    "popularity": 155.2676
   },
   {
     "id": 1339713,
@@ -271,34 +218,50 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.194,
-    "votes": 5696,
+    "rating": 8.195,
+    "votes": 5702,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 139.323
+    "popularity": 143.1283
   },
   {
-    "id": 1315772,
-    "tmdb_id": 1315772,
+    "id": 1232569,
+    "tmdb_id": 1232569,
     "type": "movie",
-    "title": "Minions & Monsters",
-    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "rating": 7.554,
-    "votes": 1159,
-    "release": "2026-06-24",
+    "title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "poster": "https://image.tmdb.org/t/p/w342/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+    "rating": 6.6,
+    "votes": 108,
+    "release": "2026-07-22",
     "genres": [
-      12,
-      16,
-      35,
-      10751,
-      14
+      27,
+      14,
+      9648
     ],
-    "popularity": 111.1767
+    "popularity": 130.591
+  },
+  {
+    "id": 1240889,
+    "tmdb_id": 1240889,
+    "type": "movie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "poster": "https://image.tmdb.org/t/p/w342/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "rating": 6.348,
+    "votes": 178,
+    "release": "2026-08-06",
+    "genres": [
+      35,
+      27,
+      10749
+    ],
+    "popularity": 125.7916
   },
   {
     "id": 1751701,
@@ -308,15 +271,52 @@
     "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
     "poster": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-    "rating": 5.1,
-    "votes": 5,
+    "rating": 5.214,
+    "votes": 7,
     "release": "2026-09-15",
     "genres": [
       878,
       18,
       53
     ],
-    "popularity": 124.6065
+    "popularity": 146.4213
+  },
+  {
+    "id": 1386315,
+    "tmdb_id": 1386315,
+    "type": "movie",
+    "title": "The Runner",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "rating": 6.773,
+    "votes": 562,
+    "release": "2026-09-03",
+    "genres": [
+      53,
+      28
+    ],
+    "popularity": 104.3285
+  },
+  {
+    "id": 1315772,
+    "tmdb_id": 1315772,
+    "type": "movie",
+    "title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "poster": "https://image.tmdb.org/t/p/w342/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "rating": 7.549,
+    "votes": 1163,
+    "release": "2026-06-24",
+    "genres": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "popularity": 93.9114
   },
   {
     "id": 1477712,
@@ -326,31 +326,31 @@
     "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "poster": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-    "rating": 4.586,
-    "votes": 70,
+    "rating": 4.56,
+    "votes": 75,
     "release": "2026-08-03",
     "genres": [
       27,
       35,
       53
     ],
-    "popularity": 107.0138
+    "popularity": 104.9721
   },
   {
-    "id": 1516698,
-    "tmdb_id": 1516698,
+    "id": 1641629,
+    "tmdb_id": 1641629,
     "type": "movie",
-    "title": "The Last Sunrise",
-    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-    "rating": 6.799,
-    "votes": 189,
-    "release": "2026-08-26",
+    "title": "You+Me - Against the World",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "poster": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "rating": 5.726,
+    "votes": 42,
+    "release": "2026-09-18",
     "genres": [
       10749,
       18
     ],
-    "popularity": 91.6646
+    "popularity": 100.5424
   }
 ]
