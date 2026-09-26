@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "rating": 7.3,
-    "votes": 436,
+    "votes": 469,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 513.2853
+    "popularity": 483.2515
   },
   {
     "id": 1101383,
@@ -25,35 +25,66 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 7.001,
-    "votes": 1484,
+    "rating": 7.022,
+    "votes": 1520,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 413.3113
+    "popularity": 384.6196
   },
   {
-    "id": 1465063,
-    "tmdb_id": 1465063,
+    "id": 1032863,
+    "tmdb_id": 1032863,
     "type": "movie",
-    "title": "Forgotten Island",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-    "rating": 7.6,
-    "votes": 15,
-    "release": "2026-09-10",
+    "title": "The Love Hypothesis",
+    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "rating": 8.372,
+    "votes": 195,
+    "release": "2026-09-23",
     "genres": [
-      16,
-      12,
-      14,
-      35,
-      10751
+      10749,
+      35
     ],
-    "popularity": 59.001
+    "popularity": 290.0712
+  },
+  {
+    "id": 1263337,
+    "tmdb_id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "rating": 7.7,
+    "votes": 51,
+    "release": "2026-09-19",
+    "genres": [
+      12,
+      53
+    ],
+    "popularity": 128.778
+  },
+  {
+    "id": 1248832,
+    "tmdb_id": 1248832,
+    "type": "movie",
+    "title": "Digger",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+    "rating": 7.833,
+    "votes": 6,
+    "release": "2026-09-30",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 62.3687
   },
   {
     "id": 969681,
@@ -64,101 +95,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
     "rating": 7.9,
-    "votes": 2866,
+    "votes": 2874,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 633.5085
+    "popularity": 630.0457
   },
   {
-    "id": 1032863,
-    "tmdb_id": 1032863,
+    "id": 1492640,
+    "tmdb_id": 1492640,
     "type": "movie",
-    "title": "The Love Hypothesis",
-    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-    "rating": 8.322,
-    "votes": 135,
-    "release": "2026-09-23",
+    "title": "UNABOMBER",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "rating": 7.2,
+    "votes": 27,
+    "release": "2026-09-25",
     "genres": [
-      10749,
-      35
+      53,
+      18,
+      80
     ],
-    "popularity": 273.1621
-  },
-  {
-    "id": 1263337,
-    "tmdb_id": 1263337,
-    "type": "movie",
-    "title": "Heart of the Beast",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "rating": 8,
-    "votes": 36,
-    "release": "2026-09-19",
-    "genres": [
-      12,
-      53
-    ],
-    "popularity": 104.7042
-  },
-  {
-    "id": 1240889,
-    "tmdb_id": 1240889,
-    "type": "movie",
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "poster": "https://image.tmdb.org/t/p/w342/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-    "rating": 6.346,
-    "votes": 179,
-    "release": "2026-08-06",
-    "genres": [
-      35,
-      27,
-      10749
-    ],
-    "popularity": 125.7916
-  },
-  {
-    "id": 1339713,
-    "tmdb_id": 1339713,
-    "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "rating": 8.195,
-    "votes": 5703,
-    "release": "2026-05-13",
-    "genres": [
-      27,
-      53
-    ],
-    "popularity": 143.1283
-  },
-  {
-    "id": 1368337,
-    "tmdb_id": 1368337,
-    "type": "movie",
-    "title": "The Odyssey",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-    "rating": 8.018,
-    "votes": 3891,
-    "release": "2026-07-15",
-    "genres": [
-      12,
-      28,
-      14
-    ],
-    "popularity": 333.221
+    "popularity": 104.4732
   },
   {
     "id": 1084244,
@@ -168,8 +130,8 @@
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.344,
-    "votes": 2284,
+    "rating": 8.335,
+    "votes": 2312,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -177,60 +139,61 @@
       35,
       12
     ],
-    "popularity": 170.4058
+    "popularity": 174.994
   },
   {
-    "id": 1477712,
-    "tmdb_id": 1477712,
+    "id": 1003596,
+    "tmdb_id": 1003596,
     "type": "movie",
-    "title": "Ice Cream Man",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "poster": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-    "rating": 4.56,
-    "votes": 75,
-    "release": "2026-08-03",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
     "genres": [
-      27,
-      35,
-      53
+      878,
+      28,
+      12
     ],
-    "popularity": 104.9721
+    "popularity": 66.4849
   },
   {
-    "id": 1284465,
-    "tmdb_id": 1284465,
+    "id": 1240889,
+    "tmdb_id": 1240889,
     "type": "movie",
-    "title": "The Death of Robin Hood",
-    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-    "poster": "https://image.tmdb.org/t/p/w342/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-    "rating": 6.346,
-    "votes": 342,
-    "release": "2026-06-18",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "poster": "https://image.tmdb.org/t/p/w342/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+    "rating": 6.321,
+    "votes": 187,
+    "release": "2026-08-06",
+    "genres": [
+      35,
+      27,
+      10749
+    ],
+    "popularity": 125.8809
+  },
+  {
+    "id": 1368337,
+    "tmdb_id": 1368337,
+    "type": "movie",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "rating": 8,
+    "votes": 3904,
+    "release": "2026-07-15",
     "genres": [
       12,
-      18,
-      28
+      28,
+      14
     ],
-    "popularity": 56.2398
-  },
-  {
-    "id": 1641629,
-    "tmdb_id": 1641629,
-    "type": "movie",
-    "title": "You+Me - Against the World",
-    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
-    "poster": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-    "rating": 5.726,
-    "votes": 42,
-    "release": "2026-09-18",
-    "genres": [
-      10749,
-      18
-    ],
-    "popularity": 100.5424
+    "popularity": 329.039
   },
   {
     "id": 1607127,
@@ -240,83 +203,51 @@
     "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
     "poster": "https://image.tmdb.org/t/p/w342/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-    "rating": 7.709,
-    "votes": 43,
+    "rating": 7.7,
+    "votes": 45,
     "release": "2026-09-22",
     "genres": [
       28,
       53
     ],
-    "popularity": 143.5208
+    "popularity": 154.0015
   },
   {
-    "id": 1204680,
-    "tmdb_id": 1204680,
+    "id": 1339713,
+    "tmdb_id": 1339713,
     "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.544,
-    "votes": 507,
-    "release": "2026-08-20",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "rating": 8.192,
+    "votes": 5723,
+    "release": "2026-05-13",
     "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 347.0415
-  },
-  {
-    "id": 843352,
-    "tmdb_id": 843352,
-    "type": "movie",
-    "title": "Legend of the White Dragon",
-    "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-    "poster": "https://image.tmdb.org/t/p/w342/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e0iMTtSD9DvZ4NbN9dUFfpZQFNk.jpg",
-    "rating": 7.4,
-    "votes": 7,
-    "release": "2026-08-28",
-    "genres": [
-      28,
-      14
-    ],
-    "popularity": 29.7832
-  },
-  {
-    "id": 1248832,
-    "tmdb_id": 1248832,
-    "type": "movie",
-    "title": "Digger",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-    "rating": 9.5,
-    "votes": 4,
-    "release": "2026-09-30",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 44.4196
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 6.658,
-    "votes": 480,
-    "release": "2026-08-19",
-    "genres": [
-      28,
+      27,
       53
     ],
-    "popularity": 209.3601
+    "popularity": 151.2085
+  },
+  {
+    "id": 1465063,
+    "tmdb_id": 1465063,
+    "type": "movie",
+    "title": "Forgotten Island",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "poster": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "rating": 7.8,
+    "votes": 18,
+    "release": "2026-09-10",
+    "genres": [
+      16,
+      12,
+      14,
+      35,
+      10751
+    ],
+    "popularity": 72.6471
   },
   {
     "id": 1083381,
@@ -326,32 +257,100 @@
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.03,
-    "votes": 3398,
+    "rating": 7.033,
+    "votes": 3422,
     "release": "2026-05-27",
     "genres": [
       27,
       9648,
       878
     ],
-    "popularity": 89.9788
+    "popularity": 95.227
   },
   {
-    "id": 1400940,
-    "tmdb_id": 1400940,
+    "id": 1384514,
+    "tmdb_id": 1384514,
     "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-21",
+    "title": "The Vvaan",
+    "overview": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realise that not only do some powers exist beyond logic but he must rise as the village’s only saviour to protect his people from annihilation.",
+    "poster": "https://image.tmdb.org/t/p/w342/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
+    "rating": 9.375,
+    "votes": 8,
+    "release": "2026-09-25",
     "genres": [
-      27,
-      53,
-      878
+      28,
+      12,
+      53
     ],
-    "popularity": 18.2629
+    "popularity": 40.2847
+  },
+  {
+    "id": 1641629,
+    "tmdb_id": 1641629,
+    "type": "movie",
+    "title": "You+Me - Against the World",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "poster": "https://image.tmdb.org/t/p/w342/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "rating": 5.644,
+    "votes": 45,
+    "release": "2026-09-18",
+    "genres": [
+      10749,
+      18
+    ],
+    "popularity": 95.0325
+  },
+  {
+    "id": 1375441,
+    "tmdb_id": 1375441,
+    "type": "movie",
+    "title": "Primetime",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "rating": 7.1,
+    "votes": 26,
+    "release": "2026-09-23",
+    "genres": [
+      18,
+      53
+    ],
+    "popularity": 64.3462
+  },
+  {
+    "id": 1514863,
+    "tmdb_id": 1514863,
+    "type": "movie",
+    "title": "Best of the Best",
+    "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+    "poster": "https://image.tmdb.org/t/p/w342/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "rating": 5.154,
+    "votes": 52,
+    "release": "2026-09-18",
+    "genres": [
+      35
+    ],
+    "popularity": 44.264
+  },
+  {
+    "id": 1477712,
+    "tmdb_id": 1477712,
+    "type": "movie",
+    "title": "Ice Cream Man",
+    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "poster": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+    "rating": 4.6,
+    "votes": 80,
+    "release": "2026-08-03",
+    "genres": [
+      35,
+      27,
+      53
+    ],
+    "popularity": 108.3805
   }
 ]

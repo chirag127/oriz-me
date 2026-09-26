@@ -13,57 +13,7 @@
     "genres": [
       18
     ],
-    "popularity": 2415.3879
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.1,
-    "votes": 3398,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 743.5217
-  },
-  {
-    "id": 2261,
-    "tmdb_id": 2261,
-    "type": "tv",
-    "title": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-    "rating": 7.5,
-    "votes": 96,
-    "release": "1962-10-01",
-    "genres": [
-      10767
-    ],
-    "popularity": 754.8471
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.969,
-    "votes": 96,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 720.2457
+    "popularity": 1726.3005
   },
   {
     "id": 91759,
@@ -81,7 +31,57 @@
       35,
       18
     ],
-    "popularity": 777.3505
+    "popularity": 882.9541
+  },
+  {
+    "id": 2261,
+    "tmdb_id": 2261,
+    "type": "tv",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.5,
+    "votes": 96,
+    "release": "1962-10-01",
+    "genres": [
+      10767
+    ],
+    "popularity": 653.6319
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.128,
+    "votes": 3402,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 688.9853
+  },
+  {
+    "id": 22980,
+    "tmdb_id": 22980,
+    "type": "tv",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 5,
+    "votes": 96,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 758.8042
   },
   {
     "id": 63770,
@@ -98,7 +98,7 @@
       35,
       10767
     ],
-    "popularity": 644.604
+    "popularity": 594.146
   },
   {
     "id": 549,
@@ -108,31 +108,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.282,
+    "rating": 7.3,
     "votes": 727,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 575.1813
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-    "rating": 8.245,
-    "votes": 1625,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 515.9816
+    "popularity": 562.9495
   },
   {
     "id": 2734,
@@ -150,25 +133,7 @@
       18,
       9648
     ],
-    "popularity": 522.5412
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.408,
-    "votes": 4767,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 458.8847
+    "popularity": 535.5888
   },
   {
     "id": 59941,
@@ -185,7 +150,24 @@
       35,
       10767
     ],
-    "popularity": 529.1451
+    "popularity": 539.596
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "rating": 8.2,
+    "votes": 1629,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 490.2964
   },
   {
     "id": 94722,
@@ -201,7 +183,25 @@
     "genres": [
       10763
     ],
-    "popularity": 475.8233
+    "popularity": 455.0618
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.408,
+    "votes": 4775,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 459.4622
   },
   {
     "id": 61818,
@@ -218,7 +218,58 @@
       10767,
       35
     ],
-    "popularity": 434.014
+    "popularity": 428.1044
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.022,
+    "votes": 11033,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 446.7575
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.612,
+    "votes": 2577,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 377.5801
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "rating": 8.205,
+    "votes": 11060,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 383.2138
   },
   {
     "id": 62223,
@@ -234,75 +285,7 @@
     "genres": [
       10767
     ],
-    "popularity": 378.2409
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.022,
-    "votes": 11031,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 411.8326
-  },
-  {
-    "id": 1433,
-    "tmdb_id": 1433,
-    "type": "tv",
-    "title": "American Dad!",
-    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
-    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-    "rating": 7.019,
-    "votes": 2452,
-    "release": "2005-02-06",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 370.1692
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.6,
-    "votes": 2575,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 394.0775
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-    "rating": 8.206,
-    "votes": 11059,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 390.2621
+    "popularity": 304.9519
   },
   {
     "id": 1434,
@@ -313,13 +296,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
     "rating": 7.411,
-    "votes": 5123,
+    "votes": 5124,
     "release": "1999-01-31",
     "genres": [
       16,
       35
     ],
-    "popularity": 372.8562
+    "popularity": 376.581
+  },
+  {
+    "id": 1433,
+    "tmdb_id": 1433,
+    "type": "tv",
+    "title": "American Dad!",
+    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+    "rating": 7.021,
+    "votes": 2455,
+    "release": "2005-02-06",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 342.3719
   },
   {
     "id": 82873,
@@ -335,6 +335,6 @@
     "genres": [
       10767
     ],
-    "popularity": 344.7951
+    "popularity": 340.7629
   }
 ]
