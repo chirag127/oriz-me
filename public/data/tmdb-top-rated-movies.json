@@ -7,8 +7,8 @@
     "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
     "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "rating": 9.156,
-    "votes": 392,
+    "rating": 9.16,
+    "votes": 399,
     "release": "2026-06-23",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       12,
       18
     ],
-    "popularity": 62.9897
+    "popularity": 58.6763
   },
   {
     "id": 980431,
@@ -26,8 +26,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.146,
-    "votes": 1205,
+    "rating": 9.143,
+    "votes": 1210,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -35,7 +35,7 @@
       14,
       28
     ],
-    "popularity": 77.4068
+    "popularity": 72.7753
   },
   {
     "id": 1007757,
@@ -45,8 +45,8 @@
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-    "rating": 8.9,
-    "votes": 2209,
+    "rating": 8.864,
+    "votes": 2212,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -54,7 +54,7 @@
       10751,
       14
     ],
-    "popularity": 41.4363
+    "popularity": 42.0856
   },
   {
     "id": 1632181,
@@ -65,31 +65,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
     "rating": 8.8,
-    "votes": 389,
+    "votes": 390,
     "release": "2026-03-12",
     "genres": [
       35,
       10749
     ],
-    "popularity": 14.9169
-  },
-  {
-    "id": 1311031,
-    "tmdb_id": 1311031,
-    "type": "movie",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-    "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.799,
-    "votes": 2195,
-    "release": "2025-07-18",
-    "genres": [
-      16,
-      28,
-      14
-    ],
-    "popularity": 60.7001
+    "popularity": 14.5736
   },
   {
     "id": 1621552,
@@ -100,14 +82,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
     "rating": 8.798,
-    "votes": 830,
+    "votes": 843,
     "release": "2026-08-21",
     "genres": [
       80,
       28,
       53
     ],
-    "popularity": 84.3326
+    "popularity": 75.282
+  },
+  {
+    "id": 1311031,
+    "tmdb_id": 1311031,
+    "type": "movie",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "rating": 8.8,
+    "votes": 2205,
+    "release": "2025-07-18",
+    "genres": [
+      16,
+      28,
+      14
+    ],
+    "popularity": 62.3239
   },
   {
     "id": 278,
@@ -118,13 +118,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "rating": 8.731,
-    "votes": 31434,
+    "votes": 31449,
     "release": "1994-09-23",
     "genres": [
       18,
       80
     ],
-    "popularity": 62.6216
+    "popularity": 63.7617
   },
   {
     "id": 238,
@@ -135,13 +135,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
     "rating": 8.688,
-    "votes": 23649,
+    "votes": 23656,
     "release": "1972-03-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 61.2048
+    "popularity": 61.0318
   },
   {
     "id": 687163,
@@ -152,13 +152,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
     "rating": 8.642,
-    "votes": 8013,
+    "votes": 8034,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 107.1102
+    "popularity": 103.3979
   },
   {
     "id": 936075,
@@ -168,14 +168,14 @@
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-    "rating": 8.627,
-    "votes": 4425,
+    "rating": 8.625,
+    "votes": 4430,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 54.3362
+    "popularity": 51.6525
   },
   {
     "id": 1232449,
@@ -192,24 +192,7 @@
       18,
       10749
     ],
-    "popularity": 17.1552
-  },
-  {
-    "id": 240,
-    "tmdb_id": 240,
-    "type": "movie",
-    "title": "The Godfather Part II",
-    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
-    "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
-    "rating": 8.573,
-    "votes": 14378,
-    "release": "1974-12-20",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 34.0586
+    "popularity": 16.4103
   },
   {
     "id": 389,
@@ -220,12 +203,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
     "rating": 8.573,
-    "votes": 10411,
+    "votes": 10415,
     "release": "1957-04-10",
     "genres": [
       18
     ],
-    "popularity": 34.2072
+    "popularity": 34.5176
+  },
+  {
+    "id": 240,
+    "tmdb_id": 240,
+    "type": "movie",
+    "title": "The Godfather Part II",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "rating": 8.573,
+    "votes": 14385,
+    "release": "1974-12-20",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 35.5734
+  },
+  {
+    "id": 1630423,
+    "tmdb_id": 1630423,
+    "type": "movie",
+    "title": "My Dearest Assassin",
+    "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+    "poster": "https://image.tmdb.org/t/p/w342/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+    "rating": 8.6,
+    "votes": 304,
+    "release": "2026-05-06",
+    "genres": [
+      28,
+      18,
+      10749
+    ],
+    "popularity": 15.6094
   },
   {
     "id": 424,
@@ -236,32 +254,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "rating": 8.569,
-    "votes": 17955,
+    "votes": 17963,
     "release": "1993-12-15",
     "genres": [
       18,
       36,
       10752
     ],
-    "popularity": 30.2391
-  },
-  {
-    "id": 1630423,
-    "tmdb_id": 1630423,
-    "type": "movie",
-    "title": "My Dearest Assassin",
-    "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
-    "poster": "https://image.tmdb.org/t/p/w342/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
-    "rating": 8.572,
-    "votes": 304,
-    "release": "2026-05-06",
-    "genres": [
-      28,
-      18,
-      10749
-    ],
-    "popularity": 15.5216
+    "popularity": 30.7242
   },
   {
     "id": 1218925,
@@ -271,8 +271,8 @@
     "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "rating": 8.557,
-    "votes": 1207,
+    "rating": 8.552,
+    "votes": 1212,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -280,7 +280,7 @@
       10749,
       14
     ],
-    "popularity": 30.5953
+    "popularity": 31.7907
   },
   {
     "id": 155,
@@ -291,14 +291,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
     "rating": 8.536,
-    "votes": 36828,
+    "votes": 36838,
     "release": "2008-07-16",
     "genres": [
       28,
       53,
       80
     ],
-    "popularity": 60.4279
+    "popularity": 60.2589
   },
   {
     "id": 129,
@@ -309,14 +309,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
     "rating": 8.535,
-    "votes": 18953,
+    "votes": 18962,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 39.7309
+    "popularity": 41.7959
   },
   {
     "id": 497,
@@ -326,15 +326,15 @@
     "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-    "rating": 8.506,
-    "votes": 19862,
+    "rating": 8.5,
+    "votes": 19870,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 36.7434
+    "popularity": 37.374
   },
   {
     "id": 122,
@@ -345,13 +345,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
     "rating": 8.506,
-    "votes": 27436,
+    "votes": 27446,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 54.1246
+    "popularity": 57.0584
   }
 ]
