@@ -14,24 +14,42 @@
       10767,
       35
     ],
-    "popularity": 766.3213
+    "popularity": 664.2889
   },
   {
-    "id": 59941,
-    "tmdb_id": 59941,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.777,
-    "votes": 391,
-    "release": "2014-02-17",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 7.956,
+    "votes": 4362,
+    "release": "1999-09-20",
     "genres": [
-      35,
-      10767
+      80,
+      18,
+      9648
     ],
-    "popularity": 643.4855
+    "popularity": 566.1656
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+    "rating": 7.285,
+    "votes": 729,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 457.5342
   },
   {
     "id": 456,
@@ -39,33 +57,16 @@
     "type": "tv",
     "title": "The Simpsons",
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
     "rating": 8.023,
-    "votes": 11040,
+    "votes": 11042,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 559.792
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.119,
-    "votes": 135,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 467.7195
+    "popularity": 490.0595
   },
   {
     "id": 33238,
@@ -82,63 +83,7 @@
       35,
       10764
     ],
-    "popularity": 526.5876
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.613,
-    "votes": 2579,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 414.1947
-  },
-  {
-    "id": 65733,
-    "tmdb_id": 65733,
-    "type": "tv",
-    "title": "Doraemon",
-    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "rating": 8.091,
-    "votes": 248,
-    "release": "2005-04-22",
-    "genres": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "popularity": 369.2067
-  },
-  {
-    "id": 1434,
-    "tmdb_id": 1434,
-    "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.4,
-    "votes": 5125,
-    "release": "1999-01-31",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 415.1173
+    "popularity": 574.5382
   },
   {
     "id": 2224,
@@ -155,7 +100,63 @@
       10763,
       35
     ],
-    "popularity": 418.383
+    "popularity": 352.0756
+  },
+  {
+    "id": 1434,
+    "tmdb_id": 1434,
+    "type": "tv",
+    "title": "Family Guy",
+    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+    "rating": 7.411,
+    "votes": 5125,
+    "release": "1999-01-31",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 345.5643
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.613,
+    "votes": 2580,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 340.4606
+  },
+  {
+    "id": 65733,
+    "tmdb_id": 65733,
+    "type": "tv",
+    "title": "Doraemon",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "rating": 8.1,
+    "votes": 248,
+    "release": "2005-04-22",
+    "genres": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "popularity": 313.944
   },
   {
     "id": 11890,
@@ -171,76 +172,7 @@
     "genres": [
       10766
     ],
-    "popularity": 321.2599
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.3,
-    "votes": 471,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 297.2036
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/dwvW9FclJlicFQkBOlboQ52Vx8y.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
-    "rating": 6.8,
-    "votes": 376,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 313.3433
-  },
-  {
-    "id": 72879,
-    "tmdb_id": 72879,
-    "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-    "rating": 6.2,
-    "votes": 73,
-    "release": "2017-07-17",
-    "genres": [
-      80,
-      18,
-      10766
-    ],
-    "popularity": 277.9342
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.5,
-    "votes": 934,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 296.8251
+    "popularity": 296.1676
   },
   {
     "id": 2661,
@@ -258,77 +190,76 @@
       10765,
       18
     ],
-    "popularity": 315.2572
+    "popularity": 263.1049
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 267.0039
-  },
-  {
-    "id": 1413,
-    "tmdb_id": 1413,
-    "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.1,
-    "votes": 6197,
-    "release": "2011-10-05",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "rating": 8.358,
+    "votes": 477,
+    "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 232.4775
+    "popularity": 279.6802
   },
   {
-    "id": 1667,
-    "tmdb_id": 1667,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "Saturday Night Live",
-    "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
-    "poster": "https://image.tmdb.org/t/p/w342/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
-    "rating": 6.9,
-    "votes": 530,
-    "release": "1975-10-11",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.455,
+    "votes": 938,
+    "release": "2025-03-30",
     "genres": [
-      35,
-      10763
+      80,
+      18
     ],
-    "popularity": 265.834
+    "popularity": 285.164
   },
   {
-    "id": 65942,
-    "tmdb_id": 65942,
+    "id": 4656,
+    "tmdb_id": 4656,
     "type": "tv",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "rating": 8.1,
-    "votes": 793,
-    "release": "2016-04-04",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/dwvW9FclJlicFQkBOlboQ52Vx8y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
+    "rating": 6.8,
+    "votes": 376,
+    "release": "1993-01-11",
     "genres": [
-      16,
-      9648,
-      10759,
-      10765
+      10764
     ],
-    "popularity": 197.7612
+    "popularity": 278.3362
+  },
+  {
+    "id": 72879,
+    "tmdb_id": 72879,
+    "type": "tv",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+    "rating": 6.2,
+    "votes": 73,
+    "release": "2017-07-17",
+    "genres": [
+      80,
+      18,
+      10766
+    ],
+    "popularity": 251.6648
   },
   {
     "id": 70672,
@@ -345,6 +276,73 @@
       10764,
       35
     ],
-    "popularity": 269.1386
+    "popularity": 216.2988
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 252.7408
+  },
+  {
+    "id": 1667,
+    "tmdb_id": 1667,
+    "type": "tv",
+    "title": "Saturday Night Live",
+    "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+    "poster": "https://image.tmdb.org/t/p/w342/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg",
+    "rating": 6.9,
+    "votes": 530,
+    "release": "1975-10-11",
+    "genres": [
+      35,
+      10763
+    ],
+    "popularity": 224.031
+  },
+  {
+    "id": 45790,
+    "tmdb_id": 45790,
+    "type": "tv",
+    "title": "JoJo's Bizarre Adventure",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+    "rating": 8.5,
+    "votes": 1665,
+    "release": "2012-10-06",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 258.9176
+  },
+  {
+    "id": 65270,
+    "tmdb_id": 65270,
+    "type": "tv",
+    "title": "Radio Star",
+    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "rating": 5.5,
+    "votes": 6,
+    "release": "2007-05-30",
+    "genres": [
+      10767
+    ],
+    "popularity": 185.5757
   }
 ]

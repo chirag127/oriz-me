@@ -562,32 +562,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -606,48 +594,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -663,15 +611,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -703,32 +703,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -747,48 +735,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -804,15 +752,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -874,32 +874,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -918,48 +906,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -975,15 +923,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -1016,32 +1016,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -1060,48 +1048,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -1117,15 +1065,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -1308,32 +1308,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -1352,48 +1340,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -1409,15 +1357,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -1449,32 +1449,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -1493,48 +1481,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -1550,15 +1498,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2099,32 +2099,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2143,48 +2131,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -2200,15 +2148,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2240,32 +2240,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2284,48 +2272,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -2341,15 +2289,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2454,32 +2454,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2498,48 +2486,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -2555,15 +2503,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2670,32 +2670,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2714,48 +2702,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -2771,15 +2719,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2812,32 +2812,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2856,48 +2844,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -2913,15 +2861,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -2953,32 +2953,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -2997,48 +2985,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -3054,15 +3002,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -3297,32 +3297,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -3341,48 +3329,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -3398,15 +3346,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },
@@ -3438,32 +3438,20 @@
             "join_phrase": ""
           }
         ],
-        "caa_id": 44970683123,
-        "caa_release_mbid": "3c221497-c2bb-4713-9f48-6d6de2618039",
+        "caa_id": 43009973169,
+        "caa_release_mbid": "c6f36737-e382-4754-960d-fcc746e973a1",
         "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
         "recording_name": "The Fate of Ophelia",
         "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
         "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
         "url_rels": [
           {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900293"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838810951"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1838812723"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
             "type": "free streaming",
-            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1850496033"
           },
           {
             "type": "streaming",
@@ -3482,48 +3470,8 @@
             "url": "https://open.spotify.com/track/5UQ3JrA9kEh7rfwhUS1h0z"
           },
           {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1850496033"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/us/song/1843913773"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-          },
-          {
             "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1850496033"
-          },
-          {
-            "type": "free streaming",
-            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
-          },
-          {
-            "type": "purchase for download",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://music.apple.com/gb/song/1856301587"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/476940802"
-          },
-          {
-            "type": "streaming",
-            "url": "https://tidal.com/track/463900433"
+            "url": "https://tidal.com/track/463900293"
           },
           {
             "type": "free streaming",
@@ -3539,15 +3487,67 @@
           },
           {
             "type": "streaming",
-            "url": "https://music.apple.com/us/song/1842897454"
-          },
-          {
-            "type": "streaming",
             "url": "https://tidal.com/track/463900374"
           },
           {
             "type": "streaming",
             "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838810951"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1838812723"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/463900433"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1842897454"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "streaming",
+            "url": "https://tidal.com/track/476940802"
+          },
+          {
+            "type": "streaming",
+            "url": "https://music.apple.com/gb/song/1850496033"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/3CFKUvybrj8Jg5F018tyuA"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/gb/song/1856301587"
+          },
+          {
+            "type": "free streaming",
+            "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+          },
+          {
+            "type": "purchase for download",
+            "url": "https://music.apple.com/us/song/1843913773"
           }
         ]
       },

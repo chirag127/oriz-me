@@ -7,15 +7,15 @@
     "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
     "poster": "https://image.tmdb.org/t/p/w342/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "rating": 9.382,
-    "votes": 940,
+    "rating": 9.374,
+    "votes": 947,
     "release": "2026-06-05",
     "genres": [
       10759,
       18,
       35
     ],
-    "popularity": 57.624
+    "popularity": 57.3092
   },
   {
     "id": 299167,
@@ -32,7 +32,7 @@
       37,
       18
     ],
-    "popularity": 52.5123
+    "popularity": 49.5798
   },
   {
     "id": 278573,
@@ -42,14 +42,14 @@
     "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
     "poster": "https://image.tmdb.org/t/p/w342/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "rating": 9.044,
-    "votes": 216,
+    "rating": 9.048,
+    "votes": 217,
     "release": "2026-04-10",
     "genres": [
       35,
       18
     ],
-    "popularity": 27.027
+    "popularity": 24.7027
   },
   {
     "id": 1396,
@@ -60,13 +60,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
     "rating": 8.953,
-    "votes": 18726,
+    "votes": 18733,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 223.0959
+    "popularity": 202.6518
   },
   {
     "id": 273240,
@@ -82,7 +82,7 @@
     "genres": [
       18
     ],
-    "popularity": 78.4396
+    "popularity": 77.4075
   },
   {
     "id": 214999,
@@ -99,7 +99,7 @@
       18,
       35
     ],
-    "popularity": 13.7016
+    "popularity": 12.431
   },
   {
     "id": 322430,
@@ -116,7 +116,25 @@
       18,
       10766
     ],
-    "popularity": 21.5953
+    "popularity": 31.7644
+  },
+  {
+    "id": 245026,
+    "tmdb_id": 245026,
+    "type": "tv",
+    "title": "Wizards Beyond Waverly Place",
+    "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
+    "poster": "https://image.tmdb.org/t/p/w342/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
+    "rating": 8.825,
+    "votes": 206,
+    "release": "2024-10-29",
+    "genres": [
+      35,
+      10765,
+      10751
+    ],
+    "popularity": 28.1147
   },
   {
     "id": 259837,
@@ -135,43 +153,7 @@
       10765,
       18
     ],
-    "popularity": 21.7459
-  },
-  {
-    "id": 245026,
-    "tmdb_id": 245026,
-    "type": "tv",
-    "title": "Wizards Beyond Waverly Place",
-    "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
-    "poster": "https://image.tmdb.org/t/p/w342/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
-    "rating": 8.825,
-    "votes": 206,
-    "release": "2024-10-29",
-    "genres": [
-      35,
-      10765,
-      10751
-    ],
-    "popularity": 31.1438
-  },
-  {
-    "id": 85077,
-    "tmdb_id": 85077,
-    "type": "tv",
-    "title": "The Chosen",
-    "overview": "The life of Christ through the eyes of those who encountered him.",
-    "poster": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "rating": 8.813,
-    "votes": 1002,
-    "release": "2019-04-21",
-    "genres": [
-      10759,
-      10751,
-      18
-    ],
-    "popularity": 90.9843
+    "popularity": 19.8057
   },
   {
     "id": 209867,
@@ -181,8 +163,8 @@
     "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
     "poster": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-    "rating": 8.813,
-    "votes": 980,
+    "rating": 8.814,
+    "votes": 981,
     "release": "2023-09-29",
     "genres": [
       16,
@@ -190,7 +172,41 @@
       18,
       10765
     ],
-    "popularity": 110.8052
+    "popularity": 98.9428
+  },
+  {
+    "id": 85077,
+    "tmdb_id": 85077,
+    "type": "tv",
+    "title": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him.",
+    "poster": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+    "rating": 8.812,
+    "votes": 1003,
+    "release": "2019-04-21",
+    "genres": [
+      10759,
+      10751,
+      18
+    ],
+    "popularity": 87.1436
+  },
+  {
+    "id": 219246,
+    "tmdb_id": 219246,
+    "type": "tv",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+    "rating": 8.803,
+    "votes": 595,
+    "release": "2025-03-07",
+    "genres": [
+      18
+    ],
+    "popularity": 30.0999
   },
   {
     "id": 284445,
@@ -208,23 +224,7 @@
       18,
       10765
     ],
-    "popularity": 25.1137
-  },
-  {
-    "id": 219246,
-    "tmdb_id": 219246,
-    "type": "tv",
-    "title": "When Life Gives You Tangerines",
-    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "rating": 8.801,
-    "votes": 594,
-    "release": "2025-03-07",
-    "genres": [
-      18
-    ],
-    "popularity": 34.6513
+    "popularity": 23.359
   },
   {
     "id": 259666,
@@ -241,7 +241,7 @@
       18,
       35
     ],
-    "popularity": 11.2113
+    "popularity": 10.521
   },
   {
     "id": 246,
@@ -259,7 +259,7 @@
       10759,
       10765
     ],
-    "popularity": 43.1547
+    "popularity": 40.2957
   },
   {
     "id": 64010,
@@ -275,7 +275,7 @@
     "genres": [
       35
     ],
-    "popularity": 17.5641
+    "popularity": 15.999
   },
   {
     "id": 37854,
@@ -293,7 +293,7 @@
       35,
       16
     ],
-    "popularity": 103.267
+    "popularity": 92.42
   },
   {
     "id": 94605,
@@ -304,14 +304,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
     "rating": 8.747,
-    "votes": 6203,
+    "votes": 6205,
     "release": "2021-11-06",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 59.8465
+    "popularity": 55.3343
   },
   {
     "id": 250307,
@@ -321,13 +321,13 @@
     "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-    "rating": 8.731,
-    "votes": 989,
+    "rating": 8.73,
+    "votes": 991,
     "release": "2025-01-09",
     "genres": [
       18
     ],
-    "popularity": 138.4694
+    "popularity": 130.3111
   },
   {
     "id": 87108,
@@ -337,12 +337,12 @@
     "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
     "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
-    "rating": 8.726,
-    "votes": 8354,
+    "rating": 8.727,
+    "votes": 8357,
     "release": "2019-05-06",
     "genres": [
       18
     ],
-    "popularity": 46.3812
+    "popularity": 41.4963
   }
 ]

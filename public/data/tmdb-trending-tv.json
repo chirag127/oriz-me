@@ -6,34 +6,16 @@
     "title": "Lanterns",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.352,
-    "votes": 472,
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.4,
+    "votes": 477,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 297.2036
-  },
-  {
-    "id": 1413,
-    "tmdb_id": 1413,
-    "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.1,
-    "votes": 6197,
-    "release": "2011-10-05",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 232.4775
+    "popularity": 279.6802
   },
   {
     "id": 247718,
@@ -44,13 +26,48 @@
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
     "rating": 8.5,
-    "votes": 934,
+    "votes": 938,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 296.8251
+    "popularity": 285.164
+  },
+  {
+    "id": 1413,
+    "tmdb_id": 1413,
+    "type": "tv",
+    "title": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "rating": 8.075,
+    "votes": 6201,
+    "release": "2011-10-05",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 254.1563
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.134,
+    "votes": 3436,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 603.2777
   },
   {
     "id": 299939,
@@ -60,14 +77,33 @@
     "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
     "poster": "https://image.tmdb.org/t/p/w342/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-    "rating": 7.057,
-    "votes": 132,
+    "rating": 7,
+    "votes": 135,
     "release": "2026-09-17",
     "genres": [
       18,
       80
     ],
-    "popularity": 120.1986
+    "popularity": 114.0648
+  },
+  {
+    "id": 65942,
+    "tmdb_id": 65942,
+    "type": "tv",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "rating": 8.1,
+    "votes": 793,
+    "release": "2016-04-04",
+    "genres": [
+      16,
+      9648,
+      10759,
+      10765
+    ],
+    "popularity": 216.9511
   },
   {
     "id": 37854,
@@ -85,24 +121,7 @@
       35,
       16
     ],
-    "popularity": 103.267
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.133,
-    "votes": 3429,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 638.999
+    "popularity": 92.42
   },
   {
     "id": 250203,
@@ -112,13 +131,48 @@
     "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
     "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-    "rating": 8.7,
-    "votes": 10,
+    "rating": 8.4,
+    "votes": 11,
     "release": "2026-09-22",
     "genres": [
       35
     ],
-    "popularity": 57.5589
+    "popularity": 53.7899
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.429,
+    "votes": 1753,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 239.9357
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.335,
+    "votes": 5173,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 154.2001
   },
   {
     "id": 615,
@@ -129,31 +183,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "rating": 8.365,
-    "votes": 3924,
+    "votes": 3925,
     "release": "1999-03-28",
     "genres": [
       16,
       35,
       10765
     ],
-    "popularity": 135.3318
-  },
-  {
-    "id": 113962,
-    "tmdb_id": 113962,
-    "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-    "rating": 8.252,
-    "votes": 1650,
-    "release": "2023-07-23",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 392.5963
+    "popularity": 119.3241
   },
   {
     "id": 290720,
@@ -163,32 +200,14 @@
     "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
     "poster": "https://image.tmdb.org/t/p/w342/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-    "rating": 7.559,
-    "votes": 17,
+    "rating": 7.2,
+    "votes": 21,
     "release": "2026-09-25",
     "genres": [
       80,
       9648
     ],
-    "popularity": 46.718
-  },
-  {
-    "id": 94664,
-    "tmdb_id": 94664,
-    "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.427,
-    "votes": 1751,
-    "release": "2021-01-11",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 270.7743
+    "popularity": 44.862
   },
   {
     "id": 97546,
@@ -198,14 +217,14 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.365,
-    "votes": 2700,
+    "rating": 8.366,
+    "votes": 2703,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 225.2569
+    "popularity": 266.4043
   },
   {
     "id": 95480,
@@ -215,15 +234,49 @@
     "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8,
-    "votes": 1003,
+    "rating": 8.031,
+    "votes": 1009,
     "release": "2022-04-01",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 203.1123
+    "popularity": 216.1325
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+    "rating": 8,
+    "votes": 11042,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 490.0595
+  },
+  {
+    "id": 305357,
+    "tmdb_id": 305357,
+    "type": "tv",
+    "title": "A Different World",
+    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+    "poster": "https://image.tmdb.org/t/p/w342/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+    "rating": 6.792,
+    "votes": 12,
+    "release": "2026-09-24",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 28.2305
   },
   {
     "id": 282326,
@@ -240,24 +293,43 @@
       18,
       10751
     ],
-    "popularity": 167.3432
+    "popularity": 152.6558
   },
   {
-    "id": 456,
-    "tmdb_id": 456,
+    "id": 113962,
+    "tmdb_id": 113962,
     "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8,
-    "votes": 11040,
-    "release": "1989-12-17",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "rating": 8.252,
+    "votes": 1653,
+    "release": "2023-07-23",
     "genres": [
+      18,
+      10768
+    ],
+    "popularity": 360.5732
+  },
+  {
+    "id": 82684,
+    "tmdb_id": 82684,
+    "type": "tv",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+    "poster": "https://image.tmdb.org/t/p/w342/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+    "rating": 8.426,
+    "votes": 993,
+    "release": "2018-10-02",
+    "genres": [
+      10759,
       16,
+      10765,
       35
     ],
-    "popularity": 559.792
+    "popularity": 55.122
   },
   {
     "id": 45790,
@@ -275,77 +347,6 @@
       10759,
       10765
     ],
-    "popularity": 251.2566
-  },
-  {
-    "id": 82684,
-    "tmdb_id": 82684,
-    "type": "tv",
-    "title": "That Time I Got Reincarnated as a Slime",
-    "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
-    "poster": "https://image.tmdb.org/t/p/w342/pzujcdPAoH361NObVrtbA7zACE7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-    "rating": 8.424,
-    "votes": 992,
-    "release": "2018-10-02",
-    "genres": [
-      10759,
-      16,
-      10765,
-      35
-    ],
-    "popularity": 60.226
-  },
-  {
-    "id": 125988,
-    "tmdb_id": 125988,
-    "type": "tv",
-    "title": "Silo",
-    "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-    "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-    "rating": 8.2,
-    "votes": 2739,
-    "release": "2023-05-04",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 246.5186
-  },
-  {
-    "id": 305357,
-    "tmdb_id": 305357,
-    "type": "tv",
-    "title": "A Different World",
-    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
-    "poster": "https://image.tmdb.org/t/p/w342/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-    "rating": 6.7,
-    "votes": 11,
-    "release": "2026-09-24",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 30.2221
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.4,
-    "votes": 2283,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
-      16,
-      10765
-    ],
-    "popularity": 210.5375
+    "popularity": 258.9176
   }
 ]
