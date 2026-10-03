@@ -15,7 +15,7 @@
       35,
       18
     ],
-    "popularity": 1131.0318
+    "popularity": 1154.2716
   },
   {
     "id": 22980,
@@ -32,24 +32,24 @@
       10767,
       35
     ],
-    "popularity": 645.1404
+    "popularity": 638.0432
   },
   {
-    "id": 108978,
-    "tmdb_id": 108978,
+    "id": 63770,
+    "tmdb_id": 63770,
     "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iJcGPv0KL1tdlVgHtLzcJAssZgj.jpg",
-    "rating": 8.1,
-    "votes": 3441,
-    "release": "2022-02-03",
+    "title": "The Late Show with Stephen Colbert",
+    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "rating": 6.1,
+    "votes": 367,
+    "release": "2015-09-08",
     "genres": [
-      10759,
-      80
+      35,
+      10767
     ],
-    "popularity": 578.8335
+    "popularity": 595.325
   },
   {
     "id": 59941,
@@ -59,14 +59,64 @@
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.777,
-    "votes": 391,
+    "rating": 5.781,
+    "votes": 392,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 600.5736
+    "popularity": 621.0914
+  },
+  {
+    "id": 2261,
+    "tmdb_id": 2261,
+    "type": "tv",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.562,
+    "votes": 97,
+    "release": "1962-10-01",
+    "genres": [
+      10767
+    ],
+    "popularity": 553.789
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.1,
+    "votes": 3442,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 554.5975
+  },
+  {
+    "id": 70998,
+    "tmdb_id": 70998,
+    "type": "tv",
+    "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+    "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+    "poster": "https://image.tmdb.org/t/p/w342/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+    "rating": 5.5,
+    "votes": 15,
+    "release": "2017-04-03",
+    "genres": [
+      16,
+      18
+    ],
+    "popularity": 530.2592
   },
   {
     "id": 33238,
@@ -83,7 +133,7 @@
       35,
       10764
     ],
-    "popularity": 504.5097
+    "popularity": 485.7942
   },
   {
     "id": 2734,
@@ -101,40 +151,7 @@
       18,
       9648
     ],
-    "popularity": 550.3661
-  },
-  {
-    "id": 63770,
-    "tmdb_id": 63770,
-    "type": "tv",
-    "title": "The Late Show with Stephen Colbert",
-    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-    "rating": 6.1,
-    "votes": 367,
-    "release": "2015-09-08",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 601.6376
-  },
-  {
-    "id": 2261,
-    "tmdb_id": 2261,
-    "type": "tv",
-    "title": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-    "rating": 7.562,
-    "votes": 97,
-    "release": "1962-10-01",
-    "genres": [
-      10767
-    ],
-    "popularity": 555.8727
+    "popularity": 468.6456
   },
   {
     "id": 275102,
@@ -144,13 +161,13 @@
     "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
     "poster": "https://image.tmdb.org/t/p/w342/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "rating": 6.682,
+    "rating": 6.7,
     "votes": 22,
     "release": "2026-09-18",
     "genres": [
       18
     ],
-    "popularity": 461.127
+    "popularity": 426.3479
   },
   {
     "id": 456,
@@ -161,13 +178,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
     "rating": 8.024,
-    "votes": 11044,
+    "votes": 11046,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 453.9412
+    "popularity": 379.157
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.413,
+    "votes": 4796,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 417.0957
   },
   {
     "id": 549,
@@ -184,75 +219,7 @@
       80,
       18
     ],
-    "popularity": 422.515
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.411,
-    "votes": 4791,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 428.1478
-  },
-  {
-    "id": 70998,
-    "tmdb_id": 70998,
-    "type": "tv",
-    "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-    "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-    "poster": "https://image.tmdb.org/t/p/w342/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-    "rating": 5.5,
-    "votes": 15,
-    "release": "2017-04-03",
-    "genres": [
-      16,
-      18
-    ],
-    "popularity": 503.8465
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-    "rating": 8.583,
-    "votes": 5523,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 396.8886
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.1,
-    "votes": 135,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 389.7631
+    "popularity": 394.852
   },
   {
     "id": 1416,
@@ -268,40 +235,54 @@
     "genres": [
       18
     ],
-    "popularity": 378.6323
+    "popularity": 402.5831
   },
   {
-    "id": 113962,
-    "tmdb_id": 113962,
+    "id": 2316,
+    "tmdb_id": 2316,
     "type": "tv",
-    "title": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-    "rating": 8.257,
-    "votes": 1659,
-    "release": "2023-07-23",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+    "rating": 8.583,
+    "votes": 5525,
+    "release": "2005-03-24",
     "genres": [
-      18,
-      10768
+      35
     ],
-    "popularity": 339.2654
+    "popularity": 388.4283
   },
   {
-    "id": 94722,
-    "tmdb_id": 94722,
+    "id": 61818,
+    "tmdb_id": 61818,
     "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.8,
-    "votes": 256,
-    "release": "1952-12-26",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.088,
+    "votes": 136,
+    "release": "2014-02-25",
     "genres": [
-      10763
+      10767,
+      35
     ],
-    "popularity": 342.5652
+    "popularity": 386.3706
+  },
+  {
+    "id": 4304,
+    "tmdb_id": 4304,
+    "type": "tv",
+    "title": "Xplay",
+    "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
+    "poster": "https://image.tmdb.org/t/p/w342/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
+    "rating": 8.5,
+    "votes": 4,
+    "release": "2003-04-28",
+    "genres": [],
+    "popularity": 422.3687
   },
   {
     "id": 2224,
@@ -318,23 +299,39 @@
       10763,
       35
     ],
-    "popularity": 349.1684
+    "popularity": 334.097
   },
   {
-    "id": 1434,
-    "tmdb_id": 1434,
+    "id": 94722,
+    "tmdb_id": 94722,
     "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.411,
-    "votes": 5125,
-    "release": "1999-01-31",
+    "title": "Tagesschau",
+    "overview": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "rating": 6.8,
+    "votes": 256,
+    "release": "1952-12-26",
     "genres": [
-      16,
-      35
+      10763
     ],
-    "popularity": 331.0434
+    "popularity": 323.873
+  },
+  {
+    "id": 113962,
+    "tmdb_id": 113962,
+    "type": "tv",
+    "title": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "rating": 8.253,
+    "votes": 1661,
+    "release": "2023-07-23",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 315.7268
   }
 ]

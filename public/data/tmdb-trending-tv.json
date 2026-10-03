@@ -1,73 +1,19 @@
 [
   {
-    "id": 258165,
-    "tmdb_id": 258165,
+    "id": 298852,
+    "tmdb_id": 298852,
     "type": "tv",
-    "title": "East of Eden",
-    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-    "poster": "https://image.tmdb.org/t/p/w342/VMyZWR0GBHGY9WIwcaj232ALAl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3Qcv8TinhVDJJoJ4pAI25Uaayjm.jpg",
-    "rating": 8.3,
-    "votes": 10,
-    "release": "2026-10-01",
+    "title": "WAR",
+    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+    "poster": "https://image.tmdb.org/t/p/w342/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
+    "rating": 9.5,
+    "votes": 8,
+    "release": "2026-10-02",
     "genres": [
       18
     ],
-    "popularity": 86.3012
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.366,
-    "votes": 484,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 262.6871
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.5,
-    "votes": 943,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 279.8498
-  },
-  {
-    "id": 65942,
-    "tmdb_id": 65942,
-    "type": "tv",
-    "title": "Re:ZERO -Starting Life in Another World-",
-    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-    "rating": 8.123,
-    "votes": 794,
-    "release": "2016-04-04",
-    "genres": [
-      16,
-      9648,
-      10759,
-      10765
-    ],
-    "popularity": 214.3799
+    "popularity": 62.5977
   },
   {
     "id": 1413,
@@ -77,15 +23,49 @@
     "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
     "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.076,
-    "votes": 6204,
+    "rating": 8.077,
+    "votes": 6207,
     "release": "2011-10-05",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 256.1524
+    "popularity": 257.4757
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.367,
+    "votes": 488,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 254.9662
+  },
+  {
+    "id": 258165,
+    "tmdb_id": 258165,
+    "type": "tv",
+    "title": "East of Eden",
+    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+    "rating": 8.1,
+    "votes": 16,
+    "release": "2026-10-01",
+    "genres": [
+      18
+    ],
+    "popularity": 115.3163
   },
   {
     "id": 37854,
@@ -96,49 +76,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.751,
-    "votes": 5571,
+    "votes": 5574,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 95.3357
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.1,
-    "votes": 3441,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 578.8335
-  },
-  {
-    "id": 615,
-    "tmdb_id": 615,
-    "type": "tv",
-    "title": "Futurama",
-    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-    "poster": "https://image.tmdb.org/t/p/w342/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "rating": 8.365,
-    "votes": 3925,
-    "release": "1999-03-28",
-    "genres": [
-      16,
-      35,
-      10765
-    ],
-    "popularity": 114.1125
+    "popularity": 96.7161
   },
   {
     "id": 299939,
@@ -148,31 +93,31 @@
     "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
     "poster": "https://image.tmdb.org/t/p/w342/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-    "rating": 7.076,
-    "votes": 144,
+    "rating": 7.109,
+    "votes": 147,
     "release": "2026-09-17",
     "genres": [
       18,
       80
     ],
-    "popularity": 107.5913
+    "popularity": 97.6442
   },
   {
-    "id": 97546,
-    "tmdb_id": 97546,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.4,
-    "votes": 2704,
-    "release": "2020-08-14",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.463,
+    "votes": 949,
+    "release": "2025-03-30",
     "genres": [
-      18,
-      35
+      80,
+      18
     ],
-    "popularity": 274.1916
+    "popularity": 293.8515
   },
   {
     "id": 95480,
@@ -182,117 +127,68 @@
     "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8,
-    "votes": 1010,
+    "rating": 8.035,
+    "votes": 1013,
     "release": "2022-04-01",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 211.5623
+    "popularity": 196.6006
   },
   {
-    "id": 94664,
-    "tmdb_id": 94664,
+    "id": 108978,
+    "tmdb_id": 108978,
     "type": "tv",
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "rating": 8.431,
-    "votes": 1756,
-    "release": "2021-01-11",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.134,
+    "votes": 3443,
+    "release": "2022-02-03",
     "genres": [
       10759,
+      80
+    ],
+    "popularity": 554.5975
+  },
+  {
+    "id": 283428,
+    "tmdb_id": 283428,
+    "type": "tv",
+    "title": "The Ramparts of Ice",
+    "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+    "poster": "https://image.tmdb.org/t/p/w342/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "rating": 8.6,
+    "votes": 62,
+    "release": "2026-04-02",
+    "genres": [
       16,
-      10765
-    ],
-    "popularity": 227.1359
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.335,
-    "votes": 5175,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 153.0121
-  },
-  {
-    "id": 290720,
-    "tmdb_id": 290720,
-    "type": "tv",
-    "title": "The Final Problem",
-    "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
-    "poster": "https://image.tmdb.org/t/p/w342/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-    "rating": 7.065,
-    "votes": 23,
-    "release": "2026-09-25",
-    "genres": [
-      80,
-      9648
-    ],
-    "popularity": 39.7355
-  },
-  {
-    "id": 250203,
-    "tmdb_id": 250203,
-    "type": "tv",
-    "title": "Brothers",
-    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-    "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-    "rating": 8.167,
-    "votes": 12,
-    "release": "2026-09-22",
-    "genres": [
-      35
-    ],
-    "popularity": 47.2651
-  },
-  {
-    "id": 298852,
-    "tmdb_id": 298852,
-    "type": "tv",
-    "title": "War",
-    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-    "poster": "https://image.tmdb.org/t/p/w342/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-    "rating": 10,
-    "votes": 2,
-    "release": "2026-10-01",
-    "genres": [
       18
     ],
-    "popularity": 16.3573
+    "popularity": 55.9032
   },
   {
-    "id": 45790,
-    "tmdb_id": 45790,
+    "id": 105009,
+    "tmdb_id": 105009,
     "type": "tv",
-    "title": "JoJo's Bizarre Adventure",
-    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-    "rating": 8.544,
-    "votes": 1666,
-    "release": "2012-10-06",
+    "title": "Tokyo Revengers",
+    "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+    "poster": "https://image.tmdb.org/t/p/w342/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+    "rating": 8.4,
+    "votes": 1353,
+    "release": "2021-04-11",
     "genres": [
       16,
       10759,
-      10765
+      80,
+      18
     ],
-    "popularity": 204.4616
+    "popularity": 56.2838
   },
   {
     "id": 456,
@@ -303,47 +199,153 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
     "rating": 8.024,
-    "votes": 11044,
+    "votes": 11046,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 453.9412
+    "popularity": 379.157
   },
   {
-    "id": 30983,
-    "tmdb_id": 30983,
+    "id": 250203,
+    "tmdb_id": 250203,
     "type": "tv",
-    "title": "Detective Conan",
-    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-    "poster": "https://image.tmdb.org/t/p/w342/iHfA63x7rFaWbP2C832uCe2r0zy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "rating": 8.02,
-    "votes": 791,
-    "release": "1996-01-08",
+    "title": "Brothers",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "rating": 8.2,
+    "votes": 12,
+    "release": "2026-09-22",
     "genres": [
-      16,
-      80,
-      9648,
       35
     ],
-    "popularity": 169.3823
+    "popularity": 41.9806
   },
   {
-    "id": 297982,
-    "tmdb_id": 297982,
+    "id": 65942,
+    "tmdb_id": 65942,
     "type": "tv",
-    "title": "Irreplaceable",
-    "overview": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-    "poster": "https://image.tmdb.org/t/p/w342/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg",
-    "rating": 8,
-    "votes": 1,
-    "release": "2026-09-28",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "rating": 8.1,
+    "votes": 794,
+    "release": "2016-04-04",
     "genres": [
-      18
+      16,
+      9648,
+      10759,
+      10765
     ],
-    "popularity": 27.1483
+    "popularity": 178.848
+  },
+  {
+    "id": 295778,
+    "tmdb_id": 295778,
+    "type": "tv",
+    "title": "Scrubs",
+    "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+    "poster": "https://image.tmdb.org/t/p/w342/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+    "rating": 7.7,
+    "votes": 112,
+    "release": "2026-02-25",
+    "genres": [
+      35
+    ],
+    "popularity": 55.2345
+  },
+  {
+    "id": 290720,
+    "tmdb_id": 290720,
+    "type": "tv",
+    "title": "The Final Problem",
+    "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+    "poster": "https://image.tmdb.org/t/p/w342/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+    "rating": 7.1,
+    "votes": 23,
+    "release": "2026-09-25",
+    "genres": [
+      80,
+      9648
+    ],
+    "popularity": 31.7315
+  },
+  {
+    "id": 318918,
+    "tmdb_id": 318918,
+    "type": "tv",
+    "title": "LEGO ONE PIECE",
+    "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
+    "poster": "https://image.tmdb.org/t/p/w342/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+    "rating": 8.045,
+    "votes": 11,
+    "release": "2026-09-29",
+    "genres": [
+      16,
+      10759,
+      10765,
+      35,
+      10751
+    ],
+    "popularity": 27.5894
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.367,
+    "votes": 2707,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 255.2755
+  },
+  {
+    "id": 94664,
+    "tmdb_id": 94664,
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "rating": 8.435,
+    "votes": 1761,
+    "release": "2021-01-11",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 220.8494
+  },
+  {
+    "id": 615,
+    "tmdb_id": 615,
+    "type": "tv",
+    "title": "Futurama",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "poster": "https://image.tmdb.org/t/p/w342/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "rating": 8.365,
+    "votes": 3926,
+    "release": "1999-03-28",
+    "genres": [
+      16,
+      35,
+      10765
+    ],
+    "popularity": 110.8169
   }
 ]
