@@ -7,8 +7,8 @@
     "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
     "poster": "https://image.tmdb.org/t/p/w342/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-    "rating": 7.857,
-    "votes": 7,
+    "rating": 7.591,
+    "votes": 11,
     "release": "2026-10-01",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       12,
       14
     ],
-    "popularity": 545.7147
+    "popularity": 415.565
   },
   {
     "id": 1423191,
@@ -26,33 +26,15 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.316,
-    "votes": 680,
+    "rating": 7.3,
+    "votes": 710,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 433.5555
-  },
-  {
-    "id": 1204680,
-    "tmdb_id": 1204680,
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.529,
-    "votes": 621,
-    "release": "2026-08-17",
-    "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 290.8185
+    "popularity": 397.2336
   },
   {
     "id": 1368337,
@@ -62,32 +44,33 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-    "rating": 8.013,
-    "votes": 3991,
+    "rating": 8.012,
+    "votes": 4003,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 298.6091
+    "popularity": 313.748
   },
   {
-    "id": 1228834,
-    "tmdb_id": 1228834,
+    "id": 1204680,
+    "tmdb_id": 1204680,
     "type": "movie",
-    "title": "The Fix",
-    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-    "poster": "https://image.tmdb.org/t/p/w342/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-    "rating": 7.011,
-    "votes": 44,
-    "release": "2026-09-10",
+    "title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "rating": 7.533,
+    "votes": 646,
+    "release": "2026-08-17",
     "genres": [
-      28,
-      53
+      35,
+      12,
+      10751
     ],
-    "popularity": 264.5687
+    "popularity": 297.6229
   },
   {
     "id": 1377237,
@@ -97,14 +80,31 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-    "rating": 8.273,
-    "votes": 277,
+    "rating": 8.292,
+    "votes": 324,
     "release": "2026-09-07",
     "genres": [
       28,
       35
     ],
-    "popularity": 267.0831
+    "popularity": 289.7676
+  },
+  {
+    "id": 1228834,
+    "tmdb_id": 1228834,
+    "type": "movie",
+    "title": "The Fix",
+    "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+    "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+    "rating": 7.1,
+    "votes": 46,
+    "release": "2026-09-10",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 283.0181
   },
   {
     "id": 1101383,
@@ -114,15 +114,15 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 7.041,
-    "votes": 1765,
+    "rating": 7.042,
+    "votes": 1804,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 235.5727
+    "popularity": 230.9484
   },
   {
     "id": 1751701,
@@ -132,15 +132,15 @@
     "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
     "poster": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-    "rating": 6.5,
-    "votes": 19,
+    "rating": 6.524,
+    "votes": 21,
     "release": "2026-09-15",
     "genres": [
       878,
       18,
       53
     ],
-    "popularity": 234.9324
+    "popularity": 251.1729
   },
   {
     "id": 1032863,
@@ -150,14 +150,14 @@
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-    "rating": 8.066,
-    "votes": 422,
+    "rating": 8.043,
+    "votes": 446,
     "release": "2026-09-23",
     "genres": [
       10749,
       35
     ],
-    "popularity": 205.4903
+    "popularity": 199.0851
   },
   {
     "id": 1248832,
@@ -167,14 +167,14 @@
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "rating": 7.485,
-    "votes": 67,
+    "rating": 7.4,
+    "votes": 109,
     "release": "2026-09-28",
     "genres": [
       35,
       18
     ],
-    "popularity": 203.9903
+    "popularity": 215.8388
   },
   {
     "id": 1375646,
@@ -184,15 +184,15 @@
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-    "rating": 8.103,
-    "votes": 1004,
+    "rating": 8.113,
+    "votes": 1026,
     "release": "2026-05-21",
     "genres": [
       27,
       28,
       878
     ],
-    "popularity": 172.1553
+    "popularity": 172.5396
   },
   {
     "id": 1288445,
@@ -202,49 +202,14 @@
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 7.393,
-    "votes": 741,
+    "rating": 7.422,
+    "votes": 757,
     "release": "2026-08-19",
     "genres": [
       28,
       53
     ],
-    "popularity": 167.9601
-  },
-  {
-    "id": 1492640,
-    "tmdb_id": 1492640,
-    "type": "movie",
-    "title": "UNABOMBER",
-    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-    "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-    "rating": 6.598,
-    "votes": 291,
-    "release": "2026-09-25",
-    "genres": [
-      53,
-      18,
-      80
-    ],
-    "popularity": 144.3174
-  },
-  {
-    "id": 1263337,
-    "tmdb_id": 1263337,
-    "type": "movie",
-    "title": "Heart of the Beast",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "poster": "https://image.tmdb.org/t/p/w342/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "rating": 7.567,
-    "votes": 187,
-    "release": "2026-09-19",
-    "genres": [
-      12,
-      53
-    ],
-    "popularity": 150.6317
+    "popularity": 167.9124
   },
   {
     "id": 977942,
@@ -254,14 +219,14 @@
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
     "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "rating": 7.878,
-    "votes": 143,
+    "rating": 7.852,
+    "votes": 172,
     "release": "2026-09-10",
     "genres": [
       36,
       18
     ],
-    "popularity": 161.4715
+    "popularity": 171.1571
   },
   {
     "id": 1339713,
@@ -271,14 +236,49 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.2,
-    "votes": 5886,
+    "rating": 8.185,
+    "votes": 5911,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 159.6844
+    "popularity": 163.7127
+  },
+  {
+    "id": 1263337,
+    "tmdb_id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "rating": 7.5,
+    "votes": 196,
+    "release": "2026-09-19",
+    "genres": [
+      12,
+      53
+    ],
+    "popularity": 148.3648
+  },
+  {
+    "id": 1492640,
+    "tmdb_id": 1492640,
+    "type": "movie",
+    "title": "UNABOMBER",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "rating": 6.592,
+    "votes": 314,
+    "release": "2026-09-25",
+    "genres": [
+      53,
+      18,
+      80
+    ],
+    "popularity": 129.6464
   },
   {
     "id": 1232569,
@@ -288,51 +288,50 @@
     "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
     "poster": "https://image.tmdb.org/t/p/w342/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
-    "rating": 6.5,
-    "votes": 121,
+    "rating": 6.52,
+    "votes": 123,
     "release": "2026-07-22",
     "genres": [
       27,
       14,
       9648
     ],
-    "popularity": 129.3562
+    "popularity": 141.7354
   },
   {
-    "id": 1477712,
-    "tmdb_id": 1477712,
+    "id": 1538457,
+    "tmdb_id": 1538457,
     "type": "movie",
-    "title": "Ice Cream Man",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "poster": "https://image.tmdb.org/t/p/w342/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-    "rating": 4.807,
-    "votes": 106,
-    "release": "2026-08-03",
+    "title": "Meesaya Murukku 2",
+    "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+    "poster": "https://image.tmdb.org/t/p/w342/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-09-25",
     "genres": [
       35,
-      27,
-      53
+      10749,
+      18
     ],
-    "popularity": 119.9665
+    "popularity": 124.4598
   },
   {
-    "id": 299534,
-    "tmdb_id": 299534,
+    "id": 1283515,
+    "tmdb_id": 1283515,
     "type": "movie",
-    "title": "Avengers: Endgame",
-    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "poster": "https://image.tmdb.org/t/p/w342/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-    "rating": 8.246,
-    "votes": 28876,
-    "release": "2019-04-24",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "rating": 6.64,
+    "votes": 68,
+    "release": "2026-09-30",
     "genres": [
-      12,
-      878,
-      28
+      9648,
+      53
     ],
-    "popularity": 117.9721
+    "popularity": 143.2506
   },
   {
     "id": 1422011,
@@ -342,13 +341,13 @@
     "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
     "poster": "https://image.tmdb.org/t/p/w342/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
-    "rating": 5.7,
-    "votes": 61,
+    "rating": 5.675,
+    "votes": 63,
     "release": "2026-08-21",
     "genres": [
       27,
       9648
     ],
-    "popularity": 123.8135
+    "popularity": 127.2772
   }
 ]
