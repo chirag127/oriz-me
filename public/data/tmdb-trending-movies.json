@@ -7,31 +7,14 @@
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "rating": 7.405,
-    "votes": 111,
+    "rating": 7.524,
+    "votes": 146,
     "release": "2026-09-28",
     "genres": [
       35,
       18
     ],
-    "popularity": 215.8388
-  },
-  {
-    "id": 1377237,
-    "tmdb_id": 1377237,
-    "type": "movie",
-    "title": "Runner",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-    "rating": 8.273,
-    "votes": 332,
-    "release": "2026-09-07",
-    "genres": [
-      28,
-      35
-    ],
-    "popularity": 289.7676
+    "popularity": 231.8582
   },
   {
     "id": 977942,
@@ -41,31 +24,15 @@
     "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
     "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "rating": 7.9,
-    "votes": 177,
+    "rating": 7.95,
+    "votes": 201,
     "release": "2026-09-10",
     "genres": [
       36,
-      18
+      18,
+      28
     ],
-    "popularity": 171.1571
-  },
-  {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "rating": 6.6,
-    "votes": 68,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 143.2506
+    "popularity": 177.7465
   },
   {
     "id": 1423191,
@@ -75,15 +42,49 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.3,
-    "votes": 711,
+    "rating": 7.304,
+    "votes": 746,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 397.2336
+    "popularity": 364.5221
+  },
+  {
+    "id": 1377237,
+    "tmdb_id": 1377237,
+    "type": "movie",
+    "title": "Runner",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "rating": 8.334,
+    "votes": 377,
+    "release": "2026-09-07",
+    "genres": [
+      28,
+      35
+    ],
+    "popularity": 312.3985
+  },
+  {
+    "id": 1283515,
+    "tmdb_id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "poster": "https://image.tmdb.org/t/p/w342/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "rating": 6.682,
+    "votes": 85,
+    "release": "2026-09-30",
+    "genres": [
+      9648,
+      53
+    ],
+    "popularity": 148.3582
   },
   {
     "id": 1492640,
@@ -93,15 +94,15 @@
     "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
     "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-    "rating": 6.592,
-    "votes": 314,
+    "rating": 6.589,
+    "votes": 343,
     "release": "2026-09-25",
     "genres": [
       53,
       18,
       80
     ],
-    "popularity": 129.6464
+    "popularity": 114.024
   },
   {
     "id": 1204680,
@@ -111,15 +112,15 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.531,
-    "votes": 649,
+    "rating": 7.5,
+    "votes": 665,
     "release": "2026-08-17",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 297.6229
+    "popularity": 295.1815
   },
   {
     "id": 1339713,
@@ -129,14 +130,14 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.186,
-    "votes": 5916,
+    "rating": 8.185,
+    "votes": 5932,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 163.7127
+    "popularity": 167.7462
   },
   {
     "id": 969681,
@@ -146,32 +147,15 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-    "rating": 7.867,
-    "votes": 3013,
+    "rating": 7.9,
+    "votes": 3019,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 587.1819
-  },
-  {
-    "id": 1263337,
-    "tmdb_id": 1263337,
-    "type": "movie",
-    "title": "Heart of the Beast",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "rating": 7.5,
-    "votes": 196,
-    "release": "2026-09-19",
-    "genres": [
-      12,
-      53
-    ],
-    "popularity": 148.3648
+    "popularity": 623.3942
   },
   {
     "id": 1003596,
@@ -183,13 +167,47 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "rating": 0,
     "votes": 0,
-    "release": "2026-12-15",
+    "release": "2026-12-16",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 94.2574
+    "popularity": 100.5348
+  },
+  {
+    "id": 1458857,
+    "tmdb_id": 1458857,
+    "type": "movie",
+    "title": "Doing Life",
+    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+    "poster": "https://image.tmdb.org/t/p/w342/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+    "rating": 7.12,
+    "votes": 54,
+    "release": "2026-10-02",
+    "genres": [
+      18,
+      10749
+    ],
+    "popularity": 73.5983
+  },
+  {
+    "id": 1375441,
+    "tmdb_id": 1375441,
+    "type": "movie",
+    "title": "Primetime",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "rating": 6.888,
+    "votes": 86,
+    "release": "2026-09-23",
+    "genres": [
+      53,
+      18
+    ],
+    "popularity": 70.9108
   },
   {
     "id": 1368337,
@@ -200,66 +218,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
     "rating": 8.012,
-    "votes": 4005,
+    "votes": 4011,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 313.748
-  },
-  {
-    "id": 1375441,
-    "tmdb_id": 1375441,
-    "type": "movie",
-    "title": "Primetime",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "rating": 6.982,
-    "votes": 82,
-    "release": "2026-09-23",
-    "genres": [
-      53,
-      18
-    ],
-    "popularity": 79.9785
-  },
-  {
-    "id": 1458857,
-    "tmdb_id": 1458857,
-    "type": "movie",
-    "title": "Doing Life",
-    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-    "poster": "https://image.tmdb.org/t/p/w342/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-    "rating": 6.5,
-    "votes": 37,
-    "release": "2026-10-02",
-    "genres": [
-      18,
-      10749
-    ],
-    "popularity": 72.0641
-  },
-  {
-    "id": 1400940,
-    "tmdb_id": 1400940,
-    "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-21",
-    "genres": [
-      27,
-      53,
-      878
-    ],
-    "popularity": 26.0561
+    "popularity": 322.0423
   },
   {
     "id": 1084244,
@@ -269,8 +235,8 @@
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.317,
-    "votes": 2469,
+    "rating": 8.31,
+    "votes": 2485,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -278,62 +244,24 @@
       35,
       12
     ],
-    "popularity": 166.6596
+    "popularity": 175.3861
   },
   {
-    "id": 1032863,
-    "tmdb_id": 1032863,
+    "id": 1263337,
+    "tmdb_id": 1263337,
     "type": "movie",
-    "title": "The Love Hypothesis",
-    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-    "rating": 8.047,
-    "votes": 449,
-    "release": "2026-09-23",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "rating": 7.548,
+    "votes": 219,
+    "release": "2026-09-19",
     "genres": [
-      10749,
-      35
-    ],
-    "popularity": 199.0851
-  },
-  {
-    "id": 1465063,
-    "tmdb_id": 1465063,
-    "type": "movie",
-    "title": "Forgotten Island",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "poster": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "rating": 8.2,
-    "votes": 42,
-    "release": "2026-09-10",
-    "genres": [
-      16,
       12,
-      14,
-      35,
-      10751
+      53
     ],
-    "popularity": 77.7667
-  },
-  {
-    "id": 1083381,
-    "tmdb_id": 1083381,
-    "type": "movie",
-    "title": "Backrooms",
-    "overview": "A strange doorway appears in the basement of a furniture showroom.",
-    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-    "rating": 7.02,
-    "votes": 3575,
-    "release": "2026-05-27",
-    "genres": [
-      27,
-      9648,
-      878
-    ],
-    "popularity": 104.0576
+    "popularity": 138.8081
   },
   {
     "id": 1101383,
@@ -343,14 +271,84 @@
     "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
     "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 7.043,
-    "votes": 1812,
+    "rating": 7.062,
+    "votes": 1852,
     "release": "2026-08-12",
     "genres": [
       878,
       9648,
       53
     ],
-    "popularity": 230.9484
+    "popularity": 240.3831
+  },
+  {
+    "id": 1083381,
+    "tmdb_id": 1083381,
+    "type": "movie",
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "rating": 7.015,
+    "votes": 3588,
+    "release": "2026-05-27",
+    "genres": [
+      27,
+      9648,
+      878
+    ],
+    "popularity": 98.8756
+  },
+  {
+    "id": 1153576,
+    "tmdb_id": 1153576,
+    "type": "movie",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-10-13",
+    "genres": [
+      28,
+      14
+    ],
+    "popularity": 25.4238
+  },
+  {
+    "id": 1307118,
+    "tmdb_id": 1307118,
+    "type": "movie",
+    "title": "Soulm8te",
+    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+    "poster": "https://image.tmdb.org/t/p/w342/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "rating": 7.5,
+    "votes": 427,
+    "release": "2026-07-31",
+    "genres": [
+      27,
+      878,
+      53
+    ],
+    "popularity": 56.4354
+  },
+  {
+    "id": 1032863,
+    "tmdb_id": 1032863,
+    "type": "movie",
+    "title": "The Love Hypothesis",
+    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "rating": 8.064,
+    "votes": 476,
+    "release": "2026-09-23",
+    "genres": [
+      10749,
+      35
+    ],
+    "popularity": 197.0906
   }
 ]

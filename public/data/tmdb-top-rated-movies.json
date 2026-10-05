@@ -1,24 +1,5 @@
 [
   {
-    "id": 1560520,
-    "tmdb_id": 1560520,
-    "type": "movie",
-    "title": "Batman: Knightfall Part 1: Knightfall",
-    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
-    "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "rating": 9.147,
-    "votes": 416,
-    "release": "2026-06-23",
-    "genres": [
-      16,
-      28,
-      12,
-      18
-    ],
-    "popularity": 48.0953
-  },
-  {
     "id": 980431,
     "tmdb_id": 980431,
     "type": "movie",
@@ -26,8 +7,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.141,
-    "votes": 1246,
+    "rating": 9.133,
+    "votes": 1254,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -35,7 +16,26 @@
       14,
       28
     ],
-    "popularity": 70.7825
+    "popularity": 76.4733
+  },
+  {
+    "id": 1560520,
+    "tmdb_id": 1560520,
+    "type": "movie",
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+    "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+    "rating": 9.143,
+    "votes": 421,
+    "release": "2026-06-23",
+    "genres": [
+      16,
+      28,
+      12,
+      18
+    ],
+    "popularity": 50.3488
   },
   {
     "id": 1007757,
@@ -46,7 +46,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
     "rating": 8.866,
-    "votes": 2221,
+    "votes": 2222,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -54,7 +54,7 @@
       10751,
       14
     ],
-    "popularity": 42.95
+    "popularity": 47.8219
   },
   {
     "id": 1632181,
@@ -71,7 +71,7 @@
       35,
       10749
     ],
-    "popularity": 12.9776
+    "popularity": 14.5323
   },
   {
     "id": 1311031,
@@ -81,15 +81,15 @@
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.799,
-    "votes": 2232,
+    "rating": 8.794,
+    "votes": 2236,
     "release": "2025-07-18",
     "genres": [
       16,
       28,
       14
     ],
-    "popularity": 61.5567
+    "popularity": 64.1399
   },
   {
     "id": 1621552,
@@ -99,15 +99,15 @@
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.779,
-    "votes": 867,
+    "rating": 8.774,
+    "votes": 873,
     "release": "2026-08-21",
     "genres": [
       80,
       28,
       53
     ],
-    "popularity": 58.091
+    "popularity": 59.078
   },
   {
     "id": 278,
@@ -117,14 +117,14 @@
     "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-    "rating": 8.731,
-    "votes": 31486,
+    "rating": 8.732,
+    "votes": 31491,
     "release": "1994-09-23",
     "genres": [
       18,
       80
     ],
-    "popularity": 59.2259
+    "popularity": 65.746
   },
   {
     "id": 238,
@@ -141,7 +141,7 @@
       18,
       80
     ],
-    "popularity": 58.3471
+    "popularity": 59.6521
   },
   {
     "id": 687163,
@@ -151,14 +151,14 @@
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.641,
-    "votes": 8109,
+    "rating": 8.6,
+    "votes": 8122,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 98.1788
+    "popularity": 99.4395
   },
   {
     "id": 936075,
@@ -169,13 +169,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
     "rating": 8.623,
-    "votes": 4470,
+    "votes": 4477,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 53.5858
+    "popularity": 56.6915
   },
   {
     "id": 1232449,
@@ -192,7 +192,7 @@
       18,
       10749
     ],
-    "popularity": 14.3313
+    "popularity": 15.4684
   },
   {
     "id": 389,
@@ -203,12 +203,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
     "rating": 8.574,
-    "votes": 10430,
+    "votes": 10433,
     "release": "1957-04-10",
     "genres": [
       18
     ],
-    "popularity": 34.113
+    "popularity": 37.7154
   },
   {
     "id": 240,
@@ -219,13 +219,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
     "rating": 8.573,
-    "votes": 14405,
+    "votes": 14406,
     "release": "1974-12-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 33.6918
+    "popularity": 37.4621
   },
   {
     "id": 424,
@@ -243,7 +243,7 @@
       36,
       10752
     ],
-    "popularity": 30.8041
+    "popularity": 32.7851
   },
   {
     "id": 1630423,
@@ -261,7 +261,7 @@
       18,
       10749
     ],
-    "popularity": 17.5478
+    "popularity": 18.156
   },
   {
     "id": 1218925,
@@ -271,7 +271,7 @@
     "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "rating": 8.546,
+    "rating": 8.544,
     "votes": 1226,
     "release": "2025-09-19",
     "genres": [
@@ -280,7 +280,7 @@
       10749,
       14
     ],
-    "popularity": 29.106
+    "popularity": 31.2988
   },
   {
     "id": 155,
@@ -290,15 +290,15 @@
     "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
-    "rating": 8.537,
-    "votes": 36873,
+    "rating": 8.5,
+    "votes": 36880,
     "release": "2008-07-16",
     "genres": [
       28,
       53,
       80
     ],
-    "popularity": 51.8036
+    "popularity": 53.97
   },
   {
     "id": 129,
@@ -309,14 +309,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
     "rating": 8.535,
-    "votes": 18982,
+    "votes": 18988,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 40.125
+    "popularity": 42.267
   },
   {
     "id": 497,
@@ -327,14 +327,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
     "rating": 8.505,
-    "votes": 19896,
+    "votes": 19898,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 41.0144
+    "popularity": 41.1959
   },
   {
     "id": 122,
@@ -345,13 +345,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
     "rating": 8.505,
-    "votes": 27484,
+    "votes": 27491,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 52.8972
+    "popularity": 54.0143
   }
 ]
