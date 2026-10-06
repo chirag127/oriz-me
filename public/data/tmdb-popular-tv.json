@@ -15,58 +15,7 @@
       35,
       18
     ],
-    "popularity": 1171.5474
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 5.01,
-    "votes": 99,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 596.9817
-  },
-  {
-    "id": 59941,
-    "tmdb_id": 59941,
-    "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.791,
-    "votes": 393,
-    "release": "2014-02-17",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 578.7268
-  },
-  {
-    "id": 63770,
-    "tmdb_id": 63770,
-    "type": "tv",
-    "title": "The Late Show with Stephen Colbert",
-    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-    "rating": 6.1,
-    "votes": 367,
-    "release": "2015-09-08",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 540.0214
+    "popularity": 966.9331
   },
   {
     "id": 70998,
@@ -83,7 +32,75 @@
       16,
       18
     ],
-    "popularity": 620.2792
+    "popularity": 589.8636
+  },
+  {
+    "id": 22980,
+    "tmdb_id": 22980,
+    "type": "tv",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 5.01,
+    "votes": 99,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 541.3134
+  },
+  {
+    "id": 59941,
+    "tmdb_id": 59941,
+    "type": "tv",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+    "rating": 5.8,
+    "votes": 393,
+    "release": "2014-02-17",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 492.4582
+  },
+  {
+    "id": 63770,
+    "tmdb_id": 63770,
+    "type": "tv",
+    "title": "The Late Show with Stephen Colbert",
+    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "rating": 6.1,
+    "votes": 367,
+    "release": "2015-09-08",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 454.6767
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.137,
+    "votes": 3458,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 508.3015
   },
   {
     "id": 2261,
@@ -99,42 +116,7 @@
     "genres": [
       10767
     ],
-    "popularity": 525.155
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.134,
-    "votes": 3450,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 537.5773
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.956,
-    "votes": 4363,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 502.4457
+    "popularity": 462.2423
   },
   {
     "id": 33238,
@@ -151,7 +133,25 @@
       35,
       10764
     ],
-    "popularity": 506.1624
+    "popularity": 443.2246
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 8,
+    "votes": 4364,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 443.3123
   },
   {
     "id": 4304,
@@ -165,7 +165,7 @@
     "votes": 4,
     "release": "2003-04-28",
     "genres": [],
-    "popularity": 421.5909
+    "popularity": 380.3931
   },
   {
     "id": 5920,
@@ -175,15 +175,15 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.413,
-    "votes": 4808,
+    "rating": 8.4,
+    "votes": 4810,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 402.2782
+    "popularity": 379.7238
   },
   {
     "id": 456,
@@ -193,14 +193,47 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-    "rating": 8.024,
-    "votes": 11047,
+    "rating": 8,
+    "votes": 11049,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 382.8543
+    "popularity": 326.848
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+    "rating": 8.6,
+    "votes": 5541,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 313.6261
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+    "rating": 7.3,
+    "votes": 730,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 298.1376
   },
   {
     "id": 61818,
@@ -217,56 +250,7 @@
       10767,
       35
     ],
-    "popularity": 382.202
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.286,
-    "votes": 730,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 349.6546
-  },
-  {
-    "id": 275102,
-    "tmdb_id": 275102,
-    "type": "tv",
-    "title": "The Scandal",
-    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-    "poster": "https://image.tmdb.org/t/p/w342/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "rating": 6.696,
-    "votes": 23,
-    "release": "2026-09-18",
-    "genres": [
-      18
-    ],
-    "popularity": 310.2239
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-    "rating": 8.584,
-    "votes": 5532,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 376.0292
+    "popularity": 345.8446
   },
   {
     "id": 1416,
@@ -277,12 +261,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
     "rating": 8.2,
-    "votes": 11065,
+    "votes": 11067,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 367.3594
+    "popularity": 339.4263
   },
   {
     "id": 2224,
@@ -299,24 +283,26 @@
       10763,
       35
     ],
-    "popularity": 333.4114
+    "popularity": 296.624
   },
   {
-    "id": 1434,
-    "tmdb_id": 1434,
+    "id": 15226,
+    "tmdb_id": 15226,
     "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-    "rating": 7.41,
-    "votes": 5128,
-    "release": "1999-01-31",
+    "title": "C.I.D.",
+    "overview": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
+    "poster": "https://image.tmdb.org/t/p/w342/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
+    "rating": 5.7,
+    "votes": 31,
+    "release": "1998-01-21",
     "genres": [
-      16,
-      35
+      10759,
+      80,
+      18,
+      9648
     ],
-    "popularity": 309.7675
+    "popularity": 311.8167
   },
   {
     "id": 94722,
@@ -332,6 +318,23 @@
     "genres": [
       10763
     ],
-    "popularity": 313.1906
+    "popularity": 290.1445
+  },
+  {
+    "id": 498,
+    "tmdb_id": 498,
+    "type": "tv",
+    "title": "Late Show with David Letterman",
+    "overview": "David Letterman uses mature humor to appeal to his audience in this weeknight series, which gets its music from a house band led by Paul Shaffer. Among the show's most-famous segments are the Top Ten List and Stupid Pet Tricks, the latter of which subsequently led to an additional recurring segment called Stupid Human Tricks.",
+    "poster": "https://image.tmdb.org/t/p/w342/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
+    "rating": 6.5,
+    "votes": 174,
+    "release": "1993-08-30",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 284.0019
   }
 ]

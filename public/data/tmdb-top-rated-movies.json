@@ -1,24 +1,5 @@
 [
   {
-    "id": 980431,
-    "tmdb_id": 980431,
-    "type": "movie",
-    "title": "Avatar Aang: The Last Airbender",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.133,
-    "votes": 1254,
-    "release": "2026-07-24",
-    "genres": [
-      16,
-      12,
-      14,
-      28
-    ],
-    "popularity": 76.4733
-  },
-  {
     "id": 1560520,
     "tmdb_id": 1560520,
     "type": "movie",
@@ -26,8 +7,8 @@
     "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
     "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "rating": 9.143,
-    "votes": 421,
+    "rating": 9.1,
+    "votes": 425,
     "release": "2026-06-23",
     "genres": [
       16,
@@ -38,6 +19,25 @@
     "popularity": 50.3488
   },
   {
+    "id": 980431,
+    "tmdb_id": 980431,
+    "type": "movie",
+    "title": "Avatar Aang: The Last Airbender",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "rating": 9.128,
+    "votes": 1262,
+    "release": "2026-07-24",
+    "genres": [
+      16,
+      12,
+      14,
+      28
+    ],
+    "popularity": 76.4733
+  },
+  {
     "id": 1007757,
     "tmdb_id": 1007757,
     "type": "movie",
@@ -45,8 +45,8 @@
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-    "rating": 8.866,
-    "votes": 2222,
+    "rating": 8.864,
+    "votes": 2225,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -64,8 +64,8 @@
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
-    "rating": 8.844,
-    "votes": 392,
+    "rating": 8.832,
+    "votes": 393,
     "release": "2026-03-12",
     "genres": [
       35,
@@ -81,8 +81,8 @@
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.794,
-    "votes": 2236,
+    "rating": 8.8,
+    "votes": 2244,
     "release": "2025-07-18",
     "genres": [
       16,
@@ -99,8 +99,8 @@
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.774,
-    "votes": 873,
+    "rating": 8.772,
+    "votes": 876,
     "release": "2026-08-21",
     "genres": [
       80,
@@ -118,7 +118,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "rating": 8.732,
-    "votes": 31491,
+    "votes": 31499,
     "release": "1994-09-23",
     "genres": [
       18,
@@ -135,7 +135,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
     "rating": 8.688,
-    "votes": 23682,
+    "votes": 23689,
     "release": "1972-03-14",
     "genres": [
       18,
@@ -151,8 +151,8 @@
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.6,
-    "votes": 8122,
+    "rating": 8.637,
+    "votes": 8141,
     "release": "2026-03-15",
     "genres": [
       878,
@@ -168,8 +168,8 @@
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-    "rating": 8.623,
-    "votes": 4477,
+    "rating": 8.622,
+    "votes": 4483,
     "release": "2026-04-22",
     "genres": [
       10402,
@@ -203,7 +203,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
     "rating": 8.574,
-    "votes": 10433,
+    "votes": 10436,
     "release": "1957-04-10",
     "genres": [
       18
@@ -219,7 +219,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
     "rating": 8.573,
-    "votes": 14406,
+    "votes": 14413,
     "release": "1974-12-20",
     "genres": [
       18,
@@ -236,7 +236,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "rating": 8.568,
-    "votes": 17987,
+    "votes": 17991,
     "release": "1993-12-15",
     "genres": [
       18,
@@ -271,8 +271,8 @@
     "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "rating": 8.544,
-    "votes": 1226,
+    "rating": 8.543,
+    "votes": 1227,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -290,8 +290,8 @@
     "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
-    "rating": 8.5,
-    "votes": 36880,
+    "rating": 8.537,
+    "votes": 36887,
     "release": "2008-07-16",
     "genres": [
       28,
@@ -308,8 +308,8 @@
     "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
     "poster": "https://image.tmdb.org/t/p/w342/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
-    "rating": 8.535,
-    "votes": 18988,
+    "rating": 8.536,
+    "votes": 18995,
     "release": "2001-07-20",
     "genres": [
       16,
@@ -327,7 +327,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
     "rating": 8.505,
-    "votes": 19898,
+    "votes": 19905,
     "release": "1999-12-10",
     "genres": [
       14,
@@ -345,7 +345,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
     "rating": 8.505,
-    "votes": 27491,
+    "votes": 27500,
     "release": "2003-12-17",
     "genres": [
       12,
