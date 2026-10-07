@@ -7,15 +7,15 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
-    "rating": 8.1,
-    "votes": 3552,
+    "rating": 8.2,
+    "votes": 3950,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 719.5221
+    "popularity": 911.1835
   },
   {
     "id": 1248832,
@@ -26,13 +26,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
     "rating": 7.5,
-    "votes": 176,
+    "votes": 212,
     "release": "2026-09-28",
     "genres": [
       35,
       18
     ],
-    "popularity": 226.1274
+    "popularity": 200.3842
   },
   {
     "id": 1291595,
@@ -42,32 +42,14 @@
     "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
     "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "rating": 6.549,
-    "votes": 194,
+    "rating": 7.34,
+    "votes": 297,
     "release": "2026-08-19",
     "genres": [
       27,
       53
     ],
-    "popularity": 130.5284
-  },
-  {
-    "id": 977942,
-    "tmdb_id": 977942,
-    "type": "movie",
-    "title": "The Uprising",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "rating": 8.031,
-    "votes": 223,
-    "release": "2026-09-10",
-    "genres": [
-      36,
-      18,
-      28
-    ],
-    "popularity": 160.78
+    "popularity": 247.9204
   },
   {
     "id": 1101412,
@@ -76,14 +58,14 @@
     "title": "Fall 2: Deadpoint",
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-    "rating": 6.2,
-    "votes": 60,
+    "backdrop": "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+    "rating": 6.872,
+    "votes": 129,
     "release": "2026-09-01",
     "genres": [
       53
     ],
-    "popularity": 57.8372
+    "popularity": 134.4102
   },
   {
     "id": 1283515,
@@ -93,14 +75,32 @@
     "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
     "poster": "https://image.tmdb.org/t/p/w342/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "rating": 6.6,
-    "votes": 93,
+    "rating": 6.5,
+    "votes": 105,
     "release": "2026-09-30",
     "genres": [
       9648,
       53
     ],
-    "popularity": 148.0037
+    "popularity": 144.7575
+  },
+  {
+    "id": 977942,
+    "tmdb_id": 977942,
+    "type": "movie",
+    "title": "The Uprising",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+    "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "rating": 8.021,
+    "votes": 237,
+    "release": "2026-09-10",
+    "genres": [
+      36,
+      18,
+      28
+    ],
+    "popularity": 144.5524
   },
   {
     "id": 1423191,
@@ -110,15 +110,15 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.3,
-    "votes": 761,
+    "rating": 7.316,
+    "votes": 781,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 384.9808
+    "popularity": 641.9788
   },
   {
     "id": 1377237,
@@ -128,14 +128,14 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 8.329,
-    "votes": 394,
+    "rating": 8.333,
+    "votes": 409,
     "release": "2026-09-07",
     "genres": [
       28,
       35
     ],
-    "popularity": 284.8046
+    "popularity": 272.8819
   },
   {
     "id": 1284046,
@@ -145,32 +145,15 @@
     "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
     "poster": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-    "rating": 5.8,
-    "votes": 32,
+    "rating": 5.9,
+    "votes": 46,
     "release": "2026-09-02",
     "genres": [
       28,
-      53,
-      27
-    ],
-    "popularity": 26.9297
-  },
-  {
-    "id": 1339713,
-    "tmdb_id": 1339713,
-    "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.2,
-    "votes": 5948,
-    "release": "2026-05-13",
-    "genres": [
       27,
       53
     ],
-    "popularity": 158.9043
+    "popularity": 67.5917
   },
   {
     "id": 1003596,
@@ -182,49 +165,30 @@
     "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
     "rating": 0,
     "votes": 0,
-    "release": "2026-12-16",
+    "release": "2026-12-15",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 95.693
+    "popularity": 96.5158
   },
   {
-    "id": 1492640,
-    "tmdb_id": 1492640,
+    "id": 1339713,
+    "tmdb_id": 1339713,
     "type": "movie",
-    "title": "UNABOMBER",
-    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-    "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-    "rating": 6.568,
-    "votes": 353,
-    "release": "2026-09-25",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "rating": 8.185,
+    "votes": 5964,
+    "release": "2026-05-13",
     "genres": [
-      53,
-      18,
-      80
+      27,
+      53
     ],
-    "popularity": 96.4254
-  },
-  {
-    "id": 1204680,
-    "tmdb_id": 1204680,
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.518,
-    "votes": 682,
-    "release": "2026-08-17",
-    "genres": [
-      35,
-      12,
-      10751
-    ],
-    "popularity": 249.797
+    "popularity": 155.397
   },
   {
     "id": 1458857,
@@ -234,31 +198,30 @@
     "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
     "poster": "https://image.tmdb.org/t/p/w342/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-    "rating": 7.287,
-    "votes": 61,
+    "rating": 7.438,
+    "votes": 65,
     "release": "2026-10-02",
     "genres": [
       10749,
       18
     ],
-    "popularity": 72.298
+    "popularity": 74.2363
   },
   {
-    "id": 1375441,
-    "tmdb_id": 1375441,
+    "id": 1400837,
+    "tmdb_id": 1400837,
     "type": "movie",
-    "title": "Primetime",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "rating": 6.8,
-    "votes": 90,
-    "release": "2026-09-23",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+    "rating": 5.5,
+    "votes": 2,
+    "release": "2026-10-07",
     "genres": [
-      18,
-      53
+      27
     ],
-    "popularity": 60.6039
+    "popularity": 46.2349
   },
   {
     "id": 1368337,
@@ -269,32 +232,104 @@
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
     "rating": 8,
-    "votes": 4028,
+    "votes": 4037,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 300.6444
+    "popularity": 317.4633
   },
   {
-    "id": 1307118,
-    "tmdb_id": 1307118,
+    "id": 1204680,
+    "tmdb_id": 1204680,
     "type": "movie",
-    "title": "Soulm8te",
-    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-    "poster": "https://image.tmdb.org/t/p/w342/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-    "rating": 7.518,
-    "votes": 440,
-    "release": "2026-07-31",
+    "title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "rating": 7.5,
+    "votes": 687,
+    "release": "2026-08-17",
+    "genres": [
+      35,
+      12,
+      10751
+    ],
+    "popularity": 222.0387
+  },
+  {
+    "id": 1492640,
+    "tmdb_id": 1492640,
+    "type": "movie",
+    "title": "UNABOMBER",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "rating": 6.57,
+    "votes": 366,
+    "release": "2026-09-25",
+    "genres": [
+      53,
+      18,
+      80
+    ],
+    "popularity": 85.522
+  },
+  {
+    "id": 1108427,
+    "tmdb_id": 1108427,
+    "type": "movie",
+    "title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "poster": "https://image.tmdb.org/t/p/w342/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "rating": 7.4,
+    "votes": 863,
+    "release": "2026-07-08",
+    "genres": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "popularity": 102.0173
+  },
+  {
+    "id": 1153576,
+    "tmdb_id": 1153576,
+    "type": "movie",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-10-13",
+    "genres": [
+      28,
+      14
+    ],
+    "popularity": 26.3712
+  },
+  {
+    "id": 1400940,
+    "tmdb_id": 1400940,
+    "type": "movie",
+    "title": "Clayface",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-10-21",
     "genres": [
       27,
-      878,
-      53
+      53,
+      878
     ],
-    "popularity": 53.973
+    "popularity": 24.7638
   },
   {
     "id": 1263337,
@@ -304,49 +339,13 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "rating": 7.504,
-    "votes": 228,
+    "rating": 7.458,
+    "votes": 237,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 116.4011
-  },
-  {
-    "id": 1153576,
-    "tmdb_id": 1153576,
-    "type": "movie",
-    "title": "Street Fighter",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "poster": "https://image.tmdb.org/t/p/w342/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-13",
-    "genres": [
-      28,
-      14
-    ],
-    "popularity": 27.039
-  },
-  {
-    "id": 1084244,
-    "tmdb_id": 1084244,
-    "type": "movie",
-    "title": "Toy Story 5",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.3,
-    "votes": 2497,
-    "release": "2026-06-17",
-    "genres": [
-      16,
-      10751,
-      35,
-      12
-    ],
-    "popularity": 164.6966
+    "popularity": 105.1524
   }
 ]
