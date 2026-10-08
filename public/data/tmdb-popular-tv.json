@@ -15,7 +15,7 @@
       35,
       18
     ],
-    "popularity": 966.9331
+    "popularity": 786.4938
   },
   {
     "id": 70998,
@@ -32,7 +32,7 @@
       16,
       18
     ],
-    "popularity": 589.8636
+    "popularity": 642.822
   },
   {
     "id": 22980,
@@ -43,13 +43,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
     "rating": 5.01,
-    "votes": 99,
+    "votes": 100,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 541.3134
+    "popularity": 451.9918
   },
   {
     "id": 108978,
@@ -59,14 +59,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.136,
-    "votes": 3459,
+    "rating": 8.137,
+    "votes": 3460,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 508.3015
+    "popularity": 471.5759
   },
   {
     "id": 59941,
@@ -83,7 +83,7 @@
       35,
       10767
     ],
-    "popularity": 492.4582
+    "popularity": 468.363
   },
   {
     "id": 2261,
@@ -99,7 +99,25 @@
     "genres": [
       10767
     ],
-    "popularity": 462.2423
+    "popularity": 488.4028
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "rating": 8,
+    "votes": 4366,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 437.8817
   },
   {
     "id": 63770,
@@ -116,25 +134,25 @@
       35,
       10767
     ],
-    "popularity": 454.6767
+    "popularity": 418.0444
   },
   {
-    "id": 2734,
-    "tmdb_id": 2734,
+    "id": 5920,
+    "tmdb_id": 5920,
     "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 8,
-    "votes": 4365,
-    "release": "1999-09-20",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.414,
+    "votes": 4820,
+    "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 443.3123
+    "popularity": 319.2699
   },
   {
     "id": 33238,
@@ -151,57 +169,7 @@
       35,
       10764
     ],
-    "popularity": 443.2246
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.342,
-    "votes": 628,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 390.3034
-  },
-  {
-    "id": 4304,
-    "tmdb_id": 4304,
-    "type": "tv",
-    "title": "Xplay",
-    "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
-    "poster": "https://image.tmdb.org/t/p/w342/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
-    "rating": 8.5,
-    "votes": 4,
-    "release": "2003-04-28",
-    "genres": [],
-    "popularity": 380.3931
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.414,
-    "votes": 4814,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 379.7238
+    "popularity": 348.8008
   },
   {
     "id": 61818,
@@ -218,7 +186,7 @@
       10767,
       35
     ],
-    "popularity": 345.8446
+    "popularity": 349.3707
   },
   {
     "id": 1416,
@@ -229,12 +197,28 @@
     "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
     "rating": 8.2,
-    "votes": 11067,
+    "votes": 11070,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 339.4263
+    "popularity": 339.2089
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+    "rating": 8.6,
+    "votes": 5552,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 323.6812
   },
   {
     "id": 456,
@@ -245,29 +229,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
     "rating": 8.023,
-    "votes": 11051,
+    "votes": 11058,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 326.848
+    "popularity": 322.7033
   },
   {
-    "id": 2316,
-    "tmdb_id": 2316,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-    "rating": 8.584,
-    "votes": 5546,
-    "release": "2005-03-24",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+    "rating": 8.339,
+    "votes": 654,
+    "release": "2026-08-16",
     "genres": [
-      35
+      18,
+      9648,
+      10765
     ],
-    "popularity": 313.6261
+    "popularity": 316.6079
   },
   {
     "id": 15226,
@@ -286,7 +272,21 @@
       18,
       9648
     ],
-    "popularity": 311.8167
+    "popularity": 301.7844
+  },
+  {
+    "id": 4304,
+    "tmdb_id": 4304,
+    "type": "tv",
+    "title": "Xplay",
+    "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
+    "poster": "https://image.tmdb.org/t/p/w342/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
+    "rating": 8.5,
+    "votes": 4,
+    "release": "2003-04-28",
+    "genres": [],
+    "popularity": 234.7171
   },
   {
     "id": 549,
@@ -296,14 +296,30 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.286,
-    "votes": 730,
+    "rating": 7.285,
+    "votes": 731,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 298.1376
+    "popularity": 301.2669
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 279.6349
   },
   {
     "id": 2224,
@@ -313,29 +329,13 @@
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
     "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.408,
-    "votes": 665,
+    "rating": 6.414,
+    "votes": 666,
     "release": "1996-07-22",
     "genres": [
       10763,
       35
     ],
-    "popularity": 296.624
-  },
-  {
-    "id": 94722,
-    "tmdb_id": 94722,
-    "type": "tv",
-    "title": "Tagesschau",
-    "overview": "German daily news program, the oldest still existing program on German television.",
-    "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-    "rating": 6.8,
-    "votes": 256,
-    "release": "1952-12-26",
-    "genres": [
-      10763
-    ],
-    "popularity": 290.1445
+    "popularity": 314.5331
   }
 ]

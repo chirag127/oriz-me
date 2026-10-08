@@ -8,7 +8,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
     "rating": 9.1,
-    "votes": 1273,
+    "votes": 1277,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       14,
       28
     ],
-    "popularity": 70.3968
+    "popularity": 71.845
   },
   {
     "id": 1560520,
@@ -27,7 +27,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
     "rating": 9.1,
-    "votes": 430,
+    "votes": 431,
     "release": "2026-06-23",
     "genres": [
       16,
@@ -35,7 +35,7 @@
       12,
       18
     ],
-    "popularity": 44.3701
+    "popularity": 41.6285
   },
   {
     "id": 1007757,
@@ -54,7 +54,7 @@
       10751,
       14
     ],
-    "popularity": 46.7178
+    "popularity": 46.1656
   },
   {
     "id": 1632181,
@@ -71,7 +71,7 @@
       35,
       10749
     ],
-    "popularity": 12.655
+    "popularity": 12.849
   },
   {
     "id": 1311031,
@@ -82,14 +82,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
     "rating": 8.8,
-    "votes": 2248,
+    "votes": 2251,
     "release": "2025-07-18",
     "genres": [
       16,
       28,
       14
     ],
-    "popularity": 55.4502
+    "popularity": 56.0096
   },
   {
     "id": 1621552,
@@ -99,15 +99,15 @@
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.783,
-    "votes": 884,
+    "rating": 8.787,
+    "votes": 887,
     "release": "2026-08-21",
     "genres": [
       80,
       28,
       53
     ],
-    "popularity": 50.6797
+    "popularity": 47.2011
   },
   {
     "id": 278,
@@ -117,14 +117,14 @@
     "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-    "rating": 8.7,
-    "votes": 31511,
+    "rating": 8.732,
+    "votes": 31517,
     "release": "1994-09-23",
     "genres": [
       18,
       80
     ],
-    "popularity": 58.3823
+    "popularity": 58.349
   },
   {
     "id": 238,
@@ -135,13 +135,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
     "rating": 8.688,
-    "votes": 23698,
+    "votes": 23706,
     "release": "1972-03-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 58.3163
+    "popularity": 60.1635
   },
   {
     "id": 687163,
@@ -151,14 +151,14 @@
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.6,
-    "votes": 8161,
+    "rating": 8.635,
+    "votes": 8177,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 91.1012
+    "popularity": 91.0726
   },
   {
     "id": 936075,
@@ -169,13 +169,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
     "rating": 8.6,
-    "votes": 4492,
+    "votes": 4499,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 53.5086
+    "popularity": 54.2692
   },
   {
     "id": 1232449,
@@ -185,14 +185,14 @@
     "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
     "poster": "https://image.tmdb.org/t/p/w342/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
-    "rating": 8.599,
+    "rating": 8.6,
     "votes": 323,
     "release": "2024-10-26",
     "genres": [
       18,
       10749
     ],
-    "popularity": 15.2985
+    "popularity": 15.5362
   },
   {
     "id": 389,
@@ -202,13 +202,13 @@
     "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-    "rating": 8.575,
-    "votes": 10440,
+    "rating": 8.574,
+    "votes": 10447,
     "release": "1957-04-10",
     "genres": [
       18
     ],
-    "popularity": 36.5527
+    "popularity": 39.4033
   },
   {
     "id": 240,
@@ -218,14 +218,14 @@
     "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
     "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
-    "rating": 8.6,
-    "votes": 14420,
+    "rating": 8.572,
+    "votes": 14427,
     "release": "1974-12-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 38.9847
+    "popularity": 39.9275
   },
   {
     "id": 424,
@@ -235,15 +235,15 @@
     "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-    "rating": 8.6,
-    "votes": 17997,
+    "rating": 8.568,
+    "votes": 18000,
     "release": "1993-12-15",
     "genres": [
       18,
       36,
       10752
     ],
-    "popularity": 33.3345
+    "popularity": 33.9275
   },
   {
     "id": 1630423,
@@ -253,15 +253,15 @@
     "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
     "poster": "https://image.tmdb.org/t/p/w342/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
-    "rating": 8.554,
-    "votes": 307,
+    "rating": 8.55,
+    "votes": 309,
     "release": "2026-05-06",
     "genres": [
       28,
       18,
       10749
     ],
-    "popularity": 16.972
+    "popularity": 17.8173
   },
   {
     "id": 1218925,
@@ -272,7 +272,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
     "rating": 8.5,
-    "votes": 1229,
+    "votes": 1231,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -280,7 +280,7 @@
       10749,
       14
     ],
-    "popularity": 29.3178
+    "popularity": 29.0727
   },
   {
     "id": 155,
@@ -291,14 +291,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
     "rating": 8.537,
-    "votes": 36900,
+    "votes": 36908,
     "release": "2008-07-16",
     "genres": [
       28,
       53,
       80
     ],
-    "popularity": 53.0858
+    "popularity": 54.0783
   },
   {
     "id": 129,
@@ -308,15 +308,15 @@
     "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
     "poster": "https://image.tmdb.org/t/p/w342/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
-    "rating": 8.5,
-    "votes": 19000,
+    "rating": 8.535,
+    "votes": 19006,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 39.9545
+    "popularity": 42.2245
   },
   {
     "id": 497,
@@ -327,14 +327,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
     "rating": 8.5,
-    "votes": 19914,
+    "votes": 19920,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 38.9441
+    "popularity": 38.5302
   },
   {
     "id": 122,
@@ -344,14 +344,14 @@
     "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
-    "rating": 8.5,
-    "votes": 27513,
+    "rating": 8.504,
+    "votes": 27522,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 49.1518
+    "popularity": 46.7139
   }
 ]

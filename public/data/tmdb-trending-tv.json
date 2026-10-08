@@ -7,15 +7,15 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.344,
-    "votes": 633,
+    "rating": 8.332,
+    "votes": 655,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 337.0421
+    "popularity": 316.6079
   },
   {
     "id": 258165,
@@ -25,13 +25,30 @@
     "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
     "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-    "rating": 7.927,
-    "votes": 41,
+    "rating": 8.068,
+    "votes": 44,
     "release": "2026-10-01",
     "genres": [
       18
     ],
-    "popularity": 123.1597
+    "popularity": 118.2123
+  },
+  {
+    "id": 288673,
+    "tmdb_id": 288673,
+    "type": "tv",
+    "title": "Carrie",
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie White is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social-media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "poster": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+    "rating": 8.6,
+    "votes": 21,
+    "release": "2026-10-07",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 115.0272
   },
   {
     "id": 298505,
@@ -41,50 +58,32 @@
     "overview": "A coven protects their magic school from a dark fate.",
     "poster": "https://image.tmdb.org/t/p/w342/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-    "rating": 7.3,
-    "votes": 22,
+    "rating": 7.1,
+    "votes": 24,
     "release": "2026-10-01",
     "genres": [
       9648,
       18,
       10765
     ],
-    "popularity": 127.8876
+    "popularity": 125.5037
   },
   {
-    "id": 247718,
-    "tmdb_id": 247718,
+    "id": 97546,
+    "tmdb_id": 97546,
     "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.474,
-    "votes": 972,
-    "release": "2025-03-30",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.36,
+    "votes": 2721,
+    "release": "2020-08-14",
     "genres": [
-      80,
-      18
-    ],
-    "popularity": 281.0226
-  },
-  {
-    "id": 220542,
-    "tmdb_id": 220542,
-    "type": "tv",
-    "title": "The Apothecary Diaries",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "rating": 8.6,
-    "votes": 657,
-    "release": "2023-10-22",
-    "genres": [
-      16,
       18,
-      9648
+      35
     ],
-    "popularity": 113.0819
+    "popularity": 258.099
   },
   {
     "id": 73223,
@@ -95,65 +94,49 @@
     "poster": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
     "rating": 8.5,
-    "votes": 2225,
+    "votes": 2227,
     "release": "2017-10-03",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 53.6997
+    "popularity": 58.7773
   },
   {
-    "id": 288673,
-    "tmdb_id": 288673,
+    "id": 220542,
+    "tmdb_id": 220542,
     "type": "tv",
-    "title": "Carrie",
-    "overview": "Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
-    "poster": "https://image.tmdb.org/t/p/w342/b7aKxwPj3QM8YHZ8uDyqr50i96D.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
-    "rating": 7.5,
-    "votes": 4,
-    "release": "2026-10-07",
+    "title": "The Apothecary Diaries",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "rating": 8.6,
+    "votes": 659,
+    "release": "2023-10-22",
     "genres": [
-      9648,
+      16,
+      18,
+      9648
+    ],
+    "popularity": 118.7122
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.476,
+    "votes": 981,
+    "release": "2025-03-30",
+    "genres": [
+      80,
       18
     ],
-    "popularity": 28.4458
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.362,
-    "votes": 2719,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 219.7907
-  },
-  {
-    "id": 284558,
-    "tmdb_id": 284558,
-    "type": "tv",
-    "title": "Kill Jackie",
-    "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-    "poster": "https://image.tmdb.org/t/p/w342/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
-    "rating": 6.9,
-    "votes": 17,
-    "release": "2026-10-02",
-    "genres": [
-      18,
-      80
-    ],
-    "popularity": 96.1365
+    "popularity": 280.987
   },
   {
     "id": 37854,
@@ -164,83 +147,68 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
     "rating": 8.8,
-    "votes": 5582,
+    "votes": 5584,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 81.1301
+    "popularity": 81.6774
   },
   {
-    "id": 1413,
-    "tmdb_id": 1413,
+    "id": 258230,
+    "tmdb_id": 258230,
     "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.1,
-    "votes": 6213,
-    "release": "2011-10-05",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 224.662
-  },
-  {
-    "id": 298852,
-    "tmdb_id": 298852,
-    "type": "tv",
-    "title": "WAR",
-    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-    "poster": "https://image.tmdb.org/t/p/w342/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-    "rating": 8.8,
-    "votes": 10,
-    "release": "2026-10-02",
-    "genres": [
-      18
-    ],
-    "popularity": 62.3021
-  },
-  {
-    "id": 95480,
-    "tmdb_id": 95480,
-    "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8,
-    "votes": 1020,
-    "release": "2022-04-01",
+    "title": "Last Seen",
+    "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+    "poster": "https://image.tmdb.org/t/p/w342/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+    "rating": 7.8,
+    "votes": 39,
+    "release": "2026-09-09",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 195.2972
+    "popularity": 53.5279
   },
   {
-    "id": 456,
-    "tmdb_id": 456,
+    "id": 259140,
+    "tmdb_id": 259140,
     "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-    "rating": 8.023,
-    "votes": 11052,
-    "release": "1989-12-17",
+    "title": "Ranma1/2",
+    "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+    "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+    "rating": 8.1,
+    "votes": 191,
+    "release": "2024-10-06",
     "genres": [
       16,
-      35
+      10759,
+      35,
+      10765
     ],
-    "popularity": 308.7511
+    "popularity": 124.5001
+  },
+  {
+    "id": 284558,
+    "tmdb_id": 284558,
+    "type": "tv",
+    "title": "Kill Jackie",
+    "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+    "poster": "https://image.tmdb.org/t/p/w342/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+    "rating": 6.889,
+    "votes": 18,
+    "release": "2026-10-02",
+    "genres": [
+      18,
+      80
+    ],
+    "popularity": 92.386
   },
   {
     "id": 65942,
@@ -251,7 +219,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
     "rating": 8.1,
-    "votes": 795,
+    "votes": 796,
     "release": "2016-04-04",
     "genres": [
       16,
@@ -259,7 +227,39 @@
       10759,
       10765
     ],
-    "popularity": 146.5711
+    "popularity": 144.0519
+  },
+  {
+    "id": 285322,
+    "tmdb_id": 285322,
+    "type": "tv",
+    "title": "Below",
+    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+    "poster": "https://image.tmdb.org/t/p/w342/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+    "rating": 6.8,
+    "votes": 4,
+    "release": "2026-10-08",
+    "genres": [
+      9648
+    ],
+    "popularity": 16.0587
+  },
+  {
+    "id": 298852,
+    "tmdb_id": 298852,
+    "type": "tv",
+    "title": "WAR",
+    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+    "poster": "https://image.tmdb.org/t/p/w342/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+    "rating": 8.5,
+    "votes": 11,
+    "release": "2026-10-02",
+    "genres": [
+      18
+    ],
+    "popularity": 59.8547
   },
   {
     "id": 282326,
@@ -276,25 +276,24 @@
       18,
       10751
     ],
-    "popularity": 115.1197
+    "popularity": 96.7403
   },
   {
-    "id": 290856,
-    "tmdb_id": 290856,
+    "id": 108978,
+    "tmdb_id": 108978,
     "type": "tv",
-    "title": "Marshals",
-    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-    "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-    "rating": 7.9,
-    "votes": 381,
-    "release": "2026-03-01",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.137,
+    "votes": 3461,
+    "release": "2022-02-03",
     "genres": [
-      18,
-      80,
-      10759
+      10759,
+      80
     ],
-    "popularity": 91.6208
+    "popularity": 471.5759
   },
   {
     "id": 207347,
@@ -304,30 +303,31 @@
     "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
     "poster": "https://image.tmdb.org/t/p/w342/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
-    "rating": 7.8,
-    "votes": 103,
+    "rating": 7.856,
+    "votes": 104,
     "release": "2024-10-03",
     "genres": [
       16,
       18
     ],
-    "popularity": 57.6605
+    "popularity": 58.1644
   },
   {
-    "id": 283938,
-    "tmdb_id": 283938,
+    "id": 95480,
+    "tmdb_id": 95480,
     "type": "tv",
-    "title": "Even the Student Council Has Its Holes!",
-    "overview": "In a student council filled with weirdos, one new member is about to have a hell of a school year! Mizunoe Ume just wanted to avoid repeating a grade when he joined the student council. After all, it seemed like an easy fix to his current academic problems. But then, he met his fellow council members. Each of them is eccentric in their own way—one's an airhead, another's scary, one's secretly a pervert, but all in all, they're just really weird! Yet somehow, they're also oddly cute and endearing. Which means Mizunoe is stuck with them and all the chaos they bring to the table. Get ready for a slice-of-life story that's irresistibly charming, quirky, and a little bit naughty!",
-    "poster": "https://image.tmdb.org/t/p/w342/jGj3OTrtaSvm5umJ8nVGyQLF30E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-04",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.04,
+    "votes": 1024,
+    "release": "2022-04-01",
     "genres": [
-      16,
-      35
+      80,
+      18,
+      9648
     ],
-    "popularity": 20.0888
+    "popularity": 262.0353
   }
 ]
