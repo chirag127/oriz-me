@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
     "rating": 9.367,
-    "votes": 959,
+    "votes": 965,
     "release": "2026-06-05",
     "genres": [
       10759,
       18,
       35
     ],
-    "popularity": 51.0922
+    "popularity": 50.6652
   },
   {
     "id": 299167,
@@ -25,14 +25,14 @@
     "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
     "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-    "rating": 9.125,
-    "votes": 617,
+    "rating": 9.126,
+    "votes": 619,
     "release": "2026-05-15",
     "genres": [
       37,
       18
     ],
-    "popularity": 50.5148
+    "popularity": 48.7968
   },
   {
     "id": 278573,
@@ -49,7 +49,7 @@
       35,
       18
     ],
-    "popularity": 67.6879
+    "popularity": 72.3655
   },
   {
     "id": 1396,
@@ -60,13 +60,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
     "rating": 8.954,
-    "votes": 18776,
+    "votes": 18783,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 231.4642
+    "popularity": 220.9743
   },
   {
     "id": 273240,
@@ -76,30 +76,13 @@
     "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
     "poster": "https://image.tmdb.org/t/p/w342/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
-    "rating": 8.9,
-    "votes": 877,
+    "rating": 8.882,
+    "votes": 878,
     "release": "2026-05-13",
     "genres": [
       18
     ],
-    "popularity": 68.0412
-  },
-  {
-    "id": 322430,
-    "tmdb_id": 322430,
-    "type": "tv",
-    "title": "The Polygamist",
-    "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
-    "poster": "https://image.tmdb.org/t/p/w342/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
-    "rating": 8.845,
-    "votes": 216,
-    "release": "2026-06-12",
-    "genres": [
-      18,
-      10766
-    ],
-    "popularity": 28.5495
+    "popularity": 63.6515
   },
   {
     "id": 214999,
@@ -116,7 +99,24 @@
       18,
       35
     ],
-    "popularity": 11.7957
+    "popularity": 11.5915
+  },
+  {
+    "id": 322430,
+    "tmdb_id": 322430,
+    "type": "tv",
+    "title": "The Polygamist",
+    "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+    "poster": "https://image.tmdb.org/t/p/w342/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+    "rating": 8.845,
+    "votes": 216,
+    "release": "2026-06-12",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 25.895
   },
   {
     "id": 245026,
@@ -134,7 +134,7 @@
       10765,
       10751
     ],
-    "popularity": 29.1897
+    "popularity": 30.7079
   },
   {
     "id": 85077,
@@ -144,15 +144,15 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "rating": 8.822,
-    "votes": 1012,
+    "rating": 8.824,
+    "votes": 1014,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 86.7319
+    "popularity": 85.2948
   },
   {
     "id": 259837,
@@ -163,7 +163,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
     "rating": 8.8,
-    "votes": 275,
+    "votes": 276,
     "release": "2026-05-15",
     "genres": [
       10759,
@@ -171,7 +171,7 @@
       10765,
       18
     ],
-    "popularity": 25.3242
+    "popularity": 24.7563
   },
   {
     "id": 209867,
@@ -182,7 +182,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
     "rating": 8.8,
-    "votes": 985,
+    "votes": 986,
     "release": "2023-09-29",
     "genres": [
       16,
@@ -190,7 +190,7 @@
       18,
       10765
     ],
-    "popularity": 85.8087
+    "popularity": 81.0757
   },
   {
     "id": 219246,
@@ -201,12 +201,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
     "rating": 8.8,
-    "votes": 600,
+    "votes": 601,
     "release": "2025-03-07",
     "genres": [
       18
     ],
-    "popularity": 39.8725
+    "popularity": 39.128
   },
   {
     "id": 259666,
@@ -216,14 +216,14 @@
     "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
     "poster": "https://image.tmdb.org/t/p/w342/5U3WiAz67fJn5gnvFk4zOJAx9Sc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
-    "rating": 8.791,
+    "rating": 8.8,
     "votes": 392,
     "release": "2024-08-09",
     "genres": [
       18,
       35
     ],
-    "popularity": 11.663
+    "popularity": 11.1852
   },
   {
     "id": 284445,
@@ -241,7 +241,7 @@
       18,
       10765
     ],
-    "popularity": 19.4174
+    "popularity": 19.1677
   },
   {
     "id": 246,
@@ -251,15 +251,15 @@
     "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
     "poster": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-    "rating": 8.78,
-    "votes": 5139,
+    "rating": 8.8,
+    "votes": 5142,
     "release": "2005-02-21",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 38.5904
+    "popularity": 37.2186
   },
   {
     "id": 37854,
@@ -277,7 +277,7 @@
       35,
       16
     ],
-    "popularity": 81.6774
+    "popularity": 79.0818
   },
   {
     "id": 94605,
@@ -288,14 +288,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
     "rating": 8.747,
-    "votes": 6216,
+    "votes": 6219,
     "release": "2021-11-06",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 51.2918
+    "popularity": 49.6602
   },
   {
     "id": 64010,
@@ -311,7 +311,7 @@
     "genres": [
       35
     ],
-    "popularity": 24.6701
+    "popularity": 22.0452
   },
   {
     "id": 250307,
@@ -321,28 +321,29 @@
     "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-    "rating": 8.736,
-    "votes": 999,
+    "rating": 8.7,
+    "votes": 1002,
     "release": "2025-01-09",
     "genres": [
       18
     ],
-    "popularity": 109.024
+    "popularity": 102.2774
   },
   {
-    "id": 87108,
-    "tmdb_id": 87108,
+    "id": 271607,
+    "tmdb_id": 271607,
     "type": "tv",
-    "title": "Chernobyl",
-    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
-    "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
-    "rating": 8.727,
-    "votes": 8384,
-    "release": "2019-05-06",
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "overview": "When the intimidating Rintaro meets the open-minded Kaoruko, the unlikely duo grows closer. The issue? Their neighboring high schools hate each other.",
+    "poster": "https://image.tmdb.org/t/p/w342/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
+    "rating": 8.7,
+    "votes": 277,
+    "release": "2025-07-06",
     "genres": [
+      16,
       18
     ],
-    "popularity": 40.2557
+    "popularity": 35.6423
   }
 ]

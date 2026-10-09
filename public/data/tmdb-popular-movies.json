@@ -1,23 +1,5 @@
 [
   {
-    "id": 969681,
-    "tmdb_id": 969681,
-    "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-    "rating": 8.294,
-    "votes": 4271,
-    "release": "2026-07-29",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 927.1918
-  },
-  {
     "id": 1423191,
     "tmdb_id": 1423191,
     "type": "movie",
@@ -25,34 +7,33 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.32,
-    "votes": 802,
+    "rating": 7.3,
+    "votes": 814,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 957.9474
+    "popularity": 843.9801
   },
   {
-    "id": 1599191,
-    "tmdb_id": 1599191,
+    "id": 969681,
+    "tmdb_id": 969681,
     "type": "movie",
-    "title": "Renegade Immortal: Battle of the Immortal Slayer",
-    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
-    "poster": "https://image.tmdb.org/t/p/w342/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-    "rating": 7.5,
-    "votes": 14,
-    "release": "2026-10-01",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yHMJbIEBHnKYWh20XtxV16emwXT.jpg",
+    "rating": 8.328,
+    "votes": 4453,
+    "release": "2026-07-29",
     "genres": [
-      16,
+      878,
       28,
-      12,
-      14
+      12
     ],
-    "popularity": 268.346
+    "popularity": 956.4914
   },
   {
     "id": 1368337,
@@ -63,14 +44,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
     "rating": 8,
-    "votes": 4048,
+    "votes": 4054,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 339.8777
+    "popularity": 347.4248
   },
   {
     "id": 1291595,
@@ -80,14 +61,14 @@
     "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
     "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "rating": 7.547,
-    "votes": 379,
+    "rating": 7.607,
+    "votes": 427,
     "release": "2026-08-19",
     "genres": [
       27,
       53
     ],
-    "popularity": 286.9072
+    "popularity": 330.2366
   },
   {
     "id": 1228834,
@@ -97,14 +78,33 @@
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-    "rating": 6.833,
-    "votes": 51,
+    "rating": 6.76,
+    "votes": 52,
     "release": "2026-09-10",
     "genres": [
       28,
       53
     ],
-    "popularity": 276.4334
+    "popularity": 274.5749
+  },
+  {
+    "id": 1599191,
+    "tmdb_id": 1599191,
+    "type": "movie",
+    "title": "Renegade Immortal: Battle of the Immortal Slayer",
+    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
+    "poster": "https://image.tmdb.org/t/p/w342/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+    "rating": 7.464,
+    "votes": 14,
+    "release": "2026-10-01",
+    "genres": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "popularity": 162.6296
   },
   {
     "id": 1377237,
@@ -114,14 +114,30 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 8.3,
-    "votes": 418,
+    "rating": 8.289,
+    "votes": 439,
     "release": "2026-09-07",
     "genres": [
       28,
       35
     ],
-    "popularity": 265.9618
+    "popularity": 259.3649
+  },
+  {
+    "id": 1101412,
+    "tmdb_id": 1101412,
+    "type": "movie",
+    "title": "Fall 2: Deadpoint",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "rating": 7.149,
+    "votes": 249,
+    "release": "2026-09-01",
+    "genres": [
+      53
+    ],
+    "popularity": 225.0661
   },
   {
     "id": 1751701,
@@ -139,23 +155,7 @@
       18,
       53
     ],
-    "popularity": 214.8669
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-    "rating": 7.166,
-    "votes": 211,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 209.0382
+    "popularity": 204.3827
   },
   {
     "id": 1204680,
@@ -165,15 +165,15 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.514,
-    "votes": 693,
+    "rating": 7.5,
+    "votes": 695,
     "release": "2026-08-17",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 201.6415
+    "popularity": 186.6723
   },
   {
     "id": 460458,
@@ -183,33 +183,31 @@
     "overview": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
     "poster": "https://image.tmdb.org/t/p/w342/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
-    "rating": 5.947,
-    "votes": 2859,
+    "rating": 5.946,
+    "votes": 2863,
     "release": "2021-11-24",
     "genres": [
       28,
       27,
       878
     ],
-    "popularity": 192.6297
+    "popularity": 186.4862
   },
   {
-    "id": 1101383,
-    "tmdb_id": 1101383,
+    "id": 30723,
+    "tmdb_id": 30723,
     "type": "movie",
-    "title": "The End of Oak Street",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-    "rating": 7.083,
-    "votes": 1907,
-    "release": "2026-08-12",
+    "title": "Cavegirl",
+    "overview": "On a class excursion to a cave with stone age paintings the clumsy Rex gets lost. A mysterious crystal opens a gateway in time and sets him back to the stone ages, where he meets a group of prehistoric fellows and the gorgeous Eba. While teaching her English and doing some pseudo-research on her fellows, his main goal is to get her sleeping with him. However the curiosity of the clan chief disturbs his attempts.",
+    "poster": "https://image.tmdb.org/t/p/w342/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/akJghVpe8jwWXEA5aWRNhJWozGL.jpg",
+    "rating": 4.148,
+    "votes": 27,
+    "release": "1985-05-01",
     "genres": [
-      878,
-      9648,
-      53
+      35
     ],
-    "popularity": 182.6396
+    "popularity": 210.7494
   },
   {
     "id": 1248832,
@@ -219,14 +217,32 @@
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "rating": 7.525,
-    "votes": 237,
+    "rating": 7.52,
+    "votes": 249,
     "release": "2026-09-28",
     "genres": [
       35,
       18
     ],
-    "popularity": 183.1036
+    "popularity": 165.93
+  },
+  {
+    "id": 1101383,
+    "tmdb_id": 1101383,
+    "type": "movie",
+    "title": "The End of Oak Street",
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "poster": "https://image.tmdb.org/t/p/w342/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "rating": 7.084,
+    "votes": 1922,
+    "release": "2026-08-12",
+    "genres": [
+      878,
+      9648,
+      53
+    ],
+    "popularity": 172.9648
   },
   {
     "id": 1294189,
@@ -243,23 +259,7 @@
       28,
       53
     ],
-    "popularity": 179.0331
-  },
-  {
-    "id": 30723,
-    "tmdb_id": 30723,
-    "type": "movie",
-    "title": "Cavegirl",
-    "overview": "On a class excursion to a cave with stone age paintings the clumsy Rex gets lost. A mysterious crystal opens a gateway in time and sets him back to the stone ages, where he meets a group of prehistoric fellows and the gorgeous Eba. While teaching her English and doing some pseudo-research on her fellows, his main goal is to get her sleeping with him. However the curiosity of the clan chief disturbs his attempts.",
-    "poster": "https://image.tmdb.org/t/p/w342/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/akJghVpe8jwWXEA5aWRNhJWozGL.jpg",
-    "rating": 4.148,
-    "votes": 27,
-    "release": "1985-05-01",
-    "genres": [
-      35
-    ],
-    "popularity": 186.3038
+    "popularity": 177.7768
   },
   {
     "id": 1032863,
@@ -269,14 +269,30 @@
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-    "rating": 8.056,
-    "votes": 517,
+    "rating": 8.06,
+    "votes": 522,
     "release": "2026-09-23",
     "genres": [
       10749,
       35
     ],
-    "popularity": 155.5953
+    "popularity": 140.8315
+  },
+  {
+    "id": 1712451,
+    "tmdb_id": 1712451,
+    "type": "movie",
+    "title": "Resident Dead",
+    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+    "poster": "https://image.tmdb.org/t/p/w342/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+    "rating": 6.7,
+    "votes": 5,
+    "release": "2026-09-04",
+    "genres": [
+      27
+    ],
+    "popularity": 167.9048
   },
   {
     "id": 1084244,
@@ -286,8 +302,8 @@
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "poster": "https://image.tmdb.org/t/p/w342/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "rating": 8.3,
-    "votes": 2520,
+    "rating": 8.301,
+    "votes": 2529,
     "release": "2026-06-17",
     "genres": [
       16,
@@ -295,7 +311,7 @@
       35,
       12
     ],
-    "popularity": 154.2684
+    "popularity": 149.4361
   },
   {
     "id": 1339713,
@@ -305,14 +321,14 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.183,
-    "votes": 5979,
+    "rating": 8.2,
+    "votes": 5990,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 152.4461
+    "popularity": 144.1367
   },
   {
     "id": 1232569,
@@ -330,23 +346,6 @@
       14,
       9648
     ],
-    "popularity": 152.4442
-  },
-  {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "poster": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "rating": 6.436,
-    "votes": 133,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 136.8533
+    "popularity": 146.1985
   }
 ]

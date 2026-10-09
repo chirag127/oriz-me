@@ -15,7 +15,7 @@
       35,
       18
     ],
-    "popularity": 786.4938
+    "popularity": 684.8919
   },
   {
     "id": 70998,
@@ -32,7 +32,7 @@
       16,
       18
     ],
-    "popularity": 642.822
+    "popularity": 567.5388
   },
   {
     "id": 22980,
@@ -49,7 +49,23 @@
       10767,
       35
     ],
-    "popularity": 451.9918
+    "popularity": 575.8459
+  },
+  {
+    "id": 2261,
+    "tmdb_id": 2261,
+    "type": "tv",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.562,
+    "votes": 97,
+    "release": "1962-10-01",
+    "genres": [
+      10767
+    ],
+    "popularity": 499.1481
   },
   {
     "id": 108978,
@@ -59,14 +75,14 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.137,
-    "votes": 3460,
+    "rating": 8.136,
+    "votes": 3466,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 471.5759
+    "popularity": 460.8462
   },
   {
     "id": 59941,
@@ -83,23 +99,7 @@
       35,
       10767
     ],
-    "popularity": 468.363
-  },
-  {
-    "id": 2261,
-    "tmdb_id": 2261,
-    "type": "tv",
-    "title": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-    "rating": 7.562,
-    "votes": 97,
-    "release": "1962-10-01",
-    "genres": [
-      10767
-    ],
-    "popularity": 488.4028
+    "popularity": 454.8327
   },
   {
     "id": 2734,
@@ -117,7 +117,7 @@
       18,
       9648
     ],
-    "popularity": 437.8817
+    "popularity": 433.7026
   },
   {
     "id": 63770,
@@ -134,42 +134,7 @@
       35,
       10767
     ],
-    "popularity": 418.0444
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.414,
-    "votes": 4820,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 319.2699
-  },
-  {
-    "id": 33238,
-    "tmdb_id": 33238,
-    "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.2,
-    "votes": 220,
-    "release": "2010-07-11",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 348.8008
+    "popularity": 390.1394
   },
   {
     "id": 61818,
@@ -186,7 +151,24 @@
       10767,
       35
     ],
-    "popularity": 349.3707
+    "popularity": 349.6927
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.2,
+    "votes": 220,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 360.3202
   },
   {
     "id": 1416,
@@ -197,12 +179,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
     "rating": 8.2,
-    "votes": 11070,
+    "votes": 11072,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 339.2089
+    "popularity": 328.8712
   },
   {
     "id": 2316,
@@ -213,12 +195,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
     "rating": 8.6,
-    "votes": 5552,
+    "votes": 5554,
     "release": "2005-03-24",
     "genres": [
       35
     ],
-    "popularity": 323.6812
+    "popularity": 350.5605
   },
   {
     "id": 456,
@@ -235,7 +217,25 @@
       16,
       35
     ],
-    "popularity": 322.7033
+    "popularity": 326.412
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.415,
+    "votes": 4824,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 372.9902
   },
   {
     "id": 95350,
@@ -245,15 +245,32 @@
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.339,
-    "votes": 654,
+    "rating": 8.3,
+    "votes": 665,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 316.6079
+    "popularity": 312.2773
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.414,
+    "votes": 666,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 315.4285
   },
   {
     "id": 15226,
@@ -272,21 +289,7 @@
       18,
       9648
     ],
-    "popularity": 301.7844
-  },
-  {
-    "id": 4304,
-    "tmdb_id": 4304,
-    "type": "tv",
-    "title": "Xplay",
-    "overview": "Xplay (previously GameSpot TV and Extended Play) is a TV program about video games. The program, known for its reviews and comedy skits, airs on G4 in the United States and had aired on G4 Canada in Canada (and briefly on YTV during its time as GameSpot TV), FUEL TV in Australia, Ego in Israel, GXT in Italy, MTV Russia & Rambler TV in Russia, Solar Sports in the Philippines and Adult Swim and MuchMusic in Latin America. The show ran between July 4, 1998, and January 23, 2013, and returned in November 2021 as a part of G4's relaunch.",
-    "poster": "https://image.tmdb.org/t/p/w342/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
-    "rating": 8.5,
-    "votes": 4,
-    "release": "2003-04-28",
-    "genres": [],
-    "popularity": 234.7171
+    "popularity": 297.8201
   },
   {
     "id": 549,
@@ -303,39 +306,42 @@
       80,
       18
     ],
-    "popularity": 301.2669
+    "popularity": 335.2336
   },
   {
-    "id": 11890,
-    "tmdb_id": 11890,
+    "id": 14424,
+    "tmdb_id": 14424,
     "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
+    "title": "Young Hearts",
+    "overview": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+    "poster": "https://image.tmdb.org/t/p/w342/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7Vpk75SxS86Ai7o2iilJUz5rx4x.jpg",
+    "rating": 6.3,
+    "votes": 39,
+    "release": "1995-04-24",
     "genres": [
-      10766
+      10766,
+      35,
+      18
     ],
-    "popularity": 279.6349
+    "popularity": 293.4441
   },
   {
-    "id": 2224,
-    "tmdb_id": 2224,
+    "id": 4614,
+    "tmdb_id": 4614,
     "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.414,
-    "votes": 666,
-    "release": "1996-07-22",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.61,
+    "votes": 2584,
+    "release": "2003-09-23",
     "genres": [
-      10763,
-      35
+      80,
+      18,
+      10759
     ],
-    "popularity": 314.5331
+    "popularity": 294.1429
   }
 ]
