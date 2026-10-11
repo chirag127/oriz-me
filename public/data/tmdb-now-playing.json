@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "rating": 7.3,
-    "votes": 834,
+    "votes": 855,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 703.1893
+    "popularity": 704.1066
   },
   {
     "id": 1368337,
@@ -24,16 +24,16 @@
     "title": "The Odyssey",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-    "rating": 8,
-    "votes": 4067,
+    "backdrop": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "rating": 8.012,
+    "votes": 4082,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 366.1539
+    "popularity": 389.5944
   },
   {
     "id": 1228834,
@@ -43,14 +43,14 @@
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-    "rating": 6.783,
-    "votes": 53,
+    "rating": 6.773,
+    "votes": 55,
     "release": "2026-09-10",
     "genres": [
       28,
       53
     ],
-    "popularity": 271.1705
+    "popularity": 276.9325
   },
   {
     "id": 1377237,
@@ -60,14 +60,14 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-    "rating": 8.292,
-    "votes": 452,
+    "rating": 8.313,
+    "votes": 470,
     "release": "2026-09-07",
     "genres": [
       28,
       35
     ],
-    "popularity": 252.7218
+    "popularity": 253.2406
   },
   {
     "id": 1101412,
@@ -77,13 +77,13 @@
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-    "rating": 7.213,
-    "votes": 308,
+    "rating": 7.306,
+    "votes": 379,
     "release": "2026-09-01",
     "genres": [
       53
     ],
-    "popularity": 241.2549
+    "popularity": 268.8773
   },
   {
     "id": 1751701,
@@ -101,7 +101,40 @@
       18,
       53
     ],
-    "popularity": 195.0907
+    "popularity": 158.8499
+  },
+  {
+    "id": 1236045,
+    "tmdb_id": 1236045,
+    "type": "movie",
+    "title": "Animals",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "poster": "https://image.tmdb.org/t/p/w342/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "rating": 7.486,
+    "votes": 147,
+    "release": "2026-10-09",
+    "genres": [
+      53,
+      18
+    ],
+    "popularity": 194.3342
+  },
+  {
+    "id": 1712451,
+    "tmdb_id": 1712451,
+    "type": "movie",
+    "title": "Resident Dead",
+    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
+    "poster": "https://image.tmdb.org/t/p/w342/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
+    "rating": 5.9,
+    "votes": 7,
+    "release": "2026-09-04",
+    "genres": [
+      27
+    ],
+    "popularity": 198.9316
   },
   {
     "id": 1204680,
@@ -111,31 +144,33 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.509,
-    "votes": 701,
+    "rating": 7.502,
+    "votes": 715,
     "release": "2026-08-17",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 174.5056
+    "popularity": 171.3351
   },
   {
-    "id": 1712451,
-    "tmdb_id": 1712451,
+    "id": 1148365,
+    "tmdb_id": 1148365,
     "type": "movie",
-    "title": "Resident Dead",
-    "overview": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
-    "poster": "https://image.tmdb.org/t/p/w342/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
-    "rating": 6.8,
-    "votes": 6,
-    "release": "2026-09-04",
+    "title": "Matchbox the Movie",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "rating": 7.848,
+    "votes": 148,
+    "release": "2026-10-05",
     "genres": [
-      27
+      28,
+      35,
+      12
     ],
-    "popularity": 179.573
+    "popularity": 158.9482
   },
   {
     "id": 1248832,
@@ -145,33 +180,14 @@
     "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
     "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "rating": 7.5,
-    "votes": 270,
+    "rating": 7.509,
+    "votes": 281,
     "release": "2026-09-28",
     "genres": [
       35,
       18
     ],
-    "popularity": 148.5371
-  },
-  {
-    "id": 1599191,
-    "tmdb_id": 1599191,
-    "type": "movie",
-    "title": "Renegade Immortal: Battle of the Immortal Slayer",
-    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
-    "poster": "https://image.tmdb.org/t/p/w342/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
-    "rating": 7.5,
-    "votes": 14,
-    "release": "2026-10-01",
-    "genres": [
-      16,
-      28,
-      12,
-      14
-    ],
-    "popularity": 95.7413
+    "popularity": 134.0621
   },
   {
     "id": 1232569,
@@ -189,7 +205,7 @@
       14,
       9648
     ],
-    "popularity": 138.4103
+    "popularity": 139.4152
   },
   {
     "id": 1339713,
@@ -199,14 +215,14 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.18,
-    "votes": 6008,
+    "rating": 8.182,
+    "votes": 6040,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 137.2159
+    "popularity": 133.5542
   },
   {
     "id": 1032863,
@@ -216,14 +232,14 @@
     "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-    "rating": 8.015,
-    "votes": 541,
+    "rating": 8.033,
+    "votes": 554,
     "release": "2026-09-23",
     "genres": [
       10749,
       35
     ],
-    "popularity": 132.4337
+    "popularity": 126.0478
   },
   {
     "id": 1288445,
@@ -233,67 +249,14 @@
     "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 7.453,
-    "votes": 823,
+    "rating": 7.474,
+    "votes": 837,
     "release": "2026-08-19",
     "genres": [
       28,
       53
     ],
-    "popularity": 118.3902
-  },
-  {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-    "poster": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-    "rating": 6.424,
-    "votes": 145,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 110.7586
-  },
-  {
-    "id": 1556321,
-    "tmdb_id": 1556321,
-    "type": "movie",
-    "title": "Death Whisperer: Saming the Werebeast",
-    "overview": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
-    "poster": "https://image.tmdb.org/t/p/w342/lN4YqCIVjDMvlUbmcEO5d060WoL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-09-29",
-    "genres": [
-      27,
-      53,
-      28
-    ],
-    "popularity": 97.1005
-  },
-  {
-    "id": 977942,
-    "tmdb_id": 977942,
-    "type": "movie",
-    "title": "The Uprising",
-    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-    "rating": 7.957,
-    "votes": 268,
-    "release": "2026-09-10",
-    "genres": [
-      36,
-      18,
-      28
-    ],
-    "popularity": 112.6194
+    "popularity": 119.0571
   },
   {
     "id": 1400837,
@@ -302,14 +265,32 @@
     "title": "Other Mommy",
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-    "rating": 6.333,
-    "votes": 36,
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "rating": 5.861,
+    "votes": 54,
     "release": "2026-10-07",
     "genres": [
       27
     ],
-    "popularity": 117.2211
+    "popularity": 108.8258
+  },
+  {
+    "id": 1284046,
+    "tmdb_id": 1284046,
+    "type": "movie",
+    "title": "Onslaught",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "poster": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+    "rating": 5.733,
+    "votes": 86,
+    "release": "2026-09-02",
+    "genres": [
+      28,
+      27,
+      53
+    ],
+    "popularity": 119.8058
   },
   {
     "id": 1375646,
@@ -319,31 +300,49 @@
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "poster": "https://image.tmdb.org/t/p/w342/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
-    "rating": 8.1,
-    "votes": 1103,
+    "rating": 8.091,
+    "votes": 1115,
     "release": "2026-05-21",
     "genres": [
       27,
       28,
       878
     ],
-    "popularity": 112.7676
+    "popularity": 107.2885
   },
   {
-    "id": 1263337,
-    "tmdb_id": 1263337,
+    "id": 977942,
+    "tmdb_id": 977942,
     "type": "movie",
-    "title": "Heart of the Beast",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "rating": 7.44,
-    "votes": 257,
-    "release": "2026-09-19",
+    "title": "The Uprising",
+    "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+    "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "rating": 7.94,
+    "votes": 275,
+    "release": "2026-09-10",
     "genres": [
-      12,
+      36,
+      18,
+      28
+    ],
+    "popularity": 109.3584
+  },
+  {
+    "id": 1283515,
+    "tmdb_id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+    "poster": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "rating": 6.4,
+    "votes": 152,
+    "release": "2026-09-30",
+    "genres": [
+      9648,
       53
     ],
-    "popularity": 94.3327
+    "popularity": 99.7366
   }
 ]
