@@ -14,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 607.773
+    "popularity": 581.0837
   },
   {
     "id": 91759,
@@ -32,23 +32,7 @@
       35,
       18
     ],
-    "popularity": 563.8905
-  },
-  {
-    "id": 2261,
-    "tmdb_id": 2261,
-    "type": "tv",
-    "title": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-    "rating": 7.562,
-    "votes": 97,
-    "release": "1962-10-01",
-    "genres": [
-      10767
-    ],
-    "popularity": 468.4942
+    "popularity": 531.1441
   },
   {
     "id": 70998,
@@ -65,24 +49,23 @@
       16,
       18
     ],
-    "popularity": 498.1799
+    "popularity": 468.569
   },
   {
-    "id": 59941,
-    "tmdb_id": 59941,
+    "id": 2261,
+    "tmdb_id": 2261,
     "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.792,
-    "votes": 394,
-    "release": "2014-02-17",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "rating": 7.562,
+    "votes": 97,
+    "release": "1962-10-01",
     "genres": [
-      35,
       10767
     ],
-    "popularity": 439.3958
+    "popularity": 452.8949
   },
   {
     "id": 2734,
@@ -93,14 +76,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
     "rating": 8,
-    "votes": 4370,
+    "votes": 4374,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 447.0084
+    "popularity": 436.6554
+  },
+  {
+    "id": 59941,
+    "tmdb_id": 59941,
+    "type": "tv",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+    "rating": 5.8,
+    "votes": 394,
+    "release": "2014-02-17",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 408.9922
   },
   {
     "id": 108978,
@@ -110,31 +110,30 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.135,
-    "votes": 3473,
+    "rating": 8.134,
+    "votes": 3480,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 437.1058
+    "popularity": 449.2897
   },
   {
-    "id": 33238,
-    "tmdb_id": 33238,
+    "id": 2316,
+    "tmdb_id": 2316,
     "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.2,
-    "votes": 221,
-    "release": "2010-07-11",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+    "rating": 8.583,
+    "votes": 5569,
+    "release": "2005-03-24",
     "genres": [
-      35,
-      10764
+      35
     ],
-    "popularity": 400.2997
+    "popularity": 386.5953
   },
   {
     "id": 549,
@@ -144,14 +143,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.285,
-    "votes": 731,
+    "rating": 7.284,
+    "votes": 732,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 384.1723
+    "popularity": 383.3557
   },
   {
     "id": 5920,
@@ -162,31 +161,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.415,
-    "votes": 4839,
+    "votes": 4844,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 375.5738
-  },
-  {
-    "id": 63770,
-    "tmdb_id": 63770,
-    "type": "tv",
-    "title": "The Late Show with Stephen Colbert",
-    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
-    "rating": 6.103,
-    "votes": 368,
-    "release": "2015-09-08",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 352.1882
+    "popularity": 374.1073
   },
   {
     "id": 61818,
@@ -203,7 +185,24 @@
       10767,
       35
     ],
-    "popularity": 364.3619
+    "popularity": 370.2296
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.2,
+    "votes": 221,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 348.9373
   },
   {
     "id": 456,
@@ -213,47 +212,14 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-    "rating": 8.024,
-    "votes": 11064,
+    "rating": 8,
+    "votes": 11067,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 346.6668
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.415,
-    "votes": 667,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 319.4554
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-    "rating": 8.584,
-    "votes": 5563,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 401.8905
+    "popularity": 338.7245
   },
   {
     "id": 4614,
@@ -264,14 +230,65 @@
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.6,
-    "votes": 2588,
+    "votes": 2590,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 331.3054
+    "popularity": 318.5451
+  },
+  {
+    "id": 45789,
+    "tmdb_id": 45789,
+    "type": "tv",
+    "title": "Storm of Love",
+    "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+    "poster": "https://image.tmdb.org/t/p/w342/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
+    "rating": 6,
+    "votes": 39,
+    "release": "2005-09-26",
+    "genres": [
+      18,
+      10766
+    ],
+    "popularity": 330.5341
+  },
+  {
+    "id": 63770,
+    "tmdb_id": 63770,
+    "type": "tv",
+    "title": "The Late Show with Stephen Colbert",
+    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+    "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "rating": 6.103,
+    "votes": 368,
+    "release": "2015-09-08",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 323.5826
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.419,
+    "votes": 669,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 300.6057
   },
   {
     "id": 65733,
@@ -292,7 +309,7 @@
       10762,
       10751
     ],
-    "popularity": 317.7933
+    "popularity": 320.9867
   },
   {
     "id": 247718,
@@ -302,30 +319,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.495,
-    "votes": 1009,
+    "rating": 8.499,
+    "votes": 1013,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 306.0673
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-    "rating": 8.204,
-    "votes": 11074,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 293.5095
+    "popularity": 310.6735
   },
   {
     "id": 15226,
@@ -344,6 +345,6 @@
       18,
       9648
     ],
-    "popularity": 288.4927
+    "popularity": 284.1751
   }
 ]

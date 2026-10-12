@@ -14,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 607.773
+    "popularity": 581.0837
   },
   {
     "id": 2734,
@@ -24,32 +24,15 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-    "rating": 7.956,
-    "votes": 4371,
+    "rating": 7.958,
+    "votes": 4375,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 447.0084
-  },
-  {
-    "id": 33238,
-    "tmdb_id": 33238,
-    "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.2,
-    "votes": 221,
-    "release": "2010-07-11",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 400.2997
+    "popularity": 436.6554
   },
   {
     "id": 549,
@@ -66,7 +49,24 @@
       80,
       18
     ],
-    "popularity": 384.1723
+    "popularity": 383.3557
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.2,
+    "votes": 221,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 348.9373
   },
   {
     "id": 456,
@@ -77,13 +77,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
     "rating": 8.024,
-    "votes": 11065,
+    "votes": 11068,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 346.6668
+    "popularity": 338.7245
   },
   {
     "id": 4614,
@@ -94,14 +94,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.6,
-    "votes": 2588,
+    "votes": 2590,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 331.3054
+    "popularity": 318.5451
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.419,
+    "votes": 669,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 300.6057
   },
   {
     "id": 247718,
@@ -111,46 +128,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.495,
-    "votes": 1009,
+    "rating": 8.499,
+    "votes": 1013,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 306.0673
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-    "rating": 8.204,
-    "votes": 11074,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 293.5095
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 250.4874
+    "popularity": 310.6735
   },
   {
     "id": 2661,
@@ -168,57 +153,39 @@
       10765,
       18
     ],
-    "popularity": 284.0305
+    "popularity": 284.0492
   },
   {
-    "id": 95480,
-    "tmdb_id": 95480,
+    "id": 1416,
+    "tmdb_id": 1416,
     "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8.045,
-    "votes": 1037,
-    "release": "2022-04-01",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "rating": 8.204,
+    "votes": 11073,
+    "release": "2005-03-27",
     "genres": [
-      80,
-      18,
-      9648
+      18
     ],
-    "popularity": 245.1191
+    "popularity": 278.1486
   },
   {
-    "id": 4656,
-    "tmdb_id": 4656,
+    "id": 11890,
+    "tmdb_id": 11890,
     "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.764,
-    "votes": 379,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 233.9924
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
     "genres": [
       10766
     ],
-    "popularity": 237.6485
+    "popularity": 224.849
   },
   {
     "id": 70672,
@@ -235,7 +202,57 @@
       10764,
       35
     ],
-    "popularity": 245.6992
+    "popularity": 230.2519
+  },
+  {
+    "id": 95480,
+    "tmdb_id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.05,
+    "votes": 1040,
+    "release": "2022-04-01",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 242.7367
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 205.7224
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.8,
+    "votes": 379,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 225.8985
   },
   {
     "id": 72879,
@@ -253,7 +270,7 @@
       18,
       10766
     ],
-    "popularity": 229.3157
+    "popularity": 223.0388
   },
   {
     "id": 291,
@@ -269,7 +286,7 @@
     "genres": [
       10766
     ],
-    "popularity": 224.6359
+    "popularity": 218.0005
   },
   {
     "id": 1413,
@@ -280,30 +297,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
     "rating": 8.1,
-    "votes": 6226,
+    "votes": 6231,
     "release": "2011-10-05",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 210.8374
-  },
-  {
-    "id": 65270,
-    "tmdb_id": 65270,
-    "type": "tv",
-    "title": "Radio Star",
-    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-    "rating": 5.5,
-    "votes": 6,
-    "release": "2007-05-30",
-    "genres": [
-      10767
-    ],
-    "popularity": 199.8944
+    "popularity": 201.1464
   },
   {
     "id": 65282,
@@ -319,22 +320,22 @@
     "genres": [
       10764
     ],
-    "popularity": 205.7777
+    "popularity": 217.594
   },
   {
-    "id": 44006,
-    "tmdb_id": 44006,
+    "id": 65270,
+    "tmdb_id": 65270,
     "type": "tv",
-    "title": "Chicago Fire",
-    "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
-    "poster": "https://image.tmdb.org/t/p/w342/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-    "rating": 8.4,
-    "votes": 2447,
-    "release": "2012-10-10",
+    "title": "Radio Star",
+    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+    "poster": "https://image.tmdb.org/t/p/w342/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "rating": 5.5,
+    "votes": 6,
+    "release": "2007-05-30",
     "genres": [
-      18
+      10767
     ],
-    "popularity": 184.9151
+    "popularity": 200.3748
   }
 ]
