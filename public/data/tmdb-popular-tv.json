@@ -7,14 +7,14 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 5.01,
+    "rating": 4.94,
     "votes": 100,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 581.0837
+    "popularity": 586.1518
   },
   {
     "id": 91759,
@@ -32,7 +32,7 @@
       35,
       18
     ],
-    "popularity": 531.1441
+    "popularity": 504.7844
   },
   {
     "id": 70998,
@@ -49,7 +49,7 @@
       16,
       18
     ],
-    "popularity": 468.569
+    "popularity": 401.0308
   },
   {
     "id": 2261,
@@ -65,7 +65,24 @@
     "genres": [
       10767
     ],
-    "popularity": 452.8949
+    "popularity": 451.303
+  },
+  {
+    "id": 108978,
+    "tmdb_id": 108978,
+    "type": "tv",
+    "title": "Reacher",
+    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "rating": 8.135,
+    "votes": 3486,
+    "release": "2022-02-03",
+    "genres": [
+      10759,
+      80
+    ],
+    "popularity": 448.0676
   },
   {
     "id": 2734,
@@ -76,14 +93,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
     "rating": 8,
-    "votes": 4374,
+    "votes": 4375,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 436.6554
+    "popularity": 438.8096
   },
   {
     "id": 59941,
@@ -100,24 +117,7 @@
       35,
       10767
     ],
-    "popularity": 408.9922
-  },
-  {
-    "id": 108978,
-    "tmdb_id": 108978,
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.134,
-    "votes": 3480,
-    "release": "2022-02-03",
-    "genres": [
-      10759,
-      80
-    ],
-    "popularity": 449.2897
+    "popularity": 424.0746
   },
   {
     "id": 2316,
@@ -128,12 +128,28 @@
     "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
     "rating": 8.583,
-    "votes": 5569,
+    "votes": 5576,
     "release": "2005-03-24",
     "genres": [
       35
     ],
-    "popularity": 386.5953
+    "popularity": 369.6397
+  },
+  {
+    "id": 108188,
+    "tmdb_id": 108188,
+    "type": "tv",
+    "title": "Barbara Karlich – Talk um 4",
+    "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
+    "poster": "https://image.tmdb.org/t/p/w342/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
+    "rating": 4.5,
+    "votes": 4,
+    "release": "1999-10-27",
+    "genres": [
+      10767
+    ],
+    "popularity": 915.5772
   },
   {
     "id": 549,
@@ -143,14 +159,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "rating": 7.284,
-    "votes": 732,
+    "rating": 7.286,
+    "votes": 733,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 383.3557
+    "popularity": 415.3367
   },
   {
     "id": 5920,
@@ -160,15 +176,15 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.415,
-    "votes": 4844,
+    "rating": 8.416,
+    "votes": 4847,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 374.1073
+    "popularity": 377.4679
   },
   {
     "id": 61818,
@@ -185,7 +201,7 @@
       10767,
       35
     ],
-    "popularity": 370.2296
+    "popularity": 390.011
   },
   {
     "id": 33238,
@@ -202,7 +218,7 @@
       35,
       10764
     ],
-    "popularity": 348.9373
+    "popularity": 347.4418
   },
   {
     "id": 456,
@@ -212,32 +228,30 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-    "rating": 8,
-    "votes": 11067,
+    "rating": 8.024,
+    "votes": 11069,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 338.7245
+    "popularity": 345.9952
   },
   {
-    "id": 4614,
-    "tmdb_id": 4614,
+    "id": 336510,
+    "tmdb_id": 336510,
     "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.6,
-    "votes": 2590,
-    "release": "2003-09-23",
+    "title": "alpha Österreich",
+    "overview": "",
+    "poster": "",
+    "backdrop": "",
+    "rating": 0,
+    "votes": 0,
+    "release": "2000-06-03",
     "genres": [
-      80,
-      18,
-      10759
+      99
     ],
-    "popularity": 318.5451
+    "popularity": 332.4458
   },
   {
     "id": 45789,
@@ -254,7 +268,7 @@
       18,
       10766
     ],
-    "popularity": 330.5341
+    "popularity": 340.9906
   },
   {
     "id": 63770,
@@ -271,24 +285,7 @@
       35,
       10767
     ],
-    "popularity": 323.5826
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.419,
-    "votes": 669,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 300.6057
+    "popularity": 339.6686
   },
   {
     "id": 65733,
@@ -309,7 +306,25 @@
       10762,
       10751
     ],
-    "popularity": 320.9867
+    "popularity": 278.2906
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.614,
+    "votes": 2591,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 324.8775
   },
   {
     "id": 247718,
@@ -319,32 +334,13 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.499,
-    "votes": 1013,
+    "rating": 8.505,
+    "votes": 1019,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 310.6735
-  },
-  {
-    "id": 15226,
-    "tmdb_id": 15226,
-    "type": "tv",
-    "title": "C.I.D.",
-    "overview": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
-    "poster": "https://image.tmdb.org/t/p/w342/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
-    "rating": 5.7,
-    "votes": 31,
-    "release": "1998-01-21",
-    "genres": [
-      10759,
-      80,
-      18,
-      9648
-    ],
-    "popularity": 284.1751
+    "popularity": 316.9988
   }
 ]

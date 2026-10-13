@@ -7,8 +7,8 @@
     "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
     "poster": "https://image.tmdb.org/t/p/w342/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-    "rating": 8.2,
-    "votes": 134,
+    "rating": 8.147,
+    "votes": 136,
     "release": "2021-04-30",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       9648,
       18
     ],
-    "popularity": 54.3771
+    "popularity": 59.6956
   },
   {
     "id": 288673,
@@ -24,17 +24,17 @@
     "type": "tv",
     "title": "Carrie",
     "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-    "poster": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "rating": 8.4,
-    "votes": 181,
+    "rating": 8.478,
+    "votes": 206,
     "release": "2026-10-07",
     "genres": [
       9648,
       18,
       10765
     ],
-    "popularity": 305.573
+    "popularity": 321.2379
   },
   {
     "id": 95350,
@@ -43,16 +43,16 @@
     "title": "Lanterns",
     "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
     "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-    "rating": 8.296,
-    "votes": 715,
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.28,
+    "votes": 727,
     "release": "2026-08-16",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 243.6838
+    "popularity": 204.9669
   },
   {
     "id": 285322,
@@ -62,50 +62,14 @@
     "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
     "poster": "https://image.tmdb.org/t/p/w342/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-    "rating": 7.269,
-    "votes": 80,
+    "rating": 7.342,
+    "votes": 92,
     "release": "2026-10-08",
     "genres": [
       18,
       9648
     ],
-    "popularity": 157.6087
-  },
-  {
-    "id": 312359,
-    "tmdb_id": 312359,
-    "type": "tv",
-    "title": "Dragon Ball Super: Beerus",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "rating": 9.744,
-    "votes": 84,
-    "release": "2026-10-11",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 61.4619
-  },
-  {
-    "id": 73223,
-    "tmdb_id": 73223,
-    "type": "tv",
-    "title": "Black Clover",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "poster": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "rating": 8.513,
-    "votes": 2235,
-    "release": "2017-10-03",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 67.4575
+    "popularity": 164.7643
   },
   {
     "id": 293610,
@@ -123,7 +87,25 @@
       18,
       80
     ],
-    "popularity": 110.4925
+    "popularity": 111.7607
+  },
+  {
+    "id": 312359,
+    "tmdb_id": 312359,
+    "type": "tv",
+    "title": "Dragon Ball Super: Beerus",
+    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "rating": 9.828,
+    "votes": 125,
+    "release": "2026-10-11",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 90.8687
   },
   {
     "id": 284833,
@@ -133,8 +115,8 @@
     "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
     "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "rating": 8.886,
-    "votes": 44,
+    "rating": 8.821,
+    "votes": 53,
     "release": "2026-10-09",
     "genres": [
       16,
@@ -142,23 +124,7 @@
       10765,
       10751
     ],
-    "popularity": 144.7219
-  },
-  {
-    "id": 258165,
-    "tmdb_id": 258165,
-    "type": "tv",
-    "title": "East of Eden",
-    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-    "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-    "rating": 8,
-    "votes": 64,
-    "release": "2026-10-01",
-    "genres": [
-      18
-    ],
-    "popularity": 87.544
+    "popularity": 147.7056
   },
   {
     "id": 289423,
@@ -168,48 +134,14 @@
     "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
     "poster": "https://image.tmdb.org/t/p/w342/ecRrKGXfflZmDZBD4irdkybClT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "rating": 8,
-    "votes": 9,
+    "rating": 8.357,
+    "votes": 14,
     "release": "2026-10-09",
     "genres": [
       10765,
       35
     ],
-    "popularity": 124.9537
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.499,
-    "votes": 1013,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 310.6735
-  },
-  {
-    "id": 97546,
-    "tmdb_id": 97546,
-    "type": "tv",
-    "title": "Ted Lasso",
-    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.362,
-    "votes": 2748,
-    "release": "2020-08-14",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 268.3642
+    "popularity": 130.0172
   },
   {
     "id": 333101,
@@ -219,13 +151,81 @@
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
     "poster": "https://image.tmdb.org/t/p/w342/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-    "rating": 4.5,
-    "votes": 10,
+    "rating": 6.158,
+    "votes": 19,
     "release": "2026-10-11",
     "genres": [
       10759
     ],
-    "popularity": 43.3263
+    "popularity": 58.0841
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+    "rating": 10,
+    "votes": 1,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 42.6192
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.505,
+    "votes": 1019,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 316.9988
+  },
+  {
+    "id": 97546,
+    "tmdb_id": 97546,
+    "type": "tv",
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+    "rating": 8.363,
+    "votes": 2753,
+    "release": "2020-08-14",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 265.0335
+  },
+  {
+    "id": 231620,
+    "tmdb_id": 231620,
+    "type": "tv",
+    "title": "Natural High",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "poster": "https://image.tmdb.org/t/p/w342/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "rating": 7.5,
+    "votes": 6,
+    "release": "2023-08-13",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 57.6223
   },
   {
     "id": 37854,
@@ -236,31 +236,48 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
     "rating": 8.752,
-    "votes": 5591,
+    "votes": 5593,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 95.6655
+    "popularity": 97.298
   },
   {
-    "id": 293607,
-    "tmdb_id": 293607,
+    "id": 258165,
+    "tmdb_id": 258165,
     "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "poster": "https://image.tmdb.org/t/p/w342/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-10",
+    "title": "East of Eden",
+    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+    "rating": 8.052,
+    "votes": 67,
+    "release": "2026-10-01",
     "genres": [
-      10759,
       18
     ],
-    "popularity": 64.413
+    "popularity": 79.0867
+  },
+  {
+    "id": 73223,
+    "tmdb_id": 73223,
+    "type": "tv",
+    "title": "Black Clover",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "poster": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "rating": 8.5,
+    "votes": 2236,
+    "release": "2017-10-03",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 66.6875
   },
   {
     "id": 290856,
@@ -270,15 +287,32 @@
     "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
     "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-    "rating": 7.928,
-    "votes": 388,
+    "rating": 7.9,
+    "votes": 393,
     "release": "2026-03-01",
     "genres": [
       18,
       80,
       10759
     ],
-    "popularity": 100.5278
+    "popularity": 113.2809
+  },
+  {
+    "id": 207347,
+    "tmdb_id": 207347,
+    "type": "tv",
+    "title": "Blue Box",
+    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+    "poster": "https://image.tmdb.org/t/p/w342/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+    "rating": 7.857,
+    "votes": 105,
+    "release": "2024-10-03",
+    "genres": [
+      16,
+      18
+    ],
+    "popularity": 49.5409
   },
   {
     "id": 220542,
@@ -289,67 +323,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
     "rating": 8.7,
-    "votes": 665,
+    "votes": 666,
     "release": "2023-10-22",
     "genres": [
       16,
       18,
       9648
     ],
-    "popularity": 122.639
+    "popularity": 117.9748
   },
   {
-    "id": 207347,
-    "tmdb_id": 207347,
+    "id": 305551,
+    "tmdb_id": 305551,
     "type": "tv",
-    "title": "Blue Box",
-    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
-    "poster": "https://image.tmdb.org/t/p/w342/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
-    "rating": 7.9,
-    "votes": 104,
-    "release": "2024-10-03",
+    "title": "Merry Berry Love",
+    "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+    "poster": "https://image.tmdb.org/t/p/w342/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+    "rating": 9.5,
+    "votes": 4,
+    "release": "2026-10-07",
     "genres": [
-      16,
+      35,
       18
     ],
-    "popularity": 52.5625
-  },
-  {
-    "id": 45790,
-    "tmdb_id": 45790,
-    "type": "tv",
-    "title": "JoJo's Bizarre Adventure",
-    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-    "rating": 8.547,
-    "votes": 1673,
-    "release": "2012-10-06",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 118.9078
-  },
-  {
-    "id": 259140,
-    "tmdb_id": 259140,
-    "type": "tv",
-    "title": "Ranma1/2",
-    "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-    "poster": "https://image.tmdb.org/t/p/w342/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
-    "rating": 8.1,
-    "votes": 193,
-    "release": "2024-10-06",
-    "genres": [
-      16,
-      10759,
-      35,
-      10765
-    ],
-    "popularity": 88.3147
+    "popularity": 57.8323
   }
 ]
