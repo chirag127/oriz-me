@@ -1,24 +1,5 @@
 [
   {
-    "id": 1560520,
-    "tmdb_id": 1560520,
-    "type": "movie",
-    "title": "Batman: Knightfall Part 1: Knightfall",
-    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
-    "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "rating": 9.118,
-    "votes": 449,
-    "release": "2026-06-23",
-    "genres": [
-      16,
-      28,
-      12,
-      18
-    ],
-    "popularity": 46.7353
-  },
-  {
     "id": 980431,
     "tmdb_id": 980431,
     "type": "movie",
@@ -26,8 +7,8 @@
     "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
     "poster": "https://image.tmdb.org/t/p/w342/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-    "rating": 9.101,
-    "votes": 1311,
+    "rating": 9.091,
+    "votes": 1317,
     "release": "2026-07-24",
     "genres": [
       16,
@@ -35,7 +16,26 @@
       14,
       28
     ],
-    "popularity": 78.8718
+    "popularity": 77.5499
+  },
+  {
+    "id": 1560520,
+    "tmdb_id": 1560520,
+    "type": "movie",
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+    "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+    "rating": 9.092,
+    "votes": 457,
+    "release": "2026-06-23",
+    "genres": [
+      16,
+      28,
+      12,
+      18
+    ],
+    "popularity": 47.6257
   },
   {
     "id": 1007757,
@@ -46,7 +46,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
     "rating": 8.861,
-    "votes": 2243,
+    "votes": 2245,
     "release": "2026-05-01",
     "genres": [
       12,
@@ -54,7 +54,7 @@
       10751,
       14
     ],
-    "popularity": 45.857
+    "popularity": 46.5388
   },
   {
     "id": 1632181,
@@ -71,7 +71,7 @@
       35,
       10749
     ],
-    "popularity": 17.3276
+    "popularity": 17.0112
   },
   {
     "id": 1311031,
@@ -81,15 +81,15 @@
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "poster": "https://image.tmdb.org/t/p/w342/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "rating": 8.8,
-    "votes": 2277,
+    "rating": 8.801,
+    "votes": 2286,
     "release": "2025-07-18",
     "genres": [
       16,
       28,
       14
     ],
-    "popularity": 56.7322
+    "popularity": 56.6686
   },
   {
     "id": 1621552,
@@ -99,15 +99,15 @@
     "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
     "poster": "https://image.tmdb.org/t/p/w342/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-    "rating": 8.794,
-    "votes": 913,
+    "rating": 8.79,
+    "votes": 915,
     "release": "2026-08-21",
     "genres": [
       80,
       28,
       53
     ],
-    "popularity": 57.5473
+    "popularity": 53.1653
   },
   {
     "id": 278,
@@ -118,13 +118,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
     "rating": 8.732,
-    "votes": 31564,
+    "votes": 31571,
     "release": "1994-09-23",
     "genres": [
       18,
       80
     ],
-    "popularity": 55.019
+    "popularity": 55.1021
   },
   {
     "id": 238,
@@ -135,13 +135,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
     "rating": 8.7,
-    "votes": 23747,
+    "votes": 23751,
     "release": "1972-03-14",
     "genres": [
       18,
       80
     ],
-    "popularity": 56.9093
+    "popularity": 56.9116
   },
   {
     "id": 687163,
@@ -151,14 +151,14 @@
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "rating": 8.634,
-    "votes": 8269,
+    "rating": 8.6,
+    "votes": 8282,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 93.178
+    "popularity": 95.1887
   },
   {
     "id": 936075,
@@ -168,14 +168,14 @@
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "poster": "https://image.tmdb.org/t/p/w342/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-    "rating": 8.612,
-    "votes": 4549,
+    "rating": 8.6,
+    "votes": 4554,
     "release": "2026-04-22",
     "genres": [
       10402,
       18
     ],
-    "popularity": 60.5482
+    "popularity": 59.2863
   },
   {
     "id": 1232449,
@@ -192,7 +192,7 @@
       18,
       10749
     ],
-    "popularity": 25.5411
+    "popularity": 27.0355
   },
   {
     "id": 389,
@@ -202,13 +202,13 @@
     "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
     "poster": "https://image.tmdb.org/t/p/w342/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-    "rating": 8.574,
-    "votes": 10469,
+    "rating": 8.6,
+    "votes": 10471,
     "release": "1957-04-10",
     "genres": [
       18
     ],
-    "popularity": 38.6002
+    "popularity": 37.907
   },
   {
     "id": 240,
@@ -219,13 +219,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
     "rating": 8.572,
-    "votes": 14456,
+    "votes": 14459,
     "release": "1974-12-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 42.1051
+    "popularity": 40.9889
   },
   {
     "id": 424,
@@ -236,14 +236,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "rating": 8.569,
-    "votes": 18030,
+    "votes": 18033,
     "release": "1993-12-15",
     "genres": [
       18,
       36,
       10752
     ],
-    "popularity": 33.4765
+    "popularity": 32.3101
   },
   {
     "id": 1630423,
@@ -261,25 +261,7 @@
       18,
       10749
     ],
-    "popularity": 21.8435
-  },
-  {
-    "id": 155,
-    "tmdb_id": 155,
-    "type": "movie",
-    "title": "The Dark Knight",
-    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
-    "rating": 8.537,
-    "votes": 36954,
-    "release": "2008-07-16",
-    "genres": [
-      28,
-      53,
-      80
-    ],
-    "popularity": 56.3074
+    "popularity": 21.5851
   },
   {
     "id": 1218925,
@@ -290,7 +272,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
     "rating": 8.538,
-    "votes": 1239,
+    "votes": 1240,
     "release": "2025-09-19",
     "genres": [
       16,
@@ -298,7 +280,25 @@
       10749,
       14
     ],
-    "popularity": 29.5122
+    "popularity": 29.1228
+  },
+  {
+    "id": 155,
+    "tmdb_id": 155,
+    "type": "movie",
+    "title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "rating": 8.537,
+    "votes": 36962,
+    "release": "2008-07-16",
+    "genres": [
+      28,
+      53,
+      80
+    ],
+    "popularity": 55.6998
   },
   {
     "id": 129,
@@ -309,14 +309,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
     "rating": 8.536,
-    "votes": 19035,
+    "votes": 19040,
     "release": "2001-07-20",
     "genres": [
       16,
       10751,
       14
     ],
-    "popularity": 42.6289
+    "popularity": 62.4706
   },
   {
     "id": 497,
@@ -326,15 +326,15 @@
     "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
     "poster": "https://image.tmdb.org/t/p/w342/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-    "rating": 8.505,
-    "votes": 19949,
+    "rating": 8.506,
+    "votes": 19958,
     "release": "1999-12-10",
     "genres": [
       14,
       18,
       80
     ],
-    "popularity": 35.4577
+    "popularity": 36.5468
   },
   {
     "id": 122,
@@ -345,13 +345,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
     "rating": 8.5,
-    "votes": 27565,
+    "votes": 27568,
     "release": "2003-12-17",
     "genres": [
       12,
       14,
       28
     ],
-    "popularity": 40.7323
+    "popularity": 56.8208
   }
 ]
