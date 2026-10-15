@@ -7,8 +7,8 @@
     "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
     "poster": "https://image.tmdb.org/t/p/w342/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-    "rating": 8.1,
-    "votes": 136,
+    "rating": 8.095,
+    "votes": 137,
     "release": "2021-04-30",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       9648,
       18
     ],
-    "popularity": 51.8936
+    "popularity": 60.0825
   },
   {
     "id": 288673,
@@ -26,49 +26,15 @@
     "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
     "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "rating": 8.496,
-    "votes": 232,
+    "rating": 8.452,
+    "votes": 261,
     "release": "2026-10-07",
     "genres": [
       9648,
       18,
       10765
     ],
-    "popularity": 326.3646
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.279,
-    "votes": 733,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 181.2335
-  },
-  {
-    "id": 333101,
-    "tmdb_id": 333101,
-    "type": "tv",
-    "title": "Treasure Island",
-    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "poster": "https://image.tmdb.org/t/p/w342/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-    "rating": 6.35,
-    "votes": 20,
-    "release": "2026-10-11",
-    "genres": [
-      10759
-    ],
-    "popularity": 53.594
+    "popularity": 324.793
   },
   {
     "id": 285322,
@@ -78,31 +44,14 @@
     "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
     "poster": "https://image.tmdb.org/t/p/w342/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-    "rating": 7.297,
-    "votes": 101,
+    "rating": 7.224,
+    "votes": 116,
     "release": "2026-10-08",
     "genres": [
       18,
       9648
     ],
-    "popularity": 165.1799
-  },
-  {
-    "id": 289423,
-    "tmdb_id": 289423,
-    "type": "tv",
-    "title": "Take Charge of My Heart",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "poster": "https://image.tmdb.org/t/p/w342/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "rating": 8.389,
-    "votes": 18,
-    "release": "2026-10-09",
-    "genres": [
-      10765,
-      35
-    ],
-    "popularity": 161.3597
+    "popularity": 164.9696
   },
   {
     "id": 213375,
@@ -112,14 +61,69 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 9.435,
-    "votes": 23,
+    "rating": 9,
+    "votes": 59,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 75.3342
+    "popularity": 284.1556
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.261,
+    "votes": 742,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 194.2893
+  },
+  {
+    "id": 289892,
+    "tmdb_id": 289892,
+    "type": "tv",
+    "title": "Helluva Boss",
+    "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+    "poster": "https://image.tmdb.org/t/p/w342/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+    "rating": 7.509,
+    "votes": 116,
+    "release": "2020-10-31",
+    "genres": [
+      16,
+      35,
+      18,
+      10765
+    ],
+    "popularity": 48.3144
+  },
+  {
+    "id": 312359,
+    "tmdb_id": 312359,
+    "type": "tv",
+    "title": "Dragon Ball Super: Beerus",
+    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "rating": 9.809,
+    "votes": 170,
+    "release": "2026-10-11",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 110.2016
   },
   {
     "id": 73223,
@@ -137,79 +141,7 @@
       10759,
       10765
     ],
-    "popularity": 66.4806
-  },
-  {
-    "id": 290856,
-    "tmdb_id": 290856,
-    "type": "tv",
-    "title": "Marshals",
-    "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-    "poster": "https://image.tmdb.org/t/p/w342/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-    "rating": 7.955,
-    "votes": 396,
-    "release": "2026-03-01",
-    "genres": [
-      18,
-      80,
-      10759
-    ],
-    "popularity": 109.3776
-  },
-  {
-    "id": 312359,
-    "tmdb_id": 312359,
-    "type": "tv",
-    "title": "Dragon Ball Super: Beerus",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "rating": 9.828,
-    "votes": 154,
-    "release": "2026-10-11",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 74.0063
-  },
-  {
-    "id": 284833,
-    "tmdb_id": 284833,
-    "type": "tv",
-    "title": "Avatar: Seven Havens",
-    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "rating": 8.784,
-    "votes": 58,
-    "release": "2026-10-09",
-    "genres": [
-      16,
-      10759,
-      10765,
-      10751
-    ],
-    "popularity": 150.9785
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.508,
-    "votes": 1024,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 276.4069
+    "popularity": 63.0631
   },
   {
     "id": 293610,
@@ -219,7 +151,7 @@
     "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
     "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "rating": 8.875,
+    "rating": 8.9,
     "votes": 8,
     "release": "2026-10-09",
     "genres": [
@@ -227,59 +159,7 @@
       18,
       80
     ],
-    "popularity": 106.0729
-  },
-  {
-    "id": 220542,
-    "tmdb_id": 220542,
-    "type": "tv",
-    "title": "The Apothecary Diaries",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "rating": 8.7,
-    "votes": 666,
-    "release": "2023-10-22",
-    "genres": [
-      16,
-      18,
-      9648
-    ],
-    "popularity": 126.0417
-  },
-  {
-    "id": 213562,
-    "tmdb_id": 213562,
-    "type": "tv",
-    "title": "Crystal Lake",
-    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-    "poster": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-    "rating": 4,
-    "votes": 3,
-    "release": "2026-10-15",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 17.4194
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.331,
-    "votes": 5198,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 171.1069
+    "popularity": 110.0597
   },
   {
     "id": 97546,
@@ -289,63 +169,185 @@
     "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
     "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-    "rating": 8.362,
-    "votes": 2756,
+    "rating": 8.363,
+    "votes": 2760,
     "release": "2020-08-14",
     "genres": [
       18,
       35
     ],
-    "popularity": 268.38
+    "popularity": 252.0254
   },
   {
-    "id": 335536,
-    "tmdb_id": 335536,
+    "id": 333101,
+    "tmdb_id": 333101,
     "type": "tv",
-    "title": "TYSON",
-    "overview": "Explore the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
-    "poster": "https://image.tmdb.org/t/p/w342/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-13",
+    "title": "Treasure Island",
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "poster": "https://image.tmdb.org/t/p/w342/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+    "rating": 6.5,
+    "votes": 22,
+    "release": "2026-10-11",
     "genres": [
-      99
+      10759
     ],
-    "popularity": 17.186
+    "popularity": 67.0897
   },
   {
-    "id": 258230,
-    "tmdb_id": 258230,
+    "id": 289423,
+    "tmdb_id": 289423,
     "type": "tv",
-    "title": "Last Seen",
-    "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-    "poster": "https://image.tmdb.org/t/p/w342/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-    "rating": 7.639,
-    "votes": 54,
-    "release": "2026-09-09",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "poster": "https://image.tmdb.org/t/p/w342/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "rating": 8.4,
+    "votes": 23,
+    "release": "2026-10-09",
+    "genres": [
+      10765,
+      35
+    ],
+    "popularity": 188.9355
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.504,
+    "votes": 1030,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 294.8132
+  },
+  {
+    "id": 284833,
+    "tmdb_id": 284833,
+    "type": "tv",
+    "title": "Avatar: Seven Havens",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "rating": 8.8,
+    "votes": 61,
+    "release": "2026-10-09",
+    "genres": [
+      16,
+      10759,
+      10765,
+      10751
+    ],
+    "popularity": 157.8411
+  },
+  {
+    "id": 293607,
+    "tmdb_id": 293607,
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "poster": "https://image.tmdb.org/t/p/w342/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "rating": 9,
+    "votes": 2,
+    "release": "2026-10-10",
+    "genres": [
+      10759,
+      18
+    ],
+    "popularity": 60.0751
+  },
+  {
+    "id": 95480,
+    "tmdb_id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.051,
+    "votes": 1044,
+    "release": "2022-04-01",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 34.7772
+    "popularity": 260.8097
   },
   {
-    "id": 258165,
-    "tmdb_id": 258165,
+    "id": 1413,
+    "tmdb_id": 1413,
     "type": "tv",
-    "title": "East of Eden",
-    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-    "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-    "rating": 8,
-    "votes": 71,
-    "release": "2026-10-01",
+    "title": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "rating": 8.1,
+    "votes": 6236,
+    "release": "2011-10-05",
     "genres": [
-      18
+      18,
+      9648,
+      10765
     ],
-    "popularity": 72.0899
+    "popularity": 245.7279
+  },
+  {
+    "id": 283371,
+    "tmdb_id": 283371,
+    "type": "tv",
+    "title": "The Trap",
+    "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+    "poster": "https://image.tmdb.org/t/p/w342/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+    "rating": 6.4,
+    "votes": 9,
+    "release": "2026-10-13",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 37.984
+  },
+  {
+    "id": 231620,
+    "tmdb_id": 231620,
+    "type": "tv",
+    "title": "Natural High",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "poster": "https://image.tmdb.org/t/p/w342/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "rating": 7.5,
+    "votes": 6,
+    "release": "2023-08-13",
+    "genres": [
+      10764,
+      35
+    ],
+    "popularity": 66.8117
+  },
+  {
+    "id": 250203,
+    "tmdb_id": 250203,
+    "type": "tv",
+    "title": "Brothers",
+    "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+    "poster": "https://image.tmdb.org/t/p/w342/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "rating": 7.6,
+    "votes": 14,
+    "release": "2026-09-22",
+    "genres": [
+      35
+    ],
+    "popularity": 31.4517
   }
 ]
