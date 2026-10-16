@@ -1,23 +1,5 @@
 [
   {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.31,
-    "votes": 936,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 379.6986
-  },
-  {
     "id": 1148365,
     "tmdb_id": 1148365,
     "type": "movie",
@@ -25,15 +7,33 @@
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
     "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-    "rating": 7.9,
-    "votes": 309,
+    "rating": 7.884,
+    "votes": 329,
     "release": "2026-10-05",
     "genres": [
       28,
       35,
       12
     ],
-    "popularity": 408.7678
+    "popularity": 391.6431
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "rating": 7.331,
+    "votes": 950,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 296.6412
   },
   {
     "id": 1368337,
@@ -42,32 +42,16 @@
     "title": "The Odyssey",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
     "rating": 8.011,
-    "votes": 4130,
+    "votes": 4137,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 379.5091
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-    "rating": 7.289,
-    "votes": 534,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 239.7621
+    "popularity": 366.4624
   },
   {
     "id": 1236045,
@@ -77,14 +61,14 @@
     "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
     "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-    "rating": 7.228,
-    "votes": 356,
+    "rating": 7.227,
+    "votes": 376,
     "release": "2026-10-09",
     "genres": [
       53,
       18
     ],
-    "popularity": 269.6434
+    "popularity": 262.6055
   },
   {
     "id": 1377237,
@@ -94,14 +78,30 @@
     "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
     "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-    "rating": 8.291,
-    "votes": 556,
+    "rating": 8.32,
+    "votes": 572,
     "release": "2026-09-07",
     "genres": [
       28,
       35
     ],
-    "popularity": 265.0429
+    "popularity": 237.4458
+  },
+  {
+    "id": 1101412,
+    "tmdb_id": 1101412,
+    "type": "movie",
+    "title": "Fall 2: Deadpoint",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+    "rating": 7.288,
+    "votes": 544,
+    "release": "2026-09-01",
+    "genres": [
+      53
+    ],
+    "popularity": 210.5122
   },
   {
     "id": 1228834,
@@ -110,15 +110,66 @@
     "title": "The Fix",
     "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
     "poster": "https://image.tmdb.org/t/p/w342/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-    "rating": 6.881,
-    "votes": 63,
+    "backdrop": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+    "rating": 6.8,
+    "votes": 64,
     "release": "2026-09-10",
     "genres": [
       28,
       53
     ],
-    "popularity": 248.4615
+    "popularity": 231.3774
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+    "rating": 7.098,
+    "votes": 183,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 214.21
+  },
+  {
+    "id": 1339713,
+    "tmdb_id": 1339713,
+    "type": "movie",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "rating": 8.179,
+    "votes": 6132,
+    "release": "2026-05-13",
+    "genres": [
+      27,
+      53
+    ],
+    "popularity": 132.0886
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "type": "movie",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "rating": 5.924,
+    "votes": 118,
+    "release": "2026-10-07",
+    "genres": [
+      27
+    ],
+    "popularity": 139.3386
   },
   {
     "id": 1751701,
@@ -136,23 +187,7 @@
       18,
       53
     ],
-    "popularity": 143.7825
-  },
-  {
-    "id": 1400837,
-    "tmdb_id": 1400837,
-    "type": "movie",
-    "title": "Other Mommy",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "rating": 5.973,
-    "votes": 110,
-    "release": "2026-10-07",
-    "genres": [
-      27
-    ],
-    "popularity": 150.8613
+    "popularity": 130.9435
   },
   {
     "id": 1204680,
@@ -162,69 +197,15 @@
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "poster": "https://image.tmdb.org/t/p/w342/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-    "rating": 7.493,
-    "votes": 741,
+    "rating": 7.502,
+    "votes": 748,
     "release": "2026-08-20",
     "genres": [
       35,
       12,
       10751
     ],
-    "popularity": 140.3705
-  },
-  {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
-    "rating": 7.138,
-    "votes": 163,
-    "release": "2026-07-15",
-    "genres": [
-      878,
-      9648,
-      28
-    ],
-    "popularity": 191.1737
-  },
-  {
-    "id": 1232569,
-    "tmdb_id": 1232569,
-    "type": "movie",
-    "title": "Pinocchio: Unstrung",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "poster": "https://image.tmdb.org/t/p/w342/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
-    "rating": 6.5,
-    "votes": 132,
-    "release": "2026-07-22",
-    "genres": [
-      27,
-      14,
-      9648
-    ],
-    "popularity": 127.7629
-  },
-  {
-    "id": 1284046,
-    "tmdb_id": 1284046,
-    "type": "movie",
-    "title": "Onslaught",
-    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-    "poster": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
-    "rating": 5.7,
-    "votes": 107,
-    "release": "2026-09-02",
-    "genres": [
-      28,
-      27,
-      53
-    ],
-    "popularity": 129.7146
+    "popularity": 136.5018
   },
   {
     "id": 1302904,
@@ -234,49 +215,33 @@
     "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
     "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-    "rating": 6.34,
-    "votes": 156,
+    "rating": 6.557,
+    "votes": 174,
     "release": "2026-09-09",
     "genres": [
       10749,
       14,
       35
     ],
-    "popularity": 139.895
+    "popularity": 142.9498
   },
   {
-    "id": 1339713,
-    "tmdb_id": 1339713,
+    "id": 1284046,
+    "tmdb_id": 1284046,
     "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.18,
-    "votes": 6116,
-    "release": "2026-05-13",
+    "title": "Onslaught",
+    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "poster": "https://image.tmdb.org/t/p/w342/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
+    "rating": 5.745,
+    "votes": 110,
+    "release": "2026-09-02",
     "genres": [
+      28,
       27,
       53
     ],
-    "popularity": 175.5056
-  },
-  {
-    "id": 1288445,
-    "tmdb_id": 1288445,
-    "type": "movie",
-    "title": "Mutiny",
-    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-    "rating": 7.56,
-    "votes": 886,
-    "release": "2026-08-19",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 111.429
+    "popularity": 112.014
   },
   {
     "id": 1389172,
@@ -293,25 +258,42 @@
       80,
       53
     ],
-    "popularity": 128.2849
+    "popularity": 126.3339
   },
   {
-    "id": 1280300,
-    "tmdb_id": 1280300,
+    "id": 1232569,
+    "tmdb_id": 1232569,
     "type": "movie",
-    "title": "The Whistler",
-    "overview": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face.",
-    "poster": "https://image.tmdb.org/t/p/w342/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-    "rating": 5,
-    "votes": 3,
-    "release": "2026-09-24",
+    "title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "poster": "https://image.tmdb.org/t/p/w342/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "rating": 6.515,
+    "votes": 135,
+    "release": "2026-07-22",
     "genres": [
-      9648,
       27,
-      53
+      14,
+      9648
     ],
-    "popularity": 104.8454
+    "popularity": 114.2503
+  },
+  {
+    "id": 1248832,
+    "tmdb_id": 1248832,
+    "type": "movie",
+    "title": "Digger",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "rating": 7.5,
+    "votes": 371,
+    "release": "2026-09-28",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 96.6527
   },
   {
     "id": 1514026,
@@ -321,15 +303,32 @@
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
-    "rating": 7.404,
-    "votes": 104,
+    "rating": 7.243,
+    "votes": 115,
     "release": "2026-08-27",
     "genres": [
       27,
       35,
       14
     ],
-    "popularity": 111.5068
+    "popularity": 110.6281
+  },
+  {
+    "id": 1288445,
+    "tmdb_id": 1288445,
+    "type": "movie",
+    "title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "rating": 7.571,
+    "votes": 891,
+    "release": "2026-08-19",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 105.8925
   },
   {
     "id": 1742441,
@@ -339,13 +338,13 @@
     "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
     "poster": "https://image.tmdb.org/t/p/w342/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
-    "rating": 4.444,
-    "votes": 18,
+    "rating": 4.452,
+    "votes": 21,
     "release": "2026-10-09",
     "genres": [
       27,
       10402
     ],
-    "popularity": 109.0193
+    "popularity": 105.6772
   }
 ]
