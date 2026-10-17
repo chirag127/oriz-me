@@ -1,5 +1,22 @@
 [
   {
+    "id": 213562,
+    "tmdb_id": 213562,
+    "type": "tv",
+    "title": "Crystal Lake",
+    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "poster": "https://image.tmdb.org/t/p/w342/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "rating": 8.381,
+    "votes": 42,
+    "release": "2026-10-15",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 149.5647
+  },
+  {
     "id": 123542,
     "tmdb_id": 123542,
     "type": "tv",
@@ -16,7 +33,7 @@
       9648,
       18
     ],
-    "popularity": 55.5895
+    "popularity": 47.6208
   },
   {
     "id": 213375,
@@ -26,31 +43,14 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 9.1,
-    "votes": 71,
+    "rating": 9.043,
+    "votes": 81,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 290.3975
-  },
-  {
-    "id": 213562,
-    "tmdb_id": 213562,
-    "type": "tv",
-    "title": "Crystal Lake",
-    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-    "poster": "https://image.tmdb.org/t/p/w342/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1RP38PbwfCaQjSSotniS01uvuY.jpg",
-    "rating": 6.5,
-    "votes": 11,
-    "release": "2026-10-15",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 88.775
+    "popularity": 283.1553
   },
   {
     "id": 288673,
@@ -60,241 +60,33 @@
     "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
     "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "rating": 8.431,
-    "votes": 284,
+    "rating": 8.3,
+    "votes": 308,
     "release": "2026-10-07",
     "genres": [
       9648,
       18,
       10765
     ],
-    "popularity": 296.1554
+    "popularity": 278.6916
   },
   {
-    "id": 285322,
-    "tmdb_id": 285322,
+    "id": 153312,
+    "tmdb_id": 153312,
     "type": "tv",
-    "title": "Below",
-    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-    "poster": "https://image.tmdb.org/t/p/w342/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-    "rating": 7.3,
-    "votes": 135,
-    "release": "2026-10-08",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 144.7645
-  },
-  {
-    "id": 95350,
-    "tmdb_id": 95350,
-    "type": "tv",
-    "title": "Lanterns",
-    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-    "rating": 8.258,
-    "votes": 751,
-    "release": "2026-08-16",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 164.1324
-  },
-  {
-    "id": 203857,
-    "tmdb_id": 203857,
-    "type": "tv",
-    "title": "The Diplomat",
-    "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-    "poster": "https://image.tmdb.org/t/p/w342/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-    "rating": 7.6,
-    "votes": 492,
-    "release": "2023-04-20",
-    "genres": [
-      18,
-      10768
-    ],
-    "popularity": 99.9412
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.507,
-    "votes": 1033,
-    "release": "2025-03-30",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.301,
+    "votes": 2830,
+    "release": "2022-11-13",
     "genres": [
       80,
-      18
-    ],
-    "popularity": 279.0216
-  },
-  {
-    "id": 312359,
-    "tmdb_id": 312359,
-    "type": "tv",
-    "title": "Dragon Ball Super: Beerus",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "rating": 9.775,
-    "votes": 180,
-    "release": "2026-10-11",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 93.7106
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.329,
-    "votes": 5198,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 194.0671
-  },
-  {
-    "id": 311648,
-    "tmdb_id": 311648,
-    "type": "tv",
-    "title": "Make Me Tingle",
-    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-    "poster": "https://image.tmdb.org/t/p/w342/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-10-15",
-    "genres": [
       18,
       35
     ],
-    "popularity": 11.0055
-  },
-  {
-    "id": 293610,
-    "tmdb_id": 293610,
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "rating": 8.9,
-    "votes": 8,
-    "release": "2026-10-09",
-    "genres": [
-      9648,
-      18,
-      80
-    ],
-    "popularity": 96.5343
-  },
-  {
-    "id": 196322,
-    "tmdb_id": 196322,
-    "type": "tv",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-    "rating": 7.801,
-    "votes": 833,
-    "release": "2024-05-07",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 88.5843
-  },
-  {
-    "id": 333101,
-    "tmdb_id": 333101,
-    "type": "tv",
-    "title": "Treasure Island",
-    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-    "poster": "https://image.tmdb.org/t/p/w342/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-    "rating": 6.261,
-    "votes": 23,
-    "release": "2026-10-11",
-    "genres": [
-      10759
-    ],
-    "popularity": 60.3833
-  },
-  {
-    "id": 286183,
-    "tmdb_id": 286183,
-    "type": "tv",
-    "title": "Hollywood Arts",
-    "overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
-    "poster": "https://image.tmdb.org/t/p/w342/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
-    "rating": 7,
-    "votes": 2,
-    "release": "2026-10-15",
-    "genres": [
-      35,
-      18,
-      10751
-    ],
-    "popularity": 19.4422
-  },
-  {
-    "id": 289892,
-    "tmdb_id": 289892,
-    "type": "tv",
-    "title": "Helluva Boss",
-    "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
-    "poster": "https://image.tmdb.org/t/p/w342/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
-    "rating": 7.53,
-    "votes": 117,
-    "release": "2020-10-31",
-    "genres": [
-      16,
-      35,
-      18,
-      10765
-    ],
-    "popularity": 53.1218
-  },
-  {
-    "id": 273247,
-    "tmdb_id": 273247,
-    "type": "tv",
-    "title": "The Lowdown",
-    "overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
-    "poster": "https://image.tmdb.org/t/p/w342/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
-    "rating": 6.7,
-    "votes": 73,
-    "release": "2025-09-23",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 34.1302
+    "popularity": 180.2143
   },
   {
     "id": 37854,
@@ -305,33 +97,222 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
     "rating": 8.752,
-    "votes": 5596,
+    "votes": 5597,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 86.6321
+    "popularity": 92.7144
   },
   {
-    "id": 284833,
-    "tmdb_id": 284833,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "Avatar: Seven Havens",
-    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "rating": 8.918,
-    "votes": 67,
-    "release": "2026-10-09",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.238,
+    "votes": 759,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 146.2306
+  },
+  {
+    "id": 285322,
+    "tmdb_id": 285322,
+    "type": "tv",
+    "title": "Below",
+    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+    "poster": "https://image.tmdb.org/t/p/w342/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+    "rating": 7.257,
+    "votes": 146,
+    "release": "2026-10-08",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 125.1901
+  },
+  {
+    "id": 387,
+    "tmdb_id": 387,
+    "type": "tv",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "rating": 7.7,
+    "votes": 3286,
+    "release": "1999-05-01",
+    "genres": [
+      16,
+      35,
+      10751
+    ],
+    "popularity": 26.319
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.329,
+    "votes": 5202,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 193.4969
+  },
+  {
+    "id": 45790,
+    "tmdb_id": 45790,
+    "type": "tv",
+    "title": "JoJo's Bizarre Adventure",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "rating": 8.5,
+    "votes": 1677,
+    "release": "2012-10-06",
     "genres": [
       16,
       10759,
-      10765,
-      10751
+      10765
     ],
-    "popularity": 147.0972
+    "popularity": 115.7347
+  },
+  {
+    "id": 312359,
+    "tmdb_id": 312359,
+    "type": "tv",
+    "title": "Dragon Ball Super: Beerus",
+    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "rating": 9.788,
+    "votes": 191,
+    "release": "2026-10-11",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 112.5862
+  },
+  {
+    "id": 30984,
+    "tmdb_id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.354,
+    "votes": 2295,
+    "release": "2004-10-05",
+    "genres": [
+      10759,
+      16,
+      10765
+    ],
+    "popularity": 182.8241
+  },
+  {
+    "id": 300146,
+    "tmdb_id": 300146,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+    "rating": 9,
+    "votes": 1,
+    "release": "2026-10-16",
+    "genres": [
+      18
+    ],
+    "popularity": 32.6668
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.518,
+    "votes": 1045,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 286.0089
+  },
+  {
+    "id": 293610,
+    "tmdb_id": 293610,
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "rating": 9.091,
+    "votes": 11,
+    "release": "2026-10-09",
+    "genres": [
+      9648,
+      18,
+      80
+    ],
+    "popularity": 85.639
+  },
+  {
+    "id": 203857,
+    "tmdb_id": 203857,
+    "type": "tv",
+    "title": "The Diplomat",
+    "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+    "poster": "https://image.tmdb.org/t/p/w342/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+    "rating": 7.603,
+    "votes": 494,
+    "release": "2023-04-20",
+    "genres": [
+      18,
+      10768
+    ],
+    "popularity": 114.0822
+  },
+  {
+    "id": 333101,
+    "tmdb_id": 333101,
+    "type": "tv",
+    "title": "Treasure Island",
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "poster": "https://image.tmdb.org/t/p/w342/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+    "rating": 6,
+    "votes": 24,
+    "release": "2026-10-11",
+    "genres": [
+      10759
+    ],
+    "popularity": 57.9313
   },
   {
     "id": 289423,
@@ -341,13 +322,31 @@
     "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
     "poster": "https://image.tmdb.org/t/p/w342/ecRrKGXfflZmDZBD4irdkybClT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "rating": 8.577,
-    "votes": 26,
+    "rating": 8.724,
+    "votes": 29,
     "release": "2026-10-09",
     "genres": [
       10765,
       35
     ],
-    "popularity": 147.6572
+    "popularity": 125.0672
+  },
+  {
+    "id": 73223,
+    "tmdb_id": 73223,
+    "type": "tv",
+    "title": "Black Clover",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "poster": "https://image.tmdb.org/t/p/w342/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "rating": 8.5,
+    "votes": 2239,
+    "release": "2017-10-03",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 57.4426
   }
 ]

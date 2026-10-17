@@ -1,73 +1,21 @@
 [
   {
-    "id": 1561726,
-    "tmdb_id": 1561726,
-    "type": "movie",
-    "title": "Masterplan",
-    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-    "poster": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-    "rating": 8.5,
-    "votes": 3,
-    "release": "2026-10-16",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 10.9215
-  },
-  {
-    "id": 1236045,
-    "tmdb_id": 1236045,
-    "type": "movie",
-    "title": "Animals",
-    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-    "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-    "rating": 7.189,
-    "votes": 378,
-    "release": "2026-10-09",
-    "genres": [
-      53,
-      18
-    ],
-    "popularity": 262.6055
-  },
-  {
     "id": 1058424,
     "tmdb_id": 1058424,
     "type": "movie",
     "title": "Hope",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-    "rating": 7.098,
-    "votes": 184,
+    "rating": 6.881,
+    "votes": 215,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 214.21
-  },
-  {
-    "id": 1148365,
-    "tmdb_id": 1148365,
-    "type": "movie",
-    "title": "Matchbox the Movie",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-    "rating": 7.899,
-    "votes": 336,
-    "release": "2026-10-05",
-    "genres": [
-      28,
-      35,
-      12
-    ],
-    "popularity": 391.6431
+    "popularity": 240.126
   },
   {
     "id": 969681,
@@ -77,15 +25,32 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "rating": 8.465,
-    "votes": 5527,
+    "rating": 8.468,
+    "votes": 5586,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 713.4232
+    "popularity": 660.6678
+  },
+  {
+    "id": 1236045,
+    "tmdb_id": 1236045,
+    "type": "movie",
+    "title": "Animals",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "rating": 7.159,
+    "votes": 406,
+    "release": "2026-10-09",
+    "genres": [
+      53,
+      18
+    ],
+    "popularity": 244.8255
   },
   {
     "id": 1153576,
@@ -95,14 +60,14 @@
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-    "rating": 6.276,
-    "votes": 29,
+    "rating": 6.2,
+    "votes": 46,
     "release": "2026-10-13",
     "genres": [
       28,
       14
     ],
-    "popularity": 117.2294
+    "popularity": 161.4845
   },
   {
     "id": 1288069,
@@ -111,33 +76,50 @@
     "title": "Tenzing",
     "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "poster": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-    "rating": 7,
-    "votes": 5,
+    "backdrop": "https://image.tmdb.org/t/p/w780/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+    "rating": 7.917,
+    "votes": 24,
     "release": "2026-10-09",
     "genres": [
       18,
       36
     ],
-    "popularity": 7.478
+    "popularity": 68.4263
   },
   {
-    "id": 1302904,
-    "tmdb_id": 1302904,
+    "id": 1148365,
+    "tmdb_id": 1148365,
     "type": "movie",
-    "title": "Practical Magic 2",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-    "rating": 6.597,
-    "votes": 176,
-    "release": "2026-09-09",
+    "title": "Matchbox the Movie",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "rating": 7.918,
+    "votes": 358,
+    "release": "2026-10-05",
     "genres": [
-      10749,
-      14,
-      35
+      28,
+      35,
+      12
     ],
-    "popularity": 142.9498
+    "popularity": 369.9739
+  },
+  {
+    "id": 1561726,
+    "tmdb_id": 1561726,
+    "type": "movie",
+    "title": "Masterplan",
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+    "poster": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "rating": 7.079,
+    "votes": 19,
+    "release": "2026-10-16",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 110.6207
   },
   {
     "id": 1255833,
@@ -147,13 +129,13 @@
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "poster": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-    "rating": 7.583,
-    "votes": 18,
+    "rating": 7.1,
+    "votes": 29,
     "release": "2026-10-14",
     "genres": [
       53
     ],
-    "popularity": 67.2188
+    "popularity": 81.9012
   },
   {
     "id": 1514026,
@@ -162,16 +144,70 @@
     "title": "Buddy",
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
-    "rating": 7.241,
-    "votes": 116,
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "rating": 7.23,
+    "votes": 124,
     "release": "2026-08-27",
     "genres": [
       27,
       35,
       14
     ],
-    "popularity": 110.6281
+    "popularity": 119.2513
+  },
+  {
+    "id": 1302904,
+    "tmdb_id": 1302904,
+    "type": "movie",
+    "title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "rating": 6.811,
+    "votes": 198,
+    "release": "2026-09-09",
+    "genres": [
+      10749,
+      14,
+      35
+    ],
+    "popularity": 157.5418
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "rating": 7.309,
+    "votes": 967,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 270.3527
+  },
+  {
+    "id": 1400940,
+    "tmdb_id": 1400940,
+    "type": "movie",
+    "title": "Clayface",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "rating": 8.2,
+    "votes": 8,
+    "release": "2026-10-21",
+    "genres": [
+      27,
+      53,
+      878
+    ],
+    "popularity": 48.3262
   },
   {
     "id": 1381078,
@@ -181,14 +217,67 @@
     "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
     "poster": "https://image.tmdb.org/t/p/w342/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-    "rating": 6.528,
-    "votes": 36,
+    "rating": 6.75,
+    "votes": 50,
     "release": "2026-10-07",
     "genres": [
       10749,
       18
     ],
-    "popularity": 89.9551
+    "popularity": 83.0413
+  },
+  {
+    "id": 1248832,
+    "tmdb_id": 1248832,
+    "type": "movie",
+    "title": "Digger",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "rating": 7.488,
+    "votes": 390,
+    "release": "2026-09-28",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 97.5085
+  },
+  {
+    "id": 1284186,
+    "tmdb_id": 1284186,
+    "type": "movie",
+    "title": "Sacrifice",
+    "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+    "poster": "https://image.tmdb.org/t/p/w342/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
+    "rating": 5.689,
+    "votes": 37,
+    "release": "2026-04-09",
+    "genres": [
+      12,
+      35,
+      28
+    ],
+    "popularity": 58.8771
+  },
+  {
+    "id": 1003596,
+    "tmdb_id": 1003596,
+    "type": "movie",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 115.6389
   },
   {
     "id": 1400837,
@@ -199,116 +288,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
     "rating": 5.9,
-    "votes": 118,
+    "votes": 125,
     "release": "2026-10-07",
     "genres": [
       27
     ],
-    "popularity": 139.3386
-  },
-  {
-    "id": 1400940,
-    "tmdb_id": 1400940,
-    "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "rating": 8.6,
-    "votes": 6,
-    "release": "2026-10-21",
-    "genres": [
-      27,
-      53,
-      878
-    ],
-    "popularity": 41.6361
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.332,
-    "votes": 951,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 296.6412
-  },
-  {
-    "id": 1248832,
-    "tmdb_id": 1248832,
-    "type": "movie",
-    "title": "Digger",
-    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-    "rating": 7.501,
-    "votes": 373,
-    "release": "2026-09-28",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 96.6527
-  },
-  {
-    "id": 1003596,
-    "tmdb_id": 1003596,
-    "type": "movie",
-    "title": "Avengers: Doomsday",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-16",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 123.6978
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "rating": 7.288,
-    "votes": 544,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 210.5122
-  },
-  {
-    "id": 1623256,
-    "tmdb_id": 1623256,
-    "type": "movie",
-    "title": "The Storm",
-    "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-    "rating": 8.2,
-    "votes": 9,
-    "release": "2026-10-15",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 39.5119
+    "popularity": 131.8575
   },
   {
     "id": 1339713,
@@ -318,30 +303,48 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.179,
-    "votes": 6133,
+    "rating": 8.177,
+    "votes": 6150,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 132.0886
+    "popularity": 125.9186
   },
   {
-    "id": 1283515,
-    "tmdb_id": 1283515,
+    "id": 1368337,
+    "tmdb_id": 1368337,
     "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "rating": 6.381,
-    "votes": 206,
-    "release": "2026-09-30",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+    "rating": 8.009,
+    "votes": 4150,
+    "release": "2026-07-15",
     "genres": [
-      9648,
-      53
+      12,
+      28,
+      14
     ],
-    "popularity": 74.0558
+    "popularity": 349.3545
+  },
+  {
+    "id": 1377237,
+    "tmdb_id": 1377237,
+    "type": "movie",
+    "title": "Runner",
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+    "rating": 8.3,
+    "votes": 589,
+    "release": "2026-09-07",
+    "genres": [
+      28,
+      35
+    ],
+    "popularity": 228.277
   }
 ]
