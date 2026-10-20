@@ -14,7 +14,25 @@
       10767,
       35
     ],
-    "popularity": 660.6316
+    "popularity": 697.7347
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.961,
+    "votes": 4383,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 461.3801
   },
   {
     "id": 549,
@@ -31,7 +49,7 @@
       80,
       18
     ],
-    "popularity": 423.8578
+    "popularity": 2670.1303
   },
   {
     "id": 456,
@@ -40,33 +58,15 @@
     "title": "The Simpsons",
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.024,
-    "votes": 11079,
+    "votes": 11084,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 423.41
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.96,
-    "votes": 4382,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 477.3825
+    "popularity": 406.6591
   },
   {
     "id": 61818,
@@ -83,25 +83,7 @@
       10767,
       35
     ],
-    "popularity": 407.6689
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.613,
-    "votes": 2595,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 400.9291
+    "popularity": 372.8863
   },
   {
     "id": 33238,
@@ -118,7 +100,25 @@
       35,
       10764
     ],
-    "popularity": 418.6811
+    "popularity": 404.0383
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.613,
+    "votes": 2596,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 383.1728
   },
   {
     "id": 1416,
@@ -128,47 +128,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.205,
-    "votes": 11086,
+    "rating": 8.2,
+    "votes": 11087,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 368.9043
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.422,
-    "votes": 672,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 331.8512
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 9,
-    "votes": 102,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 314.4651
+    "popularity": 360.243
   },
   {
     "id": 65733,
@@ -189,7 +155,57 @@
       10762,
       10751
     ],
-    "popularity": 343.4184
+    "popularity": 336.5907
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.422,
+    "votes": 672,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 325.1139
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.8,
+    "votes": 110,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 325.4171
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 287.7773
   },
   {
     "id": 72879,
@@ -207,40 +223,7 @@
       18,
       10766
     ],
-    "popularity": 273.7362
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 296.4214
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.525,
-    "votes": 1053,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 264.8871
+    "popularity": 262.8967
   },
   {
     "id": 2661,
@@ -258,7 +241,24 @@
       10765,
       18
     ],
-    "popularity": 256.3213
+    "popularity": 252.1267
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.524,
+    "votes": 1056,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 256.2518
   },
   {
     "id": 4656,
@@ -268,13 +268,13 @@
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.772,
-    "votes": 380,
+    "rating": 6.778,
+    "votes": 381,
     "release": "1993-01-11",
     "genres": [
       10764
     ],
-    "popularity": 250.5874
+    "popularity": 244.4843
   },
   {
     "id": 153312,
@@ -284,51 +284,31 @@
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
     "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.304,
-    "votes": 2838,
+    "rating": 8.3,
+    "votes": 2841,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 227.0749
+    "popularity": 229.8743
   },
   {
-    "id": 1413,
-    "tmdb_id": 1413,
+    "id": 11890,
+    "tmdb_id": 11890,
     "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.079,
-    "votes": 6250,
-    "release": "2011-10-05",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
     "genres": [
-      18,
-      9648,
-      10765
+      10766
     ],
-    "popularity": 215.8409
-  },
-  {
-    "id": 95480,
-    "tmdb_id": 95480,
-    "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8.049,
-    "votes": 1054,
-    "release": "2022-04-01",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 219.2555
+    "popularity": 216.0915
   },
   {
     "id": 291,
@@ -344,6 +324,24 @@
     "genres": [
       10766
     ],
-    "popularity": 221.6198
+    "popularity": 222.7007
+  },
+  {
+    "id": 95480,
+    "tmdb_id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.054,
+    "votes": 1058,
+    "release": "2022-04-01",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 214.5685
   }
 ]
