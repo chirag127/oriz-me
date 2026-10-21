@@ -1,21 +1,104 @@
 [
   {
-    "id": 91759,
-    "tmdb_id": 91759,
+    "id": 1396,
+    "tmdb_id": 1396,
     "type": "tv",
-    "title": "Come Home Love: Lo and Behold",
-    "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
-    "poster": "https://image.tmdb.org/t/p/w342/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
-    "rating": 5.4,
-    "votes": 48,
-    "release": "2017-02-20",
+    "title": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 9,
+    "votes": 18881,
+    "release": "2008-01-20",
     "genres": [
-      10751,
-      35,
+      18,
+      80
+    ],
+    "popularity": 3404.5827
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.289,
+    "votes": 736,
+    "release": "1990-09-13",
+    "genres": [
+      80,
       18
     ],
-    "popularity": 694.0239
+    "popularity": 2260.5982
+  },
+  {
+    "id": 41956,
+    "tmdb_id": 41956,
+    "type": "tv",
+    "title": "Death in Paradise",
+    "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
+    "poster": "https://image.tmdb.org/t/p/w342/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
+    "rating": 7.457,
+    "votes": 348,
+    "release": "2011-10-25",
+    "genres": [
+      35,
+      80,
+      18,
+      9648
+    ],
+    "popularity": 3213.2777
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.329,
+    "votes": 5208,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 2609.0435
+  },
+  {
+    "id": 136315,
+    "tmdb_id": 136315,
+    "type": "tv",
+    "title": "The Bear",
+    "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+    "poster": "https://image.tmdb.org/t/p/w342/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+    "rating": 8.156,
+    "votes": 1983,
+    "release": "2022-06-23",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 1740.4831
+  },
+  {
+    "id": 15325,
+    "tmdb_id": 15325,
+    "type": "tv",
+    "title": "Dagsrevyen",
+    "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
+    "poster": "https://image.tmdb.org/t/p/w342/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
+    "rating": 8,
+    "votes": 2,
+    "release": "1958-12-02",
+    "genres": [],
+    "popularity": 961.4319
   },
   {
     "id": 22980,
@@ -32,7 +115,60 @@
       10767,
       35
     ],
-    "popularity": 697.7347
+    "popularity": 680.5206
+  },
+  {
+    "id": 91759,
+    "tmdb_id": 91759,
+    "type": "tv",
+    "title": "Come Home Love: Lo and Behold",
+    "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+    "poster": "https://image.tmdb.org/t/p/w342/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg",
+    "rating": 5.4,
+    "votes": 48,
+    "release": "2017-02-20",
+    "genres": [
+      10751,
+      35,
+      18
+    ],
+    "popularity": 669.8124
+  },
+  {
+    "id": 1480,
+    "tmdb_id": 1480,
+    "type": "tv",
+    "title": "Ally McBeal",
+    "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+    "poster": "https://image.tmdb.org/t/p/w342/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+    "rating": 6.5,
+    "votes": 390,
+    "release": "1997-09-08",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 743.6673
+  },
+  {
+    "id": 424,
+    "tmdb_id": 424,
+    "type": "tv",
+    "title": "Torchwood",
+    "overview": "The exploits of a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
+    "poster": "https://image.tmdb.org/t/p/w342/bv7C5r7QyXGsaMxvU40FVY7SvrD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gpRM2AB4tjfUXxjaCZWnHLjiGmC.jpg",
+    "rating": 7.3,
+    "votes": 593,
+    "release": "2006-10-22",
+    "genres": [
+      10765,
+      10759,
+      18
+    ],
+    "popularity": 487.747
   },
   {
     "id": 2261,
@@ -48,7 +184,7 @@
     "genres": [
       10767
     ],
-    "popularity": 479.1485
+    "popularity": 450.69
   },
   {
     "id": 2734,
@@ -59,14 +195,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.961,
-    "votes": 4383,
+    "votes": 4385,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 461.3801
+    "popularity": 453.549
   },
   {
     "id": 59941,
@@ -83,24 +219,24 @@
       35,
       10767
     ],
-    "popularity": 452.6851
+    "popularity": 429.366
   },
   {
-    "id": 549,
-    "tmdb_id": 549,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.3,
-    "votes": 735,
-    "release": "1990-09-13",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.81,
+    "votes": 121,
+    "release": "2026-10-13",
     "genres": [
-      80,
+      10765,
       18
     ],
-    "popularity": 2670.1303
+    "popularity": 426.0944
   },
   {
     "id": 456,
@@ -111,13 +247,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.024,
-    "votes": 11084,
+    "votes": 11085,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 406.6591
+    "popularity": 338.5683
   },
   {
     "id": 33238,
@@ -127,14 +263,14 @@
     "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
     "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.207,
-    "votes": 222,
+    "rating": 8.215,
+    "votes": 223,
     "release": "2010-07-11",
     "genres": [
       35,
       10764
     ],
-    "popularity": 404.0383
+    "popularity": 427.912
   },
   {
     "id": 108978,
@@ -144,14 +280,32 @@
     "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
     "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "rating": 8.13,
-    "votes": 3519,
+    "rating": 8.131,
+    "votes": 3523,
     "release": "2022-02-03",
     "genres": [
       10759,
       80
     ],
-    "popularity": 383.6006
+    "popularity": 362.2225
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.613,
+    "votes": 2597,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 389.8942
   },
   {
     "id": 61818,
@@ -168,25 +322,7 @@
       10767,
       35
     ],
-    "popularity": 372.8863
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.613,
-    "votes": 2596,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 383.1728
+    "popularity": 332.3072
   },
   {
     "id": 63770,
@@ -203,145 +339,6 @@
       35,
       10767
     ],
-    "popularity": 368.5587
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.2,
-    "votes": 11087,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 360.243
-  },
-  {
-    "id": 15325,
-    "tmdb_id": 15325,
-    "type": "tv",
-    "title": "Dagsrevyen",
-    "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
-    "poster": "https://image.tmdb.org/t/p/w342/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
-    "rating": 8,
-    "votes": 2,
-    "release": "1958-12-02",
-    "genres": [],
-    "popularity": 824.9851
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.4,
-    "votes": 4878,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 352.4905
-  },
-  {
-    "id": 336510,
-    "tmdb_id": 336510,
-    "type": "tv",
-    "title": "alpha Österreich",
-    "overview": "",
-    "poster": "",
-    "backdrop": "",
-    "rating": 0,
-    "votes": 0,
-    "release": "2000-06-03",
-    "genres": [
-      99
-    ],
-    "popularity": 241.9957
-  },
-  {
-    "id": 65733,
-    "tmdb_id": 65733,
-    "type": "tv",
-    "title": "Doraemon",
-    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "rating": 8.1,
-    "votes": 253,
-    "release": "2005-04-22",
-    "genres": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "popularity": 336.5907
-  },
-  {
-    "id": 15226,
-    "tmdb_id": 15226,
-    "type": "tv",
-    "title": "C.I.D.",
-    "overview": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
-    "poster": "https://image.tmdb.org/t/p/w342/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
-    "rating": 5.75,
-    "votes": 32,
-    "release": "1998-01-21",
-    "genres": [
-      10759,
-      80,
-      18,
-      9648
-    ],
-    "popularity": 334.4661
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.422,
-    "votes": 672,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 325.1139
-  },
-  {
-    "id": 288673,
-    "tmdb_id": 288673,
-    "type": "tv",
-    "title": "Carrie",
-    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "rating": 8.359,
-    "votes": 375,
-    "release": "2026-10-07",
-    "genres": [
-      9648,
-      18,
-      10765
-    ],
-    "popularity": 322.9314
+    "popularity": 364.0077
   }
 ]

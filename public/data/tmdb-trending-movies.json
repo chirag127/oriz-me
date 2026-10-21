@@ -1,23 +1,5 @@
 [
   {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.877,
-    "votes": 280,
-    "release": "2026-07-15",
-    "genres": [
-      878,
-      9648,
-      28
-    ],
-    "popularity": 385.9445
-  },
-  {
     "id": 1561726,
     "tmdb_id": 1561726,
     "type": "movie",
@@ -25,14 +7,50 @@
     "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
     "poster": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-    "rating": 7.14,
-    "votes": 107,
+    "rating": 7.1,
+    "votes": 120,
     "release": "2026-10-16",
     "genres": [
       28,
       53
     ],
-    "popularity": 216.6057
+    "popularity": 216.424
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "rating": 6.892,
+    "votes": 288,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 408.3035
+  },
+  {
+    "id": 1400940,
+    "tmdb_id": 1400940,
+    "type": "movie",
+    "title": "Clayface",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "rating": 7.2,
+    "votes": 21,
+    "release": "2026-10-19",
+    "genres": [
+      27,
+      53,
+      878
+    ],
+    "popularity": 117.3969
   },
   {
     "id": 1288069,
@@ -42,31 +60,14 @@
     "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "poster": "https://image.tmdb.org/t/p/w342/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-    "rating": 8.327,
-    "votes": 101,
+    "rating": 8.394,
+    "votes": 118,
     "release": "2026-10-09",
     "genres": [
       18,
       36
     ],
-    "popularity": 106.819
-  },
-  {
-    "id": 1153576,
-    "tmdb_id": 1153576,
-    "type": "movie",
-    "title": "Street Fighter",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "poster": "https://image.tmdb.org/t/p/w342/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-    "rating": 6.25,
-    "votes": 108,
-    "release": "2026-10-13",
-    "genres": [
-      28,
-      14
-    ],
-    "popularity": 394.7423
+    "popularity": 107.9694
   },
   {
     "id": 969681,
@@ -76,68 +77,50 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-    "rating": 8.472,
-    "votes": 5823,
+    "rating": 8.471,
+    "votes": 5871,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 2343.3622
+    "popularity": 1659.2083
   },
   {
-    "id": 1400940,
-    "tmdb_id": 1400940,
+    "id": 1153576,
+    "tmdb_id": 1153576,
     "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-    "rating": 8,
-    "votes": 13,
-    "release": "2026-10-19",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+    "rating": 6.256,
+    "votes": 127,
+    "release": "2026-10-13",
     "genres": [
-      27,
+      28,
+      14
+    ],
+    "popularity": 375.755
+  },
+  {
+    "id": 1433583,
+    "tmdb_id": 1433583,
+    "type": "movie",
+    "title": "The Weight",
+    "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+    "poster": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+    "rating": 6.87,
+    "votes": 50,
+    "release": "2026-09-16",
+    "genres": [
+      18,
       53,
-      878
+      80
     ],
-    "popularity": 74.4426
-  },
-  {
-    "id": 1236045,
-    "tmdb_id": 1236045,
-    "type": "movie",
-    "title": "Animals",
-    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-    "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-    "rating": 7.033,
-    "votes": 504,
-    "release": "2026-10-09",
-    "genres": [
-      53,
-      18
-    ],
-    "popularity": 207.4852
-  },
-  {
-    "id": 1302904,
-    "tmdb_id": 1302904,
-    "type": "movie",
-    "title": "Practical Magic 2",
-    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-    "rating": 7.049,
-    "votes": 253,
-    "release": "2026-09-09",
-    "genres": [
-      10749,
-      14,
-      35
-    ],
-    "popularity": 172.235
+    "popularity": 66.1685
   },
   {
     "id": 1255833,
@@ -146,14 +129,31 @@
     "title": "Whalefall",
     "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "poster": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-    "rating": 6.7,
-    "votes": 58,
+    "backdrop": "https://image.tmdb.org/t/p/w780/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+    "rating": 6.507,
+    "votes": 68,
     "release": "2026-10-14",
     "genres": [
       53
     ],
-    "popularity": 307.1032
+    "popularity": 258.2246
+  },
+  {
+    "id": 1381078,
+    "tmdb_id": 1381078,
+    "type": "movie",
+    "title": "Love of Your Life",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "poster": "https://image.tmdb.org/t/p/w342/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
+    "rating": 6.8,
+    "votes": 109,
+    "release": "2026-10-07",
+    "genres": [
+      10749,
+      18
+    ],
+    "popularity": 100.0505
   },
   {
     "id": 1514026,
@@ -163,32 +163,15 @@
     "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
     "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "rating": 7.128,
-    "votes": 148,
+    "rating": 7.103,
+    "votes": 155,
     "release": "2026-08-27",
     "genres": [
       27,
       35,
       14
     ],
-    "popularity": 153.35
-  },
-  {
-    "id": 1381078,
-    "tmdb_id": 1381078,
-    "type": "movie",
-    "title": "Love of Your Life",
-    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-    "poster": "https://image.tmdb.org/t/p/w342/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-    "rating": 6.832,
-    "votes": 107,
-    "release": "2026-10-07",
-    "genres": [
-      10749,
-      18
-    ],
-    "popularity": 103.1652
+    "popularity": 153.0773
   },
   {
     "id": 1423191,
@@ -198,67 +181,33 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.306,
-    "votes": 998,
+    "rating": 7.293,
+    "votes": 1009,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 203.4627
+    "popularity": 186.393
   },
   {
-    "id": 1148365,
-    "tmdb_id": 1148365,
+    "id": 1302904,
+    "tmdb_id": 1302904,
     "type": "movie",
-    "title": "Matchbox the Movie",
-    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-    "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-    "rating": 7.7,
-    "votes": 433,
-    "release": "2026-10-05",
+    "title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "rating": 7,
+    "votes": 260,
+    "release": "2026-09-09",
     "genres": [
-      28,
-      35,
-      12
+      10749,
+      14,
+      35
     ],
-    "popularity": 311.2727
-  },
-  {
-    "id": 1375441,
-    "tmdb_id": 1375441,
-    "type": "movie",
-    "title": "Primetime",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1tJz8e1G21nEuzHlX771MNBRJvM.jpg",
-    "rating": 6.8,
-    "votes": 172,
-    "release": "2026-09-23",
-    "genres": [
-      18,
-      53
-    ],
-    "popularity": 60.5955
-  },
-  {
-    "id": 1198654,
-    "tmdb_id": 1198654,
-    "type": "movie",
-    "title": "Bad Apples",
-    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-    "poster": "https://image.tmdb.org/t/p/w342/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ldeiBXtVM12oDUVSiJtwjESLSOc.jpg",
-    "rating": 6.9,
-    "votes": 40,
-    "release": "2026-09-10",
-    "genres": [
-      35,
-      53
-    ],
-    "popularity": 56.8793
+    "popularity": 161.1657
   },
   {
     "id": 1339713,
@@ -268,14 +217,50 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.176,
-    "votes": 6207,
+    "rating": 8.175,
+    "votes": 6232,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 112.536
+    "popularity": 107.7502
+  },
+  {
+    "id": 1198654,
+    "tmdb_id": 1198654,
+    "type": "movie",
+    "title": "Bad Apples",
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "poster": "https://image.tmdb.org/t/p/w342/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+    "rating": 6.422,
+    "votes": 51,
+    "release": "2026-09-10",
+    "genres": [
+      35,
+      53
+    ],
+    "popularity": 81.2191
+  },
+  {
+    "id": 1380417,
+    "tmdb_id": 1380417,
+    "type": "movie",
+    "title": "By Any Means",
+    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+    "poster": "https://image.tmdb.org/t/p/w342/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+    "rating": 6.865,
+    "votes": 48,
+    "release": "2026-09-02",
+    "genres": [
+      53,
+      36,
+      80,
+      18
+    ],
+    "popularity": 55.8521
   },
   {
     "id": 1003596,
@@ -293,24 +278,41 @@
       28,
       12
     ],
-    "popularity": 1951.3369
+    "popularity": 1086.7005
   },
   {
-    "id": 1283515,
-    "tmdb_id": 1283515,
+    "id": 1236045,
+    "tmdb_id": 1236045,
     "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-    "rating": 6.4,
-    "votes": 231,
-    "release": "2026-09-30",
+    "title": "Animals",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "rating": 7.037,
+    "votes": 521,
+    "release": "2026-10-09",
     "genres": [
-      9648,
-      53
+      53,
+      18
     ],
-    "popularity": 79.2707
+    "popularity": 190.177
+  },
+  {
+    "id": 1248832,
+    "tmdb_id": 1248832,
+    "type": "movie",
+    "title": "Digger",
+    "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "rating": 7.483,
+    "votes": 435,
+    "release": "2026-09-28",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 197.3817
   },
   {
     "id": 1284186,
@@ -320,32 +322,32 @@
     "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
     "poster": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-    "rating": 5.034,
-    "votes": 59,
+    "rating": 5.049,
+    "votes": 61,
     "release": "2026-04-09",
     "genres": [
       12,
       35,
       28
     ],
-    "popularity": 274.3463
+    "popularity": 209.0418
   },
   {
-    "id": 791523,
-    "tmdb_id": 791523,
+    "id": 1148365,
+    "tmdb_id": 1148365,
     "type": "movie",
-    "title": "Wildwood",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 9.3,
-    "votes": 3,
-    "release": "2026-10-19",
+    "title": "Matchbox the Movie",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "rating": 7.793,
+    "votes": 440,
+    "release": "2026-10-05",
     "genres": [
-      16,
-      12,
-      14
+      28,
+      35,
+      12
     ],
-    "popularity": 19.4079
+    "popularity": 279.8519
   }
 ]
