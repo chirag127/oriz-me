@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
     "rating": 9.703,
-    "votes": 264,
+    "votes": 271,
     "release": "2026-10-11",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 164.3003
+    "popularity": 167.1138
   },
   {
     "id": 276161,
@@ -33,7 +33,7 @@
       18,
       35
     ],
-    "popularity": 53.309
+    "popularity": 53.7046
   },
   {
     "id": 299167,
@@ -50,7 +50,7 @@
       37,
       18
     ],
-    "popularity": 42.0142
+    "popularity": 46.9479
   },
   {
     "id": 229544,
@@ -60,8 +60,8 @@
     "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
     "poster": "https://image.tmdb.org/t/p/w342/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
-    "rating": 8.998,
-    "votes": 203,
+    "rating": 9.002,
+    "votes": 204,
     "release": "2026-06-05",
     "genres": [
       16,
@@ -69,7 +69,7 @@
       9648,
       10765
     ],
-    "popularity": 12.6742
+    "popularity": 14.0777
   },
   {
     "id": 278573,
@@ -86,7 +86,7 @@
       35,
       18
     ],
-    "popularity": 35.7621
+    "popularity": 34.2953
   },
   {
     "id": 1396,
@@ -96,14 +96,14 @@
     "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-    "rating": 8.956,
-    "votes": 18882,
+    "rating": 8.957,
+    "votes": 18898,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 3404.5827
+    "popularity": 1860.4866
   },
   {
     "id": 273240,
@@ -119,7 +119,7 @@
     "genres": [
       18
     ],
-    "popularity": 53.0897
+    "popularity": 51.3951
   },
   {
     "id": 214999,
@@ -136,7 +136,7 @@
       18,
       35
     ],
-    "popularity": 14.8854
+    "popularity": 14.2673
   },
   {
     "id": 85077,
@@ -146,15 +146,34 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "rating": 8.836,
-    "votes": 1030,
+    "rating": 8.837,
+    "votes": 1031,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 90.7842
+    "popularity": 97.693
+  },
+  {
+    "id": 209867,
+    "tmdb_id": 209867,
+    "type": "tv",
+    "title": "Frieren: Beyond Journey's End",
+    "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+    "poster": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+    "rating": 8.824,
+    "votes": 1000,
+    "release": "2023-09-29",
+    "genres": [
+      16,
+      10759,
+      18,
+      10765
+    ],
+    "popularity": 98.6393
   },
   {
     "id": 322430,
@@ -171,45 +190,7 @@
       18,
       10766
     ],
-    "popularity": 19.9498
-  },
-  {
-    "id": 209867,
-    "tmdb_id": 209867,
-    "type": "tv",
-    "title": "Frieren: Beyond Journey's End",
-    "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-    "poster": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-    "rating": 8.824,
-    "votes": 999,
-    "release": "2023-09-29",
-    "genres": [
-      16,
-      10759,
-      18,
-      10765
-    ],
-    "popularity": 102.2872
-  },
-  {
-    "id": 259837,
-    "tmdb_id": 259837,
-    "type": "tv",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "rating": 8.795,
-    "votes": 280,
-    "release": "2026-05-15",
-    "genres": [
-      10759,
-      35,
-      10765,
-      18
-    ],
-    "popularity": 21.7253
+    "popularity": 20.0473
   },
   {
     "id": 259666,
@@ -226,7 +207,23 @@
       18,
       35
     ],
-    "popularity": 11.1097
+    "popularity": 11.8947
+  },
+  {
+    "id": 219246,
+    "tmdb_id": 219246,
+    "type": "tv",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+    "rating": 8.803,
+    "votes": 608,
+    "release": "2025-03-07",
+    "genres": [
+      18
+    ],
+    "popularity": 34.4834
   },
   {
     "id": 245026,
@@ -244,23 +241,26 @@
       10765,
       10751
     ],
-    "popularity": 26.0081
+    "popularity": 21.973
   },
   {
-    "id": 219246,
-    "tmdb_id": 219246,
+    "id": 259837,
+    "tmdb_id": 259837,
     "type": "tv",
-    "title": "When Life Gives You Tangerines",
-    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "rating": 8.803,
-    "votes": 608,
-    "release": "2025-03-07",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "rating": 8.793,
+    "votes": 280,
+    "release": "2026-05-15",
     "genres": [
+      10759,
+      35,
+      10765,
       18
     ],
-    "popularity": 36.2046
+    "popularity": 21.9737
   },
   {
     "id": 246,
@@ -271,14 +271,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
     "rating": 8.783,
-    "votes": 5179,
+    "votes": 5180,
     "release": "2005-02-21",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 57.5185
+    "popularity": 58.7407
   },
   {
     "id": 284445,
@@ -296,7 +296,7 @@
       18,
       10765
     ],
-    "popularity": 38.9064
+    "popularity": 34.5784
   },
   {
     "id": 37854,
@@ -307,14 +307,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
     "rating": 8.753,
-    "votes": 5605,
+    "votes": 5606,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 78.3205
+    "popularity": 72.8901
   },
   {
     "id": 94605,
@@ -324,15 +324,15 @@
     "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
     "poster": "https://image.tmdb.org/t/p/w342/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-    "rating": 8.7,
-    "votes": 6251,
+    "rating": 8.746,
+    "votes": 6253,
     "release": "2021-11-06",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 66.3406
+    "popularity": 66.0503
   },
   {
     "id": 250307,
@@ -342,12 +342,12 @@
     "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
     "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-    "rating": 8.738,
-    "votes": 1017,
+    "rating": 8.737,
+    "votes": 1018,
     "release": "2025-01-09",
     "genres": [
       18
     ],
-    "popularity": 100.967
+    "popularity": 104.9405
   }
 ]

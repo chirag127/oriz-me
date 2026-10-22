@@ -14,7 +14,24 @@
       80,
       18
     ],
-    "popularity": 2670.1303
+    "popularity": 1482.7516
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.3,
+    "votes": 5211,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 1544.6388
   },
   {
     "id": 22980,
@@ -31,7 +48,7 @@
       10767,
       35
     ],
-    "popularity": 697.7347
+    "popularity": 634.6469
   },
   {
     "id": 2734,
@@ -49,24 +66,24 @@
       18,
       9648
     ],
-    "popularity": 461.3801
+    "popularity": 426.3438
   },
   {
-    "id": 456,
-    "tmdb_id": 456,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8,
-    "votes": 11084,
-    "release": "1989-12-17",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.8,
+    "votes": 144,
+    "release": "2026-10-13",
     "genres": [
-      16,
-      35
+      10765,
+      18
     ],
-    "popularity": 406.6591
+    "popularity": 391.2253
   },
   {
     "id": 33238,
@@ -76,14 +93,14 @@
     "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
     "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.215,
+    "rating": 8.2,
     "votes": 223,
     "release": "2010-07-11",
     "genres": [
       35,
       10764
     ],
-    "popularity": 404.0383
+    "popularity": 408.1234
   },
   {
     "id": 4614,
@@ -93,7 +110,7 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.613,
+    "rating": 7.6,
     "votes": 2597,
     "release": "2003-09-23",
     "genres": [
@@ -101,40 +118,7 @@
       18,
       10759
     ],
-    "popularity": 383.1728
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.1,
-    "votes": 136,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 372.8863
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.205,
-    "votes": 11088,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 360.243
+    "popularity": 367.4095
   },
   {
     "id": 65733,
@@ -155,24 +139,57 @@
       10762,
       10751
     ],
-    "popularity": 336.5907
+    "popularity": 340.8075
   },
   {
-    "id": 213375,
-    "tmdb_id": 213375,
+    "id": 1416,
+    "tmdb_id": 1416,
     "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.795,
-    "votes": 117,
-    "release": "2026-10-13",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.2,
+    "votes": 11089,
+    "release": "2005-03-27",
     "genres": [
-      10765,
       18
     ],
-    "popularity": 325.4171
+    "popularity": 337.2245
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.025,
+    "votes": 11094,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 363.2684
+  },
+  {
+    "id": 61818,
+    "tmdb_id": 61818,
+    "type": "tv",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.1,
+    "votes": 136,
+    "release": "2014-02-25",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 319.638
   },
   {
     "id": 2224,
@@ -189,7 +206,7 @@
       10763,
       35
     ],
-    "popularity": 325.1139
+    "popularity": 305.0622
   },
   {
     "id": 206559,
@@ -205,7 +222,7 @@
     "genres": [
       10766
     ],
-    "popularity": 287.7773
+    "popularity": 275.1155
   },
   {
     "id": 72879,
@@ -223,24 +240,7 @@
       18,
       10766
     ],
-    "popularity": 262.8967
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.526,
-    "votes": 1060,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 256.2518
+    "popularity": 267.6587
   },
   {
     "id": 2661,
@@ -258,7 +258,24 @@
       10765,
       18
     ],
-    "popularity": 252.1267
+    "popularity": 243.9334
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.531,
+    "votes": 1064,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 245.782
   },
   {
     "id": 4656,
@@ -274,7 +291,7 @@
     "genres": [
       10764
     ],
-    "popularity": 244.4843
+    "popularity": 258.4491
   },
   {
     "id": 153312,
@@ -285,14 +302,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
     "rating": 8.3,
-    "votes": 2842,
+    "votes": 2846,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 229.8743
+    "popularity": 236.8102
   },
   {
     "id": 291,
@@ -308,23 +325,7 @@
     "genres": [
       10766
     ],
-    "popularity": 222.7007
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 216.0915
+    "popularity": 219.2386
   },
   {
     "id": 95480,
@@ -334,14 +335,14 @@
     "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
     "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8.056,
-    "votes": 1060,
+    "rating": 8.1,
+    "votes": 1061,
     "release": "2022-04-01",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 214.5685
+    "popularity": 280.1836
   }
 ]
