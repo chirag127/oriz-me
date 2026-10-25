@@ -6,7 +6,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-20T05:11:10.432Z",
-    "searchScore": 47.914658,
+    "searchScore": 47.973713,
     "package": {
       "name": "@chirag127/ai",
       "keywords": [
@@ -43,7 +43,7 @@
       }
     },
     "score": {
-      "final": 47.914658,
+      "final": 47.973713,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -61,7 +61,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T07:11:08.634Z",
-    "searchScore": 26.922884,
+    "searchScore": 26.956017,
     "package": {
       "name": "@chirag127/oriz-ai-providers",
       "keywords": [
@@ -103,7 +103,7 @@
       }
     },
     "score": {
-      "final": 26.922884,
+      "final": 26.956017,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -121,7 +121,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T10:46:10.075Z",
-    "searchScore": 23.585558,
+    "searchScore": 23.630344,
     "package": {
       "name": "@chirag127/oz-ai",
       "keywords": [
@@ -160,7 +160,7 @@
       }
     },
     "score": {
-      "final": 23.585558,
+      "final": 23.630344,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -178,7 +178,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T11:01:09.622Z",
-    "searchScore": 23.177797,
+    "searchScore": 23.211908,
     "package": {
       "name": "@chirag127/astro-chrome",
       "keywords": [
@@ -208,7 +208,7 @@
       }
     },
     "score": {
-      "final": 23.177797,
+      "final": 23.211908,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -226,7 +226,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T18:31:13.174Z",
-    "searchScore": 21.580767,
+    "searchScore": 21.60596,
     "package": {
       "name": "@chirag127/astro-data",
       "keywords": [
@@ -256,7 +256,7 @@
       }
     },
     "score": {
-      "final": 21.580767,
+      "final": 21.60596,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -274,7 +274,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T14:51:11.414Z",
-    "searchScore": 20.423487,
+    "searchScore": 20.453968,
     "package": {
       "name": "@chirag127/astro-test-utils",
       "keywords": [
@@ -308,7 +308,7 @@
       }
     },
     "score": {
-      "final": 20.423487,
+      "final": 20.453968,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -326,7 +326,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-21T06:31:10.076Z",
-    "searchScore": 20.278547,
+    "searchScore": 20.317053,
     "package": {
       "name": "@chirag127/astro-shell",
       "keywords": [
@@ -356,59 +356,7 @@
       }
     },
     "score": {
-      "final": 20.278547,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 71,
-      "weekly": 9
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T08:21:10.578Z",
-    "searchScore": 20.14305,
-    "package": {
-      "name": "@chirag127/oriz-ui",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "ui",
-        "astro",
-        "contact-form",
-        "components"
-      ],
-      "version": "0.1.0",
-      "description": "Shared Oriz UI — ContactForm + widgets used across the chirag127/oriz* family.",
-      "sanitized_name": "@chirag127/oriz-ui",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:55:11.757Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-ui-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-ui-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-ui-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-ui"
-      }
-    },
-    "score": {
-      "final": 20.14305,
+      "final": 20.317053,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -426,7 +374,7 @@
     },
     "dependents": "1",
     "updated": "2026-10-20T07:06:33.737Z",
-    "searchScore": 20.13937,
+    "searchScore": 20.177612,
     "package": {
       "name": "@chirag127/keyless-kilo",
       "keywords": [
@@ -464,7 +412,59 @@
       }
     },
     "score": {
-      "final": 20.13937,
+      "final": 20.177612,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 71,
+      "weekly": 9
+    },
+    "dependents": 0,
+    "updated": "2026-10-19T08:21:10.578Z",
+    "searchScore": 20.16784,
+    "package": {
+      "name": "@chirag127/oriz-ui",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "ui",
+        "astro",
+        "contact-form",
+        "components"
+      ],
+      "version": "0.1.0",
+      "description": "Shared Oriz UI — ContactForm + widgets used across the chirag127/oriz* family.",
+      "sanitized_name": "@chirag127/oriz-ui",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-22T06:55:11.757Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oriz-ui-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/oriz-ui-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/oriz-ui-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oriz-ui"
+      }
+    },
+    "score": {
+      "final": 20.16784,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -482,7 +482,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T17:21:11.359Z",
-    "searchScore": 19.590504,
+    "searchScore": 19.619741,
     "package": {
       "name": "@chirag127/mdv-mcp",
       "keywords": [
@@ -522,7 +522,7 @@
       }
     },
     "score": {
-      "final": 19.590504,
+      "final": 19.619741,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -540,7 +540,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T06:11:13.176Z",
-    "searchScore": 19.364515,
+    "searchScore": 19.387123,
     "package": {
       "name": "@chirag127/omni-publish",
       "keywords": [
@@ -582,7 +582,7 @@
       }
     },
     "score": {
-      "final": 19.364515,
+      "final": 19.387123,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -600,7 +600,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T14:26:12.648Z",
-    "searchScore": 18.942358,
+    "searchScore": 18.959425,
     "package": {
       "name": "@chirag127/astro-distribute",
       "keywords": [
@@ -630,7 +630,7 @@
       }
     },
     "score": {
-      "final": 18.942358,
+      "final": 18.959425,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -648,7 +648,7 @@
     },
     "dependents": "1",
     "updated": "2026-10-20T08:01:29.760Z",
-    "searchScore": 18.859829,
+    "searchScore": 18.883074,
     "package": {
       "name": "@chirag127/keyless-pollinations",
       "keywords": [
@@ -685,7 +685,7 @@
       }
     },
     "score": {
-      "final": 18.859829,
+      "final": 18.883074,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -703,7 +703,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T18:21:09.495Z",
-    "searchScore": 18.706827,
+    "searchScore": 18.734747,
     "package": {
       "name": "@chirag127/oriz-book-build",
       "keywords": [
@@ -741,7 +741,7 @@
       }
     },
     "score": {
-      "final": 18.706827,
+      "final": 18.734747,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -759,7 +759,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T13:56:10.638Z",
-    "searchScore": 18.597263,
+    "searchScore": 18.624634,
     "package": {
       "name": "@chirag127/auth-wxt",
       "keywords": [
@@ -789,7 +789,7 @@
       }
     },
     "score": {
-      "final": 18.597263,
+      "final": 18.624634,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -807,7 +807,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T08:01:15.450Z",
-    "searchScore": 18.392775,
+    "searchScore": 18.409346,
     "package": {
       "name": "@chirag127/oriz-rate-limit",
       "keywords": [
@@ -842,7 +842,56 @@
       }
     },
     "score": {
-      "final": 18.392775,
+      "final": 18.409346,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 43,
+      "weekly": 0
+    },
+    "dependents": 0,
+    "updated": "2026-10-18T11:56:14.865Z",
+    "searchScore": 18.246412,
+    "package": {
+      "name": "@chirag127/astro-content",
+      "keywords": [
+        "astro",
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.0",
+      "description": "Zod content-collection schemas + RSS + Atom + JSON-Feed + sitemap glue + IndexNow ping + OG-card emit. Used by every content site.",
+      "sanitized_name": "@chirag127/astro-content",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T10:26:49.835Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-content-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-content-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-content-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-content"
+      }
+    },
+    "score": {
+      "final": 18.246412,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -860,7 +909,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T11:56:16.104Z",
-    "searchScore": 18.221369,
+    "searchScore": 18.242641,
     "package": {
       "name": "@chirag127/astro-forms",
       "keywords": [
@@ -896,7 +945,7 @@
       }
     },
     "score": {
-      "final": 18.221369,
+      "final": 18.242641,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -909,22 +958,27 @@
   },
   {
     "downloads": {
-      "monthly": 43,
-      "weekly": 0
+      "monthly": 42,
+      "weekly": 1
     },
     "dependents": 0,
-    "updated": "2026-10-18T11:56:14.865Z",
-    "searchScore": 18.219599,
+    "updated": "2026-10-19T08:01:09.022Z",
+    "searchScore": 18.114712,
     "package": {
-      "name": "@chirag127/astro-content",
+      "name": "@chirag127/oriz-consent",
       "keywords": [
-        "astro",
         "chirag127",
-        "oriz"
+        "oriz",
+        "consent",
+        "gdpr",
+        "dpdp",
+        "gpc",
+        "klaro",
+        "cookie-banner"
       ],
       "version": "0.1.0",
-      "description": "Zod content-collection schemas + RSS + Atom + JSON-Feed + sitemap glue + IndexNow ping + OG-card emit. Used by every content site.",
-      "sanitized_name": "@chirag127/astro-content",
+      "description": "Klaro-based consent manager covering EU GDPR + UK + India DPDP + US GPC (Global Privacy Control) signals. Cookie banner + preference center.",
+      "sanitized_name": "@chirag127/oriz-consent",
       "publisher": {
         "email": "whyiswhen@gmail.com",
         "username": "chirag127"
@@ -935,17 +989,17 @@
           "username": "chirag127"
         }
       ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T10:26:49.835Z",
+      "license": "MIT",
+      "date": "2026-06-22T06:37:01.283Z",
       "links": {
-        "homepage": "https://github.com/chirag127/astro-content-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-content-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-content-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-content"
+        "homepage": "https://github.com/chirag127/oriz-consent-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/oriz-consent-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/oriz-consent-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oriz-consent"
       }
     },
     "score": {
-      "final": 18.219599,
+      "final": 18.114712,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -963,7 +1017,7 @@
     },
     "dependents": "0",
     "updated": "2026-10-20T07:11:38.394Z",
-    "searchScore": 18.191423,
+    "searchScore": 18.042664,
     "package": {
       "name": "@chirag127/keyless-ai",
       "keywords": [
@@ -1001,7 +1055,7 @@
       }
     },
     "score": {
-      "final": 18.191423,
+      "final": 18.042664,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1014,27 +1068,21 @@
   },
   {
     "downloads": {
-      "monthly": 42,
-      "weekly": 1
+      "monthly": 45,
+      "weekly": 3
     },
     "dependents": 0,
-    "updated": "2026-10-19T08:01:09.022Z",
-    "searchScore": 18.088093,
+    "updated": "2026-10-18T13:56:10.518Z",
+    "searchScore": 17.987486,
     "package": {
-      "name": "@chirag127/oriz-consent",
+      "name": "@chirag127/auth-cli",
       "keywords": [
         "chirag127",
-        "oriz",
-        "consent",
-        "gdpr",
-        "dpdp",
-        "gpc",
-        "klaro",
-        "cookie-banner"
+        "oriz"
       ],
       "version": "0.1.0",
-      "description": "Klaro-based consent manager covering EU GDPR + UK + India DPDP + US GPC (Global Privacy Control) signals. Cookie banner + preference center.",
-      "sanitized_name": "@chirag127/oriz-consent",
+      "description": "CLI auth — Firebase OAuth device-code flow + token store at ~/.config/oriz/auth.json + refresh on 401. Peer-deps on @chirag127/auth-core.",
+      "sanitized_name": "@chirag127/auth-cli",
       "publisher": {
         "email": "whyiswhen@gmail.com",
         "username": "chirag127"
@@ -1045,17 +1093,17 @@
           "username": "chirag127"
         }
       ],
-      "license": "MIT",
-      "date": "2026-06-22T06:37:01.283Z",
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T12:33:18.461Z",
       "links": {
-        "homepage": "https://github.com/chirag127/oriz-consent-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-consent-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-consent-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-consent"
+        "homepage": "https://github.com/chirag127/auth-cli-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/auth-cli-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/auth-cli-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/auth-cli"
       }
     },
     "score": {
-      "final": 18.088093,
+      "final": 17.987486,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1073,7 +1121,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-20T07:11:38.065Z",
-    "searchScore": 18.070913,
+    "searchScore": 17.923138,
     "package": {
       "name": "@chirag127/keyless-opencode-zen",
       "keywords": [
@@ -1111,103 +1159,7 @@
       }
     },
     "score": {
-      "final": 18.070913,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 45,
-      "weekly": 3
-    },
-    "dependents": 0,
-    "updated": "2026-10-18T13:56:10.518Z",
-    "searchScore": 17.965343,
-    "package": {
-      "name": "@chirag127/auth-cli",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.0",
-      "description": "CLI auth — Firebase OAuth device-code flow + token store at ~/.config/oriz/auth.json + refresh on 401. Peer-deps on @chirag127/auth-core.",
-      "sanitized_name": "@chirag127/auth-cli",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T12:33:18.461Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/auth-cli-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/auth-cli-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/auth-cli-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/auth-cli"
-      }
-    },
-    "score": {
-      "final": 17.965343,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 43,
-      "weekly": 0
-    },
-    "dependents": 0,
-    "updated": "2026-10-18T14:26:11.656Z",
-    "searchScore": 17.822,
-    "package": {
-      "name": "@chirag127/astro-pwa",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.1",
-      "description": "Locked @vite-pwa/astro defaults for the chirag127 family — manifest from astro-chrome brand, offline shell, <InstallPrompt>, <UpdateToast>.",
-      "sanitized_name": "@chirag127/astro-pwa",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T13:00:49.969Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-pwa-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-pwa-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-pwa-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-pwa"
-      }
-    },
-    "score": {
-      "final": 17.822,
+      "final": 17.923138,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1225,7 +1177,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T13:56:09.601Z",
-    "searchScore": 17.717886,
+    "searchScore": 17.739723,
     "package": {
       "name": "@chirag127/auth-vsc",
       "keywords": [
@@ -1255,7 +1207,55 @@
       }
     },
     "score": {
-      "final": 17.717886,
+      "final": 17.739723,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 43,
+      "weekly": 0
+    },
+    "dependents": 0,
+    "updated": "2026-10-18T14:26:11.656Z",
+    "searchScore": 17.67626,
+    "package": {
+      "name": "@chirag127/astro-pwa",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.1",
+      "description": "Locked @vite-pwa/astro defaults for the chirag127 family — manifest from astro-chrome brand, offline shell, <InstallPrompt>, <UpdateToast>.",
+      "sanitized_name": "@chirag127/astro-pwa",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T13:00:49.969Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-pwa-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-pwa-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-pwa-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-pwa"
+      }
+    },
+    "score": {
+      "final": 17.67626,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1273,7 +1273,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T13:56:09.241Z",
-    "searchScore": 17.557112,
+    "searchScore": 17.57872,
     "package": {
       "name": "@chirag127/auth-core",
       "keywords": [
@@ -1303,7 +1303,7 @@
       }
     },
     "score": {
-      "final": 17.557112,
+      "final": 17.57872,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1321,7 +1321,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T11:56:12.537Z",
-    "searchScore": 17.419065,
+    "searchScore": 17.445065,
     "package": {
       "name": "@chirag127/astro-tools",
       "keywords": [
@@ -1357,7 +1357,7 @@
       }
     },
     "score": {
-      "final": 17.419065,
+      "final": 17.445065,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1375,7 +1375,7 @@
     },
     "dependents": "1",
     "updated": "2026-10-20T08:01:46.097Z",
-    "searchScore": 17.382204,
+    "searchScore": 17.407785,
     "package": {
       "name": "@chirag127/keyless-ovh",
       "keywords": [
@@ -1413,7 +1413,7 @@
       }
     },
     "score": {
-      "final": 17.382204,
+      "final": 17.407785,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1431,7 +1431,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T08:01:08.461Z",
-    "searchScore": 17.236471,
+    "searchScore": 17.269201,
     "package": {
       "name": "@chirag127/oriz-analytics",
       "keywords": [
@@ -1466,7 +1466,7 @@
       }
     },
     "score": {
-      "final": 17.236471,
+      "final": 17.269201,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1484,7 +1484,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-18T14:21:10.925Z",
-    "searchScore": 17.236471,
+    "searchScore": 17.269201,
     "package": {
       "name": "@chirag127/astro-widgets",
       "keywords": [
@@ -1514,7 +1514,7 @@
       }
     },
     "score": {
-      "final": 17.236471,
+      "final": 17.269201,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1532,7 +1532,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-19T08:01:07.927Z",
-    "searchScore": 16.603912,
+    "searchScore": 16.63544,
     "package": {
       "name": "@chirag127/oriz-seo",
       "keywords": [
@@ -1568,7 +1568,7 @@
       }
     },
     "score": {
-      "final": 16.603912,
+      "final": 16.63544,
       "detail": {
         "popularity": 1,
         "quality": 1,
