@@ -1,67 +1,12 @@
 [
   {
     "downloads": {
-      "monthly": 9071,
-      "weekly": 1345
-    },
-    "dependents": 0,
-    "updated": "2026-10-20T05:11:10.432Z",
-    "searchScore": 47.174145,
-    "package": {
-      "name": "@chirag127/ai",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "nvidia-nim",
-        "puter",
-        "openai-compatible",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.1.0",
-      "description": "Framework-agnostic AI client, one interface, two backends. Server: NVIDIA NIM (OpenAI-compatible, key from env NVIDIA_API_KEY, server-side only). Client: Puter.js (keyless, user-auths, :free models). Shared chat(messages, opts) contract.",
-      "sanitized_name": "@chirag127/ai",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T04:23:53.144Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/ai"
-      }
-    },
-    "score": {
-      "final": 47.174145,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
       "monthly": 206,
       "weekly": 28
     },
     "dependents": 0,
     "updated": "2026-10-26T07:16:13.189Z",
-    "searchScore": 25.599209,
+    "searchScore": 25.68902,
     "package": {
       "name": "@chirag127/oriz-ai-providers",
       "keywords": [
@@ -103,7 +48,7 @@
       }
     },
     "score": {
-      "final": 25.599209,
+      "final": 25.68902,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -116,868 +61,12 @@
   },
   {
     "downloads": {
-      "monthly": 144,
-      "weekly": 21
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T10:46:10.075Z",
-    "searchScore": 23.49094,
-    "package": {
-      "name": "@chirag127/oz-ai",
-      "keywords": [
-        "g4f",
-        "gpt4free",
-        "ai",
-        "llm",
-        "chat",
-        "no-key",
-        "failover",
-        "openai-compatible",
-        "oriz",
-        "design-system",
-        "framework-agnostic"
-      ],
-      "version": "0.3.3",
-      "description": "Single client-side AI client for the fleet — wraps g4f (@gpt4free/g4f.dev) with multi-provider failover (default auto-router → DeepInfra → Puter). Framework-agnostic TS. chat/complete/vision/image/listModels, streaming, AbortSignal. Change the provider st",
-      "sanitized_name": "@chirag127/oz-ai",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-17T10:00:29.177Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oz-ai"
-      }
-    },
-    "score": {
-      "final": 23.49094,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 103,
-      "weekly": 11
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T11:01:09.622Z",
-    "searchScore": 22.480738,
-    "package": {
-      "name": "@chirag127/astro-chrome",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.7",
-      "description": "Shared visual chrome for chirag127 Astro sites — Header / Footer / Wordmark / AccountPanel / FinishSignIn / MultiSearch / StatusBanner / ConsentBanner / LegalFooter. Mobile-first responsive at 320/768/1024/1440. Peer-deps on @chirag127/astro-shell.",
-      "sanitized_name": "@chirag127/astro-chrome",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T09:37:39.921Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-chrome-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-chrome-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-chrome-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-chrome"
-      }
-    },
-    "score": {
-      "final": 22.480738,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 78,
-      "weekly": 18
-    },
-    "dependents": 0,
-    "updated": "2026-10-21T06:31:10.076Z",
-    "searchScore": 20.197195,
-    "package": {
-      "name": "@chirag127/astro-shell",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.4.0",
-      "description": "Astro 6 base layer â€” shell() defineConfig wrapper + OrizSiteConfig type + integrations preset (React + sitemap + MDX) + Tailwind v4 vite plugin + reusable Cloudflare Pages deploy workflow + design tokens + dynamic family-data registry (FAMILY_APPS / FAM",
-      "sanitized_name": "@chirag127/astro-shell",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-24T05:07:06.156Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-shell-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-shell-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-shell-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-shell"
-      }
-    },
-    "score": {
-      "final": 20.197195,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 76,
-      "weekly": 17
-    },
-    "dependents": "1",
-    "updated": "2026-10-20T07:06:33.737Z",
-    "searchScore": 20.058577,
-    "package": {
-      "name": "@chirag127/keyless-kilo",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "kilo",
-        "kilo-gateway",
-        "openai-compatible",
-        "keyless",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.3.0",
-      "description": "Keyless Kilo Gateway client. OpenAI-compatible chat over https://api.kilo.ai/api/gateway, no API key. Framework-agnostic (Node + browser via global fetch). ~200 req/hr per IP.",
-      "sanitized_name": "@chirag127/keyless-kilo",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T06:15:21.604Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/keyless-kilo"
-      }
-    },
-    "score": {
-      "final": 20.058577,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 71,
-      "weekly": 9
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T08:21:10.578Z",
-    "searchScore": 19.827864,
-    "package": {
-      "name": "@chirag127/oriz-ui",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "ui",
-        "astro",
-        "contact-form",
-        "components"
-      ],
-      "version": "0.1.0",
-      "description": "Shared Oriz UI — ContactForm + widgets used across the chirag127/oriz* family.",
-      "sanitized_name": "@chirag127/oriz-ui",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:55:11.757Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-ui-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-ui-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-ui-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-ui"
-      }
-    },
-    "score": {
-      "final": 19.827864,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 66,
-      "weekly": 15
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T17:21:11.359Z",
-    "searchScore": 19.327194,
-    "package": {
-      "name": "@chirag127/mdv-mcp",
-      "keywords": [
-        "mcp",
-        "model-context-protocol",
-        "obsidian",
-        "markdown",
-        "vault",
-        "semantic-search",
-        "embeddings",
-        "nvidia",
-        "nemotron",
-        "okf",
-        "knowledge-management",
-        "ai"
-      ],
-      "version": "2.0.0",
-      "description": "Local MCP server for Obsidian/markdown vaults. NVIDIA nemotron-3-embed-1b semantic search, pure-JS int8 vector store, OKF frontmatter, wikilinks, memory, live file watcher.",
-      "sanitized_name": "@chirag127/mdv-mcp",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-07-27T16:20:06.791Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/mdv-mcp#readme",
-        "repository": "git+https://github.com/chirag127/mdv-mcp.git",
-        "bugs": "https://github.com/chirag127/mdv-mcp/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/mdv-mcp"
-      }
-    },
-    "score": {
-      "final": 19.327194,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 53,
-      "weekly": 15
-    },
-    "dependents": "1",
-    "updated": "2026-10-20T08:01:29.760Z",
-    "searchScore": 18.568354,
-    "package": {
-      "name": "@chirag127/keyless-pollinations",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "pollinations",
-        "openai-compatible",
-        "keyless",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.3.0",
-      "description": "Keyless Pollinations text client. OpenAI-compatible, no API key. chat(messages, opts) -> string against https://text.pollinations.ai/openai. Framework-agnostic (Node + browser via global fetch).",
-      "sanitized_name": "@chirag127/keyless-pollinations",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T06:15:13.947Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/keyless-pollinations"
-      }
-    },
-    "score": {
-      "final": 18.568354,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 40,
-      "weekly": 1
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T08:01:15.450Z",
-    "searchScore": 18.161575,
-    "package": {
-      "name": "@chirag127/oriz-rate-limit",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "rate-limit",
-        "token-bucket",
-        "cloudflare-kv",
-        "durable-objects",
-        "edge"
-      ],
-      "version": "0.1.0",
-      "description": "Per-user usage caps for Free/Pro/Max tiers (10/100/unlimited requests per day). Edge-friendly token bucket built on Cloudflare KV / Durable Objects.",
-      "sanitized_name": "@chirag127/oriz-rate-limit",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:36:39.276Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-rate-limit-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-rate-limit-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-rate-limit-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-rate-limit"
-      }
-    },
-    "score": {
-      "final": 18.161575,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 46,
-      "weekly": 13
-    },
-    "dependents": "0",
-    "updated": "2026-10-20T07:11:38.394Z",
-    "searchScore": 17.880491,
-    "package": {
-      "name": "@chirag127/keyless-ai",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "failover",
-        "fallback",
-        "openai-compatible",
-        "keyless",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.3.0",
-      "description": "Keyless AI failover meta-client. Tries 3 keyless OpenAI-compatible providers (kilo -> ovh -> pollinations) best-first; chat(messages, opts) -> string returns the first success, throws only if all fail. No API key. Framework-agnostic (Node + browser via gl",
-      "sanitized_name": "@chirag127/keyless-ai",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T06:15:52.900Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/keyless-ai"
-      }
-    },
-    "score": {
-      "final": 17.880491,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 45,
-      "weekly": 16
-    },
-    "dependents": 0,
-    "updated": "2026-10-20T07:11:38.065Z",
-    "searchScore": 17.762041,
-    "package": {
-      "name": "@chirag127/keyless-opencode-zen",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "opencode",
-        "opencode-zen",
-        "openai-compatible",
-        "keyless",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.3.0",
-      "description": "Keyless OpenCode Zen client — OpenAI-compatible chat() over https://opencode.ai/zen/v1, no API key. Free models only.",
-      "sanitized_name": "@chirag127/keyless-opencode-zen",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T06:15:25.074Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/keyless-opencode-zen"
-      }
-    },
-    "score": {
-      "final": 17.762041,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 42,
-      "weekly": 1
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T08:01:09.022Z",
-    "searchScore": 17.544104,
-    "package": {
-      "name": "@chirag127/oriz-consent",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "consent",
-        "gdpr",
-        "dpdp",
-        "gpc",
-        "klaro",
-        "cookie-banner"
-      ],
-      "version": "0.1.0",
-      "description": "Klaro-based consent manager covering EU GDPR + UK + India DPDP + US GPC (Global Privacy Control) signals. Cookie banner + preference center.",
-      "sanitized_name": "@chirag127/oriz-consent",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:37:01.283Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-consent-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-consent-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-consent-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-consent"
-      }
-    },
-    "score": {
-      "final": 17.544104,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 44,
+      "monthly": 156,
       "weekly": 5
     },
     "dependents": 0,
-    "updated": "2026-10-19T08:01:08.461Z",
-    "searchScore": 17.167324,
-    "package": {
-      "name": "@chirag127/oriz-analytics",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "analytics",
-        "ga4",
-        "cloudflare-analytics",
-        "clarity",
-        "sentry"
-      ],
-      "version": "0.1.0",
-      "description": "Single wrapper around Cloudflare Web Analytics + GA4 + Microsoft Clarity + Sentry. One init() call, four backends, zero PII.",
-      "sanitized_name": "@chirag127/oriz-analytics",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:36:37.535Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-analytics-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-analytics-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-analytics-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-analytics"
-      }
-    },
-    "score": {
-      "final": 17.167324,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 38,
-      "weekly": 1
-    },
-    "dependents": 0,
-    "updated": "2026-10-25T18:36:09.288Z",
-    "searchScore": 17.000826,
-    "package": {
-      "name": "@chirag127/astro-data",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.1",
-      "description": "Data-fetching primitives — TanStack Query setup, typed Firestore helpers, LocalStorage hooks.",
-      "sanitized_name": "@chirag127/astro-data",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-21T17:05:49.184Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-data-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-data-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-data-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-data"
-      }
-    },
-    "score": {
-      "final": 17.000826,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 37,
-      "weekly": 10
-    },
-    "dependents": "1",
-    "updated": "2026-10-20T08:01:46.097Z",
-    "searchScore": 16.859444,
-    "package": {
-      "name": "@chirag127/keyless-ovh",
-      "keywords": [
-        "ai",
-        "llm",
-        "chat",
-        "ovhcloud",
-        "ovh-ai-endpoints",
-        "openai-compatible",
-        "keyless",
-        "no-key",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.3.0",
-      "description": "Keyless OVHcloud AI Endpoints client. OpenAI-compatible chat completions, no API key. chat(messages, opts) -> string; exports MODELS + DEFAULT_MODEL. Framework-agnostic (Node + browser via global fetch).",
-      "sanitized_name": "@chirag127/keyless-ovh",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-11T06:15:17.942Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/design-system#readme",
-        "repository": "git+https://github.com/chirag127/design-system.git",
-        "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/keyless-ovh"
-      }
-    },
-    "score": {
-      "final": 16.859444,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 39,
-      "weekly": 0
-    },
-    "dependents": 0,
-    "updated": "2026-10-19T08:01:07.927Z",
-    "searchScore": 16.537302,
-    "package": {
-      "name": "@chirag127/oriz-seo",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "seo",
-        "sitemap",
-        "indexnow",
-        "json-ld",
-        "og-image",
-        "satori"
-      ],
-      "version": "0.1.0",
-      "description": "Sitemap.xml + IndexNow ping + JSON-LD structured data + dynamic OG image generation via satori. SEO toolkit for Astro/Next sites.",
-      "sanitized_name": "@chirag127/oriz-seo",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:36:41.719Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-seo-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-seo-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-seo-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-seo"
-      }
-    },
-    "score": {
-      "final": 16.537302,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 37,
-      "weekly": 5
-    },
-    "dependents": 0,
-    "updated": "2026-10-25T14:56:12.852Z",
-    "searchScore": 16.280178,
-    "package": {
-      "name": "@chirag127/astro-test-utils",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "testing",
-        "vitest",
-        "playwright",
-        "msw"
-      ],
-      "version": "0.1.1",
-      "description": "Common Vitest + Playwright + MSW + Firebase test fixtures for the chirag127/oriz family. Thin wrapper over @firebase/rules-unit-testing, msw, @playwright/test.",
-      "sanitized_name": "@chirag127/astro-test-utils",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T13:26:16.235Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/astro-test-utils-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/astro-test-utils-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/astro-test-utils-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/astro-test-utils"
-      }
-    },
-    "score": {
-      "final": 16.280178,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 27,
-      "weekly": 4
-    },
-    "dependents": 0,
-    "updated": "2026-10-20T07:11:33.487Z",
-    "searchScore": 14.641384,
+    "updated": "2026-10-27T07:16:13.483Z",
+    "searchScore": 23.446943,
     "package": {
       "name": "envpact-mcp",
       "keywords": [
@@ -1016,7 +105,423 @@
       }
     },
     "score": {
-      "final": 14.641384,
+      "final": 23.446943,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 104,
+      "weekly": 35
+    },
+    "dependents": 0,
+    "updated": "2026-10-26T10:51:08.394Z",
+    "searchScore": 21.305027,
+    "package": {
+      "name": "@chirag127/oz-ai",
+      "keywords": [
+        "g4f",
+        "gpt4free",
+        "ai",
+        "llm",
+        "chat",
+        "no-key",
+        "failover",
+        "openai-compatible",
+        "oriz",
+        "design-system",
+        "framework-agnostic"
+      ],
+      "version": "0.3.3",
+      "description": "Single client-side AI client for the fleet — wraps g4f (@gpt4free/g4f.dev) with multi-provider failover (default auto-router → DeepInfra → Puter). Framework-agnostic TS. chat/complete/vision/image/listModels, streaming, AbortSignal. Change the provider st",
+      "sanitized_name": "@chirag127/oz-ai",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-17T10:00:29.177Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oz-ai"
+      }
+    },
+    "score": {
+      "final": 21.305027,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 63,
+      "weekly": 8
+    },
+    "dependents": 0,
+    "updated": "2026-10-26T11:06:37.149Z",
+    "searchScore": 19.904016,
+    "package": {
+      "name": "@chirag127/astro-chrome",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.7",
+      "description": "Shared visual chrome for chirag127 Astro sites — Header / Footer / Wordmark / AccountPanel / FinishSignIn / MultiSearch / StatusBanner / ConsentBanner / LegalFooter. Mobile-first responsive at 320/768/1024/1440. Peer-deps on @chirag127/astro-shell.",
+      "sanitized_name": "@chirag127/astro-chrome",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-22T09:37:39.921Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-chrome-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-chrome-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-chrome-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-chrome"
+      }
+    },
+    "score": {
+      "final": 19.904016,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 78,
+      "weekly": 18
+    },
+    "dependents": 0,
+    "updated": "2026-10-21T06:31:10.076Z",
+    "searchScore": 19.794937,
+    "package": {
+      "name": "@chirag127/astro-shell",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.4.0",
+      "description": "Astro 6 base layer â€” shell() defineConfig wrapper + OrizSiteConfig type + integrations preset (React + sitemap + MDX) + Tailwind v4 vite plugin + reusable Cloudflare Pages deploy workflow + design tokens + dynamic family-data registry (FAMILY_APPS / FAM",
+      "sanitized_name": "@chirag127/astro-shell",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-24T05:07:06.156Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-shell-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-shell-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-shell-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-shell"
+      }
+    },
+    "score": {
+      "final": 19.794937,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 53,
+      "weekly": 15
+    },
+    "dependents": "1",
+    "updated": "2026-10-20T08:01:29.760Z",
+    "searchScore": 18.819881,
+    "package": {
+      "name": "@chirag127/keyless-pollinations",
+      "keywords": [
+        "ai",
+        "llm",
+        "chat",
+        "pollinations",
+        "openai-compatible",
+        "keyless",
+        "no-key",
+        "framework-agnostic",
+        "design-system"
+      ],
+      "version": "0.3.0",
+      "description": "Keyless Pollinations text client. OpenAI-compatible, no API key. chat(messages, opts) -> string against https://text.pollinations.ai/openai. Framework-agnostic (Node + browser via global fetch).",
+      "sanitized_name": "@chirag127/keyless-pollinations",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-11T06:15:13.947Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/keyless-pollinations"
+      }
+    },
+    "score": {
+      "final": 18.819881,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 38,
+      "weekly": 1
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T18:36:09.288Z",
+    "searchScore": 17.231152,
+    "package": {
+      "name": "@chirag127/astro-data",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.1",
+      "description": "Data-fetching primitives — TanStack Query setup, typed Firestore helpers, LocalStorage hooks.",
+      "sanitized_name": "@chirag127/astro-data",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-21T17:05:49.184Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-data-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-data-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-data-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-data"
+      }
+    },
+    "score": {
+      "final": 17.231152,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 37,
+      "weekly": 10
+    },
+    "dependents": "1",
+    "updated": "2026-10-20T08:01:46.097Z",
+    "searchScore": 16.983368,
+    "package": {
+      "name": "@chirag127/keyless-ovh",
+      "keywords": [
+        "ai",
+        "llm",
+        "chat",
+        "ovhcloud",
+        "ovh-ai-endpoints",
+        "openai-compatible",
+        "keyless",
+        "no-key",
+        "framework-agnostic",
+        "design-system"
+      ],
+      "version": "0.3.0",
+      "description": "Keyless OVHcloud AI Endpoints client. OpenAI-compatible chat completions, no API key. chat(messages, opts) -> string; exports MODELS + DEFAULT_MODEL. Framework-agnostic (Node + browser via global fetch).",
+      "sanitized_name": "@chirag127/keyless-ovh",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-11T06:15:17.942Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/keyless-ovh"
+      }
+    },
+    "score": {
+      "final": 16.983368,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 37,
+      "weekly": 5
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T14:56:12.852Z",
+    "searchScore": 16.470226,
+    "package": {
+      "name": "@chirag127/astro-test-utils",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "testing",
+        "vitest",
+        "playwright",
+        "msw"
+      ],
+      "version": "0.1.1",
+      "description": "Common Vitest + Playwright + MSW + Firebase test fixtures for the chirag127/oriz family. Thin wrapper over @firebase/rules-unit-testing, msw, @playwright/test.",
+      "sanitized_name": "@chirag127/astro-test-utils",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T13:26:16.235Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-test-utils-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-test-utils-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-test-utils-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-test-utils"
+      }
+    },
+    "score": {
+      "final": 16.470226,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 28,
+      "weekly": 0
+    },
+    "dependents": 0,
+    "updated": "2026-10-26T08:26:13.828Z",
+    "searchScore": 14.978746,
+    "package": {
+      "name": "@chirag127/oriz-ui",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "ui",
+        "astro",
+        "contact-form",
+        "components"
+      ],
+      "version": "0.1.0",
+      "description": "Shared Oriz UI — ContactForm + widgets used across the chirag127/oriz* family.",
+      "sanitized_name": "@chirag127/oriz-ui",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-22T06:55:11.757Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oriz-ui-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/oriz-ui-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/oriz-ui-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oriz-ui"
+      }
+    },
+    "score": {
+      "final": 14.978746,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1034,7 +539,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-24T09:51:10.651Z",
-    "searchScore": 14.431019,
+    "searchScore": 14.496977,
     "package": {
       "name": "secenv-mcp",
       "keywords": [
@@ -1070,7 +575,7 @@
       }
     },
     "score": {
-      "final": 14.431019,
+      "final": 14.496977,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1088,7 +593,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-25T18:26:09.427Z",
-    "searchScore": 13.619219,
+    "searchScore": 13.778204,
     "package": {
       "name": "@chirag127/oriz-book-build",
       "keywords": [
@@ -1126,7 +631,7 @@
       }
     },
     "score": {
-      "final": 13.619219,
+      "final": 13.778204,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1144,7 +649,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-21T00:46:36.075Z",
-    "searchScore": 13.385959,
+    "searchScore": 13.542221,
     "package": {
       "name": "@chirag127/astro-billing",
       "keywords": [
@@ -1177,7 +682,7 @@
       }
     },
     "score": {
-      "final": 13.385959,
+      "final": 13.542221,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1195,7 +700,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-23T13:56:11.207Z",
-    "searchScore": 13.3440895,
+    "searchScore": 13.524874,
     "package": {
       "name": "@chirag127/oz-tokens-base",
       "keywords": [
@@ -1230,7 +735,7 @@
       }
     },
     "score": {
-      "final": 13.3440895,
+      "final": 13.524874,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1248,7 +753,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-23T13:56:09.397Z",
-    "searchScore": 12.887363,
+    "searchScore": 13.037805,
     "package": {
       "name": "@chirag127/oz-chrome",
       "keywords": [
@@ -1282,62 +787,7 @@
       }
     },
     "score": {
-      "final": 12.887363,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 19,
-      "weekly": 6
-    },
-    "dependents": 0,
-    "updated": "2026-10-23T13:56:07.615Z",
-    "searchScore": 12.874149,
-    "package": {
-      "name": "@chirag127/oz-file",
-      "keywords": [
-        "file",
-        "filereader",
-        "download",
-        "drag-drop",
-        "dropzone",
-        "print-to-pdf",
-        "format-bytes",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.1.0",
-      "description": "Framework-agnostic browser file helpers: FileReader promises, Blob download, drag-drop wiring, scoped print-to-PDF, byte formatting. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
-      "sanitized_name": "@chirag127/oz-file",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-07T13:00:10.422Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oz-file#readme",
-        "repository": "git+https://github.com/chirag127/oz-file.git",
-        "bugs": "https://github.com/chirag127/oz-file/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oz-file"
-      }
-    },
-    "score": {
-      "final": 12.874149,
+      "final": 13.037805,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1355,7 +805,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-26T06:16:12.948Z",
-    "searchScore": 12.776114,
+    "searchScore": 12.949204,
     "package": {
       "name": "@chirag127/omni-publish",
       "keywords": [
@@ -1397,7 +847,7 @@
       }
     },
     "score": {
-      "final": 12.776114,
+      "final": 12.949204,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1415,7 +865,7 @@
     },
     "dependents": "3",
     "updated": "2026-10-21T08:26:47.600Z",
-    "searchScore": 12.619955,
+    "searchScore": 12.767275,
     "package": {
       "name": "@chirag127/tokens",
       "keywords": [
@@ -1448,7 +898,62 @@
       }
     },
     "score": {
-      "final": 12.619955,
+      "final": 12.767275,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 19,
+      "weekly": 6
+    },
+    "dependents": 0,
+    "updated": "2026-10-23T13:56:07.615Z",
+    "searchScore": 12.617741,
+    "package": {
+      "name": "@chirag127/oz-file",
+      "keywords": [
+        "file",
+        "filereader",
+        "download",
+        "drag-drop",
+        "dropzone",
+        "print-to-pdf",
+        "format-bytes",
+        "framework-agnostic",
+        "design-system"
+      ],
+      "version": "0.1.0",
+      "description": "Framework-agnostic browser file helpers: FileReader promises, Blob download, drag-drop wiring, scoped print-to-PDF, byte formatting. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
+      "sanitized_name": "@chirag127/oz-file",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-07T13:00:10.422Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oz-file#readme",
+        "repository": "git+https://github.com/chirag127/oz-file.git",
+        "bugs": "https://github.com/chirag127/oz-file/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oz-file"
+      }
+    },
+    "score": {
+      "final": 12.617741,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1466,7 +971,7 @@
     },
     "dependents": 0,
     "updated": "2026-10-22T22:46:12.782Z",
-    "searchScore": 12.408793,
+    "searchScore": 12.452328,
     "package": {
       "name": "@chirag127/okf-knowledge-mcp",
       "keywords": [
@@ -1498,7 +1003,7 @@
       }
     },
     "score": {
-      "final": 12.408793,
+      "final": 12.452328,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1511,24 +1016,24 @@
   },
   {
     "downloads": {
-      "monthly": 15,
-      "weekly": 5
+      "monthly": 14,
+      "weekly": 3
     },
-    "dependents": 0,
-    "updated": "2026-10-20T08:41:09.229Z",
-    "searchScore": 11.717199,
+    "dependents": "2",
+    "updated": "2026-10-21T12:17:14.448Z",
+    "searchScore": 11.808282,
     "package": {
-      "name": "@chirag127/react",
+      "name": "@chirag127/theme",
       "keywords": [
-        "react",
-        "web-components",
+        "theme",
+        "css",
         "design-system",
-        "atoms",
+        "web-components",
         "framework-agnostic"
       ],
       "version": "0.2.0",
-      "description": "React wrappers for @chirag127/atoms web components. Thin typed components — zero extra runtime, peer-deps react only.",
-      "sanitized_name": "@chirag127/react",
+      "description": "Ready-to-use framework-agnostic themes built on @chirag127/tokens. Pick an archetype (editorial, marketing, dashboard, docs) and every component — yours or @chirag127/atoms — takes that site's distinct look.",
+      "sanitized_name": "@chirag127/theme",
       "publisher": {
         "email": "whyiswhen@gmail.com",
         "username": "chirag127"
@@ -1540,16 +1045,16 @@
         }
       ],
       "license": "MIT",
-      "date": "2026-08-11T07:50:38.102Z",
+      "date": "2026-08-05T07:31:43.095Z",
       "links": {
         "homepage": "https://github.com/chirag127/design-system#readme",
         "repository": "git+https://github.com/chirag127/design-system.git",
         "bugs": "https://github.com/chirag127/design-system/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/react"
+        "npm": "https://www.npmjs.com/package/@chirag127/theme"
       }
     },
     "score": {
-      "final": 11.717199,
+      "final": 11.808282,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1567,7 +1072,7 @@
     },
     "dependents": "1",
     "updated": "2026-10-21T08:26:10.512Z",
-    "searchScore": 11.699436,
+    "searchScore": 11.752909,
     "package": {
       "name": "@chirag127/a11y",
       "keywords": [
@@ -1602,7 +1107,465 @@
       }
     },
     "score": {
-      "final": 11.699436,
+      "final": 11.752909,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 13,
+      "weekly": 1
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T14:01:08.165Z",
+    "searchScore": 11.520224,
+    "package": {
+      "name": "@chirag127/auth-wxt",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.0",
+      "description": "Browser-extension auth — chrome.identity.launchWebAuthFlow bouncing through auth.oriz.in, ID-token in chrome.storage.local. Chrome / Firefox / Edge via @wxt-dev/browser. Peer-deps on @chirag127/auth-core.",
+      "sanitized_name": "@chirag127/auth-wxt",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T12:33:10.374Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/auth-wxt-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/auth-wxt-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/auth-wxt-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/auth-wxt"
+      }
+    },
+    "score": {
+      "final": 11.520224,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 14,
+      "weekly": 4
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T14:01:10.674Z",
+    "searchScore": 11.501791,
+    "package": {
+      "name": "@chirag127/auth-core",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.0",
+      "description": "Cross-surface auth primitives — auth.oriz.in URL helpers, Firebase ID-token verify, refresh logic. Runtime-agnostic. Peer-dep of auth-wxt / auth-vsc / auth-cli.",
+      "sanitized_name": "@chirag127/auth-core",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T12:33:06.342Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/auth-core-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/auth-core-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/auth-core-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/auth-core"
+      }
+    },
+    "score": {
+      "final": 11.501791,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 15,
+      "weekly": 5
+    },
+    "dependents": 0,
+    "updated": "2026-10-20T08:41:09.229Z",
+    "searchScore": 11.483832,
+    "package": {
+      "name": "@chirag127/react",
+      "keywords": [
+        "react",
+        "web-components",
+        "design-system",
+        "atoms",
+        "framework-agnostic"
+      ],
+      "version": "0.2.0",
+      "description": "React wrappers for @chirag127/atoms web components. Thin typed components — zero extra runtime, peer-deps react only.",
+      "sanitized_name": "@chirag127/react",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-11T07:50:38.102Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/react"
+      }
+    },
+    "score": {
+      "final": 11.483832,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 13,
+      "weekly": 3
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T14:01:09.365Z",
+    "searchScore": 11.441794,
+    "package": {
+      "name": "@chirag127/auth-cli",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.0",
+      "description": "CLI auth — Firebase OAuth device-code flow + token store at ~/.config/oriz/auth.json + refresh on 401. Peer-deps on @chirag127/auth-core.",
+      "sanitized_name": "@chirag127/auth-cli",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T12:33:18.461Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/auth-cli-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/auth-cli-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/auth-cli-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/auth-cli"
+      }
+    },
+    "score": {
+      "final": 11.441794,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 11,
+      "weekly": 3
+    },
+    "dependents": 0,
+    "updated": "2026-10-21T08:26:08.962Z",
+    "searchScore": 11.208227,
+    "package": {
+      "name": "@chirag127/data-firebase",
+      "keywords": [
+        "firebase",
+        "firestore",
+        "data-adapter",
+        "user-data",
+        "oriz",
+        "design-system",
+        "framework-agnostic"
+      ],
+      "version": "0.2.0",
+      "description": "Thin framework-agnostic Firebase Firestore adapter for small user-data. Inits from PUBLIC_FIREBASE_* env, exposes tiny getDoc/setDoc/onSnapshot wrappers. Never hardcodes secrets — config read from env or passed explicitly.",
+      "sanitized_name": "@chirag127/data-firebase",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-05T07:30:57.693Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/data-firebase"
+      }
+    },
+    "score": {
+      "final": 11.208227,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 11,
+      "weekly": 3
+    },
+    "dependents": 0,
+    "updated": "2026-10-25T14:31:11.723Z",
+    "searchScore": 11.208227,
+    "package": {
+      "name": "@chirag127/astro-distribute",
+      "keywords": [
+        "chirag127",
+        "oriz"
+      ],
+      "version": "0.1.1",
+      "description": "Thin CLI wrapping PWABuilder (primary — AAB / MSIX / iOS-project) and optional Tauri for desktop EXE/dmg/AppImage from one Astro build.",
+      "sanitized_name": "@chirag127/astro-distribute",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "SEE LICENSE IN LICENSE",
+      "date": "2026-06-21T13:00:53.736Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/astro-distribute-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/astro-distribute-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/astro-distribute-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-distribute"
+      }
+    },
+    "score": {
+      "final": 11.208227,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 13,
+      "weekly": 3
+    },
+    "dependents": "2",
+    "updated": "2026-10-21T08:26:15.761Z",
+    "searchScore": 11.144816,
+    "package": {
+      "name": "@chirag127/atoms",
+      "keywords": [
+        "web-components",
+        "atoms",
+        "ui",
+        "design-system",
+        "framework-agnostic",
+        "vanilla-js"
+      ],
+      "version": "0.2.0",
+      "description": "Framework-agnostic atomic web components (buttons, chips, cards, badges, fields, nav links, prose). Vanilla custom elements, zero dependencies — they restyle automatically under any @chirag127/theme archetype.",
+      "sanitized_name": "@chirag127/atoms",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-05T07:30:28.028Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/design-system#readme",
+        "repository": "git+https://github.com/chirag127/design-system.git",
+        "bugs": "https://github.com/chirag127/design-system/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/atoms"
+      }
+    },
+    "score": {
+      "final": 11.144816,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 13,
+      "weekly": 6
+    },
+    "dependents": 0,
+    "updated": "2026-10-26T08:06:11.124Z",
+    "searchScore": 10.812194,
+    "package": {
+      "name": "@chirag127/oriz-analytics",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "analytics",
+        "ga4",
+        "cloudflare-analytics",
+        "clarity",
+        "sentry"
+      ],
+      "version": "0.1.0",
+      "description": "Single wrapper around Cloudflare Web Analytics + GA4 + Microsoft Clarity + Sentry. One init() call, four backends, zero PII.",
+      "sanitized_name": "@chirag127/oriz-analytics",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-22T06:36:37.535Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oriz-analytics-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/oriz-analytics-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/oriz-analytics-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oriz-analytics"
+      }
+    },
+    "score": {
+      "final": 10.812194,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 11,
+      "weekly": 2
+    },
+    "dependents": 0,
+    "updated": "2026-10-22T02:42:18.207Z",
+    "searchScore": 10.7664175,
+    "package": {
+      "name": "@chirag127/astro-analytics",
+      "keywords": [
+        "astro",
+        "analytics",
+        "cloudflare",
+        "clarity",
+        "posthog",
+        "google-analytics",
+        "ga4",
+        "sentry",
+        "umami",
+        "pirsch",
+        "plausible"
+      ],
+      "version": "1.1.0",
+      "description": "Multi-provider analytics for Astro — CF, Clarity, PostHog, GA4, Sentry, Umami, Pirsch, Plausible",
+      "sanitized_name": "@chirag127/astro-analytics",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-07-08T18:31:08.680Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/workspace#readme",
+        "repository": "git+https://github.com/chirag127/workspace.git",
+        "bugs": "https://github.com/chirag127/workspace/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/astro-analytics"
+      }
+    },
+    "score": {
+      "final": 10.7664175,
       "detail": {
         "popularity": 1,
         "quality": 1,
