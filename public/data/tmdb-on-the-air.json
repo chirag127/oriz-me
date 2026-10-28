@@ -7,47 +7,48 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.203,
-    "votes": 11102,
+    "rating": 8.2,
+    "votes": 11104,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 11181.5382
+    "popularity": 11266.9952
   },
   {
-    "id": 549,
-    "tmdb_id": 549,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.277,
-    "votes": 737,
-    "release": "1990-09-13",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.963,
+    "votes": 4391,
+    "release": "1999-09-20",
     "genres": [
       80,
-      18
+      18,
+      9648
     ],
-    "popularity": 482.8279
+    "popularity": 8034.9772
   },
   {
-    "id": 2190,
-    "tmdb_id": 2190,
+    "id": 456,
+    "tmdb_id": 456,
     "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.331,
-    "votes": 5223,
-    "release": "1997-08-13",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8,
+    "votes": 11113,
+    "release": "1989-12-17",
     "genres": [
-      35,
-      16
+      16,
+      35
     ],
-    "popularity": 419.7404
+    "popularity": 6372.4783
   },
   {
     "id": 22980,
@@ -64,7 +65,24 @@
       10767,
       35
     ],
-    "popularity": 505.4564
+    "popularity": 472.2007
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.3,
+    "votes": 737,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 334.195
   },
   {
     "id": 33238,
@@ -81,25 +99,24 @@
       35,
       10764
     ],
-    "popularity": 479.1178
+    "popularity": 471.3039
   },
   {
-    "id": 2734,
-    "tmdb_id": 2734,
+    "id": 2190,
+    "tmdb_id": 2190,
     "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 8,
-    "votes": 4390,
-    "release": "1999-09-20",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.33,
+    "votes": 5226,
+    "release": "1997-08-13",
     "genres": [
-      80,
-      18,
-      9648
+      35,
+      16
     ],
-    "popularity": 3483.7054
+    "popularity": 177.0484
   },
   {
     "id": 59941,
@@ -109,31 +126,14 @@
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.8,
-    "votes": 396,
+    "rating": 5.797,
+    "votes": 397,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 371.7361
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.026,
-    "votes": 11110,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 3020.9367
+    "popularity": 349.2889
   },
   {
     "id": 4614,
@@ -143,32 +143,15 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.6,
-    "votes": 2600,
+    "rating": 7.615,
+    "votes": 2602,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 314.003
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.674,
-    "votes": 184,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 279.086
+    "popularity": 305.8667
   },
   {
     "id": 247718,
@@ -178,14 +161,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.578,
-    "votes": 1104,
+    "rating": 8.59,
+    "votes": 1114,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 302.0168
+    "popularity": 287.5762
   },
   {
     "id": 61818,
@@ -202,7 +185,25 @@
       10767,
       35
     ],
-    "popularity": 285.0656
+    "popularity": 268.4455
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.307,
+    "votes": 2882,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 262.4507
   },
   {
     "id": 2224,
@@ -219,25 +220,24 @@
       10763,
       35
     ],
-    "popularity": 272.7186
+    "popularity": 259.8001
   },
   {
-    "id": 153312,
-    "tmdb_id": 153312,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.305,
-    "votes": 2873,
-    "release": "2022-11-13",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.603,
+    "votes": 194,
+    "release": "2026-10-13",
     "genres": [
-      80,
-      18,
-      35
+      10765,
+      18
     ],
-    "popularity": 275.9773
+    "popularity": 266.3651
   },
   {
     "id": 72879,
@@ -255,7 +255,7 @@
       18,
       10766
     ],
-    "popularity": 261.0075
+    "popularity": 243.5267
   },
   {
     "id": 206559,
@@ -271,7 +271,7 @@
     "genres": [
       10766
     ],
-    "popularity": 243.0389
+    "popularity": 235.1623
   },
   {
     "id": 4656,
@@ -287,7 +287,7 @@
     "genres": [
       10764
     ],
-    "popularity": 225.4014
+    "popularity": 212.9567
   },
   {
     "id": 2661,
@@ -305,7 +305,7 @@
       10765,
       18
     ],
-    "popularity": 215.5817
+    "popularity": 215.1615
   },
   {
     "id": 291,
@@ -321,7 +321,7 @@
     "genres": [
       10766
     ],
-    "popularity": 207.2553
+    "popularity": 194.2983
   },
   {
     "id": 44006,
@@ -331,12 +331,12 @@
     "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
     "poster": "https://image.tmdb.org/t/p/w342/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-    "rating": 8.4,
-    "votes": 2456,
+    "rating": 8.411,
+    "votes": 2458,
     "release": "2012-10-10",
     "genres": [
       18
     ],
-    "popularity": 182.1399
+    "popularity": 182.4735
   }
 ]

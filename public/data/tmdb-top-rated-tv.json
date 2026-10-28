@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
     "rating": 9.654,
-    "votes": 327,
+    "votes": 338,
     "release": "2026-10-11",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 171.2826
+    "popularity": 148.0298
   },
   {
     "id": 276161,
@@ -33,7 +33,7 @@
       18,
       35
     ],
-    "popularity": 50.9233
+    "popularity": 52.2593
   },
   {
     "id": 299167,
@@ -44,13 +44,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
     "rating": 9.136,
-    "votes": 645,
+    "votes": 647,
     "release": "2026-05-15",
     "genres": [
       37,
       18
     ],
-    "popularity": 39.2109
+    "popularity": 37.9776
   },
   {
     "id": 229544,
@@ -69,7 +69,7 @@
       9648,
       10765
     ],
-    "popularity": 13.4802
+    "popularity": 13.6982
   },
   {
     "id": 278573,
@@ -86,7 +86,7 @@
       35,
       18
     ],
-    "popularity": 20.6223
+    "popularity": 20.7519
   },
   {
     "id": 1396,
@@ -97,13 +97,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
     "rating": 8.958,
-    "votes": 18968,
+    "votes": 18977,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 422.9282
+    "popularity": 211.7141
   },
   {
     "id": 273240,
@@ -113,13 +113,13 @@
     "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
     "poster": "https://image.tmdb.org/t/p/w342/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
-    "rating": 8.9,
-    "votes": 897,
+    "rating": 8.87,
+    "votes": 899,
     "release": "2026-05-13",
     "genres": [
       18
     ],
-    "popularity": 44.1267
+    "popularity": 44.8476
   },
   {
     "id": 214999,
@@ -136,7 +136,7 @@
       18,
       35
     ],
-    "popularity": 11.5794
+    "popularity": 12.526
   },
   {
     "id": 85077,
@@ -146,15 +146,15 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-    "rating": 8.8,
-    "votes": 1037,
+    "rating": 8.844,
+    "votes": 1039,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 96.8942
+    "popularity": 89.4925
   },
   {
     "id": 322430,
@@ -171,7 +171,7 @@
       18,
       10766
     ],
-    "popularity": 19.0948
+    "popularity": 18.2042
   },
   {
     "id": 209867,
@@ -190,7 +190,7 @@
       18,
       10765
     ],
-    "popularity": 101.6727
+    "popularity": 100.8061
   },
   {
     "id": 259666,
@@ -207,23 +207,7 @@
       18,
       35
     ],
-    "popularity": 12.5047
-  },
-  {
-    "id": 219246,
-    "tmdb_id": 219246,
-    "type": "tv",
-    "title": "When Life Gives You Tangerines",
-    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "rating": 8.801,
-    "votes": 613,
-    "release": "2025-03-07",
-    "genres": [
-      18
-    ],
-    "popularity": 31.2854
+    "popularity": 10.8412
   },
   {
     "id": 245026,
@@ -241,7 +225,23 @@
       10765,
       10751
     ],
-    "popularity": 24.9232
+    "popularity": 20.9616
+  },
+  {
+    "id": 219246,
+    "tmdb_id": 219246,
+    "type": "tv",
+    "title": "When Life Gives You Tangerines",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+    "rating": 8.801,
+    "votes": 613,
+    "release": "2025-03-07",
+    "genres": [
+      18
+    ],
+    "popularity": 33.7964
   },
   {
     "id": 246,
@@ -252,14 +252,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
     "rating": 8.785,
-    "votes": 5192,
+    "votes": 5197,
     "release": "2005-02-21",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 58.0436
+    "popularity": 67.1155
   },
   {
     "id": 284445,
@@ -269,15 +269,15 @@
     "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
     "poster": "https://image.tmdb.org/t/p/w342/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-    "rating": 8.8,
-    "votes": 214,
+    "rating": 8.772,
+    "votes": 215,
     "release": "2025-06-28",
     "genres": [
       16,
       18,
       10765
     ],
-    "popularity": 28.8234
+    "popularity": 27.7384
   },
   {
     "id": 259837,
@@ -288,7 +288,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
     "rating": 8.8,
-    "votes": 282,
+    "votes": 284,
     "release": "2026-05-15",
     "genres": [
       10759,
@@ -296,7 +296,7 @@
       10765,
       18
     ],
-    "popularity": 17.629
+    "popularity": 19.9649
   },
   {
     "id": 37854,
@@ -307,14 +307,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
     "rating": 8.754,
-    "votes": 5616,
+    "votes": 5617,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 84.2878
+    "popularity": 79.2949
   },
   {
     "id": 94605,
@@ -324,30 +324,30 @@
     "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
     "poster": "https://image.tmdb.org/t/p/w342/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-    "rating": 8.746,
-    "votes": 6269,
+    "rating": 8.745,
+    "votes": 6270,
     "release": "2021-11-06",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 66.3604
+    "popularity": 65.3299
   },
   {
-    "id": 250307,
-    "tmdb_id": 250307,
+    "id": 64010,
+    "tmdb_id": 64010,
     "type": "tv",
-    "title": "The Pitt",
-    "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-    "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-    "rating": 8.738,
-    "votes": 1032,
-    "release": "2025-01-09",
+    "title": "Reply 1988",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "poster": "https://image.tmdb.org/t/p/w342/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+    "rating": 8.7,
+    "votes": 232,
+    "release": "2015-11-06",
     "genres": [
-      18
+      35
     ],
-    "popularity": 87.8544
+    "popularity": 19.6906
   }
 ]
