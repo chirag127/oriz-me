@@ -7,15 +7,15 @@
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
     "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "rating": 8.7,
-    "votes": 689,
+    "rating": 8.664,
+    "votes": 690,
     "release": "2023-10-22",
     "genres": [
       16,
       18,
       9648
     ],
-    "popularity": 159.3399
+    "popularity": 129.5601
   },
   {
     "id": 96677,
@@ -25,34 +25,32 @@
     "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
     "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-    "rating": 7.7,
-    "votes": 2737,
+    "rating": 7.673,
+    "votes": 2744,
     "release": "2021-01-08",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 204.121
+    "popularity": 200.3304
   },
   {
-    "id": 105248,
-    "tmdb_id": 105248,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "Cyberpunk: Edgerunners",
-    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-    "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-    "rating": 8.506,
-    "votes": 2100,
-    "release": "2022-09-13",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "rating": 8.647,
+    "votes": 215,
+    "release": "2026-10-13",
     "genres": [
-      16,
-      10759,
       10765,
-      80
+      18
     ],
-    "popularity": 142.4258
+    "popularity": 325.1463
   },
   {
     "id": 120911,
@@ -62,117 +60,33 @@
     "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
     "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-    "rating": 8,
-    "votes": 1287,
+    "rating": 7.993,
+    "votes": 1293,
     "release": "2022-06-30",
     "genres": [
       10759,
       18
     ],
-    "popularity": 206.9865
+    "popularity": 203.5196
   },
   {
-    "id": 213375,
-    "tmdb_id": 213375,
+    "id": 105248,
+    "tmdb_id": 105248,
     "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.603,
-    "votes": 194,
-    "release": "2026-10-13",
+    "title": "Cyberpunk: Edgerunners",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+    "rating": 8.505,
+    "votes": 2103,
+    "release": "2022-09-13",
     "genres": [
+      16,
+      10759,
       10765,
-      18
+      80
     ],
-    "popularity": 266.3651
-  },
-  {
-    "id": 213562,
-    "tmdb_id": 213562,
-    "type": "tv",
-    "title": "Crystal Lake",
-    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-    "poster": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5z5yynwihKGkupR2bXIWxO1IZVZ.jpg",
-    "rating": 8.674,
-    "votes": 270,
-    "release": "2026-10-15",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 156.7128
-  },
-  {
-    "id": 300146,
-    "tmdb_id": 300146,
-    "type": "tv",
-    "title": "Where the Mask Ends",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "rating": 8.2,
-    "votes": 6,
-    "release": "2026-10-16",
-    "genres": [
-      18
-    ],
-    "popularity": 93.7942
-  },
-  {
-    "id": 95480,
-    "tmdb_id": 95480,
-    "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8.069,
-    "votes": 1086,
-    "release": "2022-04-01",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 249.1749
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.59,
-    "votes": 1114,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 287.5762
-  },
-  {
-    "id": 288673,
-    "tmdb_id": 288673,
-    "type": "tv",
-    "title": "Carrie",
-    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-    "rating": 8.3,
-    "votes": 487,
-    "release": "2026-10-07",
-    "genres": [
-      9648,
-      18,
-      10765
-    ],
-    "popularity": 138.8118
+    "popularity": 124.5631
   },
   {
     "id": 30984,
@@ -182,66 +96,101 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.4,
-    "votes": 2320,
+    "rating": 8.355,
+    "votes": 2322,
     "release": "2004-10-05",
     "genres": [
       10759,
       16,
       10765
     ],
-    "popularity": 180.0853
+    "popularity": 161.4895
   },
   {
-    "id": 2190,
-    "tmdb_id": 2190,
+    "id": 288673,
+    "tmdb_id": 288673,
     "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.33,
-    "votes": 5226,
-    "release": "1997-08-13",
+    "title": "Carrie",
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "rating": 8.273,
+    "votes": 495,
+    "release": "2026-10-07",
     "genres": [
-      35,
-      16
+      9648,
+      18,
+      10765
     ],
-    "popularity": 177.0484
+    "popularity": 129.6152
   },
   {
-    "id": 286171,
-    "tmdb_id": 286171,
+    "id": 213562,
+    "tmdb_id": 213562,
     "type": "tv",
-    "title": "Tigers Sniff the Rose",
-    "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
-    "poster": "https://image.tmdb.org/t/p/w342/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
-    "rating": 9.333,
-    "votes": 3,
-    "release": "2026-10-23",
+    "title": "Crystal Lake",
+    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "poster": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "rating": 8.678,
+    "votes": 276,
+    "release": "2026-10-15",
     "genres": [
+      18,
+      9648
+    ],
+    "popularity": 145.4443
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.595,
+    "votes": 1121,
+    "release": "2025-03-30",
+    "genres": [
+      80,
       18
     ],
-    "popularity": 18.917
+    "popularity": 279.6855
   },
   {
-    "id": 153312,
-    "tmdb_id": 153312,
+    "id": 95480,
+    "tmdb_id": 95480,
     "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.307,
-    "votes": 2882,
-    "release": "2022-11-13",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.072,
+    "votes": 1090,
+    "release": "2022-04-01",
     "genres": [
       80,
       18,
-      35
+      9648
     ],
-    "popularity": 262.4507
+    "popularity": 224.0788
+  },
+  {
+    "id": 316702,
+    "tmdb_id": 316702,
+    "type": "tv",
+    "title": "Final Table",
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "poster": "https://image.tmdb.org/t/p/w342/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+    "rating": 8.6,
+    "votes": 5,
+    "release": "2026-10-24",
+    "genres": [
+      18
+    ],
+    "popularity": 34.3372
   },
   {
     "id": 314360,
@@ -258,25 +207,59 @@
       18,
       10765
     ],
-    "popularity": 53.3156
+    "popularity": 50.7564
   },
   {
-    "id": 1413,
-    "tmdb_id": 1413,
+    "id": 37854,
+    "tmdb_id": 37854,
     "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.1,
-    "votes": 6271,
-    "release": "2011-10-05",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+    "rating": 8.8,
+    "votes": 5618,
+    "release": "1999-10-20",
     "genres": [
-      18,
-      9648,
-      10765
+      10759,
+      35,
+      16
     ],
-    "popularity": 165.7481
+    "popularity": 72.8641
+  },
+  {
+    "id": 300146,
+    "tmdb_id": 300146,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "rating": 8.2,
+    "votes": 6,
+    "release": "2026-10-16",
+    "genres": [
+      18
+    ],
+    "popularity": 97.123
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.309,
+    "votes": 2886,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 246.4695
   },
   {
     "id": 73223,
@@ -286,66 +269,82 @@
     "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
     "poster": "https://image.tmdb.org/t/p/w342/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "rating": 8.524,
-    "votes": 2271,
+    "rating": 8.5,
+    "votes": 2272,
     "release": "2017-10-03",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 47.2973
+    "popularity": 45.053
   },
   {
-    "id": 312359,
-    "tmdb_id": 312359,
+    "id": 286171,
+    "tmdb_id": 286171,
     "type": "tv",
-    "title": "Dragon Ball Super: Beerus",
-    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-    "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-    "rating": 9.654,
-    "votes": 338,
-    "release": "2026-10-11",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 148.0298
-  },
-  {
-    "id": 316702,
-    "tmdb_id": 316702,
-    "type": "tv",
-    "title": "Final Table",
-    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-    "poster": "https://image.tmdb.org/t/p/w342/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-    "rating": 8.6,
-    "votes": 5,
-    "release": "2026-10-24",
+    "title": "Tigers Sniff the Rose",
+    "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
+    "poster": "https://image.tmdb.org/t/p/w342/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+    "rating": 9.3,
+    "votes": 3,
+    "release": "2026-10-23",
     "genres": [
       18
     ],
-    "popularity": 34.4993
+    "popularity": 22.3421
   },
   {
-    "id": 275139,
-    "tmdb_id": 275139,
+    "id": 293610,
+    "tmdb_id": 293610,
     "type": "tv",
-    "title": "Phony",
-    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-    "poster": "https://image.tmdb.org/t/p/w342/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/AdFlgN6pKI6C481z2KshrQL204w.jpg",
-    "rating": 7.4,
-    "votes": 17,
-    "release": "2026-10-20",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "rating": 9.3,
+    "votes": 29,
+    "release": "2026-10-09",
+    "genres": [
+      9648,
+      18,
+      80
+    ],
+    "popularity": 55.7436
+  },
+  {
+    "id": 196322,
+    "tmdb_id": 196322,
+    "type": "tv",
+    "title": "Dark Matter",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+    "rating": 7.8,
+    "votes": 850,
+    "release": "2024-05-07",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 68.3567
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.3,
+    "votes": 5226,
+    "release": "1997-08-13",
     "genres": [
       35,
-      18,
-      9648
+      16
     ],
-    "popularity": 28.271
+    "popularity": 157.5845
   }
 ]

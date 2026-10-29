@@ -7,13 +7,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.2,
-    "votes": 11104,
+    "rating": 8.204,
+    "votes": 11105,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 11266.9952
+    "popularity": 8341.9286
   },
   {
     "id": 2734,
@@ -23,15 +23,15 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.963,
-    "votes": 4391,
+    "rating": 7.961,
+    "votes": 4393,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 8034.9772
+    "popularity": 6186.5542
   },
   {
     "id": 456,
@@ -42,13 +42,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8,
-    "votes": 11113,
+    "votes": 11114,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 6372.4783
+    "popularity": 5164.2022
   },
   {
     "id": 22980,
@@ -65,24 +65,7 @@
       10767,
       35
     ],
-    "popularity": 472.2007
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.3,
-    "votes": 737,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 334.195
+    "popularity": 475.2277
   },
   {
     "id": 33238,
@@ -99,24 +82,7 @@
       35,
       10764
     ],
-    "popularity": 471.3039
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.33,
-    "votes": 5226,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 177.0484
+    "popularity": 449.513
   },
   {
     "id": 59941,
@@ -133,7 +99,41 @@
       35,
       10767
     ],
-    "popularity": 349.2889
+    "popularity": 353.4872
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.3,
+    "votes": 737,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 318.9171
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "rating": 8.6,
+    "votes": 206,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 325.1463
   },
   {
     "id": 4614,
@@ -143,7 +143,7 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.615,
+    "rating": 7.6,
     "votes": 2602,
     "release": "2003-09-23",
     "genres": [
@@ -151,7 +151,7 @@
       18,
       10759
     ],
-    "popularity": 305.8667
+    "popularity": 298.231
   },
   {
     "id": 247718,
@@ -161,14 +161,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.59,
-    "votes": 1114,
+    "rating": 8.595,
+    "votes": 1121,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 287.5762
+    "popularity": 279.6855
   },
   {
     "id": 61818,
@@ -185,7 +185,7 @@
       10767,
       35
     ],
-    "popularity": 268.4455
+    "popularity": 268.2351
   },
   {
     "id": 153312,
@@ -195,15 +195,15 @@
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
     "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.307,
-    "votes": 2882,
+    "rating": 8.308,
+    "votes": 2885,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 262.4507
+    "popularity": 246.4695
   },
   {
     "id": 2224,
@@ -220,24 +220,7 @@
       10763,
       35
     ],
-    "popularity": 259.8001
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.603,
-    "votes": 194,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 266.3651
+    "popularity": 264.746
   },
   {
     "id": 72879,
@@ -255,7 +238,7 @@
       18,
       10766
     ],
-    "popularity": 243.5267
+    "popularity": 244.0892
   },
   {
     "id": 206559,
@@ -271,7 +254,25 @@
     "genres": [
       10766
     ],
-    "popularity": 235.1623
+    "popularity": 240.8929
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.495,
+    "votes": 110,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 206.2507
   },
   {
     "id": 4656,
@@ -287,25 +288,7 @@
     "genres": [
       10764
     ],
-    "popularity": 212.9567
-  },
-  {
-    "id": 2661,
-    "tmdb_id": 2661,
-    "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.4,
-    "votes": 109,
-    "release": "1971-04-03",
-    "genres": [
-      10759,
-      10765,
-      18
-    ],
-    "popularity": 215.1615
+    "popularity": 216.0937
   },
   {
     "id": 291,
@@ -321,7 +304,7 @@
     "genres": [
       10766
     ],
-    "popularity": 194.2983
+    "popularity": 197.9883
   },
   {
     "id": 44006,
@@ -337,6 +320,24 @@
     "genres": [
       18
     ],
-    "popularity": 182.4735
+    "popularity": 169.3436
+  },
+  {
+    "id": 1413,
+    "tmdb_id": 1413,
+    "type": "tv",
+    "title": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "rating": 8.081,
+    "votes": 6272,
+    "release": "2011-10-05",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 158.3365
   }
 ]
