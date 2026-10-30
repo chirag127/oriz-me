@@ -7,13 +7,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.204,
-    "votes": 11105,
+    "rating": 8.2,
+    "votes": 11107,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 8341.9286
+    "popularity": 8415.1685
   },
   {
     "id": 2734,
@@ -31,7 +31,7 @@
       18,
       9648
     ],
-    "popularity": 6186.5542
+    "popularity": 10168.86
   },
   {
     "id": 456,
@@ -41,14 +41,14 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8,
-    "votes": 11114,
+    "rating": 8.026,
+    "votes": 11115,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 5164.2022
+    "popularity": 9011.8172
   },
   {
     "id": 22980,
@@ -65,7 +65,7 @@
       10767,
       35
     ],
-    "popularity": 475.2277
+    "popularity": 476.1059
   },
   {
     "id": 33238,
@@ -82,7 +82,7 @@
       35,
       10764
     ],
-    "popularity": 449.513
+    "popularity": 458.66
   },
   {
     "id": 59941,
@@ -99,7 +99,24 @@
       35,
       10767
     ],
-    "popularity": 353.4872
+    "popularity": 345.3776
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "rating": 8.647,
+    "votes": 221,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 306.55
   },
   {
     "id": 549,
@@ -116,42 +133,7 @@
       80,
       18
     ],
-    "popularity": 318.9171
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-    "rating": 8.6,
-    "votes": 206,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 325.1463
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.6,
-    "votes": 2602,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 298.231
+    "popularity": 283.5789
   },
   {
     "id": 247718,
@@ -161,14 +143,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.595,
-    "votes": 1121,
+    "rating": 8.599,
+    "votes": 1124,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 279.6855
+    "popularity": 282.4436
   },
   {
     "id": 61818,
@@ -185,25 +167,7 @@
       10767,
       35
     ],
-    "popularity": 268.2351
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.308,
-    "votes": 2885,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 246.4695
+    "popularity": 270.53
   },
   {
     "id": 2224,
@@ -220,7 +184,25 @@
       10763,
       35
     ],
-    "popularity": 264.746
+    "popularity": 270.6997
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.31,
+    "votes": 2889,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 240.9762
   },
   {
     "id": 72879,
@@ -238,7 +220,7 @@
       18,
       10766
     ],
-    "popularity": 244.0892
+    "popularity": 280.6438
   },
   {
     "id": 206559,
@@ -254,7 +236,40 @@
     "genres": [
       10766
     ],
-    "popularity": 240.8929
+    "popularity": 245.1256
+  },
+  {
+    "id": 112470,
+    "tmdb_id": 112470,
+    "type": "tv",
+    "title": "Ici tout commence",
+    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+    "poster": "https://image.tmdb.org/t/p/w342/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+    "rating": 6.8,
+    "votes": 92,
+    "release": "2020-11-02",
+    "genres": [
+      10766,
+      18
+    ],
+    "popularity": 191.1721
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.8,
+    "votes": 381,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 712.2292
   },
   {
     "id": 2661,
@@ -272,23 +287,7 @@
       10765,
       18
     ],
-    "popularity": 206.2507
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.8,
-    "votes": 381,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 216.0937
+    "popularity": 201.5874
   },
   {
     "id": 291,
@@ -304,7 +303,7 @@
     "genres": [
       10766
     ],
-    "popularity": 197.9883
+    "popularity": 198.3983
   },
   {
     "id": 44006,
@@ -314,30 +313,28 @@
     "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
     "poster": "https://image.tmdb.org/t/p/w342/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-    "rating": 8.411,
+    "rating": 8.4,
     "votes": 2458,
     "release": "2012-10-10",
     "genres": [
       18
     ],
-    "popularity": 169.3436
+    "popularity": 159.8449
   },
   {
-    "id": 1413,
-    "tmdb_id": 1413,
+    "id": 65701,
+    "tmdb_id": 65701,
     "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.081,
-    "votes": 6272,
-    "release": "2011-10-05",
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "rating": 6.9,
+    "votes": 96,
+    "release": "2012-01-09",
     "genres": [
-      18,
-      9648,
-      10765
+      35
     ],
-    "popularity": 158.3365
+    "popularity": 215.1195
   }
 ]
