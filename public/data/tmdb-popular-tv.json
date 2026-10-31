@@ -1,21 +1,5 @@
 [
   {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.203,
-    "votes": 11108,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 8415.1685
-  },
-  {
     "id": 2734,
     "tmdb_id": 2734,
     "type": "tv",
@@ -23,15 +7,15 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.961,
-    "votes": 4393,
+    "rating": 7.962,
+    "votes": 4396,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 10168.86
+    "popularity": 9334.9923
   },
   {
     "id": 1434,
@@ -41,14 +25,14 @@
     "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
     "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.411,
-    "votes": 5173,
+    "rating": 7.412,
+    "votes": 5175,
     "release": "1999-01-31",
     "genres": [
       16,
       35
     ],
-    "popularity": 9377.8199
+    "popularity": 8313.9017
   },
   {
     "id": 4057,
@@ -58,15 +42,15 @@
     "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
     "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-    "rating": 8.295,
-    "votes": 4211,
+    "rating": 8.3,
+    "votes": 4212,
     "release": "2005-09-22",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 9132.0578
+    "popularity": 8687.2531
   },
   {
     "id": 456,
@@ -77,13 +61,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.027,
-    "votes": 11118,
+    "votes": 11121,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 9011.8172
+    "popularity": 8214.9932
   },
   {
     "id": 1622,
@@ -93,33 +77,65 @@
     "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
     "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-    "rating": 8.317,
-    "votes": 8792,
+    "rating": 8.3,
+    "votes": 8793,
     "release": "2005-09-13",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 8798.0729
+    "popularity": 8110.1574
   },
   {
-    "id": 1411,
-    "tmdb_id": 1411,
+    "id": 1416,
+    "tmdb_id": 1416,
     "type": "tv",
-    "title": "Person of Interest",
-    "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
-    "poster": "https://image.tmdb.org/t/p/w342/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
-    "rating": 8.1,
-    "votes": 2212,
-    "release": "2011-09-22",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.203,
+    "votes": 11112,
+    "release": "2005-03-27",
     "genres": [
-      10759,
-      80,
-      10765
+      18
     ],
-    "popularity": 2817.4016
+    "popularity": 6283.6341
+  },
+  {
+    "id": 1100,
+    "tmdb_id": 1100,
+    "type": "tv",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.111,
+    "votes": 6036,
+    "release": "2005-09-19",
+    "genres": [
+      35
+    ],
+    "popularity": 6701.006
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.4,
+    "votes": 4922,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 6472.4479
   },
   {
     "id": 1668,
@@ -130,28 +146,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
     "rating": 8.408,
-    "votes": 9523,
+    "votes": 9531,
     "release": "1994-09-22",
     "genres": [
       35
     ],
-    "popularity": 5687.6465
-  },
-  {
-    "id": 65494,
-    "tmdb_id": 65494,
-    "type": "tv",
-    "title": "The Crown",
-    "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
-    "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
-    "rating": 8.182,
-    "votes": 2468,
-    "release": "2016-11-04",
-    "genres": [
-      18
-    ],
-    "popularity": 4113.526
+    "popularity": 4338.1614
   },
   {
     "id": 194766,
@@ -161,48 +161,13 @@
     "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
     "poster": "https://image.tmdb.org/t/p/w342/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
-    "rating": 8.1,
-    "votes": 1151,
+    "rating": 8.06,
+    "votes": 1155,
     "release": "2022-06-16",
     "genres": [
       18
     ],
-    "popularity": 5274.0231
-  },
-  {
-    "id": 36,
-    "tmdb_id": 36,
-    "type": "tv",
-    "title": "Medium",
-    "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
-    "poster": "https://image.tmdb.org/t/p/w342/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
-    "rating": 7.459,
-    "votes": 594,
-    "release": "2005-01-03",
-    "genres": [
-      80,
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 4100.1228
-  },
-  {
-    "id": 2004,
-    "tmdb_id": 2004,
-    "type": "tv",
-    "title": "Malcolm in the Middle",
-    "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
-    "poster": "https://image.tmdb.org/t/p/w342/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
-    "rating": 8.466,
-    "votes": 5025,
-    "release": "2000-01-09",
-    "genres": [
-      35
-    ],
-    "popularity": 4671.0212
+    "popularity": 4095.8058
   },
   {
     "id": 4386,
@@ -212,53 +177,47 @@
     "overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
     "poster": "https://image.tmdb.org/t/p/w342/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yXuZVMnOEsIhx1vtu9kJGpzmjGN.jpg",
-    "rating": 5.955,
-    "votes": 573,
+    "rating": 5.963,
+    "votes": 574,
     "release": "1989-04-23",
     "genres": [
       10759,
       18,
       80
     ],
-    "popularity": 5175.0825
+    "popularity": 4206.61
   },
   {
-    "id": 79593,
-    "tmdb_id": 79593,
+    "id": 2316,
+    "tmdb_id": 2316,
     "type": "tv",
-    "title": "Magnum P.I.",
-    "overview": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a private investigator in Hawaii taking jobs no one else will—with the help of fellow vets T.C. Calvin and Rick Wright, and former MI:6 agent, Juliet Higgins.",
-    "poster": "https://image.tmdb.org/t/p/w342/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x40yXVPV8tPbuWAjSPGAGauDrhj.jpg",
-    "rating": 7.6,
-    "votes": 353,
-    "release": "2018-09-24",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "rating": 8.584,
+    "votes": 5649,
+    "release": "2005-03-24",
     "genres": [
-      10759,
-      18,
-      80
-    ],
-    "popularity": 2648.433
-  },
-  {
-    "id": 64414,
-    "tmdb_id": 64414,
-    "type": "tv",
-    "title": "Wakfu",
-    "overview": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from destruction.",
-    "poster": "https://image.tmdb.org/t/p/w342/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/794lCiKgncQg4tE2FDY8GVcEubZ.jpg",
-    "rating": 8.284,
-    "votes": 132,
-    "release": "2008-10-30",
-    "genres": [
-      16,
-      10759,
-      18,
-      10765,
       35
     ],
-    "popularity": 2869.8803
+    "popularity": 7283.3463
+  },
+  {
+    "id": 2004,
+    "tmdb_id": 2004,
+    "type": "tv",
+    "title": "Malcolm in the Middle",
+    "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+    "poster": "https://image.tmdb.org/t/p/w342/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+    "rating": 8.465,
+    "votes": 5028,
+    "release": "2000-01-09",
+    "genres": [
+      35
+    ],
+    "popularity": 3543.8815
   },
   {
     "id": 2398,
@@ -275,74 +234,107 @@
       18,
       35
     ],
-    "popularity": 4656.557
+    "popularity": 2796.9517
   },
   {
-    "id": 67744,
-    "tmdb_id": 67744,
+    "id": 18165,
+    "tmdb_id": 18165,
     "type": "tv",
-    "title": "MINDHUNTER",
-    "overview": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
-    "poster": "https://image.tmdb.org/t/p/w342/fbKE87mojpIETWepSbD5Qt741fp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lpDVJuIro21gtMj9iXMFKHuroZN.jpg",
-    "rating": 8.1,
-    "votes": 3179,
-    "release": "2017-10-13",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.3,
+    "votes": 9820,
+    "release": "2009-09-10",
     "genres": [
       18,
-      80
-    ],
-    "popularity": 1804.7901
-  },
-  {
-    "id": 83631,
-    "tmdb_id": 83631,
-    "type": "tv",
-    "title": "What We Do in the Shadows",
-    "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
-    "poster": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-    "rating": 8.009,
-    "votes": 1088,
-    "release": "2019-03-27",
-    "genres": [
-      35,
       10765
     ],
-    "popularity": 1212.4268
+    "popularity": 6653.1087
   },
   {
-    "id": 279136,
-    "tmdb_id": 279136,
+    "id": 60735,
+    "tmdb_id": 60735,
     "type": "tv",
-    "title": "Love Between Lines",
-    "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "poster": "https://image.tmdb.org/t/p/w342/3jlaQYWWZgmLQMIsQ7uZid99Mlo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "rating": 8.568,
-    "votes": 37,
-    "release": "2026-01-09",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "rating": 7.741,
+    "votes": 11834,
+    "release": "2014-10-07",
     "genres": [
       18,
-      9648
+      10765
     ],
-    "popularity": 1321.4734
+    "popularity": 6502.8816
   },
   {
-    "id": 3497,
-    "tmdb_id": 3497,
+    "id": 1408,
+    "tmdb_id": 1408,
     "type": "tv",
-    "title": "Moesha",
-    "overview": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, and friendships.",
-    "poster": "https://image.tmdb.org/t/p/w342/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eQuNP6LUFKJmP4f4iNLJWoi3g3h.jpg",
-    "rating": 6.9,
-    "votes": 51,
-    "release": "1996-01-23",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.563,
+    "votes": 7989,
+    "release": "2004-11-16",
     "genres": [
-      35,
-      10751
+      18
     ],
-    "popularity": 1223.3229
+    "popularity": 6532.6307
+  },
+  {
+    "id": 65494,
+    "tmdb_id": 65494,
+    "type": "tv",
+    "title": "The Crown",
+    "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+    "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+    "rating": 8.182,
+    "votes": 2469,
+    "release": "2016-11-04",
+    "genres": [
+      18
+    ],
+    "popularity": 3105.2443
+  },
+  {
+    "id": 36,
+    "tmdb_id": 36,
+    "type": "tv",
+    "title": "Medium",
+    "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
+    "poster": "https://image.tmdb.org/t/p/w342/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
+    "rating": 7.456,
+    "votes": 595,
+    "release": "2005-01-03",
+    "genres": [
+      80,
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 3047.3162
+  },
+  {
+    "id": 1421,
+    "tmdb_id": 1421,
+    "type": "tv",
+    "title": "Modern Family",
+    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+    "rating": 7.91,
+    "votes": 3589,
+    "release": "2009-09-23",
+    "genres": [
+      35
+    ],
+    "popularity": 6290.9471
   }
 ]

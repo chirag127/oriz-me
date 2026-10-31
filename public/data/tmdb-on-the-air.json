@@ -1,21 +1,5 @@
 [
   {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.2,
-    "votes": 11107,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 8415.1685
-  },
-  {
     "id": 2734,
     "tmdb_id": 2734,
     "type": "tv",
@@ -23,15 +7,15 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.961,
-    "votes": 4393,
+    "rating": 7.962,
+    "votes": 4396,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 10168.86
+    "popularity": 9334.9923
   },
   {
     "id": 456,
@@ -41,14 +25,80 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.026,
-    "votes": 11115,
+    "rating": 8.027,
+    "votes": 11123,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 9011.8172
+    "popularity": 8214.9932
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.203,
+    "votes": 11113,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 6283.6341
+  },
+  {
+    "id": 31991,
+    "tmdb_id": 31991,
+    "type": "tv",
+    "title": "WWE NXT",
+    "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+    "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
+    "rating": 6.7,
+    "votes": 133,
+    "release": "2010-02-23",
+    "genres": [
+      10759,
+      18,
+      10764
+    ],
+    "popularity": 3244.6239
+  },
+  {
+    "id": 231962,
+    "tmdb_id": 231962,
+    "type": "tv",
+    "title": "Deep Waters",
+    "overview": "The club belongs to Gys Swarts, whose sons Rossouw and Jacques are involved in the family enterprise. Gys's grandchildren Karla and Johan also swim for the club, bringing the demands of training and competition directly into the family circle. Can Gys keep ownership, family expectation and sporting ambition from pulling the club in different directions?",
+    "poster": "https://image.tmdb.org/t/p/w342/1nmKI8MWPC5Q0yOryKTpF89dikP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+    "rating": 8.2,
+    "votes": 4,
+    "release": "2022-10-03",
+    "genres": [
+      10766
+    ],
+    "popularity": 1475.3848
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.8,
+    "votes": 381,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 831.207
   },
   {
     "id": 22980,
@@ -65,7 +115,7 @@
       10767,
       35
     ],
-    "popularity": 476.1059
+    "popularity": 478.8897
   },
   {
     "id": 33238,
@@ -82,7 +132,7 @@
       35,
       10764
     ],
-    "popularity": 458.66
+    "popularity": 457.9773
   },
   {
     "id": 59941,
@@ -99,24 +149,24 @@
       35,
       10767
     ],
-    "popularity": 345.3776
+    "popularity": 352.277
   },
   {
-    "id": 213375,
-    "tmdb_id": 213375,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-    "rating": 8.647,
-    "votes": 221,
-    "release": "2026-10-13",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.6,
+    "votes": 1131,
+    "release": "2025-03-30",
     "genres": [
-      10765,
+      80,
       18
     ],
-    "popularity": 306.55
+    "popularity": 314.0953
   },
   {
     "id": 549,
@@ -133,76 +183,7 @@
       80,
       18
     ],
-    "popularity": 283.5789
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.599,
-    "votes": 1124,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 282.4436
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.1,
-    "votes": 136,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 270.53
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.4,
-    "votes": 673,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 270.6997
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.31,
-    "votes": 2889,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 240.9762
+    "popularity": 273.0821
   },
   {
     "id": 72879,
@@ -220,7 +201,41 @@
       18,
       10766
     ],
-    "popularity": 280.6438
+    "popularity": 270.0507
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "rating": 8.7,
+    "votes": 230,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 277.2611
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.4,
+    "votes": 673,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 274.0495
   },
   {
     "id": 206559,
@@ -236,40 +251,41 @@
     "genres": [
       10766
     ],
-    "popularity": 245.1256
+    "popularity": 251.714
   },
   {
-    "id": 112470,
-    "tmdb_id": 112470,
+    "id": 153312,
+    "tmdb_id": 153312,
     "type": "tv",
-    "title": "Ici tout commence",
-    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-    "poster": "https://image.tmdb.org/t/p/w342/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-    "rating": 6.8,
-    "votes": 92,
-    "release": "2020-11-02",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.311,
+    "votes": 2896,
+    "release": "2022-11-13",
     "genres": [
-      10766,
-      18
+      80,
+      18,
+      35
     ],
-    "popularity": 191.1721
+    "popularity": 252.8922
   },
   {
-    "id": 4656,
-    "tmdb_id": 4656,
+    "id": 65701,
+    "tmdb_id": 65701,
     "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.8,
-    "votes": 381,
-    "release": "1993-01-11",
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "rating": 6.9,
+    "votes": 96,
+    "release": "2012-01-09",
     "genres": [
-      10764
+      35
     ],
-    "popularity": 712.2292
+    "popularity": 177.0711
   },
   {
     "id": 2661,
@@ -287,7 +303,7 @@
       10765,
       18
     ],
-    "popularity": 201.5874
+    "popularity": 198.0186
   },
   {
     "id": 291,
@@ -303,38 +319,23 @@
     "genres": [
       10766
     ],
-    "popularity": 198.3983
+    "popularity": 199.4892
   },
   {
-    "id": 44006,
-    "tmdb_id": 44006,
+    "id": 112470,
+    "tmdb_id": 112470,
     "type": "tv",
-    "title": "Chicago Fire",
-    "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
-    "poster": "https://image.tmdb.org/t/p/w342/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-    "rating": 8.4,
-    "votes": 2458,
-    "release": "2012-10-10",
+    "title": "Ici tout commence",
+    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+    "poster": "https://image.tmdb.org/t/p/w342/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+    "rating": 6.8,
+    "votes": 92,
+    "release": "2020-11-02",
     "genres": [
+      10766,
       18
     ],
-    "popularity": 159.8449
-  },
-  {
-    "id": 65701,
-    "tmdb_id": 65701,
-    "type": "tv",
-    "title": "Good Mythical Morning",
-    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-    "rating": 6.9,
-    "votes": 96,
-    "release": "2012-01-09",
-    "genres": [
-      35
-    ],
-    "popularity": 215.1195
+    "popularity": 188.3529
   }
 ]

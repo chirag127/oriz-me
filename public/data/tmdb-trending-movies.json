@@ -1,22 +1,5 @@
 [
   {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.462,
-    "votes": 332,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 197.3336
-  },
-  {
     "id": 1400940,
     "tmdb_id": 1400940,
     "type": "movie",
@@ -24,15 +7,32 @@
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "rating": 7.471,
-    "votes": 277,
+    "rating": 7.4,
+    "votes": 295,
     "release": "2026-10-19",
     "genres": [
       27,
       53,
       878
     ],
-    "popularity": 218.7851
+    "popularity": 190.6963
+  },
+  {
+    "id": 1283515,
+    "tmdb_id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "rating": 6.648,
+    "votes": 395,
+    "release": "2026-09-30",
+    "genres": [
+      9648,
+      53
+    ],
+    "popularity": 204.6851
   },
   {
     "id": 1384216,
@@ -42,52 +42,33 @@
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-    "rating": 6.979,
-    "votes": 544,
+    "rating": 7.056,
+    "votes": 620,
     "release": "2026-08-26",
     "genres": [
       28,
       53,
       878
     ],
-    "popularity": 174.6315
+    "popularity": 178.2517
   },
   {
-    "id": 1290418,
-    "tmdb_id": 1290418,
+    "id": 1423191,
+    "tmdb_id": 1423191,
     "type": "movie",
-    "title": "The Cycle",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "poster": "https://image.tmdb.org/t/p/w342/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "rating": 6.814,
-    "votes": 70,
-    "release": "2026-09-24",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "rating": 7.321,
+    "votes": 1103,
+    "release": "2026-09-16",
     "genres": [
-      80,
       27,
-      53,
-      9648
+      878,
+      12
     ],
-    "popularity": 97.9522
-  },
-  {
-    "id": 791523,
-    "tmdb_id": 791523,
-    "type": "movie",
-    "title": "Wildwood",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.6,
-    "votes": 108,
-    "release": "2026-10-19",
-    "genres": [
-      16,
-      12,
-      14
-    ],
-    "popularity": 1196.6757
+    "popularity": 120.4282
   },
   {
     "id": 1465063,
@@ -98,7 +79,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
     "rating": 7.6,
-    "votes": 128,
+    "votes": 150,
     "release": "2026-09-10",
     "genres": [
       16,
@@ -107,61 +88,42 @@
       35,
       10751
     ],
-    "popularity": 119.5326
+    "popularity": 123.0659
   },
   {
-    "id": 1003596,
-    "tmdb_id": 1003596,
+    "id": 791523,
+    "tmdb_id": 791523,
     "type": "movie",
-    "title": "Avengers: Doomsday",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/7UN7WiNgXnKNneFx7V4nDm92luk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-16",
+    "title": "Wildwood",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "rating": 8.631,
+    "votes": 118,
+    "release": "2026-10-19",
     "genres": [
-      878,
-      28,
-      12
+      16,
+      12,
+      14
     ],
-    "popularity": 110.2245
+    "popularity": 2183.8371
   },
   {
-    "id": 1423191,
-    "tmdb_id": 1423191,
+    "id": 1699463,
+    "tmdb_id": 1699463,
     "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.318,
-    "votes": 1093,
-    "release": "2026-09-16",
+    "title": "The Girl We Let In",
+    "overview": "Following the adoption of their longtime babysitter, 16 year old Sophie, Hope begins to suspect her new daughter is hiding a terrible secret that will endanger her family.",
+    "poster": "https://image.tmdb.org/t/p/w342/lqlMpXnO44LJ7Uvbswile8DMTIY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m8kyEWrcNLNUuUu5OuL0BtzrIpF.jpg",
+    "rating": 7,
+    "votes": 2,
+    "release": "2026-07-17",
     "genres": [
       27,
-      878,
-      12
+      53
     ],
-    "popularity": 139.1992
-  },
-  {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.787,
-    "votes": 392,
-    "release": "2026-07-15",
-    "genres": [
-      878,
-      9648,
-      28
-    ],
-    "popularity": 490.1318
+    "popularity": 3.0362
   },
   {
     "id": 1170608,
@@ -178,25 +140,113 @@
       878,
       12
     ],
-    "popularity": 53.6528
+    "popularity": 50.9272
   },
   {
-    "id": 969681,
-    "tmdb_id": 969681,
+    "id": 1058424,
+    "tmdb_id": 1058424,
     "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "rating": 8.476,
-    "votes": 6326,
-    "release": "2026-07-29",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "rating": 6.8,
+    "votes": 408,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 459.5076
+  },
+  {
+    "id": 1003596,
+    "tmdb_id": 1003596,
+    "type": "movie",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 421.3022
+    "popularity": 119.2388
+  },
+  {
+    "id": 1507696,
+    "tmdb_id": 1507696,
+    "type": "movie",
+    "title": "Apocalypse Z: New World",
+    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "poster": "https://image.tmdb.org/t/p/w342/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "rating": 6.711,
+    "votes": 19,
+    "release": "2026-10-09",
+    "genres": [
+      28,
+      53,
+      27
+    ],
+    "popularity": 133.3812
+  },
+  {
+    "id": 1290418,
+    "tmdb_id": 1290418,
+    "type": "movie",
+    "title": "The Cycle",
+    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "poster": "https://image.tmdb.org/t/p/w342/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "rating": 6.974,
+    "votes": 77,
+    "release": "2026-09-24",
+    "genres": [
+      27,
+      53,
+      9648
+    ],
+    "popularity": 94.0535
+  },
+  {
+    "id": 1083381,
+    "tmdb_id": 1083381,
+    "type": "movie",
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "poster": "https://image.tmdb.org/t/p/w342/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+    "rating": 7,
+    "votes": 3939,
+    "release": "2026-05-27",
+    "genres": [
+      27,
+      9648,
+      878
+    ],
+    "popularity": 66.2259
+  },
+  {
+    "id": 1727734,
+    "tmdb_id": 1727734,
+    "type": "movie",
+    "title": "Ali G: Who Iz I?",
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+    "rating": 5.981,
+    "votes": 79,
+    "release": "2026-10-22",
+    "genres": [
+      35
+    ],
+    "popularity": 103.9137
   },
   {
     "id": 1339713,
@@ -207,62 +257,66 @@
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
     "rating": 8.2,
-    "votes": 6409,
+    "votes": 6422,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 104.2996
+    "popularity": 103.2755
   },
   {
-    "id": 1377237,
-    "tmdb_id": 1377237,
+    "id": 1514026,
+    "tmdb_id": 1514026,
     "type": "movie",
-    "title": "Runner",
-    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-    "poster": "https://image.tmdb.org/t/p/w342/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-    "rating": 8.32,
-    "votes": 755,
-    "release": "2026-09-07",
+    "title": "Buddy",
+    "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+    "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "rating": 7,
+    "votes": 206,
+    "release": "2026-08-27",
     "genres": [
+      27,
+      35,
+      14
+    ],
+    "popularity": 179.3172
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+    "rating": 8.478,
+    "votes": 6360,
+    "release": "2026-07-29",
+    "genres": [
+      878,
       28,
-      35
+      12
     ],
-    "popularity": 98.0867
+    "popularity": 390.9306
   },
   {
-    "id": 1727734,
-    "tmdb_id": 1727734,
+    "id": 1422041,
+    "tmdb_id": 1422041,
     "type": "movie",
-    "title": "Ali G: Who Iz I?",
-    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-    "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-    "rating": 6.2,
-    "votes": 61,
-    "release": "2026-10-22",
+    "title": "LA BOLA NEGRA",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "poster": "https://image.tmdb.org/t/p/w342/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "rating": 8.1,
+    "votes": 151,
+    "release": "2026-09-25",
     "genres": [
-      35
+      18,
+      10752
     ],
-    "popularity": 106.0394
-  },
-  {
-    "id": 1780005,
-    "tmdb_id": 1780005,
-    "type": "movie",
-    "title": "Surviving Hurricane Otis",
-    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
-    "poster": "https://image.tmdb.org/t/p/w342/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-    "rating": 7.213,
-    "votes": 68,
-    "release": "2026-10-23",
-    "genres": [
-      18
-    ],
-    "popularity": 100.4734
+    "popularity": 75.0998
   },
   {
     "id": 1596275,
@@ -272,14 +326,14 @@
     "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
     "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "rating": 7.855,
-    "votes": 31,
+    "rating": 7.915,
+    "votes": 47,
     "release": "2026-10-27",
     "genres": [
       10749,
       53
     ],
-    "popularity": 274.3374
+    "popularity": 278.399
   },
   {
     "id": 1503762,
@@ -290,63 +344,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
     "rating": 7.4,
-    "votes": 97,
+    "votes": 104,
     "release": "2026-09-23",
     "genres": [
       18,
-      10749
+      10749,
+      36
     ],
-    "popularity": 93.898
-  },
-  {
-    "id": 1422041,
-    "tmdb_id": 1422041,
-    "type": "movie",
-    "title": "LA BOLA NEGRA",
-    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
-    "poster": "https://image.tmdb.org/t/p/w342/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "rating": 8,
-    "votes": 145,
-    "release": "2026-09-25",
-    "genres": [
-      18,
-      10752
-    ],
-    "popularity": 70.3061
-  },
-  {
-    "id": 1381071,
-    "tmdb_id": 1381071,
-    "type": "movie",
-    "title": "Godzilla Minus Zero",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-11-03",
-    "genres": [
-      878,
-      27,
-      28
-    ],
-    "popularity": 21.8969
-  },
-  {
-    "id": 1765072,
-    "tmdb_id": 1765072,
-    "type": "movie",
-    "title": "You Can See Everything",
-    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-    "rating": 9.053,
-    "votes": 66,
-    "release": "2026-10-16",
-    "genres": [
-      99
-    ],
-    "popularity": 100.5518
+    "popularity": 91.6659
   }
 ]
