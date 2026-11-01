@@ -7,7 +7,7 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.962,
+    "rating": 8,
     "votes": 4396,
     "release": "1999-09-20",
     "genres": [
@@ -15,24 +15,7 @@
       18,
       9648
     ],
-    "popularity": 9334.9923
-  },
-  {
-    "id": 1434,
-    "tmdb_id": 1434,
-    "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.412,
-    "votes": 5175,
-    "release": "1999-01-31",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 8313.9017
+    "popularity": 6761.7989
   },
   {
     "id": 4057,
@@ -50,7 +33,24 @@
       18,
       9648
     ],
-    "popularity": 8687.2531
+    "popularity": 6150.8861
+  },
+  {
+    "id": 1434,
+    "tmdb_id": 1434,
+    "type": "tv",
+    "title": "Family Guy",
+    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+    "rating": 7.413,
+    "votes": 5178,
+    "release": "1999-01-31",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 6059.3458
   },
   {
     "id": 456,
@@ -61,13 +61,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.027,
-    "votes": 11121,
+    "votes": 11127,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 8214.9932
+    "popularity": 6045.1244
   },
   {
     "id": 1622,
@@ -77,115 +77,15 @@
     "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
     "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-    "rating": 8.3,
-    "votes": 8793,
+    "rating": 8.317,
+    "votes": 8799,
     "release": "2005-09-13",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 8110.1574
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.203,
-    "votes": 11112,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 6283.6341
-  },
-  {
-    "id": 1100,
-    "tmdb_id": 1100,
-    "type": "tv",
-    "title": "How I Met Your Mother",
-    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.111,
-    "votes": 6036,
-    "release": "2005-09-19",
-    "genres": [
-      35
-    ],
-    "popularity": 6701.006
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.4,
-    "votes": 4922,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 6472.4479
-  },
-  {
-    "id": 1668,
-    "tmdb_id": 1668,
-    "type": "tv",
-    "title": "Friends",
-    "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
-    "poster": "https://image.tmdb.org/t/p/w342/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-    "rating": 8.408,
-    "votes": 9531,
-    "release": "1994-09-22",
-    "genres": [
-      35
-    ],
-    "popularity": 4338.1614
-  },
-  {
-    "id": 194766,
-    "tmdb_id": 194766,
-    "type": "tv",
-    "title": "The Summer I Turned Pretty",
-    "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
-    "poster": "https://image.tmdb.org/t/p/w342/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
-    "rating": 8.06,
-    "votes": 1155,
-    "release": "2022-06-16",
-    "genres": [
-      18
-    ],
-    "popularity": 4095.8058
-  },
-  {
-    "id": 4386,
-    "tmdb_id": 4386,
-    "type": "tv",
-    "title": "Baywatch",
-    "overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
-    "poster": "https://image.tmdb.org/t/p/w342/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yXuZVMnOEsIhx1vtu9kJGpzmjGN.jpg",
-    "rating": 5.963,
-    "votes": 574,
-    "release": "1989-04-23",
-    "genres": [
-      10759,
-      18,
-      80
-    ],
-    "popularity": 4206.61
+    "popularity": 5833.6951
   },
   {
     "id": 2316,
@@ -195,46 +95,29 @@
     "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
     "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.584,
-    "votes": 5649,
+    "rating": 8.6,
+    "votes": 5653,
     "release": "2005-03-24",
     "genres": [
       35
     ],
-    "popularity": 7283.3463
+    "popularity": 4468.7556
   },
   {
-    "id": 2004,
-    "tmdb_id": 2004,
+    "id": 1100,
+    "tmdb_id": 1100,
     "type": "tv",
-    "title": "Malcolm in the Middle",
-    "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
-    "poster": "https://image.tmdb.org/t/p/w342/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
-    "rating": 8.465,
-    "votes": 5028,
-    "release": "2000-01-09",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.112,
+    "votes": 6039,
+    "release": "2005-09-19",
     "genres": [
       35
     ],
-    "popularity": 3543.8815
-  },
-  {
-    "id": 2398,
-    "tmdb_id": 2398,
-    "type": "tv",
-    "title": "Girlfriends",
-    "overview": "A friend group of black women face life's tests and triumphs together. From dating to divorce, and friends to family to relationships, Joan, Maya, Lynn and Toni support each other despite their differing backgrounds.",
-    "poster": "https://image.tmdb.org/t/p/w342/buFnsyWEg4pPR7dco5Vbsm6HCIY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lJEItmoc7bdqvA0yS5quuBIwW0N.jpg",
-    "rating": 7.3,
-    "votes": 48,
-    "release": "2000-09-11",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 2796.9517
+    "popularity": 4169.3615
   },
   {
     "id": 18165,
@@ -245,13 +128,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
     "rating": 8.3,
-    "votes": 9820,
+    "votes": 9821,
     "release": "2009-09-10",
     "genres": [
       18,
       10765
     ],
-    "popularity": 6653.1087
+    "popularity": 4144.2871
+  },
+  {
+    "id": 1408,
+    "tmdb_id": 1408,
+    "type": "tv",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.6,
+    "votes": 7993,
+    "release": "2004-11-16",
+    "genres": [
+      18
+    ],
+    "popularity": 3874.9325
   },
   {
     "id": 60735,
@@ -262,64 +161,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
     "rating": 7.741,
-    "votes": 11834,
+    "votes": 11836,
     "release": "2014-10-07",
     "genres": [
       18,
       10765
     ],
-    "popularity": 6502.8816
+    "popularity": 4070.1039
   },
   {
-    "id": 1408,
-    "tmdb_id": 1408,
+    "id": 5920,
+    "tmdb_id": 5920,
     "type": "tv",
-    "title": "House",
-    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "rating": 8.563,
-    "votes": 7989,
-    "release": "2004-11-16",
-    "genres": [
-      18
-    ],
-    "popularity": 6532.6307
-  },
-  {
-    "id": 65494,
-    "tmdb_id": 65494,
-    "type": "tv",
-    "title": "The Crown",
-    "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
-    "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
-    "rating": 8.182,
-    "votes": 2469,
-    "release": "2016-11-04",
-    "genres": [
-      18
-    ],
-    "popularity": 3105.2443
-  },
-  {
-    "id": 36,
-    "tmdb_id": 36,
-    "type": "tv",
-    "title": "Medium",
-    "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
-    "poster": "https://image.tmdb.org/t/p/w342/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
-    "rating": 7.456,
-    "votes": 595,
-    "release": "2005-01-03",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.423,
+    "votes": 4924,
+    "release": "2008-09-23",
     "genres": [
       80,
       18,
-      9648,
-      10765
+      9648
     ],
-    "popularity": 3047.3162
+    "popularity": 4063.8466
   },
   {
     "id": 1421,
@@ -329,12 +195,153 @@
     "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.91,
-    "votes": 3589,
+    "rating": 7.911,
+    "votes": 3590,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 6290.9471
+    "popularity": 3898.0987
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.203,
+    "votes": 11114,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 3998.9839
+  },
+  {
+    "id": 1400,
+    "tmdb_id": 1400,
+    "type": "tv",
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+    "rating": 8.249,
+    "votes": 2497,
+    "release": "1989-07-05",
+    "genres": [
+      35
+    ],
+    "popularity": 3616.4345
+  },
+  {
+    "id": 44217,
+    "tmdb_id": 44217,
+    "type": "tv",
+    "title": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "rating": 8.105,
+    "votes": 7979,
+    "release": "2013-03-03",
+    "genres": [
+      10759,
+      18,
+      10768
+    ],
+    "popularity": 3624.3004
+  },
+  {
+    "id": 48866,
+    "tmdb_id": 48866,
+    "type": "tv",
+    "title": "The 100",
+    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+    "rating": 7.878,
+    "votes": 8850,
+    "release": "2014-03-19",
+    "genres": [
+      10765,
+      10759,
+      18,
+      80
+    ],
+    "popularity": 3352.0217
+  },
+  {
+    "id": 1695,
+    "tmdb_id": 1695,
+    "type": "tv",
+    "title": "Monk",
+    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+    "rating": 7.936,
+    "votes": 1339,
+    "release": "2002-07-12",
+    "genres": [
+      18,
+      35,
+      80,
+      9648
+    ],
+    "popularity": 3318.2076
+  },
+  {
+    "id": 873,
+    "tmdb_id": 873,
+    "type": "tv",
+    "title": "Columbo",
+    "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
+    "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
+    "rating": 8.058,
+    "votes": 881,
+    "release": "1971-09-15",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 3291.6343
+  },
+  {
+    "id": 33880,
+    "tmdb_id": 33880,
+    "type": "tv",
+    "title": "The Legend of Korra",
+    "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+    "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "rating": 8.222,
+    "votes": 2473,
+    "release": "2012-04-14",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 3513.5199
+  },
+  {
+    "id": 46648,
+    "tmdb_id": 46648,
+    "type": "tv",
+    "title": "True Detective",
+    "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "poster": "https://image.tmdb.org/t/p/w342/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+    "rating": 8.295,
+    "votes": 4459,
+    "release": "2014-01-12",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 3388.9503
   }
 ]
