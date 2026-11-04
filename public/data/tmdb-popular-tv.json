@@ -1,21 +1,21 @@
 [
   {
-    "id": 2734,
-    "tmdb_id": 2734,
+    "id": 5920,
+    "tmdb_id": 5920,
     "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.961,
-    "votes": 4403,
-    "release": "1999-09-20",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.422,
+    "votes": 4937,
+    "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 5171.5974
+    "popularity": 4428.4648
   },
   {
     "id": 1100,
@@ -26,29 +26,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
     "rating": 8.111,
-    "votes": 6045,
+    "votes": 6050,
     "release": "2005-09-19",
     "genres": [
       35
     ],
-    "popularity": 5856.5459
-  },
-  {
-    "id": 60735,
-    "tmdb_id": 60735,
-    "type": "tv",
-    "title": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "rating": 7.74,
-    "votes": 11843,
-    "release": "2014-10-07",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 5675.2377
+    "popularity": 4347.6541
   },
   {
     "id": 2316,
@@ -58,13 +41,30 @@
     "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
     "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.6,
-    "votes": 5661,
+    "rating": 8.583,
+    "votes": 5667,
     "release": "2005-03-24",
     "genres": [
       35
     ],
-    "popularity": 5744.2399
+    "popularity": 4356.231
+  },
+  {
+    "id": 60735,
+    "tmdb_id": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "rating": 7.739,
+    "votes": 11843,
+    "release": "2014-10-07",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 4238.0895
   },
   {
     "id": 18165,
@@ -75,49 +75,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
     "rating": 8.3,
-    "votes": 9827,
+    "votes": 9830,
     "release": "2009-09-10",
     "genres": [
       18,
       10765
     ],
-    "popularity": 5618.9772
-  },
-  {
-    "id": 4057,
-    "tmdb_id": 4057,
-    "type": "tv",
-    "title": "Criminal Minds",
-    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-    "rating": 8.295,
-    "votes": 4214,
-    "release": "2005-09-22",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 4657.7916
-  },
-  {
-    "id": 5920,
-    "tmdb_id": 5920,
-    "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.422,
-    "votes": 4934,
-    "release": "2008-09-23",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 5879.6051
+    "popularity": 4186.2736
   },
   {
     "id": 1421,
@@ -128,47 +92,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
     "rating": 7.909,
-    "votes": 3596,
+    "votes": 3601,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 5331.1669
+    "popularity": 4011.2863
   },
   {
-    "id": 1434,
-    "tmdb_id": 1434,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "Family Guy",
-    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.414,
-    "votes": 5186,
-    "release": "1999-01-31",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.961,
+    "votes": 4402,
+    "release": "1999-09-20",
     "genres": [
-      16,
-      35
-    ],
-    "popularity": 4428.7377
-  },
-  {
-    "id": 1622,
-    "tmdb_id": 1622,
-    "type": "tv",
-    "title": "Supernatural",
-    "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-    "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-    "rating": 8.317,
-    "votes": 8808,
-    "release": "2005-09-13",
-    "genres": [
+      80,
       18,
-      9648,
-      10765
+      9648
     ],
-    "popularity": 4328.5889
+    "popularity": 3401.2824
   },
   {
     "id": 1408,
@@ -178,13 +125,13 @@
     "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
     "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "rating": 8.562,
-    "votes": 7998,
+    "rating": 8.561,
+    "votes": 8001,
     "release": "2004-11-16",
     "genres": [
       18
     ],
-    "popularity": 5023.0557
+    "popularity": 3845.1391
   },
   {
     "id": 1400,
@@ -200,42 +147,7 @@
     "genres": [
       35
     ],
-    "popularity": 4821.817
-  },
-  {
-    "id": 44217,
-    "tmdb_id": 44217,
-    "type": "tv",
-    "title": "Vikings",
-    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
-    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
-    "rating": 8.105,
-    "votes": 7980,
-    "release": "2013-03-03",
-    "genres": [
-      10759,
-      18,
-      10768
-    ],
-    "popularity": 4526.3377
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.027,
-    "votes": 11135,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 4642.606
+    "popularity": 3647.7483
   },
   {
     "id": 48866,
@@ -254,7 +166,42 @@
       18,
       80
     ],
-    "popularity": 4688.0062
+    "popularity": 3414.0462
+  },
+  {
+    "id": 4057,
+    "tmdb_id": 4057,
+    "type": "tv",
+    "title": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.295,
+    "votes": 4214,
+    "release": "2005-09-22",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 2977.62
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.027,
+    "votes": 11138,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 3145.0481
   },
   {
     "id": 1695,
@@ -273,45 +220,25 @@
       80,
       9648
     ],
-    "popularity": 4553.2404
+    "popularity": 3338.3621
   },
   {
-    "id": 61923,
-    "tmdb_id": 61923,
+    "id": 44217,
+    "tmdb_id": 44217,
     "type": "tv",
-    "title": "Star vs. the Forces of Evil",
-    "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
-    "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
-    "rating": 8.365,
-    "votes": 1538,
-    "release": "2015-01-18",
+    "title": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "rating": 8.104,
+    "votes": 7985,
+    "release": "2013-03-03",
     "genres": [
       10759,
-      16,
-      35,
-      10765,
-      10751
+      18,
+      10768
     ],
-    "popularity": 3868.2608
-  },
-  {
-    "id": 33880,
-    "tmdb_id": 33880,
-    "type": "tv",
-    "title": "The Legend of Korra",
-    "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
-    "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
-    "rating": 8.223,
-    "votes": 2478,
-    "release": "2012-04-14",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 4359.8742
+    "popularity": 3309.2154
   },
   {
     "id": 873,
@@ -321,7 +248,7 @@
     "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
     "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
-    "rating": 8.059,
+    "rating": 8.1,
     "votes": 882,
     "release": "1971-09-15",
     "genres": [
@@ -329,7 +256,7 @@
       18,
       9648
     ],
-    "popularity": 4499.0111
+    "popularity": 3281.2225
   },
   {
     "id": 1424,
@@ -339,14 +266,86 @@
     "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
     "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
-    "rating": 7.64,
-    "votes": 2942,
+    "rating": 7.639,
+    "votes": 2946,
     "release": "2013-07-11",
     "genres": [
       18,
       35,
       80
     ],
-    "popularity": 4452.2178
+    "popularity": 3224.9291
+  },
+  {
+    "id": 33880,
+    "tmdb_id": 33880,
+    "type": "tv",
+    "title": "The Legend of Korra",
+    "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+    "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "rating": 8.221,
+    "votes": 2481,
+    "release": "2012-04-14",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 3254.7331
+  },
+  {
+    "id": 1622,
+    "tmdb_id": 1622,
+    "type": "tv",
+    "title": "Supernatural",
+    "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+    "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+    "rating": 8.316,
+    "votes": 8810,
+    "release": "2005-09-13",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 2764.7626
+  },
+  {
+    "id": 63333,
+    "tmdb_id": 63333,
+    "type": "tv",
+    "title": "The Last Kingdom",
+    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+    "poster": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+    "rating": 8.255,
+    "votes": 2079,
+    "release": "2015-10-10",
+    "genres": [
+      10759,
+      18,
+      10768
+    ],
+    "popularity": 2931.8033
+  },
+  {
+    "id": 78191,
+    "tmdb_id": 78191,
+    "type": "tv",
+    "title": "You",
+    "overview": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him.",
+    "poster": "https://image.tmdb.org/t/p/w342/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
+    "rating": 7.994,
+    "votes": 4153,
+    "release": "2018-09-09",
+    "genres": [
+      9648,
+      80,
+      18
+    ],
+    "popularity": 2890.3991
   }
 ]

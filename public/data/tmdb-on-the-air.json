@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.961,
-    "votes": 4403,
+    "votes": 4402,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 5171.5974
+    "popularity": 3401.2824
   },
   {
     "id": 456,
@@ -26,29 +26,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.027,
-    "votes": 11135,
+    "votes": 11138,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 4642.606
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.203,
-    "votes": 11117,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 1945.2559
+    "popularity": 3145.0481
   },
   {
     "id": 31991,
@@ -66,7 +50,23 @@
       18,
       10764
     ],
-    "popularity": 2209.3445
+    "popularity": 1742.5863
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.202,
+    "votes": 11119,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 1377.1434
   },
   {
     "id": 231962,
@@ -82,7 +82,7 @@
     "genres": [
       10766
     ],
-    "popularity": 714.3926
+    "popularity": 613.4383
   },
   {
     "id": 22980,
@@ -99,7 +99,7 @@
       10767,
       35
     ],
-    "popularity": 464.1094
+    "popularity": 494.4426
   },
   {
     "id": 4656,
@@ -115,7 +115,7 @@
     "genres": [
       10764
     ],
-    "popularity": 463.3413
+    "popularity": 437.9611
   },
   {
     "id": 33238,
@@ -132,7 +132,7 @@
       35,
       10764
     ],
-    "popularity": 408.0444
+    "popularity": 419.308
   },
   {
     "id": 59941,
@@ -149,7 +149,7 @@
       35,
       10767
     ],
-    "popularity": 319.6066
+    "popularity": 340.6878
   },
   {
     "id": 247718,
@@ -159,49 +159,32 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.614,
-    "votes": 1158,
+    "rating": 8.619,
+    "votes": 1164,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 336.0969
+    "popularity": 327.6269
   },
   {
-    "id": 153312,
-    "tmdb_id": 153312,
+    "id": 4614,
+    "tmdb_id": 4614,
     "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.314,
-    "votes": 2913,
-    "release": "2022-11-13",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.61,
+    "votes": 2606,
+    "release": "2003-09-23",
     "genres": [
       80,
       18,
-      35
+      10759
     ],
-    "popularity": 263.1628
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-    "rating": 8.642,
-    "votes": 243,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 241.4034
+    "popularity": 277.3213
   },
   {
     "id": 61818,
@@ -218,23 +201,42 @@
       10767,
       35
     ],
-    "popularity": 242.0799
+    "popularity": 266.2743
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 153312,
+    "tmdb_id": 153312,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.3,
+    "votes": 2913,
+    "release": "2022-11-13",
     "genres": [
-      10766
+      80,
+      18,
+      35
     ],
-    "popularity": 241.4168
+    "popularity": 243.6407
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.3,
+    "votes": 5246,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 199.2692
   },
   {
     "id": 2224,
@@ -251,7 +253,57 @@
       10763,
       35
     ],
-    "popularity": 253.3049
+    "popularity": 272.9987
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 253.3937
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "rating": 8.7,
+    "votes": 255,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 239.2703
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.275,
+    "votes": 738,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 232.1267
   },
   {
     "id": 72879,
@@ -269,24 +321,7 @@
       18,
       10766
     ],
-    "popularity": 241.3771
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.277,
-    "votes": 739,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 231.7884
+    "popularity": 226.108
   },
   {
     "id": 2661,
@@ -304,40 +339,6 @@
       10765,
       18
     ],
-    "popularity": 198.4642
-  },
-  {
-    "id": 112470,
-    "tmdb_id": 112470,
-    "type": "tv",
-    "title": "Ici tout commence",
-    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-    "poster": "https://image.tmdb.org/t/p/w342/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-    "rating": 6.8,
-    "votes": 92,
-    "release": "2020-11-02",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 186.0611
-  },
-  {
-    "id": 57775,
-    "tmdb_id": 57775,
-    "type": "tv",
-    "title": "Chibi Maruko-chan",
-    "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-    "poster": "https://image.tmdb.org/t/p/w342/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-    "rating": 7.76,
-    "votes": 25,
-    "release": "1990-01-07",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 184.0386
+    "popularity": 199.0147
   }
 ]

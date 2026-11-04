@@ -5,17 +5,17 @@
     "type": "movie",
     "title": "Resident Evil",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.323,
-    "votes": 1186,
+    "rating": 7.5,
+    "votes": 1512,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 190.4858
+    "popularity": 307.6596
   },
   {
     "id": 1283515,
@@ -25,14 +25,14 @@
     "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.943,
-    "votes": 569,
+    "rating": 6.981,
+    "votes": 590,
     "release": "2026-09-30",
     "genres": [
       9648,
       53
     ],
-    "popularity": 235.311
+    "popularity": 218.0504
   },
   {
     "id": 1507696,
@@ -42,15 +42,15 @@
     "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.072,
-    "votes": 83,
+    "rating": 6.183,
+    "votes": 104,
     "release": "2026-10-09",
     "genres": [
       28,
       53,
       27
     ],
-    "popularity": 324.0359
+    "popularity": 353.2271
   },
   {
     "id": 1375441,
@@ -60,32 +60,14 @@
     "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
     "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-    "rating": 6.8,
-    "votes": 263,
+    "rating": 6.789,
+    "votes": 284,
     "release": "2026-09-23",
     "genres": [
-      18,
-      53
-    ],
-    "popularity": 56.1029
-  },
-  {
-    "id": 1384216,
-    "tmdb_id": 1384216,
-    "type": "movie",
-    "title": "The Dog Stars",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-    "rating": 7.215,
-    "votes": 852,
-    "release": "2026-08-26",
-    "genres": [
-      28,
       53,
-      878
+      18
     ],
-    "popularity": 166.362
+    "popularity": 110.6323
   },
   {
     "id": 1400940,
@@ -96,70 +78,50 @@
     "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "rating": 7.4,
-    "votes": 351,
+    "votes": 371,
     "release": "2026-10-19",
     "genres": [
       27,
       53,
       878
     ],
-    "popularity": 149.0958
+    "popularity": 129.4041
+  },
+  {
+    "id": 1384216,
+    "tmdb_id": 1384216,
+    "type": "movie",
+    "title": "The Dog Stars",
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+    "rating": 7.232,
+    "votes": 878,
+    "release": "2026-08-26",
+    "genres": [
+      28,
+      53,
+      878
+    ],
+    "popularity": 136.1394
   },
   {
     "id": 791523,
     "tmdb_id": 791523,
     "type": "movie",
     "title": "Wildwood",
-    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.565,
-    "votes": 162,
+    "rating": 8.5,
+    "votes": 178,
     "release": "2026-10-19",
     "genres": [
       16,
       12,
       14
     ],
-    "popularity": 1725.7447
-  },
-  {
-    "id": 1465063,
-    "tmdb_id": 1465063,
-    "type": "movie",
-    "title": "Forgotten Island",
-    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-    "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-    "rating": 7.98,
-    "votes": 198,
-    "release": "2026-09-10",
-    "genres": [
-      16,
-      12,
-      14,
-      35,
-      10751
-    ],
-    "popularity": 118.5098
-  },
-  {
-    "id": 1003596,
-    "tmdb_id": 1003596,
-    "type": "movie",
-    "title": "Avengers: Doomsday",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-16",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 114.2872
+    "popularity": 1313.2444
   },
   {
     "id": 1571955,
@@ -169,83 +131,53 @@
     "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
     "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-    "rating": 6.524,
-    "votes": 42,
+    "rating": 6.66,
+    "votes": 50,
     "release": "2026-10-30",
     "genres": [
       53,
       18,
       80
     ],
-    "popularity": 161.4203
+    "popularity": 158.8915
   },
   {
-    "id": 1727734,
-    "tmdb_id": 1727734,
+    "id": 1003596,
+    "tmdb_id": 1003596,
     "type": "movie",
-    "title": "Ali G: Who Iz I?",
-    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-    "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-    "rating": 5.782,
-    "votes": 126,
-    "release": "2026-10-22",
-    "genres": [
-      35
-    ],
-    "popularity": 111.7935
-  },
-  {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-    "rating": 6.8,
-    "votes": 451,
-    "release": "2026-07-15",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
     "genres": [
       878,
-      9648,
-      28
+      28,
+      12
     ],
-    "popularity": 454.8376
+    "popularity": 111.985
   },
   {
-    "id": 1339713,
-    "tmdb_id": 1339713,
+    "id": 1465063,
+    "tmdb_id": 1465063,
     "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.17,
-    "votes": 6481,
-    "release": "2026-05-13",
+    "title": "Forgotten Island",
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "poster": "https://image.tmdb.org/t/p/w342/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "rating": 8.036,
+    "votes": 208,
+    "release": "2026-09-10",
     "genres": [
-      27,
-      53
+      16,
+      12,
+      14,
+      35,
+      10751
     ],
-    "popularity": 112.474
-  },
-  {
-    "id": 1596275,
-    "tmdb_id": 1596275,
-    "type": "movie",
-    "title": "Drive - The Pretenders",
-    "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
-    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "rating": 7.737,
-    "votes": 97,
-    "release": "2026-10-27",
-    "genres": [
-      10749,
-      53
-    ],
-    "popularity": 295.8946
+    "popularity": 105.0809
   },
   {
     "id": 1381071,
@@ -255,49 +187,136 @@
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
     "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 9.5,
-    "votes": 7,
+    "rating": 8.846,
+    "votes": 13,
     "release": "2026-11-03",
     "genres": [
       878,
       27,
       28
     ],
-    "popularity": 38.7101
+    "popularity": 59.1105
   },
   {
-    "id": 1789549,
-    "tmdb_id": 1789549,
+    "id": 1727734,
+    "tmdb_id": 1727734,
     "type": "movie",
-    "title": "The Birthday​ Gift​",
-    "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/jqGFILLsEDwsLteNDQextojsYFV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
-    "rating": 7.3,
-    "votes": 11,
-    "release": "2026-10-30",
+    "title": "Ali G: Who Iz I?",
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+    "rating": 5.797,
+    "votes": 138,
+    "release": "2026-10-22",
     "genres": [
       35
     ],
-    "popularity": 48.442
+    "popularity": 101.6069
   },
   {
-    "id": 1290418,
-    "tmdb_id": 1290418,
+    "id": 1339713,
+    "tmdb_id": 1339713,
     "type": "movie",
-    "title": "The Cycle",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "poster": "https://image.tmdb.org/t/p/w342/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "rating": 6.761,
-    "votes": 113,
-    "release": "2026-09-24",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "rating": 8.169,
+    "votes": 6498,
+    "release": "2026-05-13",
     "genres": [
       27,
-      53,
-      9648
+      53
     ],
-    "popularity": 81.2543
+    "popularity": 107.9714
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+    "rating": 8.485,
+    "votes": 6535,
+    "release": "2026-07-29",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 326.7777
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+    "rating": 6.765,
+    "votes": 465,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 420.5519
+  },
+  {
+    "id": 1596275,
+    "tmdb_id": 1596275,
+    "type": "movie",
+    "title": "Drive - The Pretenders",
+    "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
+    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+    "rating": 7.795,
+    "votes": 110,
+    "release": "2026-10-27",
+    "genres": [
+      10749,
+      53
+    ],
+    "popularity": 274.5093
+  },
+  {
+    "id": 1170608,
+    "tmdb_id": 1170608,
+    "type": "movie",
+    "title": "Dune: Part Three",
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "poster": "https://image.tmdb.org/t/p/w342/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-15",
+    "genres": [
+      878,
+      12
+    ],
+    "popularity": 37.5263
+  },
+  {
+    "id": 1368337,
+    "tmdb_id": 1368337,
+    "type": "movie",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+    "rating": 8,
+    "votes": 4340,
+    "release": "2026-07-15",
+    "genres": [
+      12,
+      28,
+      14
+    ],
+    "popularity": 195.7549
   },
   {
     "id": 1300968,
@@ -315,24 +334,7 @@
       28,
       12
     ],
-    "popularity": 37.8587
-  },
-  {
-    "id": 1170608,
-    "tmdb_id": 1170608,
-    "type": "movie",
-    "title": "Dune: Part Three",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "poster": "https://image.tmdb.org/t/p/w342/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-15",
-    "genres": [
-      878,
-      12
-    ],
-    "popularity": 41.8629
+    "popularity": 39.2006
   },
   {
     "id": 656908,
@@ -340,16 +342,16 @@
     "type": "movie",
     "title": "Ramayana: Rise of a Legend",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "poster": "https://image.tmdb.org/t/p/w342/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bkhPaFOiqc9GeLMdf1D44KbozRH.jpg",
-    "rating": 10,
-    "votes": 1,
-    "release": "2026-11-04",
+    "poster": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5y5RYL0e1VxKNu1D3nE3eKyFkS.jpg",
+    "rating": 5.7,
+    "votes": 3,
+    "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 29.7659
+    "popularity": 36.8722
   }
 ]
