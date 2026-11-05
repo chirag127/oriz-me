@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.961,
-    "votes": 4402,
+    "votes": 4403,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 3401.2824
+    "popularity": 2533.8782
   },
   {
     "id": 456,
@@ -25,14 +25,14 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.027,
-    "votes": 11138,
+    "rating": 8.026,
+    "votes": 11141,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 3145.0481
+    "popularity": 2324.2094
   },
   {
     "id": 31991,
@@ -50,7 +50,7 @@
       18,
       10764
     ],
-    "popularity": 1742.5863
+    "popularity": 1398.7908
   },
   {
     "id": 1416,
@@ -66,7 +66,7 @@
     "genres": [
       18
     ],
-    "popularity": 1377.1434
+    "popularity": 998.5512
   },
   {
     "id": 231962,
@@ -82,7 +82,7 @@
     "genres": [
       10766
     ],
-    "popularity": 613.4383
+    "popularity": 459.9623
   },
   {
     "id": 22980,
@@ -99,7 +99,7 @@
       10767,
       35
     ],
-    "popularity": 494.4426
+    "popularity": 504.1417
   },
   {
     "id": 4656,
@@ -109,13 +109,13 @@
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.8,
-    "votes": 382,
+    "rating": 6.763,
+    "votes": 383,
     "release": "1993-01-11",
     "genres": [
       10764
     ],
-    "popularity": 437.9611
+    "popularity": 373.3048
   },
   {
     "id": 33238,
@@ -132,7 +132,7 @@
       35,
       10764
     ],
-    "popularity": 419.308
+    "popularity": 437.0613
   },
   {
     "id": 59941,
@@ -142,14 +142,14 @@
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
     "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.811,
-    "votes": 400,
+    "rating": 5.822,
+    "votes": 401,
     "release": "2014-02-17",
     "genres": [
       35,
       10767
     ],
-    "popularity": 340.6878
+    "popularity": 343.1779
   },
   {
     "id": 247718,
@@ -159,14 +159,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.619,
-    "votes": 1164,
+    "rating": 8.618,
+    "votes": 1166,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 327.6269
+    "popularity": 321.7088
   },
   {
     "id": 4614,
@@ -177,14 +177,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.61,
-    "votes": 2606,
+    "votes": 2607,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 277.3213
+    "popularity": 270.2472
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.424,
+    "votes": 676,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 276.1028
   },
   {
     "id": 61818,
@@ -194,14 +211,30 @@
     "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
     "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.138,
-    "votes": 138,
+    "rating": 5.129,
+    "votes": 139,
     "release": "2014-02-25",
     "genres": [
       10767,
       35
     ],
-    "popularity": 266.2743
+    "popularity": 271.7791
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 256.57
   },
   {
     "id": 153312,
@@ -219,57 +252,7 @@
       18,
       35
     ],
-    "popularity": 243.6407
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.3,
-    "votes": 5246,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 199.2692
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.424,
-    "votes": 676,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 272.9987
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 253.3937
+    "popularity": 231.176
   },
   {
     "id": 213375,
@@ -278,15 +261,15 @@
     "title": "VisionQuest",
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
     "rating": 8.7,
-    "votes": 255,
+    "votes": 261,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 239.2703
+    "popularity": 288.1133
   },
   {
     "id": 549,
@@ -296,14 +279,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.275,
-    "votes": 738,
+    "rating": 7.276,
+    "votes": 739,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 232.1267
+    "popularity": 226.3498
   },
   {
     "id": 72879,
@@ -321,7 +304,24 @@
       18,
       10766
     ],
-    "popularity": 226.108
+    "popularity": 206.6453
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.332,
+    "votes": 5250,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 202.8559
   },
   {
     "id": 2661,
@@ -339,6 +339,6 @@
       10765,
       18
     ],
-    "popularity": 199.0147
+    "popularity": 202.3863
   }
 ]
