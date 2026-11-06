@@ -1,23 +1,5 @@
 [
   {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.961,
-    "votes": 4403,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 2533.8782
-  },
-  {
     "id": 456,
     "tmdb_id": 456,
     "type": "tv",
@@ -25,14 +7,32 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.026,
-    "votes": 11141,
+    "rating": 8.027,
+    "votes": 11144,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 2324.2094
+    "popularity": 1477.0522
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 8,
+    "votes": 4403,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1673.3616
   },
   {
     "id": 31991,
@@ -50,7 +50,7 @@
       18,
       10764
     ],
-    "popularity": 1398.7908
+    "popularity": 1105.636
   },
   {
     "id": 1416,
@@ -61,28 +61,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
     "rating": 8.202,
-    "votes": 11119,
+    "votes": 11121,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 998.5512
-  },
-  {
-    "id": 231962,
-    "tmdb_id": 231962,
-    "type": "tv",
-    "title": "Deep Waters",
-    "overview": "The club belongs to Gys Swarts, whose sons Rossouw and Jacques are involved in the family enterprise. Gys's grandchildren Karla and Johan also swim for the club, bringing the demands of training and competition directly into the family circle. Can Gys keep ownership, family expectation and sporting ambition from pulling the club in different directions?",
-    "poster": "https://image.tmdb.org/t/p/w342/1nmKI8MWPC5Q0yOryKTpF89dikP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
-    "genres": [
-      10766
-    ],
-    "popularity": 459.9623
+    "popularity": 601.0545
   },
   {
     "id": 22980,
@@ -99,23 +83,23 @@
       10767,
       35
     ],
-    "popularity": 504.1417
+    "popularity": 525.6152
   },
   {
-    "id": 4656,
-    "tmdb_id": 4656,
+    "id": 231962,
+    "tmdb_id": 231962,
     "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.763,
-    "votes": 383,
-    "release": "1993-01-11",
+    "title": "Deep Waters",
+    "overview": "The club belongs to Gys Swarts, whose sons Rossouw and Jacques are involved in the family enterprise. Gys's grandchildren Karla and Johan also swim for the club, bringing the demands of training and competition directly into the family circle. Can Gys keep ownership, family expectation and sporting ambition from pulling the club in different directions?",
+    "poster": "https://image.tmdb.org/t/p/w342/1nmKI8MWPC5Q0yOryKTpF89dikP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+    "rating": 8.2,
+    "votes": 4,
+    "release": "2022-10-03",
     "genres": [
-      10764
+      10766
     ],
-    "popularity": 373.3048
+    "popularity": 215.1008
   },
   {
     "id": 33238,
@@ -132,7 +116,23 @@
       35,
       10764
     ],
-    "popularity": 437.0613
+    "popularity": 436.6172
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.763,
+    "votes": 383,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 270.3017
   },
   {
     "id": 59941,
@@ -149,7 +149,7 @@
       35,
       10767
     ],
-    "popularity": 343.1779
+    "popularity": 347.004
   },
   {
     "id": 247718,
@@ -159,14 +159,65 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.618,
-    "votes": 1166,
+    "rating": 8.617,
+    "votes": 1168,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 321.7088
+    "popularity": 331.4286
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.644,
+    "votes": 267,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 253.0572
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.424,
+    "votes": 676,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 276.3888
+  },
+  {
+    "id": 61818,
+    "tmdb_id": 61818,
+    "type": "tv",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.129,
+    "votes": 139,
+    "release": "2014-02-25",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 270.7261
   },
   {
     "id": 4614,
@@ -184,41 +235,7 @@
       18,
       10759
     ],
-    "popularity": 270.2472
-  },
-  {
-    "id": 2224,
-    "tmdb_id": 2224,
-    "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.424,
-    "votes": 676,
-    "release": "1996-07-22",
-    "genres": [
-      10763,
-      35
-    ],
-    "popularity": 276.1028
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.129,
-    "votes": 139,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 271.7791
+    "popularity": 269.2341
   },
   {
     "id": 206559,
@@ -234,7 +251,7 @@
     "genres": [
       10766
     ],
-    "popularity": 256.57
+    "popularity": 257.8225
   },
   {
     "id": 153312,
@@ -244,32 +261,15 @@
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
     "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.3,
-    "votes": 2913,
+    "rating": 8.314,
+    "votes": 2915,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 231.176
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.7,
-    "votes": 261,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 288.1133
+    "popularity": 227.3063
   },
   {
     "id": 549,
@@ -286,7 +286,7 @@
       80,
       18
     ],
-    "popularity": 226.3498
+    "popularity": 226.3796
   },
   {
     "id": 72879,
@@ -304,7 +304,7 @@
       18,
       10766
     ],
-    "popularity": 206.6453
+    "popularity": 220.6894
   },
   {
     "id": 2190,
@@ -314,14 +314,14 @@
     "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
     "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.332,
-    "votes": 5250,
+    "rating": 8.333,
+    "votes": 5253,
     "release": "1997-08-13",
     "genres": [
       35,
       16
     ],
-    "popularity": 202.8559
+    "popularity": 185.2404
   },
   {
     "id": 2661,
@@ -339,6 +339,6 @@
       10765,
       18
     ],
-    "popularity": 202.3863
+    "popularity": 196.1066
   }
 ]

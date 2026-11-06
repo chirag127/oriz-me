@@ -8,14 +8,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.4,
-    "votes": 4938,
+    "votes": 4946,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 3895.1896
+    "popularity": 3788.8736
+  },
+  {
+    "id": 1100,
+    "tmdb_id": 1100,
+    "type": "tv",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.111,
+    "votes": 6055,
+    "release": "2005-09-19",
+    "genres": [
+      35
+    ],
+    "popularity": 3449.5487
   },
   {
     "id": 2316,
@@ -26,28 +42,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
     "rating": 8.6,
-    "votes": 5670,
+    "votes": 5676,
     "release": "2005-03-24",
     "genres": [
       35
     ],
-    "popularity": 3716.9184
-  },
-  {
-    "id": 1100,
-    "tmdb_id": 1100,
-    "type": "tv",
-    "title": "How I Met Your Mother",
-    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.1,
-    "votes": 6050,
-    "release": "2005-09-19",
-    "genres": [
-      35
-    ],
-    "popularity": 3757.3859
+    "popularity": 2691.7491
   },
   {
     "id": 60735,
@@ -58,13 +58,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
     "rating": 7.739,
-    "votes": 11845,
+    "votes": 11847,
     "release": "2014-10-07",
     "genres": [
       18,
       10765
     ],
-    "popularity": 3662.303
+    "popularity": 2890.5926
   },
   {
     "id": 18165,
@@ -74,14 +74,14 @@
     "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
     "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "rating": 8.3,
-    "votes": 9833,
+    "rating": 8.299,
+    "votes": 9835,
     "release": "2009-09-10",
     "genres": [
       18,
       10765
     ],
-    "popularity": 3600.7045
+    "popularity": 2688.8906
   },
   {
     "id": 1421,
@@ -91,13 +91,13 @@
     "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.908,
-    "votes": 3604,
+    "rating": 7.909,
+    "votes": 3607,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 3477.8298
+    "popularity": 3289.3612
   },
   {
     "id": 1408,
@@ -108,12 +108,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
     "rating": 8.561,
-    "votes": 8001,
+    "votes": 8004,
     "release": "2004-11-16",
     "genres": [
       18
     ],
-    "popularity": 3301.9585
+    "popularity": 2424.4115
   },
   {
     "id": 1400,
@@ -123,13 +123,13 @@
     "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
     "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-    "rating": 8.248,
-    "votes": 2503,
+    "rating": 8.247,
+    "votes": 2505,
     "release": "1989-07-05",
     "genres": [
       35
     ],
-    "popularity": 3138.9576
+    "popularity": 2944.6884
   },
   {
     "id": 48866,
@@ -140,7 +140,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
     "rating": 7.878,
-    "votes": 8860,
+    "votes": 8863,
     "release": "2014-03-19",
     "genres": [
       10765,
@@ -148,25 +148,7 @@
       18,
       80
     ],
-    "popularity": 2997.0328
-  },
-  {
-    "id": 2734,
-    "tmdb_id": 2734,
-    "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.961,
-    "votes": 4402,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 2533.8782
+    "popularity": 2935.0921
   },
   {
     "id": 1695,
@@ -177,7 +159,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
     "rating": 7.934,
-    "votes": 1340,
+    "votes": 1342,
     "release": "2002-07-12",
     "genres": [
       18,
@@ -185,25 +167,25 @@
       80,
       9648
     ],
-    "popularity": 2916.1298
+    "popularity": 3424.0223
   },
   {
-    "id": 44217,
-    "tmdb_id": 44217,
+    "id": 1424,
+    "tmdb_id": 1424,
     "type": "tv",
-    "title": "Vikings",
-    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
-    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
-    "rating": 8.105,
-    "votes": 7988,
-    "release": "2013-03-03",
+    "title": "Orange Is the New Black",
+    "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+    "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
+    "rating": 7.6,
+    "votes": 2946,
+    "release": "2013-07-11",
     "genres": [
-      10759,
       18,
-      10768
+      35,
+      80
     ],
-    "popularity": 2680.8936
+    "popularity": 2846.3346
   },
   {
     "id": 873,
@@ -213,15 +195,15 @@
     "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
     "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
-    "rating": 8.1,
-    "votes": 882,
+    "rating": 8.058,
+    "votes": 884,
     "release": "1971-09-15",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 2874.0435
+    "popularity": 2938.7994
   },
   {
     "id": 33880,
@@ -232,67 +214,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
     "rating": 8.222,
-    "votes": 2483,
+    "votes": 2484,
     "release": "2012-04-14",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 2840.2245
-  },
-  {
-    "id": 1424,
-    "tmdb_id": 1424,
-    "type": "tv",
-    "title": "Orange Is the New Black",
-    "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
-    "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
-    "rating": 7.639,
-    "votes": 2946,
-    "release": "2013-07-11",
-    "genres": [
-      18,
-      35,
-      80
-    ],
-    "popularity": 2904.6607
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.026,
-    "votes": 11140,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 2324.2094
-  },
-  {
-    "id": 4057,
-    "tmdb_id": 4057,
-    "type": "tv",
-    "title": "Criminal Minds",
-    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-    "rating": 8.3,
-    "votes": 4214,
-    "release": "2005-09-22",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 2268.2447
+    "popularity": 2624.3499
   },
   {
     "id": 63333,
@@ -302,15 +231,71 @@
     "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
     "poster": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
-    "rating": 8.3,
-    "votes": 2079,
+    "rating": 8.255,
+    "votes": 2081,
     "release": "2015-10-10",
     "genres": [
       10759,
       18,
       10768
     ],
-    "popularity": 2759.7755
+    "popularity": 3315.2273
+  },
+  {
+    "id": 44217,
+    "tmdb_id": 44217,
+    "type": "tv",
+    "title": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "rating": 8.105,
+    "votes": 7990,
+    "release": "2013-03-03",
+    "genres": [
+      10759,
+      18,
+      10768
+    ],
+    "popularity": 2448.1244
+  },
+  {
+    "id": 19885,
+    "tmdb_id": 19885,
+    "type": "tv",
+    "title": "Sherlock",
+    "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "https://image.tmdb.org/t/p/w342/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+    "rating": 8.502,
+    "votes": 6834,
+    "release": "2010-07-25",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 2884.4698
+  },
+  {
+    "id": 61923,
+    "tmdb_id": 61923,
+    "type": "tv",
+    "title": "Star vs. the Forces of Evil",
+    "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
+    "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+    "rating": 8.4,
+    "votes": 1539,
+    "release": "2015-01-18",
+    "genres": [
+      10759,
+      16,
+      35,
+      10765,
+      10751
+    ],
+    "popularity": 2064.3652
   },
   {
     "id": 78191,
@@ -321,33 +306,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
     "rating": 8,
-    "votes": 4154,
+    "votes": 4155,
     "release": "2018-09-09",
     "genres": [
       9648,
       80,
       18
     ],
-    "popularity": 2329.3866
+    "popularity": 2349.8657
   },
   {
-    "id": 61923,
-    "tmdb_id": 61923,
+    "id": 456,
+    "tmdb_id": 456,
     "type": "tv",
-    "title": "Star vs. the Forces of Evil",
-    "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
-    "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
-    "rating": 8.364,
-    "votes": 1539,
-    "release": "2015-01-18",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.027,
+    "votes": 11144,
+    "release": "1989-12-17",
     "genres": [
-      10759,
       16,
-      35,
-      10765,
-      10751
+      35
     ],
-    "popularity": 2352.5627
+    "popularity": 1477.0522
+  },
+  {
+    "id": 46648,
+    "tmdb_id": 46648,
+    "type": "tv",
+    "title": "True Detective",
+    "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "poster": "https://image.tmdb.org/t/p/w342/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+    "rating": 8.293,
+    "votes": 4472,
+    "release": "2014-01-12",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 2198.8753
   }
 ]

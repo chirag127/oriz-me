@@ -7,13 +7,13 @@
     "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
     "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "rating": 7.7,
-    "votes": 46,
+    "rating": 7.676,
+    "votes": 51,
     "release": "2026-10-30",
     "genres": [
       9648
     ],
-    "popularity": 146.56
+    "popularity": 145.5769
   },
   {
     "id": 213375,
@@ -23,67 +23,14 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.7,
-    "votes": 261,
+    "rating": 8.6,
+    "votes": 267,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 288.1133
-  },
-  {
-    "id": 259909,
-    "tmdb_id": 259909,
-    "type": "tv",
-    "title": "Dexter: Resurrection",
-    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.5,
-    "votes": 729,
-    "release": "2025-07-13",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 117.6758
-  },
-  {
-    "id": 279246,
-    "tmdb_id": 279246,
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-    "rating": 8.333,
-    "votes": 6,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 109.3984
-  },
-  {
-    "id": 96677,
-    "tmdb_id": 96677,
-    "type": "tv",
-    "title": "Lupin",
-    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-    "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-    "rating": 7.679,
-    "votes": 2774,
-    "release": "2021-01-08",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 132.6344
+    "popularity": 253.0572
   },
   {
     "id": 292741,
@@ -93,15 +40,86 @@
     "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
     "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.7,
-    "votes": 33,
+    "rating": 7.657,
+    "votes": 35,
     "release": "2026-10-29",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 99.2486
+    "popularity": 93.9845
+  },
+  {
+    "id": 259909,
+    "tmdb_id": 259909,
+    "type": "tv",
+    "title": "Dexter: Resurrection",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "rating": 8.55,
+    "votes": 730,
+    "release": "2025-07-13",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 110.3358
+  },
+  {
+    "id": 279246,
+    "tmdb_id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "rating": 8.3,
+    "votes": 11,
+    "release": "2026-11-03",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 155.6144
+  },
+  {
+    "id": 225385,
+    "tmdb_id": 225385,
+    "type": "tv",
+    "title": "Black Doves",
+    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+    "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+    "rating": 7,
+    "votes": 467,
+    "release": "2024-12-05",
+    "genres": [
+      10759,
+      9648,
+      80
+    ],
+    "popularity": 72.6249
+  },
+  {
+    "id": 96677,
+    "tmdb_id": 96677,
+    "type": "tv",
+    "title": "Lupin",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+    "rating": 7.677,
+    "votes": 2779,
+    "release": "2021-01-08",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 123.8161
   },
   {
     "id": 247718,
@@ -111,14 +129,82 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.618,
-    "votes": 1166,
+    "rating": 8.617,
+    "votes": 1168,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 321.7088
+    "popularity": 331.4286
+  },
+  {
+    "id": 258989,
+    "tmdb_id": 258989,
+    "type": "tv",
+    "title": "The Greatest",
+    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
+    "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+    "rating": 5.2,
+    "votes": 13,
+    "release": "2026-11-04",
+    "genres": [
+      18
+    ],
+    "popularity": 46.23
+  },
+  {
+    "id": 81723,
+    "tmdb_id": 81723,
+    "type": "tv",
+    "title": "The Gilded Age",
+    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+    "rating": 7.7,
+    "votes": 288,
+    "release": "2022-01-24",
+    "genres": [
+      18
+    ],
+    "popularity": 56.4327
+  },
+  {
+    "id": 95350,
+    "tmdb_id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.199,
+    "votes": 857,
+    "release": "2026-08-16",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 48.4624
+  },
+  {
+    "id": 314271,
+    "tmdb_id": 314271,
+    "type": "tv",
+    "title": "Bass X Machina",
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "rating": 7.714,
+    "votes": 7,
+    "release": "2026-11-03",
+    "genres": [
+      16,
+      37,
+      10765
+    ],
+    "popularity": 42.6554
   },
   {
     "id": 248830,
@@ -135,109 +221,7 @@
       35,
       18
     ],
-    "popularity": 43.1023
-  },
-  {
-    "id": 258989,
-    "tmdb_id": 258989,
-    "type": "tv",
-    "title": "The Greatest",
-    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-    "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-    "rating": 4.917,
-    "votes": 12,
-    "release": "2026-11-04",
-    "genres": [
-      18
-    ],
-    "popularity": 36.4781
-  },
-  {
-    "id": 81723,
-    "tmdb_id": 81723,
-    "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-    "rating": 7.7,
-    "votes": 288,
-    "release": "2022-01-24",
-    "genres": [
-      18
-    ],
-    "popularity": 57.4536
-  },
-  {
-    "id": 307478,
-    "tmdb_id": 307478,
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "poster": "https://image.tmdb.org/t/p/w342/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "rating": 8.5,
-    "votes": 2,
-    "release": "2026-10-30",
-    "genres": [
-      18,
-      80,
-      9648
-    ],
-    "popularity": 24.7046
-  },
-  {
-    "id": 213562,
-    "tmdb_id": 213562,
-    "type": "tv",
-    "title": "Crystal Lake",
-    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-    "poster": "https://image.tmdb.org/t/p/w342/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-    "rating": 8.6,
-    "votes": 328,
-    "release": "2026-10-15",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 89.673
-  },
-  {
-    "id": 314271,
-    "tmdb_id": 314271,
-    "type": "tv",
-    "title": "Bass X Machina",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-    "rating": 7.5,
-    "votes": 6,
-    "release": "2026-11-03",
-    "genres": [
-      16,
-      37,
-      10765
-    ],
-    "popularity": 47.2545
-  },
-  {
-    "id": 196322,
-    "tmdb_id": 196322,
-    "type": "tv",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-    "rating": 7.827,
-    "votes": 862,
-    "release": "2024-05-07",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 66.4094
+    "popularity": 42.8263
   },
   {
     "id": 30984,
@@ -255,24 +239,93 @@
       16,
       10765
     ],
-    "popularity": 178.9882
+    "popularity": 167.8417
   },
   {
-    "id": 120911,
-    "tmdb_id": 120911,
+    "id": 196322,
+    "tmdb_id": 196322,
     "type": "tv",
-    "title": "The Terminal List",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-    "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-    "rating": 7.993,
-    "votes": 1328,
-    "release": "2022-06-30",
+    "title": "Dark Matter",
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+    "rating": 7.826,
+    "votes": 865,
+    "release": "2024-05-07",
     "genres": [
-      10759,
+      10765,
       18
     ],
-    "popularity": 150.9863
+    "popularity": 58.2874
+  },
+  {
+    "id": 300146,
+    "tmdb_id": 300146,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "rating": 6.7,
+    "votes": 12,
+    "release": "2026-10-16",
+    "genres": [
+      18
+    ],
+    "popularity": 83.4738
+  },
+  {
+    "id": 126027,
+    "tmdb_id": 126027,
+    "type": "tv",
+    "title": "Ghosts",
+    "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+    "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p5FOkor90VRBJEEhUMFdFdkixfe.jpg",
+    "rating": 8.1,
+    "votes": 511,
+    "release": "2021-10-07",
+    "genres": [
+      35,
+      10765
+    ],
+    "popularity": 74.5399
+  },
+  {
+    "id": 37854,
+    "tmdb_id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.756,
+    "votes": 5633,
+    "release": "1999-10-20",
+    "genres": [
+      10759,
+      35,
+      16
+    ],
+    "popularity": 224.2444
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.3,
+    "votes": 2915,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 227.3063
   },
   {
     "id": 105248,
@@ -283,7 +336,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
     "rating": 8.507,
-    "votes": 2132,
+    "votes": 2135,
     "release": "2022-09-13",
     "genres": [
       16,
@@ -291,57 +344,6 @@
       10765,
       80
     ],
-    "popularity": 69.719
-  },
-  {
-    "id": 300146,
-    "tmdb_id": 300146,
-    "type": "tv",
-    "title": "Where the Mask Ends",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "rating": 7.3,
-    "votes": 11,
-    "release": "2026-10-16",
-    "genres": [
-      18
-    ],
-    "popularity": 85.5964
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.332,
-    "votes": 5250,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 202.8559
-  },
-  {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.8,
-    "votes": 5632,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 210.5317
+    "popularity": 67.822
   }
 ]
