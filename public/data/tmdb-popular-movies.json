@@ -8,14 +8,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
     "rating": 8.5,
-    "votes": 37237,
+    "votes": 37250,
     "release": "2008-07-16",
     "genres": [
       28,
       53,
       80
     ],
-    "popularity": 2584.5275
+    "popularity": 1443.0044
+  },
+  {
+    "id": 687163,
+    "tmdb_id": 687163,
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "rating": 8.631,
+    "votes": 8705,
+    "release": "2026-03-15",
+    "genres": [
+      878,
+      12
+    ],
+    "popularity": 2152.7727
   },
   {
     "id": 791523,
@@ -25,15 +42,15 @@
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.46,
-    "votes": 198,
+    "rating": 8.5,
+    "votes": 203,
     "release": "2026-10-19",
     "genres": [
       16,
       12,
       14
     ],
-    "popularity": 752.1366
+    "popularity": 441.8871
   },
   {
     "id": 1423191,
@@ -43,33 +60,15 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.448,
-    "votes": 1616,
+    "rating": 7.455,
+    "votes": 1650,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 422.1049
-  },
-  {
-    "id": 1058424,
-    "tmdb_id": 1058424,
-    "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-    "rating": 6.768,
-    "votes": 484,
-    "release": "2026-07-15",
-    "genres": [
-      878,
-      9648,
-      28
-    ],
-    "popularity": 376.6821
+    "popularity": 494.056
   },
   {
     "id": 1507696,
@@ -79,15 +78,50 @@
     "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.102,
-    "votes": 123,
+    "rating": 6.13,
+    "votes": 135,
     "release": "2026-10-09",
     "genres": [
       28,
       53,
       27
     ],
-    "popularity": 377.9712
+    "popularity": 381.6851
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+    "rating": 6.755,
+    "votes": 497,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 367.0509
+  },
+  {
+    "id": 11308,
+    "tmdb_id": 11308,
+    "type": "movie",
+    "title": "The Hotel New Hampshire",
+    "overview": "Over the course of several years beginning in the 1950s, a man and his oddball family run hotels in New England and Vienna, as unexpected events change their lives forever.",
+    "poster": "https://image.tmdb.org/t/p/w342/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
+    "rating": 5.7,
+    "votes": 138,
+    "release": "1984-03-09",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 379.0176
   },
   {
     "id": 969681,
@@ -96,16 +130,16 @@
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
-    "rating": 8.48,
-    "votes": 6566,
+    "backdrop": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "rating": 8.479,
+    "votes": 6579,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 295.0721
+    "popularity": 327.1353
   },
   {
     "id": 354912,
@@ -116,7 +150,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
     "rating": 8.207,
-    "votes": 21799,
+    "votes": 21805,
     "release": "2017-10-27",
     "genres": [
       10751,
@@ -124,24 +158,7 @@
       10402,
       12
     ],
-    "popularity": 253.1858
-  },
-  {
-    "id": 1596275,
-    "tmdb_id": 1596275,
-    "type": "movie",
-    "title": "Drive - The Pretenders",
-    "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
-    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "rating": 7.712,
-    "votes": 125,
-    "release": "2026-10-27",
-    "genres": [
-      10749,
-      53
-    ],
-    "popularity": 195.8774
+    "popularity": 247.5172
   },
   {
     "id": 1813355,
@@ -150,16 +167,16 @@
     "title": "A Story of Derry",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
-    "rating": 6.951,
-    "votes": 72,
+    "backdrop": "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
+    "rating": 6.934,
+    "votes": 76,
     "release": "2026-10-31",
     "genres": [
       18,
       27,
       9648
     ],
-    "popularity": 240.9913
+    "popularity": 256.3091
   },
   {
     "id": 1294189,
@@ -168,15 +185,15 @@
     "title": "The Mongoose",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-    "rating": 6.1,
-    "votes": 47,
+    "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "rating": 5.9,
+    "votes": 62,
     "release": "2026-10-29",
     "genres": [
       28,
       53
     ],
-    "popularity": 219.4395
+    "popularity": 197.9624
   },
   {
     "id": 1657630,
@@ -187,7 +204,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
     "rating": 6.4,
-    "votes": 99,
+    "votes": 102,
     "release": "2026-10-29",
     "genres": [
       27,
@@ -196,7 +213,24 @@
       14,
       53
     ],
-    "popularity": 198.0803
+    "popularity": 188.0604
+  },
+  {
+    "id": 1596275,
+    "tmdb_id": 1596275,
+    "type": "movie",
+    "title": "Drive - The Pretenders",
+    "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
+    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+    "rating": 7.7,
+    "votes": 130,
+    "release": "2026-10-27",
+    "genres": [
+      10749,
+      53
+    ],
+    "popularity": 171.4507
   },
   {
     "id": 1283515,
@@ -206,30 +240,14 @@
     "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.971,
-    "votes": 607,
+    "rating": 6.962,
+    "votes": 613,
     "release": "2026-09-30",
     "genres": [
       9648,
       53
     ],
-    "popularity": 192.4684
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "rating": 7.312,
-    "votes": 743,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 177.9934
+    "popularity": 184.0988
   },
   {
     "id": 1368337,
@@ -239,33 +257,31 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-    "rating": 8,
-    "votes": 4355,
+    "rating": 8.021,
+    "votes": 4358,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 184.3432
+    "popularity": 188.0529
   },
   {
-    "id": 1514026,
-    "tmdb_id": 1514026,
+    "id": 1101412,
+    "tmdb_id": 1101412,
     "type": "movie",
-    "title": "Buddy",
-    "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
-    "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
-    "rating": 6.958,
-    "votes": 248,
-    "release": "2026-08-27",
+    "title": "Fall 2: Deadpoint",
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+    "rating": 7.303,
+    "votes": 748,
+    "release": "2026-09-01",
     "genres": [
-      27,
-      35,
-      14
+      53
     ],
-    "popularity": 150.7312
+    "popularity": 165.161
   },
   {
     "id": 1571955,
@@ -276,32 +292,32 @@
     "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
     "rating": 6.5,
-    "votes": 55,
+    "votes": 59,
     "release": "2026-10-30",
     "genres": [
       53,
       18,
       80
     ],
-    "popularity": 153.9563
+    "popularity": 139.7562
   },
   {
-    "id": 1232569,
-    "tmdb_id": 1232569,
+    "id": 1514026,
+    "tmdb_id": 1514026,
     "type": "movie",
-    "title": "Pinocchio: Unstrung",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "poster": "https://image.tmdb.org/t/p/w342/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
-    "rating": 6.5,
-    "votes": 159,
-    "release": "2026-07-22",
+    "title": "Buddy",
+    "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+    "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
+    "rating": 6.919,
+    "votes": 252,
+    "release": "2026-08-27",
     "genres": [
       27,
-      14,
-      9648
+      35,
+      14
     ],
-    "popularity": 128.3
+    "popularity": 142.8666
   },
   {
     "id": 1422041,
@@ -311,48 +327,31 @@
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "poster": "https://image.tmdb.org/t/p/w342/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "rating": 8.053,
-    "votes": 180,
+    "rating": 8.1,
+    "votes": 186,
     "release": "2026-09-25",
     "genres": [
       18,
       10752
     ],
-    "popularity": 131.6409
+    "popularity": 137.4917
   },
   {
-    "id": 1291595,
-    "tmdb_id": 1291595,
+    "id": 1232569,
+    "tmdb_id": 1232569,
     "type": "movie",
-    "title": "Insidious: Out of the Further",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "rating": 7.7,
-    "votes": 1023,
-    "release": "2026-08-19",
+    "title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "poster": "https://image.tmdb.org/t/p/w342/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "rating": 6.391,
+    "votes": 161,
+    "release": "2026-07-22",
     "genres": [
       27,
-      53
-    ],
-    "popularity": 111.8307
-  },
-  {
-    "id": 656908,
-    "tmdb_id": 656908,
-    "type": "movie",
-    "title": "Ramayana: Rise of a Legend",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "poster": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "rating": 6.6,
-    "votes": 8,
-    "release": "2026-11-05",
-    "genres": [
       14,
-      28,
-      12
+      9648
     ],
-    "popularity": 117.3475
+    "popularity": 122.1976
   }
 ]

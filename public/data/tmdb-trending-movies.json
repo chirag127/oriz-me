@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "rating": 7.45,
-    "votes": 1618,
+    "votes": 1658,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 422.1049
+    "popularity": 494.056
   },
   {
     "id": 1263337,
@@ -25,14 +25,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-    "rating": 7.3,
-    "votes": 385,
+    "rating": 7.317,
+    "votes": 427,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 64.3881
+    "popularity": 202.1924
   },
   {
     "id": 1375441,
@@ -43,13 +43,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
     "rating": 6.8,
-    "votes": 321,
+    "votes": 341,
     "release": "2026-09-23",
     "genres": [
       53,
       18
     ],
-    "popularity": 113.0133
+    "popularity": 109.9456
+  },
+  {
+    "id": 1368337,
+    "tmdb_id": 1368337,
+    "type": "movie",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+    "rating": 8,
+    "votes": 4358,
+    "release": "2026-07-15",
+    "genres": [
+      12,
+      28,
+      14
+    ],
+    "popularity": 188.0529
   },
   {
     "id": 1381071,
@@ -59,15 +77,33 @@
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
     "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 8.256,
-    "votes": 39,
+    "rating": 8.132,
+    "votes": 57,
     "release": "2026-11-03",
     "genres": [
       878,
       27,
       28
     ],
-    "popularity": 106.147
+    "popularity": 145.9052
+  },
+  {
+    "id": 1792170,
+    "tmdb_id": 1792170,
+    "type": "movie",
+    "title": "Model Citizen",
+    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+    "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+    "rating": 7.269,
+    "votes": 13,
+    "release": "2026-11-03",
+    "genres": [
+      80,
+      878,
+      53
+    ],
+    "popularity": 36.8657
   },
   {
     "id": 1294189,
@@ -77,49 +113,14 @@
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-    "rating": 6.12,
-    "votes": 50,
+    "rating": 5.9,
+    "votes": 63,
     "release": "2026-10-29",
     "genres": [
       28,
       53
     ],
-    "popularity": 219.4395
-  },
-  {
-    "id": 1507696,
-    "tmdb_id": 1507696,
-    "type": "movie",
-    "title": "Apocalypse Z: New World",
-    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.101,
-    "votes": 124,
-    "release": "2026-10-09",
-    "genres": [
-      28,
-      53,
-      27
-    ],
-    "popularity": 377.9712
-  },
-  {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.971,
-    "votes": 607,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 192.4684
+    "popularity": 197.9624
   },
   {
     "id": 656908,
@@ -129,15 +130,15 @@
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "poster": "https://image.tmdb.org/t/p/w342/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "rating": 6.6,
-    "votes": 8,
+    "rating": 7.5,
+    "votes": 14,
     "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 117.3475
+    "popularity": 126.1499
   },
   {
     "id": 1400940,
@@ -147,33 +148,86 @@
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "rating": 7.433,
-    "votes": 397,
+    "rating": 7.431,
+    "votes": 400,
     "release": "2026-10-19",
     "genres": [
       27,
       53,
       878
     ],
-    "popularity": 105.4305
+    "popularity": 97.8805
   },
   {
-    "id": 1571955,
-    "tmdb_id": 1571955,
+    "id": 1483525,
+    "tmdb_id": 1483525,
     "type": "movie",
-    "title": "Collision Course",
-    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-    "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-    "rating": 6.5,
-    "votes": 55,
-    "release": "2026-10-30",
+    "title": "Possible Love",
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "poster": "https://image.tmdb.org/t/p/w342/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+    "rating": 7.3,
+    "votes": 17,
+    "release": "2026-09-23",
     "genres": [
-      53,
-      18,
-      80
+      18
     ],
-    "popularity": 153.9563
+    "popularity": 45.1143
+  },
+  {
+    "id": 1507696,
+    "tmdb_id": 1507696,
+    "type": "movie",
+    "title": "Apocalypse Z: New World",
+    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "rating": 6.127,
+    "votes": 134,
+    "release": "2026-10-09",
+    "genres": [
+      28,
+      53,
+      27
+    ],
+    "popularity": 381.6851
+  },
+  {
+    "id": 1117898,
+    "tmdb_id": 1117898,
+    "type": "movie",
+    "title": "The Cat in the Hat",
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "poster": "https://image.tmdb.org/t/p/w342/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "rating": 7,
+    "votes": 13,
+    "release": "2026-10-31",
+    "genres": [
+      16,
+      14,
+      12,
+      10751,
+      35
+    ],
+    "popularity": 56.4038
+  },
+  {
+    "id": 1283515,
+    "tmdb_id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "rating": 6.962,
+    "votes": 613,
+    "release": "2026-09-30",
+    "genres": [
+      9648,
+      53
+    ],
+    "popularity": 184.0988
   },
   {
     "id": 1003596,
@@ -191,7 +245,7 @@
       28,
       12
     ],
-    "popularity": 100.7497
+    "popularity": 96.5429
   },
   {
     "id": 791523,
@@ -201,122 +255,50 @@
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.46,
-    "votes": 198,
+    "rating": 8.486,
+    "votes": 208,
     "release": "2026-10-19",
     "genres": [
       16,
       12,
       14
     ],
-    "popularity": 752.1366
+    "popularity": 441.8871
   },
   {
-    "id": 1792170,
-    "tmdb_id": 1792170,
+    "id": 1571955,
+    "tmdb_id": 1571955,
     "type": "movie",
-    "title": "Model Citizen",
-    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-    "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
-    "rating": 7.667,
-    "votes": 12,
-    "release": "2026-11-03",
-    "genres": [
-      80,
-      878,
-      53
-    ],
-    "popularity": 29.7309
-  },
-  {
-    "id": 1570488,
-    "tmdb_id": 1570488,
-    "type": "movie",
-    "title": "A Dog's Perfect Christmas",
-    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-    "poster": "https://image.tmdb.org/t/p/w342/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-    "rating": 8.417,
-    "votes": 12,
-    "release": "2026-11-04",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 84.1261
-  },
-  {
-    "id": 891621,
-    "tmdb_id": 891621,
-    "type": "movie",
-    "title": "Wild Horse Nine",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "rating": 8.583,
-    "votes": 30,
+    "title": "Collision Course",
+    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+    "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "rating": 6.475,
+    "votes": 60,
     "release": "2026-10-30",
     "genres": [
-      35,
-      80,
-      53
-    ],
-    "popularity": 46.9578
-  },
-  {
-    "id": 1384216,
-    "tmdb_id": 1384216,
-    "type": "movie",
-    "title": "The Dog Stars",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-    "rating": 7.221,
-    "votes": 893,
-    "release": "2026-08-26",
-    "genres": [
-      28,
       53,
-      878
+      18,
+      80
     ],
-    "popularity": 95.223
+    "popularity": 139.7562
   },
   {
-    "id": 1117898,
-    "tmdb_id": 1117898,
+    "id": 1654940,
+    "tmdb_id": 1654940,
     "type": "movie",
-    "title": "The Cat in the Hat",
-    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "poster": "https://image.tmdb.org/t/p/w342/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-    "rating": 7.1,
-    "votes": 11,
-    "release": "2026-10-31",
+    "title": "One Year to Live, Buy a Man",
+    "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+    "poster": "https://image.tmdb.org/t/p/w342/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+    "rating": 7.5,
+    "votes": 16,
+    "release": "2026-11-05",
     "genres": [
-      16,
-      14,
-      12,
-      10751
+      10749,
+      18
     ],
-    "popularity": 47.5379
-  },
-  {
-    "id": 1170608,
-    "tmdb_id": 1170608,
-    "type": "movie",
-    "title": "Dune: Part Three",
-    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-    "poster": "https://image.tmdb.org/t/p/w342/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-15",
-    "genres": [
-      878,
-      12
-    ],
-    "popularity": 29.9021
+    "popularity": 46.5618
   },
   {
     "id": 1339713,
@@ -326,31 +308,48 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.17,
-    "votes": 6520,
+    "rating": 8.171,
+    "votes": 6528,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 98.6971
+    "popularity": 90.9076
   },
   {
-    "id": 1058424,
-    "tmdb_id": 1058424,
+    "id": 1813355,
+    "tmdb_id": 1813355,
     "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-    "rating": 6.767,
-    "votes": 484,
-    "release": "2026-07-15",
+    "title": "A Story of Derry",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
+    "rating": 6.929,
+    "votes": 77,
+    "release": "2026-10-31",
     "genres": [
-      878,
-      9648,
-      28
+      18,
+      27,
+      9648
     ],
-    "popularity": 376.6821
+    "popularity": 256.3091
+  },
+  {
+    "id": 1422041,
+    "tmdb_id": 1422041,
+    "type": "movie",
+    "title": "LA BOLA NEGRA",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "poster": "https://image.tmdb.org/t/p/w342/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "rating": 8.1,
+    "votes": 188,
+    "release": "2026-09-25",
+    "genres": [
+      18,
+      10752
+    ],
+    "popularity": 137.4917
   }
 ]
