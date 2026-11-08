@@ -1,23 +1,5 @@
 [
   {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.8,
-    "votes": 5633,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 244.1547
-  },
-  {
     "id": 279246,
     "tmdb_id": 279246,
     "type": "tv",
@@ -25,31 +7,14 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-    "rating": 8.188,
-    "votes": 16,
+    "rating": 8.4,
+    "votes": 18,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 174.8184
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.6,
-    "votes": 268,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 236.327
+    "popularity": 196.3614
   },
   {
     "id": 225385,
@@ -59,15 +24,32 @@
     "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
     "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "rating": 7.048,
-    "votes": 471,
+    "rating": 7.045,
+    "votes": 475,
     "release": "2024-12-05",
     "genres": [
       10759,
       9648,
       80
     ],
-    "popularity": 88.0524
+    "popularity": 86.0683
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.633,
+    "votes": 270,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 223.4395
   },
   {
     "id": 289517,
@@ -78,13 +60,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
     "rating": 7.6,
-    "votes": 54,
+    "votes": 59,
     "release": "2026-10-30",
     "genres": [
       9648,
       18
     ],
-    "popularity": 130.5209
+    "popularity": 121.0989
   },
   {
     "id": 247718,
@@ -94,30 +76,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.6,
-    "votes": 1171,
+    "rating": 8.618,
+    "votes": 1173,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 395.0006
-  },
-  {
-    "id": 258989,
-    "tmdb_id": 258989,
-    "type": "tv",
-    "title": "The Greatest",
-    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-    "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-    "rating": 5.3,
-    "votes": 14,
-    "release": "2026-11-04",
-    "genres": [
-      18
-    ],
-    "popularity": 44.6969
+    "popularity": 394.5645
   },
   {
     "id": 259909,
@@ -128,32 +94,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
     "rating": 8.6,
-    "votes": 733,
+    "votes": 734,
     "release": "2025-07-13",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 117.52
-  },
-  {
-    "id": 292741,
-    "tmdb_id": 292741,
-    "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.7,
-    "votes": 35,
-    "release": "2026-10-29",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 91.5011
+    "popularity": 111.9258
   },
   {
     "id": 96677,
@@ -171,25 +119,75 @@
       18,
       9648
     ],
-    "popularity": 114.4148
+    "popularity": 108.643
   },
   {
-    "id": 2661,
-    "tmdb_id": 2661,
+    "id": 258989,
+    "tmdb_id": 258989,
     "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.495,
-    "votes": 110,
-    "release": "1971-04-03",
+    "title": "The Greatest",
+    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
+    "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+    "rating": 5.3,
+    "votes": 14,
+    "release": "2026-11-04",
     "genres": [
-      10759,
-      10765,
       18
     ],
-    "popularity": 196.5864
+    "popularity": 41.9685
+  },
+  {
+    "id": 292741,
+    "tmdb_id": 292741,
+    "type": "tv",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "rating": 7.7,
+    "votes": 35,
+    "release": "2026-10-29",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 83.1986
+  },
+  {
+    "id": 303044,
+    "tmdb_id": 303044,
+    "type": "tv",
+    "title": "Campus Drivers",
+    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+    "poster": "https://image.tmdb.org/t/p/w342/br6TrAPctmobu6QM730sBEC18eH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "rating": 8.15,
+    "votes": 10,
+    "release": "2026-11-06",
+    "genres": [
+      18
+    ],
+    "popularity": 131.8948
+  },
+  {
+    "id": 314271,
+    "tmdb_id": 314271,
+    "type": "tv",
+    "title": "Bass X Machina",
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "rating": 7.625,
+    "votes": 8,
+    "release": "2026-11-03",
+    "genres": [
+      16,
+      37,
+      10765
+    ],
+    "popularity": 42.3165
   },
   {
     "id": 248830,
@@ -206,7 +204,25 @@
       35,
       18
     ],
-    "popularity": 38.4055
+    "popularity": 38.531
+  },
+  {
+    "id": 37854,
+    "tmdb_id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.756,
+    "votes": 5634,
+    "release": "1999-10-20",
+    "genres": [
+      10759,
+      35,
+      16
+    ],
+    "popularity": 313.8872
   },
   {
     "id": 300146,
@@ -216,66 +232,85 @@
     "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
     "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "rating": 7.036,
-    "votes": 14,
+    "rating": 7.441,
+    "votes": 17,
     "release": "2026-10-16",
     "genres": [
       18
     ],
-    "popularity": 83.7515
+    "popularity": 78.116
   },
   {
-    "id": 314271,
-    "tmdb_id": 314271,
+    "id": 105248,
+    "tmdb_id": 105248,
     "type": "tv",
-    "title": "Bass X Machina",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-    "rating": 7.7,
-    "votes": 7,
-    "release": "2026-11-03",
+    "title": "Cyberpunk: Edgerunners",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+    "rating": 8.506,
+    "votes": 2139,
+    "release": "2022-09-13",
     "genres": [
       16,
-      37,
-      10765
-    ],
-    "popularity": 41.8834
-  },
-  {
-    "id": 120911,
-    "tmdb_id": 120911,
-    "type": "tv",
-    "title": "The Terminal List",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-    "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-    "rating": 7.992,
-    "votes": 1334,
-    "release": "2022-06-30",
-    "genres": [
       10759,
-      18
+      10765,
+      80
     ],
-    "popularity": 132.4648
+    "popularity": 77.7335
   },
   {
-    "id": 153312,
-    "tmdb_id": 153312,
+    "id": 231620,
+    "tmdb_id": 231620,
     "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.3,
-    "votes": 2917,
-    "release": "2022-11-13",
+    "title": "Natural High",
+    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+    "poster": "https://image.tmdb.org/t/p/w342/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+    "rating": 7.5,
+    "votes": 6,
+    "release": "2023-08-13",
     "genres": [
-      80,
-      18,
+      10764,
       35
     ],
-    "popularity": 235.3209
+    "popularity": 33.541
+  },
+  {
+    "id": 330613,
+    "tmdb_id": 330613,
+    "type": "tv",
+    "title": "The Rules",
+    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+    "rating": 8.5,
+    "votes": 2,
+    "release": "2026-10-28",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 121.4967
+  },
+  {
+    "id": 73223,
+    "tmdb_id": 73223,
+    "type": "tv",
+    "title": "Black Clover",
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "poster": "https://image.tmdb.org/t/p/w342/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "rating": 8.536,
+    "votes": 2295,
+    "release": "2017-10-03",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 47.4427
   },
   {
     "id": 196322,
@@ -285,48 +320,14 @@
     "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
     "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-    "rating": 7.823,
-    "votes": 867,
+    "rating": 7.828,
+    "votes": 869,
     "release": "2024-05-07",
     "genres": [
       10765,
       18
     ],
-    "popularity": 53.9696
-  },
-  {
-    "id": 81723,
-    "tmdb_id": 81723,
-    "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-    "rating": 7.7,
-    "votes": 288,
-    "release": "2022-01-24",
-    "genres": [
-      18
-    ],
-    "popularity": 55.5049
-  },
-  {
-    "id": 307478,
-    "tmdb_id": 307478,
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "poster": "https://image.tmdb.org/t/p/w342/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "rating": 8.5,
-    "votes": 2,
-    "release": "2026-10-30",
-    "genres": [
-      18,
-      80,
-      9648
-    ],
-    "popularity": 21.7088
+    "popularity": 49.0018
   },
   {
     "id": 30984,
@@ -336,7 +337,7 @@
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
     "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.4,
+    "rating": 8.352,
     "votes": 2333,
     "release": "2004-10-05",
     "genres": [
@@ -344,6 +345,6 @@
       16,
       10765
     ],
-    "popularity": 159.0744
+    "popularity": 156.0037
   }
 ]

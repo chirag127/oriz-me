@@ -1,22 +1,5 @@
 [
   {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.027,
-    "votes": 11145,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 1076.4686
-  },
-  {
     "id": 2734,
     "tmdb_id": 2734,
     "type": "tv",
@@ -32,7 +15,24 @@
       18,
       9648
     ],
-    "popularity": 1184.0519
+    "popularity": 1448.0261
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.027,
+    "votes": 11150,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 1238.6852
   },
   {
     "id": 31991,
@@ -50,7 +50,7 @@
       18,
       10764
     ],
-    "popularity": 703.1076
+    "popularity": 818.8835
   },
   {
     "id": 22980,
@@ -67,7 +67,7 @@
       10767,
       35
     ],
-    "popularity": 507.3114
+    "popularity": 476.7217
   },
   {
     "id": 33238,
@@ -84,7 +84,7 @@
       35,
       10764
     ],
-    "popularity": 454.9724
+    "popularity": 477.3228
   },
   {
     "id": 247718,
@@ -94,14 +94,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.6,
-    "votes": 1171,
+    "rating": 8.617,
+    "votes": 1173,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 395.0006
+    "popularity": 394.5645
   },
   {
     "id": 1416,
@@ -111,13 +111,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.2,
+    "rating": 8.202,
     "votes": 11122,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 390.2294
+    "popularity": 341.1185
   },
   {
     "id": 59941,
@@ -134,7 +134,25 @@
       35,
       10767
     ],
-    "popularity": 348.1054
+    "popularity": 332.1408
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "rating": 7.6,
+    "votes": 2607,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 269.8649
   },
   {
     "id": 2224,
@@ -151,126 +169,7 @@
       10763,
       35
     ],
-    "popularity": 274.284
-  },
-  {
-    "id": 61818,
-    "tmdb_id": 61818,
-    "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.129,
-    "votes": 139,
-    "release": "2014-02-25",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 267.4286
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.763,
-    "votes": 383,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 218.1023
-  },
-  {
-    "id": 4614,
-    "tmdb_id": 4614,
-    "type": "tv",
-    "title": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.61,
-    "votes": 2607,
-    "release": "2003-09-23",
-    "genres": [
-      80,
-      18,
-      10759
-    ],
-    "popularity": 277.368
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 254.8233
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.6,
-    "votes": 268,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 236.327
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.3,
-    "votes": 2917,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 235.3209
-  },
-  {
-    "id": 549,
-    "tmdb_id": 549,
-    "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.276,
-    "votes": 739,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 233.9566
+    "popularity": 265.8288
   },
   {
     "id": 72879,
@@ -288,23 +187,124 @@
       18,
       10766
     ],
-    "popularity": 256.1288
+    "popularity": 254.5602
   },
   {
-    "id": 231962,
-    "tmdb_id": 231962,
+    "id": 206559,
+    "tmdb_id": 206559,
     "type": "tv",
-    "title": "Deep Waters",
-    "overview": "The club belongs to Gys Swarts, whose sons Rossouw and Jacques are involved in the family enterprise. Gys's grandchildren Karla and Johan also swim for the club, bringing the demands of training and competition directly into the family circle. Can Gys keep ownership, family expectation and sporting ambition from pulling the club in different directions?",
-    "poster": "https://image.tmdb.org/t/p/w342/1nmKI8MWPC5Q0yOryKTpF89dikP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
     "genres": [
       10766
     ],
-    "popularity": 72.501
+    "popularity": 243.7831
+  },
+  {
+    "id": 61818,
+    "tmdb_id": 61818,
+    "type": "tv",
+    "title": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+    "rating": 5.129,
+    "votes": 139,
+    "release": "2014-02-25",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 251.5202
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.3,
+    "votes": 2917,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 239.3036
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.276,
+    "votes": 739,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 230.02
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 213.7776
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.6,
+    "votes": 269,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 223.4395
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.763,
+    "votes": 383,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 210.7215
   },
   {
     "id": 291,
@@ -320,7 +320,7 @@
     "genres": [
       10766
     ],
-    "popularity": 198.311
+    "popularity": 183.4278
   },
   {
     "id": 2661,
@@ -338,6 +338,6 @@
       10765,
       18
     ],
-    "popularity": 196.5864
+    "popularity": 196.146
   }
 ]
