@@ -1,22 +1,5 @@
 [
   {
-    "id": 279246,
-    "tmdb_id": 279246,
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-    "rating": 8.4,
-    "votes": 18,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 196.3614
-  },
-  {
     "id": 225385,
     "tmdb_id": 225385,
     "type": "tv",
@@ -24,15 +7,15 @@
     "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
     "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "rating": 7.045,
-    "votes": 475,
+    "rating": 7.044,
+    "votes": 478,
     "release": "2024-12-05",
     "genres": [
       10759,
       9648,
       80
     ],
-    "popularity": 86.0683
+    "popularity": 94.0822
   },
   {
     "id": 213375,
@@ -42,31 +25,14 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.633,
-    "votes": 270,
+    "rating": 8.7,
+    "votes": 282,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 223.4395
-  },
-  {
-    "id": 289517,
-    "tmdb_id": 289517,
-    "type": "tv",
-    "title": "Dead-End Job",
-    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "rating": 7.6,
-    "votes": 59,
-    "release": "2026-10-30",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 121.0989
+    "popularity": 221.2523
   },
   {
     "id": 247718,
@@ -76,14 +42,31 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.618,
-    "votes": 1173,
+    "rating": 8.632,
+    "votes": 1186,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 394.5645
+    "popularity": 385.7248
+  },
+  {
+    "id": 279246,
+    "tmdb_id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 7.759,
+    "votes": 27,
+    "release": "2026-11-03",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 213.3677
   },
   {
     "id": 259909,
@@ -93,33 +76,15 @@
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
     "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.6,
-    "votes": 734,
+    "rating": 8.562,
+    "votes": 737,
     "release": "2025-07-13",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 111.9258
-  },
-  {
-    "id": 96677,
-    "tmdb_id": 96677,
-    "type": "tv",
-    "title": "Lupin",
-    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-    "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-    "rating": 7.7,
-    "votes": 2780,
-    "release": "2021-01-08",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 108.643
+    "popularity": 104.7983
   },
   {
     "id": 258989,
@@ -129,13 +94,81 @@
     "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
     "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-    "rating": 5.3,
-    "votes": 14,
+    "rating": 5,
+    "votes": 15,
     "release": "2026-11-04",
     "genres": [
       18
     ],
-    "popularity": 41.9685
+    "popularity": 41.9499
+  },
+  {
+    "id": 289517,
+    "tmdb_id": 289517,
+    "type": "tv",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "rating": 7.521,
+    "votes": 71,
+    "release": "2026-10-30",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 118.137
+  },
+  {
+    "id": 303044,
+    "tmdb_id": 303044,
+    "type": "tv",
+    "title": "Campus Drivers",
+    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+    "poster": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "rating": 8.067,
+    "votes": 15,
+    "release": "2026-11-06",
+    "genres": [
+      18
+    ],
+    "popularity": 150.1754
+  },
+  {
+    "id": 253372,
+    "tmdb_id": 253372,
+    "type": "tv",
+    "title": "The Institute",
+    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+    "poster": "https://image.tmdb.org/t/p/w342/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+    "rating": 7.5,
+    "votes": 218,
+    "release": "2025-07-13",
+    "genres": [
+      9648,
+      10765
+    ],
+    "popularity": 39.3142
+  },
+  {
+    "id": 96677,
+    "tmdb_id": 96677,
+    "type": "tv",
+    "title": "Lupin",
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+    "rating": 7.68,
+    "votes": 2783,
+    "release": "2021-01-08",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 107.4907
   },
   {
     "id": 292741,
@@ -145,66 +178,15 @@
     "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
     "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.7,
-    "votes": 35,
+    "rating": 7.703,
+    "votes": 37,
     "release": "2026-10-29",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 83.1986
-  },
-  {
-    "id": 303044,
-    "tmdb_id": 303044,
-    "type": "tv",
-    "title": "Campus Drivers",
-    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-    "poster": "https://image.tmdb.org/t/p/w342/br6TrAPctmobu6QM730sBEC18eH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-    "rating": 8.15,
-    "votes": 10,
-    "release": "2026-11-06",
-    "genres": [
-      18
-    ],
-    "popularity": 131.8948
-  },
-  {
-    "id": 314271,
-    "tmdb_id": 314271,
-    "type": "tv",
-    "title": "Bass X Machina",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-    "rating": 7.625,
-    "votes": 8,
-    "release": "2026-11-03",
-    "genres": [
-      16,
-      37,
-      10765
-    ],
-    "popularity": 42.3165
-  },
-  {
-    "id": 248830,
-    "tmdb_id": 248830,
-    "type": "tv",
-    "title": "Stick",
-    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-    "rating": 7.3,
-    "votes": 142,
-    "release": "2025-06-03",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 38.531
+    "popularity": 77.7938
   },
   {
     "id": 37854,
@@ -215,14 +197,49 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.756,
-    "votes": 5634,
+    "votes": 5638,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 313.8872
+    "popularity": 310.3115
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.316,
+    "votes": 2922,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 234.6035
+  },
+  {
+    "id": 248830,
+    "tmdb_id": 248830,
+    "type": "tv",
+    "title": "Stick",
+    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+    "rating": 7.318,
+    "votes": 143,
+    "release": "2025-06-03",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 39.0611
   },
   {
     "id": 300146,
@@ -232,67 +249,29 @@
     "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
     "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "rating": 7.441,
-    "votes": 17,
+    "rating": 7,
+    "votes": 21,
     "release": "2026-10-16",
     "genres": [
       18
     ],
-    "popularity": 78.116
+    "popularity": 73.7549
   },
   {
-    "id": 105248,
-    "tmdb_id": 105248,
+    "id": 81723,
+    "tmdb_id": 81723,
     "type": "tv",
-    "title": "Cyberpunk: Edgerunners",
-    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-    "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-    "rating": 8.506,
-    "votes": 2139,
-    "release": "2022-09-13",
+    "title": "The Gilded Age",
+    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+    "rating": 7.697,
+    "votes": 295,
+    "release": "2022-01-24",
     "genres": [
-      16,
-      10759,
-      10765,
-      80
+      18
     ],
-    "popularity": 77.7335
-  },
-  {
-    "id": 231620,
-    "tmdb_id": 231620,
-    "type": "tv",
-    "title": "Natural High",
-    "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
-    "poster": "https://image.tmdb.org/t/p/w342/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
-    "rating": 7.5,
-    "votes": 6,
-    "release": "2023-08-13",
-    "genres": [
-      10764,
-      35
-    ],
-    "popularity": 33.541
-  },
-  {
-    "id": 330613,
-    "tmdb_id": 330613,
-    "type": "tv",
-    "title": "The Rules",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "rating": 8.5,
-    "votes": 2,
-    "release": "2026-10-28",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 121.4967
+    "popularity": 52.4382
   },
   {
     "id": 73223,
@@ -302,49 +281,69 @@
     "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
     "poster": "https://image.tmdb.org/t/p/w342/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "rating": 8.536,
-    "votes": 2295,
+    "rating": 8.537,
+    "votes": 2302,
     "release": "2017-10-03",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 47.4427
+    "popularity": 48.8432
   },
   {
-    "id": 196322,
-    "tmdb_id": 196322,
+    "id": 314271,
+    "tmdb_id": 314271,
     "type": "tv",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-    "rating": 7.828,
-    "votes": 869,
-    "release": "2024-05-07",
+    "title": "Bass X Machina",
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "rating": 7.6,
+    "votes": 8,
+    "release": "2026-11-03",
     "genres": [
-      10765,
-      18
-    ],
-    "popularity": 49.0018
-  },
-  {
-    "id": 30984,
-    "tmdb_id": 30984,
-    "type": "tv",
-    "title": "Bleach",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "rating": 8.352,
-    "votes": 2333,
-    "release": "2004-10-05",
-    "genres": [
-      10759,
       16,
+      37,
       10765
     ],
-    "popularity": 156.0037
+    "popularity": 40.8228
+  },
+  {
+    "id": 220542,
+    "tmdb_id": 220542,
+    "type": "tv",
+    "title": "The Apothecary Diaries",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "rating": 8.7,
+    "votes": 702,
+    "release": "2023-10-22",
+    "genres": [
+      16,
+      9648,
+      18
+    ],
+    "popularity": 86.8115
+  },
+  {
+    "id": 105248,
+    "tmdb_id": 105248,
+    "type": "tv",
+    "title": "Cyberpunk: Edgerunners",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+    "rating": 8.5,
+    "votes": 2141,
+    "release": "2022-09-13",
+    "genres": [
+      16,
+      10759,
+      10765,
+      80
+    ],
+    "popularity": 71.399
   }
 ]

@@ -7,8 +7,8 @@
     "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
     "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-    "rating": 7.896,
-    "votes": 1084,
+    "rating": 7.897,
+    "votes": 1085,
     "release": "2007-08-17",
     "genres": [
       16,
@@ -16,7 +16,7 @@
       10751,
       10765
     ],
-    "popularity": 2808.1394
+    "popularity": 2347.6948
   },
   {
     "id": 5920,
@@ -27,32 +27,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.422,
-    "votes": 4954,
+    "votes": 4963,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 2466.873
-  },
-  {
-    "id": 63333,
-    "tmdb_id": 63333,
-    "type": "tv",
-    "title": "The Last Kingdom",
-    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
-    "poster": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
-    "rating": 8.255,
-    "votes": 2083,
-    "release": "2015-10-10",
-    "genres": [
-      10759,
-      18,
-      10768
-    ],
-    "popularity": 2028.1667
+    "popularity": 1666.3987
   },
   {
     "id": 1100,
@@ -63,12 +45,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
     "rating": 8.111,
-    "votes": 6059,
+    "votes": 6063,
     "release": "2005-09-19",
     "genres": [
       35
     ],
-    "popularity": 2134.3099
+    "popularity": 1378.1565
   },
   {
     "id": 1421,
@@ -78,69 +60,31 @@
     "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.9,
-    "votes": 3611,
+    "rating": 7.91,
+    "votes": 3614,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 2133.1926
+    "popularity": 1490.1737
   },
   {
-    "id": 1695,
-    "tmdb_id": 1695,
+    "id": 63333,
+    "tmdb_id": 63333,
     "type": "tv",
-    "title": "Monk",
-    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
-    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-    "rating": 7.934,
-    "votes": 1342,
-    "release": "2002-07-12",
+    "title": "The Last Kingdom",
+    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+    "poster": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+    "rating": 8.255,
+    "votes": 2084,
+    "release": "2015-10-10",
     "genres": [
-      18,
-      35,
-      80,
-      9648
-    ],
-    "popularity": 1697.936
-  },
-  {
-    "id": 48866,
-    "tmdb_id": 48866,
-    "type": "tv",
-    "title": "The 100",
-    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-    "rating": 7.878,
-    "votes": 8864,
-    "release": "2014-03-19",
-    "genres": [
-      10765,
       10759,
       18,
-      80
+      10768
     ],
-    "popularity": 1813.5185
-  },
-  {
-    "id": 873,
-    "tmdb_id": 873,
-    "type": "tv",
-    "title": "Columbo",
-    "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
-    "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
-    "rating": 8.1,
-    "votes": 885,
-    "release": "1971-09-15",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 1722.4225
+    "popularity": 1441.2665
   },
   {
     "id": 57243,
@@ -158,23 +102,7 @@
       18,
       10765
     ],
-    "popularity": 2161.5506
-  },
-  {
-    "id": 1400,
-    "tmdb_id": 1400,
-    "type": "tv",
-    "title": "Seinfeld",
-    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-    "rating": 8.248,
-    "votes": 2507,
-    "release": "1989-07-05",
-    "genres": [
-      35
-    ],
-    "popularity": 1888.2921
+    "popularity": 2011.817
   },
   {
     "id": 60735,
@@ -184,32 +112,30 @@
     "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
     "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "rating": 7.7,
-    "votes": 11850,
+    "rating": 7.738,
+    "votes": 11855,
     "release": "2014-10-07",
     "genres": [
       18,
       10765
     ],
-    "popularity": 1890.6477
+    "popularity": 1098.199
   },
   {
-    "id": 19885,
-    "tmdb_id": 19885,
+    "id": 1400,
+    "tmdb_id": 1400,
     "type": "tv",
-    "title": "Sherlock",
-    "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
-    "poster": "https://image.tmdb.org/t/p/w342/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
-    "rating": 8.503,
-    "votes": 6843,
-    "release": "2010-07-25",
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+    "rating": 8.246,
+    "votes": 2508,
+    "release": "1989-07-05",
     "genres": [
-      80,
-      18,
-      9648
+      35
     ],
-    "popularity": 1374.2434
+    "popularity": 1220.5513
   },
   {
     "id": 253376,
@@ -219,14 +145,66 @@
     "overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
     "poster": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
-    "rating": 7.176,
+    "rating": 7.2,
     "votes": 165,
     "release": "2025-09-10",
     "genres": [
       18,
       9648
     ],
-    "popularity": 1823.7101
+    "popularity": 1516.2738
+  },
+  {
+    "id": 48866,
+    "tmdb_id": 48866,
+    "type": "tv",
+    "title": "The 100",
+    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+    "rating": 7.877,
+    "votes": 8867,
+    "release": "2014-03-19",
+    "genres": [
+      10765,
+      10759,
+      18,
+      80
+    ],
+    "popularity": 1213.6147
+  },
+  {
+    "id": 18165,
+    "tmdb_id": 18165,
+    "type": "tv",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.298,
+    "votes": 9839,
+    "release": "2009-09-10",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1207.9643
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "rating": 8.584,
+    "votes": 5683,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 1449.4861
   },
   {
     "id": 82873,
@@ -242,96 +220,44 @@
     "genres": [
       10767
     ],
-    "popularity": 1760.3416
+    "popularity": 1536.3149
   },
   {
-    "id": 18165,
-    "tmdb_id": 18165,
+    "id": 873,
+    "tmdb_id": 873,
     "type": "tv",
-    "title": "The Vampire Diaries",
-    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "rating": 8.3,
-    "votes": 9836,
-    "release": "2009-09-10",
+    "title": "Columbo",
+    "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
+    "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
+    "rating": 8.058,
+    "votes": 886,
+    "release": "1971-09-15",
     "genres": [
+      80,
       18,
-      10765
+      9648
     ],
-    "popularity": 1775.9154
+    "popularity": 1197.8561
   },
   {
-    "id": 44217,
-    "tmdb_id": 44217,
+    "id": 1695,
+    "tmdb_id": 1695,
     "type": "tv",
-    "title": "Vikings",
-    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
-    "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
-    "rating": 8.104,
-    "votes": 7994,
-    "release": "2013-03-03",
-    "genres": [
-      10759,
-      18,
-      10768
-    ],
-    "popularity": 1340.3686
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.584,
-    "votes": 5681,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 1762.403
-  },
-  {
-    "id": 61923,
-    "tmdb_id": 61923,
-    "type": "tv",
-    "title": "Star vs. the Forces of Evil",
-    "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
-    "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
-    "rating": 8.4,
-    "votes": 1540,
-    "release": "2015-01-18",
-    "genres": [
-      10759,
-      16,
-      35,
-      10765,
-      10751
-    ],
-    "popularity": 1419.4639
-  },
-  {
-    "id": 1424,
-    "tmdb_id": 1424,
-    "type": "tv",
-    "title": "Orange Is the New Black",
-    "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
-    "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
-    "rating": 7.638,
-    "votes": 2949,
-    "release": "2013-07-11",
+    "title": "Monk",
+    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+    "rating": 7.934,
+    "votes": 1343,
+    "release": "2002-07-12",
     "genres": [
       18,
       35,
-      80
+      80,
+      9648
     ],
-    "popularity": 1161.9125
+    "popularity": 1269.8773
   },
   {
     "id": 1408,
@@ -342,11 +268,83 @@
     "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
     "rating": 8.561,
-    "votes": 8011,
+    "votes": 8014,
     "release": "2004-11-16",
     "genres": [
       18
     ],
-    "popularity": 1672.0937
+    "popularity": 1292.3535
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.962,
+    "votes": 4404,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1649.2116
+  },
+  {
+    "id": 61923,
+    "tmdb_id": 61923,
+    "type": "tv",
+    "title": "Star vs. the Forces of Evil",
+    "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
+    "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+    "rating": 8.366,
+    "votes": 1541,
+    "release": "2015-01-18",
+    "genres": [
+      10759,
+      16,
+      35,
+      10765,
+      10751
+    ],
+    "popularity": 915.0056
+  },
+  {
+    "id": 2490,
+    "tmdb_id": 2490,
+    "type": "tv",
+    "title": "The IT Crowd",
+    "overview": "The comedic misadventures of Roy, Moss, and their grifting supervisor Jen, a 'motley crew' of IT support workers at a large corporation headed by a hotheaded yuppie.",
+    "poster": "https://image.tmdb.org/t/p/w342/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
+    "rating": 8.171,
+    "votes": 1730,
+    "release": "2006-02-03",
+    "genres": [
+      35
+    ],
+    "popularity": 1167.6743
+  },
+  {
+    "id": 19885,
+    "tmdb_id": 19885,
+    "type": "tv",
+    "title": "Sherlock",
+    "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "https://image.tmdb.org/t/p/w342/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+    "rating": 8.5,
+    "votes": 6846,
+    "release": "2010-07-25",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 959.4775
   }
 ]

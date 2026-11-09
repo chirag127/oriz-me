@@ -15,7 +15,7 @@
       18,
       9648
     ],
-    "popularity": 1448.0261
+    "popularity": 1649.2116
   },
   {
     "id": 456,
@@ -26,13 +26,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.027,
-    "votes": 11150,
+    "votes": 11155,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1238.6852
+    "popularity": 1357.8334
   },
   {
     "id": 31991,
@@ -50,24 +50,7 @@
       18,
       10764
     ],
-    "popularity": 818.8835
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.9,
-    "votes": 100,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 476.7217
+    "popularity": 538.0086
   },
   {
     "id": 33238,
@@ -84,7 +67,24 @@
       35,
       10764
     ],
-    "popularity": 477.3228
+    "popularity": 492.9342
+  },
+  {
+    "id": 22980,
+    "tmdb_id": 22980,
+    "type": "tv",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 4.9,
+    "votes": 100,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 456.5194
   },
   {
     "id": 247718,
@@ -94,14 +94,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.617,
-    "votes": 1173,
+    "rating": 8.63,
+    "votes": 1185,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 394.5645
+    "popularity": 385.7248
   },
   {
     "id": 1416,
@@ -111,13 +111,13 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.202,
-    "votes": 11122,
+    "rating": 8.201,
+    "votes": 11125,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 341.1185
+    "popularity": 305.9804
   },
   {
     "id": 59941,
@@ -134,7 +134,7 @@
       35,
       10767
     ],
-    "popularity": 332.1408
+    "popularity": 324.4104
   },
   {
     "id": 4614,
@@ -144,15 +144,15 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.6,
-    "votes": 2607,
+    "rating": 7.608,
+    "votes": 2608,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 269.8649
+    "popularity": 270.0229
   },
   {
     "id": 2224,
@@ -169,7 +169,7 @@
       10763,
       35
     ],
-    "popularity": 265.8288
+    "popularity": 260.2094
   },
   {
     "id": 72879,
@@ -187,23 +187,7 @@
       18,
       10766
     ],
-    "popularity": 254.5602
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 243.7831
+    "popularity": 241.1689
   },
   {
     "id": 61818,
@@ -220,7 +204,23 @@
       10767,
       35
     ],
-    "popularity": 251.5202
+    "popularity": 246.0171
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 229.952
   },
   {
     "id": 153312,
@@ -230,15 +230,15 @@
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
     "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.3,
-    "votes": 2917,
+    "rating": 8.316,
+    "votes": 2921,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 239.3036
+    "popularity": 234.6035
   },
   {
     "id": 549,
@@ -248,14 +248,31 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.276,
+    "rating": 7.3,
     "votes": 739,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 230.02
+    "popularity": 236.8826
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.661,
+    "votes": 282,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 221.2523
   },
   {
     "id": 11890,
@@ -271,24 +288,7 @@
     "genres": [
       10766
     ],
-    "popularity": 213.7776
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.6,
-    "votes": 269,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 223.4395
+    "popularity": 200.2877
   },
   {
     "id": 4656,
@@ -298,29 +298,30 @@
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.763,
-    "votes": 383,
+    "rating": 6.747,
+    "votes": 384,
     "release": "1993-01-11",
     "genres": [
       10764
     ],
-    "popularity": 210.7215
+    "popularity": 198.6515
   },
   {
-    "id": 291,
-    "tmdb_id": 291,
+    "id": 279246,
+    "tmdb_id": 279246,
     "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.3,
-    "votes": 120,
-    "release": "1960-12-09",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 7.761,
+    "votes": 23,
+    "release": "2026-11-03",
     "genres": [
-      10766
+      18,
+      10765
     ],
-    "popularity": 183.4278
+    "popularity": 213.3677
   },
   {
     "id": 2661,
@@ -338,6 +339,6 @@
       10765,
       18
     ],
-    "popularity": 196.146
+    "popularity": 188.2997
   }
 ]
