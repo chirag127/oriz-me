@@ -1,38 +1,20 @@
 [
   {
-    "id": 225385,
-    "tmdb_id": 225385,
+    "id": 279246,
+    "tmdb_id": 279246,
     "type": "tv",
-    "title": "Black Doves",
-    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-    "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "rating": 7.044,
-    "votes": 478,
-    "release": "2024-12-05",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 7.919,
+    "votes": 31,
+    "release": "2026-11-03",
     "genres": [
-      10759,
-      9648,
-      80
+      18,
+      10765
     ],
-    "popularity": 94.0822
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.7,
-    "votes": 282,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 221.2523
+    "popularity": 210.4033
   },
   {
     "id": 247718,
@@ -42,31 +24,83 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.632,
-    "votes": 1186,
+    "rating": 8.636,
+    "votes": 1193,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 385.7248
+    "popularity": 384.7184
   },
   {
-    "id": 279246,
-    "tmdb_id": 279246,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 7.759,
-    "votes": 27,
-    "release": "2026-11-03",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.6,
+    "votes": 290,
+    "release": "2026-10-13",
     "genres": [
-      18,
-      10765
+      10765,
+      18
     ],
-    "popularity": 213.3677
+    "popularity": 208.9705
+  },
+  {
+    "id": 225385,
+    "tmdb_id": 225385,
+    "type": "tv",
+    "title": "Black Doves",
+    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+    "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+    "rating": 7.048,
+    "votes": 480,
+    "release": "2024-12-05",
+    "genres": [
+      10759,
+      9648,
+      80
+    ],
+    "popularity": 94.2724
+  },
+  {
+    "id": 1489,
+    "tmdb_id": 1489,
+    "type": "tv",
+    "title": "Jimmy Kimmel Live!",
+    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+    "poster": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+    "rating": 5.3,
+    "votes": 222,
+    "release": "2003-01-26",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 101.4576
+  },
+  {
+    "id": 289517,
+    "tmdb_id": 289517,
+    "type": "tv",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "rating": 7.446,
+    "votes": 74,
+    "release": "2026-10-30",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 108.0882
   },
   {
     "id": 259909,
@@ -76,15 +110,66 @@
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
     "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.562,
-    "votes": 737,
+    "rating": 8.569,
+    "votes": 743,
     "release": "2025-07-13",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 104.7983
+    "popularity": 102.4348
+  },
+  {
+    "id": 303044,
+    "tmdb_id": 303044,
+    "type": "tv",
+    "title": "Campus Drivers",
+    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+    "poster": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "rating": 8.1,
+    "votes": 21,
+    "release": "2026-11-06",
+    "genres": [
+      18
+    ],
+    "popularity": 162.9864
+  },
+  {
+    "id": 248830,
+    "tmdb_id": 248830,
+    "type": "tv",
+    "title": "Stick",
+    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+    "rating": 7.3,
+    "votes": 143,
+    "release": "2025-06-03",
+    "genres": [
+      35,
+      18
+    ],
+    "popularity": 39.6553
+  },
+  {
+    "id": 292741,
+    "tmdb_id": 292741,
+    "type": "tv",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "rating": 7.769,
+    "votes": 39,
+    "release": "2026-10-29",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 72.185
   },
   {
     "id": 258989,
@@ -95,62 +180,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
     "rating": 5,
-    "votes": 15,
+    "votes": 16,
     "release": "2026-11-04",
     "genres": [
       18
     ],
-    "popularity": 41.9499
-  },
-  {
-    "id": 289517,
-    "tmdb_id": 289517,
-    "type": "tv",
-    "title": "Dead-End Job",
-    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "rating": 7.521,
-    "votes": 71,
-    "release": "2026-10-30",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 118.137
-  },
-  {
-    "id": 303044,
-    "tmdb_id": 303044,
-    "type": "tv",
-    "title": "Campus Drivers",
-    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-    "poster": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-    "rating": 8.067,
-    "votes": 15,
-    "release": "2026-11-06",
-    "genres": [
-      18
-    ],
-    "popularity": 150.1754
-  },
-  {
-    "id": 253372,
-    "tmdb_id": 253372,
-    "type": "tv",
-    "title": "The Institute",
-    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-    "poster": "https://image.tmdb.org/t/p/w342/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-    "rating": 7.5,
-    "votes": 218,
-    "release": "2025-07-13",
-    "genres": [
-      9648,
-      10765
-    ],
-    "popularity": 39.3142
+    "popularity": 39.9803
   },
   {
     "id": 96677,
@@ -160,7 +195,7 @@
     "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
     "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-    "rating": 7.68,
+    "rating": 7.678,
     "votes": 2783,
     "release": "2021-01-08",
     "genres": [
@@ -168,128 +203,23 @@
       18,
       9648
     ],
-    "popularity": 107.4907
+    "popularity": 100.9931
   },
   {
-    "id": 292741,
-    "tmdb_id": 292741,
+    "id": 279155,
+    "tmdb_id": 279155,
     "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.703,
-    "votes": 37,
-    "release": "2026-10-29",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 77.7938
-  },
-  {
-    "id": 37854,
-    "tmdb_id": 37854,
-    "type": "tv",
-    "title": "One Piece",
-    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.756,
-    "votes": 5638,
-    "release": "1999-10-20",
-    "genres": [
-      10759,
-      35,
-      16
-    ],
-    "popularity": 310.3115
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.316,
-    "votes": 2922,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 234.6035
-  },
-  {
-    "id": 248830,
-    "tmdb_id": 248830,
-    "type": "tv",
-    "title": "Stick",
-    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-    "rating": 7.318,
-    "votes": 143,
-    "release": "2025-06-03",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 39.0611
-  },
-  {
-    "id": 300146,
-    "tmdb_id": 300146,
-    "type": "tv",
-    "title": "Where the Mask Ends",
-    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-    "rating": 7,
-    "votes": 21,
-    "release": "2026-10-16",
+    "title": "The Silent Storm",
+    "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
+    "poster": "https://image.tmdb.org/t/p/w342/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
+    "rating": 9,
+    "votes": 1,
+    "release": "2026-11-05",
     "genres": [
       18
     ],
-    "popularity": 73.7549
-  },
-  {
-    "id": 81723,
-    "tmdb_id": 81723,
-    "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-    "rating": 7.697,
-    "votes": 295,
-    "release": "2022-01-24",
-    "genres": [
-      18
-    ],
-    "popularity": 52.4382
-  },
-  {
-    "id": 73223,
-    "tmdb_id": 73223,
-    "type": "tv",
-    "title": "Black Clover",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "poster": "https://image.tmdb.org/t/p/w342/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "rating": 8.537,
-    "votes": 2302,
-    "release": "2017-10-03",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 48.8432
+    "popularity": 12.2177
   },
   {
     "id": 314271,
@@ -307,7 +237,58 @@
       37,
       10765
     ],
-    "popularity": 40.8228
+    "popularity": 37.7704
+  },
+  {
+    "id": 37854,
+    "tmdb_id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "rating": 8.757,
+    "votes": 5642,
+    "release": "1999-10-20",
+    "genres": [
+      10759,
+      35,
+      16
+    ],
+    "popularity": 214.8233
+  },
+  {
+    "id": 81723,
+    "tmdb_id": 81723,
+    "type": "tv",
+    "title": "The Gilded Age",
+    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+    "rating": 7.708,
+    "votes": 296,
+    "release": "2022-01-24",
+    "genres": [
+      18
+    ],
+    "popularity": 55.2809
+  },
+  {
+    "id": 84773,
+    "tmdb_id": 84773,
+    "type": "tv",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+    "rating": 7.2,
+    "votes": 4016,
+    "release": "2022-09-01",
+    "genres": [
+      10759,
+      10765
+    ],
+    "popularity": 190.1257
   },
   {
     "id": 220542,
@@ -317,15 +298,15 @@
     "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
     "poster": "https://image.tmdb.org/t/p/w342/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-    "rating": 8.7,
-    "votes": 702,
+    "rating": 8.664,
+    "votes": 703,
     "release": "2023-10-22",
     "genres": [
       16,
       9648,
       18
     ],
-    "popularity": 86.8115
+    "popularity": 81.764
   },
   {
     "id": 105248,
@@ -335,8 +316,8 @@
     "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
     "poster": "https://image.tmdb.org/t/p/w342/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-    "rating": 8.5,
-    "votes": 2141,
+    "rating": 8.506,
+    "votes": 2142,
     "release": "2022-09-13",
     "genres": [
       16,
@@ -344,6 +325,22 @@
       10765,
       80
     ],
-    "popularity": 71.399
+    "popularity": 67.1555
+  },
+  {
+    "id": 300146,
+    "tmdb_id": 300146,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "rating": 6.976,
+    "votes": 21,
+    "release": "2026-10-16",
+    "genres": [
+      18
+    ],
+    "popularity": 67.8706
   }
 ]

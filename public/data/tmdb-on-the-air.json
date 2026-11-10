@@ -7,15 +7,15 @@
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 8,
-    "votes": 4403,
+    "rating": 7.962,
+    "votes": 4407,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1649.2116
+    "popularity": 1411.1061
   },
   {
     "id": 456,
@@ -26,13 +26,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.027,
-    "votes": 11155,
+    "votes": 11160,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1357.8334
+    "popularity": 1200.2661
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.191,
+    "votes": 225,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 443.4223
+  },
+  {
+    "id": 22980,
+    "tmdb_id": 22980,
+    "type": "tv",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "rating": 4.9,
+    "votes": 100,
+    "release": "2009-07-16",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 478.5483
   },
   {
     "id": 31991,
@@ -50,41 +84,7 @@
       18,
       10764
     ],
-    "popularity": 538.0086
-  },
-  {
-    "id": 33238,
-    "tmdb_id": 33238,
-    "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.191,
-    "votes": 225,
-    "release": "2010-07-11",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 492.9342
-  },
-  {
-    "id": 22980,
-    "tmdb_id": 22980,
-    "type": "tv",
-    "title": "Watch What Happens Live with Andy Cohen",
-    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.9,
-    "votes": 100,
-    "release": "2009-07-16",
-    "genres": [
-      10767,
-      35
-    ],
-    "popularity": 456.5194
+    "popularity": 394.3539
   },
   {
     "id": 247718,
@@ -94,14 +94,31 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.63,
-    "votes": 1185,
+    "rating": 8.635,
+    "votes": 1192,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 385.7248
+    "popularity": 384.7184
+  },
+  {
+    "id": 59941,
+    "tmdb_id": 59941,
+    "type": "tv",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
+    "rating": 5.8,
+    "votes": 401,
+    "release": "2014-02-17",
+    "genres": [
+      35,
+      10767
+    ],
+    "popularity": 329.2764
   },
   {
     "id": 1416,
@@ -112,29 +129,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
     "rating": 8.201,
-    "votes": 11125,
+    "votes": 11128,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 305.9804
-  },
-  {
-    "id": 59941,
-    "tmdb_id": 59941,
-    "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.822,
-    "votes": 401,
-    "release": "2014-02-17",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 324.4104
+    "popularity": 285.8135
   },
   {
     "id": 4614,
@@ -145,14 +145,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.608,
-    "votes": 2608,
+    "votes": 2613,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 270.0229
+    "popularity": 257.0341
   },
   {
     "id": 2224,
@@ -169,25 +169,7 @@
       10763,
       35
     ],
-    "popularity": 260.2094
-  },
-  {
-    "id": 72879,
-    "tmdb_id": 72879,
-    "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-    "rating": 6.3,
-    "votes": 74,
-    "release": "2017-07-17",
-    "genres": [
-      80,
-      18,
-      10766
-    ],
-    "popularity": 241.1689
+    "popularity": 269.7555
   },
   {
     "id": 61818,
@@ -204,41 +186,25 @@
       10767,
       35
     ],
-    "popularity": 246.0171
+    "popularity": 248.6303
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 72879,
+    "tmdb_id": 72879,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 229.952
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.316,
-    "votes": 2921,
-    "release": "2022-11-13",
+    "title": "Tomorrow Is Ours",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+    "rating": 6.293,
+    "votes": 75,
+    "release": "2017-07-17",
     "genres": [
       80,
       18,
-      35
+      10766
     ],
-    "popularity": 234.6035
+    "popularity": 202.0023
   },
   {
     "id": 549,
@@ -255,7 +221,41 @@
       80,
       18
     ],
-    "popularity": 236.8826
+    "popularity": 224.6862
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.318,
+    "votes": 2926,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 233.9929
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 250.5423
   },
   {
     "id": 213375,
@@ -265,30 +265,31 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.661,
-    "votes": 282,
+    "rating": 8.629,
+    "votes": 290,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 221.2523
+    "popularity": 208.9705
   },
   {
-    "id": 11890,
-    "tmdb_id": 11890,
+    "id": 279246,
+    "tmdb_id": 279246,
     "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 7.919,
+    "votes": 31,
+    "release": "2026-11-03",
     "genres": [
-      10766
+      18,
+      10765
     ],
-    "popularity": 200.2877
+    "popularity": 210.4033
   },
   {
     "id": 4656,
@@ -304,41 +305,39 @@
     "genres": [
       10764
     ],
-    "popularity": 198.6515
+    "popularity": 212.8058
   },
   {
-    "id": 279246,
-    "tmdb_id": 279246,
+    "id": 11890,
+    "tmdb_id": 11890,
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 7.761,
-    "votes": 23,
-    "release": "2026-11-03",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
     "genres": [
-      18,
-      10765
+      10766
     ],
-    "popularity": 213.3677
+    "popularity": 225.9002
   },
   {
-    "id": 2661,
-    "tmdb_id": 2661,
+    "id": 112470,
+    "tmdb_id": 112470,
     "type": "tv",
-    "title": "Kamen Rider",
-    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "rating": 6.495,
-    "votes": 110,
-    "release": "1971-04-03",
+    "title": "Ici tout commence",
+    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+    "poster": "https://image.tmdb.org/t/p/w342/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+    "rating": 6.8,
+    "votes": 92,
+    "release": "2020-11-02",
     "genres": [
-      10759,
-      10765,
+      10766,
       18
     ],
-    "popularity": 188.2997
+    "popularity": 171.3699
   }
 ]
