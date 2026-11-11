@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.962,
-    "votes": 4407,
+    "votes": 4408,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1411.1061
+    "popularity": 1401.7475
   },
   {
     "id": 456,
@@ -25,31 +25,14 @@
     "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.027,
-    "votes": 11160,
+    "rating": 8.028,
+    "votes": 11161,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1200.2661
-  },
-  {
-    "id": 33238,
-    "tmdb_id": 33238,
-    "type": "tv",
-    "title": "Running Man",
-    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "rating": 8.191,
-    "votes": 225,
-    "release": "2010-07-11",
-    "genres": [
-      35,
-      10764
-    ],
-    "popularity": 443.4223
+    "popularity": 1317.9132
   },
   {
     "id": 22980,
@@ -66,7 +49,41 @@
       10767,
       35
     ],
-    "popularity": 478.5483
+    "popularity": 462.7415
+  },
+  {
+    "id": 33238,
+    "tmdb_id": 33238,
+    "type": "tv",
+    "title": "Running Man",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "poster": "https://image.tmdb.org/t/p/w342/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "rating": 8.191,
+    "votes": 225,
+    "release": "2010-07-11",
+    "genres": [
+      35,
+      10764
+    ],
+    "popularity": 413.1004
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.645,
+    "votes": 1208,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 371.6593
   },
   {
     "id": 31991,
@@ -84,24 +101,7 @@
       18,
       10764
     ],
-    "popularity": 394.3539
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.635,
-    "votes": 1192,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 384.7184
+    "popularity": 360.6089
   },
   {
     "id": 59941,
@@ -118,7 +118,7 @@
       35,
       10767
     ],
-    "popularity": 329.2764
+    "popularity": 325.4193
   },
   {
     "id": 1416,
@@ -128,13 +128,30 @@
     "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.201,
-    "votes": 11128,
+    "rating": 8.2,
+    "votes": 11130,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 285.8135
+    "popularity": 273.7866
+  },
+  {
+    "id": 2224,
+    "tmdb_id": 2224,
+    "type": "tv",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.426,
+    "votes": 677,
+    "release": "1996-07-22",
+    "genres": [
+      10763,
+      35
+    ],
+    "popularity": 270.5762
   },
   {
     "id": 4614,
@@ -145,31 +162,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "rating": 7.608,
-    "votes": 2613,
+    "votes": 2614,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 257.0341
+    "popularity": 261.9875
   },
   {
-    "id": 2224,
-    "tmdb_id": 2224,
+    "id": 206559,
+    "tmdb_id": 206559,
     "type": "tv",
-    "title": "The Daily Show",
-    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.424,
-    "votes": 676,
-    "release": "1996-07-22",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.5,
+    "votes": 112,
+    "release": "2005-10-13",
     "genres": [
-      10763,
-      35
+      10766
     ],
-    "popularity": 269.7555
+    "popularity": 254.0658
   },
   {
     "id": 61818,
@@ -186,7 +202,108 @@
       10767,
       35
     ],
-    "popularity": 248.6303
+    "popularity": 249.8741
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 226.7286
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.276,
+    "votes": 740,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 226.1727
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.319,
+    "votes": 2933,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 224.4507
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.56,
+    "votes": 307,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 221.0584
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.747,
+    "votes": 384,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 207.4848
+  },
+  {
+    "id": 279246,
+    "tmdb_id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 8.369,
+    "votes": 42,
+    "release": "2026-11-03",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 210.4373
   },
   {
     "id": 72879,
@@ -204,140 +321,22 @@
       18,
       10766
     ],
-    "popularity": 202.0023
+    "popularity": 198.6955
   },
   {
-    "id": 549,
-    "tmdb_id": 549,
+    "id": 37678,
+    "tmdb_id": 37678,
     "type": "tv",
-    "title": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.3,
-    "votes": 739,
-    "release": "1990-09-13",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 224.6862
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.318,
-    "votes": 2926,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 233.9929
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.5,
-    "votes": 112,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 250.5423
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.629,
-    "votes": 290,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 208.9705
-  },
-  {
-    "id": 279246,
-    "tmdb_id": 279246,
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 7.919,
-    "votes": 31,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 210.4033
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.747,
-    "votes": 384,
-    "release": "1993-01-11",
+    "title": "The Voice",
+    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+    "rating": 5.872,
+    "votes": 231,
+    "release": "2011-04-26",
     "genres": [
       10764
     ],
-    "popularity": 212.8058
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 225.9002
-  },
-  {
-    "id": 112470,
-    "tmdb_id": 112470,
-    "type": "tv",
-    "title": "Ici tout commence",
-    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-    "poster": "https://image.tmdb.org/t/p/w342/umIMGX0BucQ0AFFd3NYrOaV1lMY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-    "rating": 6.8,
-    "votes": 92,
-    "release": "2020-11-02",
-    "genres": [
-      10766,
-      18
-    ],
-    "popularity": 171.3699
+    "popularity": 124.9057
   }
 ]
