@@ -7,8 +7,8 @@
     "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
     "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-    "rating": 7.9,
-    "votes": 1086,
+    "rating": 7.897,
+    "votes": 1087,
     "release": "2007-08-17",
     "genres": [
       16,
@@ -16,7 +16,25 @@
       10751,
       10765
     ],
-    "popularity": 1774.9658
+    "popularity": 1568.5012
+  },
+  {
+    "id": 57243,
+    "tmdb_id": 57243,
+    "type": "tv",
+    "title": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "rating": 7.631,
+    "votes": 3507,
+    "release": "2005-03-26",
+    "genres": [
+      10759,
+      18,
+      10765
+    ],
+    "popularity": 1830.1058
   },
   {
     "id": 2734,
@@ -27,49 +45,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.962,
-    "votes": 4408,
+    "votes": 4409,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1401.7475
-  },
-  {
-    "id": 57243,
-    "tmdb_id": 57243,
-    "type": "tv",
-    "title": "Doctor Who",
-    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-    "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-    "rating": 7.633,
-    "votes": 3505,
-    "release": "2005-03-26",
-    "genres": [
-      10759,
-      18,
-      10765
-    ],
-    "popularity": 1473.2419
-  },
-  {
-    "id": 253376,
-    "tmdb_id": 253376,
-    "type": "tv",
-    "title": "The Girlfriend",
-    "overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
-    "poster": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
-    "rating": 7.132,
-    "votes": 167,
-    "release": "2025-09-10",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 1120.6661
+    "popularity": 1771.4956
   },
   {
     "id": 5920,
@@ -80,14 +63,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.423,
-    "votes": 4976,
+    "votes": 4981,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1386.8013
+    "popularity": 1210.8859
   },
   {
     "id": 456,
@@ -98,13 +81,110 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.028,
-    "votes": 11161,
+    "votes": 11165,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1317.9132
+    "popularity": 1545.9688
+  },
+  {
+    "id": 1421,
+    "tmdb_id": 1421,
+    "type": "tv",
+    "title": "Modern Family",
+    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+    "rating": 7.911,
+    "votes": 3619,
+    "release": "2009-09-23",
+    "genres": [
+      35
+    ],
+    "popularity": 1314.9231
+  },
+  {
+    "id": 1100,
+    "tmdb_id": 1100,
+    "type": "tv",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.112,
+    "votes": 6074,
+    "release": "2005-09-19",
+    "genres": [
+      35
+    ],
+    "popularity": 1181.0012
+  },
+  {
+    "id": 253376,
+    "tmdb_id": 253376,
+    "type": "tv",
+    "title": "The Girlfriend",
+    "overview": "Laura has it all: a glittering career, a loving husband, and her precious son, Daniel. But her perfect life unravels when Daniel brings home Cherry, a girlfriend who changes everything. After a tense introduction, Laura becomes convinced Cherry is hiding something. Is she a manipulative social climber, or is Laura just paranoid? The truth is a matter of perspective.",
+    "poster": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+    "rating": 7.137,
+    "votes": 168,
+    "release": "2025-09-10",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 981.5682
+  },
+  {
+    "id": 1400,
+    "tmdb_id": 1400,
+    "type": "tv",
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+    "rating": 8.245,
+    "votes": 2512,
+    "release": "1989-07-05",
+    "genres": [
+      35
+    ],
+    "popularity": 1127.3395
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "rating": 8.584,
+    "votes": 5698,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 1426.4266
+  },
+  {
+    "id": 1408,
+    "tmdb_id": 1408,
+    "type": "tv",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.559,
+    "votes": 8029,
+    "release": "2004-11-16",
+    "genres": [
+      18
+    ],
+    "popularity": 1362.8008
   },
   {
     "id": 63333,
@@ -114,15 +194,86 @@
     "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
     "poster": "https://image.tmdb.org/t/p/w342/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
-    "rating": 8.3,
-    "votes": 2089,
+    "rating": 8.251,
+    "votes": 2091,
     "release": "2015-10-10",
     "genres": [
       10759,
       18,
       10768
     ],
-    "popularity": 988.5671
+    "popularity": 719.3168
+  },
+  {
+    "id": 60735,
+    "tmdb_id": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "rating": 7.738,
+    "votes": 11865,
+    "release": "2014-10-07",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 988.4803
+  },
+  {
+    "id": 18165,
+    "tmdb_id": 18165,
+    "type": "tv",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.3,
+    "votes": 9843,
+    "release": "2009-09-10",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1176.8551
+  },
+  {
+    "id": 1427,
+    "tmdb_id": 1427,
+    "type": "tv",
+    "title": "Broadchurch",
+    "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
+    "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9CkwC4rou9468XMLTXaB6bZ0frx.jpg",
+    "rating": 7.907,
+    "votes": 1068,
+    "release": "2013-03-04",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 723.9509
+  },
+  {
+    "id": 48866,
+    "tmdb_id": 48866,
+    "type": "tv",
+    "title": "The 100",
+    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+    "rating": 7.876,
+    "votes": 8879,
+    "release": "2014-03-19",
+    "genres": [
+      10765,
+      10759,
+      18,
+      80
+    ],
+    "popularity": 635.3904
   },
   {
     "id": 82873,
@@ -138,108 +289,7 @@
     "genres": [
       10767
     ],
-    "popularity": 810.3816
-  },
-  {
-    "id": 1421,
-    "tmdb_id": 1421,
-    "type": "tv",
-    "title": "Modern Family",
-    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
-    "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.911,
-    "votes": 3617,
-    "release": "2009-09-23",
-    "genres": [
-      35
-    ],
-    "popularity": 1206.3831
-  },
-  {
-    "id": 1100,
-    "tmdb_id": 1100,
-    "type": "tv",
-    "title": "How I Met Your Mother",
-    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.111,
-    "votes": 6069,
-    "release": "2005-09-19",
-    "genres": [
-      35
-    ],
-    "popularity": 1138.9233
-  },
-  {
-    "id": 1427,
-    "tmdb_id": 1427,
-    "type": "tv",
-    "title": "Broadchurch",
-    "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
-    "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9CkwC4rou9468XMLTXaB6bZ0frx.jpg",
-    "rating": 7.914,
-    "votes": 1067,
-    "release": "2013-03-04",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 841.6341
-  },
-  {
-    "id": 1695,
-    "tmdb_id": 1695,
-    "type": "tv",
-    "title": "Monk",
-    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
-    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-    "rating": 7.935,
-    "votes": 1344,
-    "release": "2002-07-12",
-    "genres": [
-      18,
-      35,
-      80,
-      9648
-    ],
-    "popularity": 748.472
-  },
-  {
-    "id": 1400,
-    "tmdb_id": 1400,
-    "type": "tv",
-    "title": "Seinfeld",
-    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-    "rating": 8.244,
-    "votes": 2510,
-    "release": "1989-07-05",
-    "genres": [
-      35
-    ],
-    "popularity": 1064.3875
-  },
-  {
-    "id": 3002,
-    "tmdb_id": 3002,
-    "type": "tv",
-    "title": "The Benny Hill Show",
-    "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
-    "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
-    "rating": 7.22,
-    "votes": 184,
-    "release": "1969-11-19",
-    "genres": [
-      35
-    ],
-    "popularity": 776.2238
+    "popularity": 682.2495
   },
   {
     "id": 873,
@@ -257,92 +307,41 @@
       18,
       9648
     ],
-    "popularity": 806.0087
+    "popularity": 620.6113
   },
   {
-    "id": 48866,
-    "tmdb_id": 48866,
+    "id": 3002,
+    "tmdb_id": 3002,
     "type": "tv",
-    "title": "The 100",
-    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-    "rating": 7.876,
-    "votes": 8877,
-    "release": "2014-03-19",
+    "title": "The Benny Hill Show",
+    "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+    "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
+    "rating": 7.219,
+    "votes": 185,
+    "release": "1969-11-19",
     "genres": [
-      10765,
-      10759,
+      35
+    ],
+    "popularity": 724.0715
+  },
+  {
+    "id": 1695,
+    "tmdb_id": 1695,
+    "type": "tv",
+    "title": "Monk",
+    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+    "rating": 7.935,
+    "votes": 1345,
+    "release": "2002-07-12",
+    "genres": [
       18,
-      80
+      35,
+      80,
+      9648
     ],
-    "popularity": 839.1386
-  },
-  {
-    "id": 67175,
-    "tmdb_id": 67175,
-    "type": "tv",
-    "title": "Elena of Avalor",
-    "overview": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown princess until she’s old enough to be queen.",
-    "poster": "https://image.tmdb.org/t/p/w342/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7xO1zDXvTZAqccijxA77gMNkR87.jpg",
-    "rating": 6.4,
-    "votes": 87,
-    "release": "2016-07-22",
-    "genres": [
-      16,
-      10762,
-      10765,
-      10759
-    ],
-    "popularity": 610.1713
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.582,
-    "votes": 5693,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 1045.6783
-  },
-  {
-    "id": 2490,
-    "tmdb_id": 2490,
-    "type": "tv",
-    "title": "The IT Crowd",
-    "overview": "The comedic misadventures of Roy, Moss, and their grifting supervisor Jen, a 'motley crew' of IT support workers at a large corporation headed by a hotheaded yuppie.",
-    "poster": "https://image.tmdb.org/t/p/w342/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
-    "rating": 8.174,
-    "votes": 1734,
-    "release": "2006-02-03",
-    "genres": [
-      35
-    ],
-    "popularity": 558.45
-  },
-  {
-    "id": 1408,
-    "tmdb_id": 1408,
-    "type": "tv",
-    "title": "House",
-    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "rating": 8.561,
-    "votes": 8023,
-    "release": "2004-11-16",
-    "genres": [
-      18
-    ],
-    "popularity": 992.9341
+    "popularity": 555.4851
   }
 ]

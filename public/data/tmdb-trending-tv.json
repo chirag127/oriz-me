@@ -1,27 +1,10 @@
 [
   {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-    "rating": 8.5,
-    "votes": 316,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 221.0584
-  },
-  {
     "id": 1489,
     "tmdb_id": 1489,
     "type": "tv",
     "title": "Jimmy Kimmel Live!",
-    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+    "overview": "James Christian Kimmel (born November 13, 1967) is an American talk-show host, comedian, and producer best known for creating and hosting Jimmy Kimmel Live! on ABC.",
     "poster": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
     "rating": 5.3,
@@ -31,7 +14,7 @@
       10767,
       35
     ],
-    "popularity": 102.3716
+    "popularity": 103.8175
   },
   {
     "id": 84773,
@@ -41,31 +24,31 @@
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-    "rating": 7.217,
-    "votes": 4023,
+    "rating": 7.2,
+    "votes": 4041,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 157.6506
+    "popularity": 289.1892
   },
   {
-    "id": 247718,
-    "tmdb_id": 247718,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.645,
-    "votes": 1208,
-    "release": "2025-03-30",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+    "rating": 8.425,
+    "votes": 394,
+    "release": "2026-10-13",
     "genres": [
-      80,
+      10765,
       18
     ],
-    "popularity": 371.6593
+    "popularity": 387.3731
   },
   {
     "id": 279246,
@@ -75,14 +58,31 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.4,
-    "votes": 43,
+    "rating": 8.347,
+    "votes": 59,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 210.4373
+    "popularity": 254.9188
+  },
+  {
+    "id": 247718,
+    "tmdb_id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.643,
+    "votes": 1217,
+    "release": "2025-03-30",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 367.7893
   },
   {
     "id": 225385,
@@ -92,15 +92,15 @@
     "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
     "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-    "rating": 7.037,
-    "votes": 484,
+    "rating": 7,
+    "votes": 487,
     "release": "2024-12-05",
     "genres": [
       10759,
       9648,
       80
     ],
-    "popularity": 91.5073
+    "popularity": 89.0523
   },
   {
     "id": 303044,
@@ -108,15 +108,66 @@
     "type": "tv",
     "title": "Campus Drivers",
     "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-    "poster": "https://image.tmdb.org/t/p/w342/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-    "rating": 8.4,
-    "votes": 25,
+    "rating": 8.2,
+    "votes": 30,
     "release": "2026-11-06",
     "genres": [
       18
     ],
-    "popularity": 171.1181
+    "popularity": 174.7198
+  },
+  {
+    "id": 338938,
+    "tmdb_id": 338938,
+    "type": "tv",
+    "title": "I Miss You",
+    "overview": "Reunited long-time friends travel together through extreme landscapes, exploring life and rediscovering true friendship.",
+    "poster": "https://image.tmdb.org/t/p/w342/pH1zpLMuagE8wji4kg3SEJ1RB3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vOu2RYpWGGScdYpNw8WVmDbjdUs.jpg",
+    "rating": 7,
+    "votes": 1,
+    "release": "2026-10-22",
+    "genres": [
+      10764
+    ],
+    "popularity": 9.8455
+  },
+  {
+    "id": 291507,
+    "tmdb_id": 291507,
+    "type": "tv",
+    "title": "The Body",
+    "overview": "After a dance-team initiation gone wrong, a group of badly behaved Catholic school girls begin having prophetic visions that set off mass hysteria in their town.",
+    "poster": "https://image.tmdb.org/t/p/w342/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-11-11",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 63.1908
+  },
+  {
+    "id": 259909,
+    "tmdb_id": 259909,
+    "type": "tv",
+    "title": "Dexter: Resurrection",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "rating": 8.549,
+    "votes": 751,
+    "release": "2025-07-13",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 91.0161
   },
   {
     "id": 96677,
@@ -127,32 +178,48 @@
     "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
     "rating": 7.677,
-    "votes": 2783,
+    "votes": 2784,
     "release": "2021-01-08",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 95.6771
+    "popularity": 95.0247
   },
   {
-    "id": 259909,
-    "tmdb_id": 259909,
+    "id": 289517,
+    "tmdb_id": 289517,
     "type": "tv",
-    "title": "Dexter: Resurrection",
-    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.559,
-    "votes": 750,
-    "release": "2025-07-13",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "rating": 7.523,
+    "votes": 86,
+    "release": "2026-10-30",
     "genres": [
-      80,
-      18,
-      9648
+      9648,
+      18
     ],
-    "popularity": 96.1596
+    "popularity": 96.3538
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.335,
+    "votes": 5265,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 135.2555
   },
   {
     "id": 258989,
@@ -168,93 +235,77 @@
     "genres": [
       18
     ],
-    "popularity": 38.2951
+    "popularity": 32.8886
   },
   {
-    "id": 292741,
-    "tmdb_id": 292741,
+    "id": 30984,
+    "tmdb_id": 30984,
     "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.769,
-    "votes": 39,
-    "release": "2026-10-29",
+    "title": "Bleach",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "rating": 8.351,
+    "votes": 2338,
+    "release": "2004-10-05",
     "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 69.1691
-  },
-  {
-    "id": 73223,
-    "tmdb_id": 73223,
-    "type": "tv",
-    "title": "Black Clover",
-    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-    "poster": "https://image.tmdb.org/t/p/w342/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-    "rating": 8.537,
-    "votes": 2313,
-    "release": "2017-10-03",
-    "genres": [
-      16,
       10759,
+      16,
       10765
     ],
-    "popularity": 45.1229
+    "popularity": 125.2028
   },
   {
-    "id": 289517,
-    "tmdb_id": 289517,
+    "id": 307853,
+    "tmdb_id": 307853,
     "type": "tv",
-    "title": "Dead-End Job",
-    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-    "poster": "https://image.tmdb.org/t/p/w342/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-    "rating": 7.456,
-    "votes": 79,
-    "release": "2026-10-30",
+    "title": "Sunshine Through the Rain",
+    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+    "poster": "https://image.tmdb.org/t/p/w342/tckCJzClnmd85VIrtaycHkcgXhM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+    "rating": 10,
+    "votes": 4,
+    "release": "2026-11-06",
+    "genres": [
+      18
+    ],
+    "popularity": 28.0922
+  },
+  {
+    "id": 293610,
+    "tmdb_id": 293610,
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+    "rating": 9.13,
+    "votes": 46,
+    "release": "2026-10-09",
     "genres": [
       9648,
-      18
+      18,
+      80
     ],
-    "popularity": 101.5039
+    "popularity": 52.4065
   },
   {
-    "id": 279155,
-    "tmdb_id": 279155,
+    "id": 95350,
+    "tmdb_id": 95350,
     "type": "tv",
-    "title": "The Silent Storm",
-    "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
-    "rating": 9,
-    "votes": 1,
-    "release": "2026-11-05",
+    "title": "Lanterns",
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "poster": "https://image.tmdb.org/t/p/w342/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "rating": 8.187,
+    "votes": 870,
+    "release": "2026-08-16",
     "genres": [
-      18
+      18,
+      9648,
+      10765
     ],
-    "popularity": 13.074
-  },
-  {
-    "id": 248830,
-    "tmdb_id": 248830,
-    "type": "tv",
-    "title": "Stick",
-    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-    "rating": 7.3,
-    "votes": 144,
-    "release": "2025-06-03",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 37.4411
+    "popularity": 45.7682
   },
   {
     "id": 253372,
@@ -264,80 +315,31 @@
     "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
     "poster": "https://image.tmdb.org/t/p/w342/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-    "rating": 7.478,
+    "rating": 7.5,
     "votes": 223,
     "release": "2025-07-13",
     "genres": [
       9648,
       10765
     ],
-    "popularity": 43.9277
+    "popularity": 42.7025
   },
   {
-    "id": 270431,
-    "tmdb_id": 270431,
+    "id": 330613,
+    "tmdb_id": 330613,
     "type": "tv",
-    "title": "When I Meet the Moon",
-    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shize is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
-    "poster": "https://image.tmdb.org/t/p/w342/fhbttPIgdiS6lXlPA1LSeiwSGvI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/Agg3jHAbPAnKdTEfBcESa6hefdW.jpg",
-    "rating": 9.2,
-    "votes": 5,
-    "release": "2026-11-05",
+    "title": "The Rules",
+    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+    "rating": 8.5,
+    "votes": 2,
+    "release": "2026-10-28",
     "genres": [
-      18
-    ],
-    "popularity": 39.3511
-  },
-  {
-    "id": 307853,
-    "tmdb_id": 307853,
-    "type": "tv",
-    "title": "Sunshine Through the Rain",
-    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-    "poster": "https://image.tmdb.org/t/p/w342/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-    "rating": 9.7,
-    "votes": 3,
-    "release": "2026-11-06",
-    "genres": [
-      18
-    ],
-    "popularity": 25.0773
-  },
-  {
-    "id": 314271,
-    "tmdb_id": 314271,
-    "type": "tv",
-    "title": "Bass X Machina",
-    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-    "poster": "https://image.tmdb.org/t/p/w342/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
-    "rating": 7.9,
-    "votes": 9,
-    "release": "2026-11-03",
-    "genres": [
-      16,
-      37,
+      18,
+      9648,
       10765
     ],
-    "popularity": 31.7097
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.333,
-    "votes": 5259,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 137.8031
+    "popularity": 150.3716
   }
 ]
