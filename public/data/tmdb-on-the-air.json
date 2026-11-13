@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.962,
-    "votes": 4409,
+    "votes": 4415,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1771.4956
+    "popularity": 3013.0837
   },
   {
     "id": 456,
@@ -26,13 +26,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.028,
-    "votes": 11165,
+    "votes": 11167,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1545.9688
+    "popularity": 1932.1709
+  },
+  {
+    "id": 84773,
+    "tmdb_id": 84773,
+    "type": "tv",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+    "rating": 7.2,
+    "votes": 4049,
+    "release": "2022-09-01",
+    "genres": [
+      10759,
+      10765
+    ],
+    "popularity": 776.7183
   },
   {
     "id": 22980,
@@ -49,7 +66,7 @@
       10767,
       35
     ],
-    "popularity": 461.0994
+    "popularity": 455.0663
   },
   {
     "id": 33238,
@@ -66,7 +83,7 @@
       35,
       10764
     ],
-    "popularity": 417.9615
+    "popularity": 431.7083
   },
   {
     "id": 247718,
@@ -76,14 +93,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.643,
-    "votes": 1217,
+    "rating": 8.646,
+    "votes": 1228,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 367.7893
+    "popularity": 359.6873
   },
   {
     "id": 31991,
@@ -101,40 +118,7 @@
       18,
       10764
     ],
-    "popularity": 362.096
-  },
-  {
-    "id": 59941,
-    "tmdb_id": 59941,
-    "type": "tv",
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-    "rating": 5.8,
-    "votes": 401,
-    "release": "2014-02-17",
-    "genres": [
-      35,
-      10767
-    ],
-    "popularity": 343.6046
-  },
-  {
-    "id": 1416,
-    "tmdb_id": 1416,
-    "type": "tv",
-    "title": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-    "rating": 8.201,
-    "votes": 11132,
-    "release": "2005-03-27",
-    "genres": [
-      18
-    ],
-    "popularity": 263.1516
+    "popularity": 318.1835
   },
   {
     "id": 2224,
@@ -151,7 +135,23 @@
       10763,
       35
     ],
-    "popularity": 268.8208
+    "popularity": 270.869
+  },
+  {
+    "id": 1416,
+    "tmdb_id": 1416,
+    "type": "tv",
+    "title": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+    "rating": 8.2,
+    "votes": 11132,
+    "release": "2005-03-27",
+    "genres": [
+      18
+    ],
+    "popularity": 271.6867
   },
   {
     "id": 4614,
@@ -161,15 +161,15 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "rating": 7.606,
-    "votes": 2616,
+    "rating": 7.607,
+    "votes": 2617,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 263.0006
+    "popularity": 263.0265
   },
   {
     "id": 206559,
@@ -185,7 +185,24 @@
     "genres": [
       10766
     ],
-    "popularity": 255.5023
+    "popularity": 255.5999
+  },
+  {
+    "id": 279246,
+    "tmdb_id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 8.201,
+    "votes": 72,
+    "release": "2026-11-03",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 246.4024
   },
   {
     "id": 61818,
@@ -202,7 +219,7 @@
       10767,
       35
     ],
-    "popularity": 241.9065
+    "popularity": 243.4903
   },
   {
     "id": 11890,
@@ -218,7 +235,7 @@
     "genres": [
       10766
     ],
-    "popularity": 230.8712
+    "popularity": 234.8406
   },
   {
     "id": 549,
@@ -228,14 +245,14 @@
     "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
     "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-    "rating": 7.278,
+    "rating": 7.3,
     "votes": 741,
     "release": "1990-09-13",
     "genres": [
       80,
       18
     ],
-    "popularity": 226.5329
+    "popularity": 230.1619
   },
   {
     "id": 153312,
@@ -246,47 +263,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
     "rating": 8.319,
-    "votes": 2936,
+    "votes": 2942,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 224.6131
-  },
-  {
-    "id": 279246,
-    "tmdb_id": 279246,
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.289,
-    "votes": 57,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 254.9188
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.747,
-    "votes": 384,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 208.275
+    "popularity": 220.4774
   },
   {
     "id": 72879,
@@ -304,7 +288,23 @@
       18,
       10766
     ],
-    "popularity": 221.6831
+    "popularity": 187.6766
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.747,
+    "votes": 384,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 211.8503
   },
   {
     "id": 291,
@@ -320,7 +320,7 @@
     "genres": [
       10766
     ],
-    "popularity": 194.3307
+    "popularity": 193.9162
   },
   {
     "id": 57775,
@@ -337,6 +337,6 @@
       16,
       35
     ],
-    "popularity": 165.0553
+    "popularity": 166.9252
   }
 ]

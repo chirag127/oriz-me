@@ -1,24 +1,5 @@
 [
   {
-    "id": 1877,
-    "tmdb_id": 1877,
-    "type": "tv",
-    "title": "Phineas and Ferb",
-    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-    "rating": 7.897,
-    "votes": 1087,
-    "release": "2007-08-17",
-    "genres": [
-      16,
-      35,
-      10751,
-      10765
-    ],
-    "popularity": 1568.5012
-  },
-  {
     "id": 57243,
     "tmdb_id": 57243,
     "type": "tv",
@@ -26,15 +7,15 @@
     "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
     "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-    "rating": 7.631,
-    "votes": 3507,
+    "rating": 7.632,
+    "votes": 3508,
     "release": "2005-03-26",
     "genres": [
       10759,
       18,
       10765
     ],
-    "popularity": 1830.1058
+    "popularity": 1818.494
   },
   {
     "id": 2734,
@@ -45,32 +26,33 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.962,
-    "votes": 4409,
+    "votes": 4413,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1771.4956
+    "popularity": 3013.0837
   },
   {
-    "id": 5920,
-    "tmdb_id": 5920,
+    "id": 1877,
+    "tmdb_id": 1877,
     "type": "tv",
-    "title": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.423,
-    "votes": 4981,
-    "release": "2008-09-23",
+    "title": "Phineas and Ferb",
+    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+    "rating": 7.892,
+    "votes": 1088,
+    "release": "2007-08-17",
     "genres": [
-      80,
-      18,
-      9648
+      16,
+      35,
+      10751,
+      10765
     ],
-    "popularity": 1210.8859
+    "popularity": 1092.6361
   },
   {
     "id": 456,
@@ -81,13 +63,45 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.028,
-    "votes": 11165,
+    "votes": 11167,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1545.9688
+    "popularity": 1932.1709
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "rating": 8.584,
+    "votes": 5698,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 1944.6525
+  },
+  {
+    "id": 1408,
+    "tmdb_id": 1408,
+    "type": "tv",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.559,
+    "votes": 8030,
+    "release": "2004-11-16",
+    "genres": [
+      18
+    ],
+    "popularity": 1531.0373
   },
   {
     "id": 1421,
@@ -97,13 +111,31 @@
     "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.911,
-    "votes": 3619,
+    "rating": 7.91,
+    "votes": 3620,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 1314.9231
+    "popularity": 1292.0788
+  },
+  {
+    "id": 5920,
+    "tmdb_id": 5920,
+    "type": "tv",
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w342/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "rating": 8.4,
+    "votes": 4992,
+    "release": "2008-09-23",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1335.3527
   },
   {
     "id": 1100,
@@ -113,13 +145,63 @@
     "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
     "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.112,
-    "votes": 6074,
+    "rating": 8.111,
+    "votes": 6075,
     "release": "2005-09-19",
     "genres": [
       35
     ],
-    "popularity": 1181.0012
+    "popularity": 1211.3517
+  },
+  {
+    "id": 18165,
+    "tmdb_id": 18165,
+    "type": "tv",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.297,
+    "votes": 9845,
+    "release": "2009-09-10",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1228.5641
+  },
+  {
+    "id": 1400,
+    "tmdb_id": 1400,
+    "type": "tv",
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+    "rating": 8.244,
+    "votes": 2513,
+    "release": "1989-07-05",
+    "genres": [
+      35
+    ],
+    "popularity": 1130.2436
+  },
+  {
+    "id": 60735,
+    "tmdb_id": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "rating": 7.738,
+    "votes": 11865,
+    "release": "2014-10-07",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1163.6659
   },
   {
     "id": 253376,
@@ -136,55 +218,41 @@
       18,
       9648
     ],
-    "popularity": 981.5682
+    "popularity": 699.5649
   },
   {
-    "id": 1400,
-    "tmdb_id": 1400,
+    "id": 3002,
+    "tmdb_id": 3002,
     "type": "tv",
-    "title": "Seinfeld",
-    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-    "rating": 8.245,
-    "votes": 2512,
-    "release": "1989-07-05",
+    "title": "The Benny Hill Show",
+    "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+    "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
+    "rating": 7.219,
+    "votes": 185,
+    "release": "1969-11-19",
     "genres": [
       35
     ],
-    "popularity": 1127.3395
+    "popularity": 431.2815
   },
   {
-    "id": 2316,
-    "tmdb_id": 2316,
+    "id": 1427,
+    "tmdb_id": 1427,
     "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.584,
-    "votes": 5698,
-    "release": "2005-03-24",
+    "title": "Broadchurch",
+    "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
+    "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9CkwC4rou9468XMLTXaB6bZ0frx.jpg",
+    "rating": 7.906,
+    "votes": 1071,
+    "release": "2013-03-04",
     "genres": [
-      35
+      80,
+      18,
+      9648
     ],
-    "popularity": 1426.4266
-  },
-  {
-    "id": 1408,
-    "tmdb_id": 1408,
-    "type": "tv",
-    "title": "House",
-    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "rating": 8.559,
-    "votes": 8029,
-    "release": "2004-11-16",
-    "genres": [
-      18
-    ],
-    "popularity": 1362.8008
+    "popularity": 480.292
   },
   {
     "id": 63333,
@@ -202,78 +270,7 @@
       18,
       10768
     ],
-    "popularity": 719.3168
-  },
-  {
-    "id": 60735,
-    "tmdb_id": 60735,
-    "type": "tv",
-    "title": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "rating": 7.738,
-    "votes": 11865,
-    "release": "2014-10-07",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 988.4803
-  },
-  {
-    "id": 18165,
-    "tmdb_id": 18165,
-    "type": "tv",
-    "title": "The Vampire Diaries",
-    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "rating": 8.3,
-    "votes": 9843,
-    "release": "2009-09-10",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 1176.8551
-  },
-  {
-    "id": 1427,
-    "tmdb_id": 1427,
-    "type": "tv",
-    "title": "Broadchurch",
-    "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
-    "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9CkwC4rou9468XMLTXaB6bZ0frx.jpg",
-    "rating": 7.907,
-    "votes": 1068,
-    "release": "2013-03-04",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 723.9509
-  },
-  {
-    "id": 48866,
-    "tmdb_id": 48866,
-    "type": "tv",
-    "title": "The 100",
-    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-    "rating": 7.876,
-    "votes": 8879,
-    "release": "2014-03-19",
-    "genres": [
-      10765,
-      10759,
-      18,
-      80
-    ],
-    "popularity": 635.3904
+    "popularity": 703.4088
   },
   {
     "id": 82873,
@@ -289,7 +286,44 @@
     "genres": [
       10767
     ],
-    "popularity": 682.2495
+    "popularity": 442.1625
+  },
+  {
+    "id": 4057,
+    "tmdb_id": 4057,
+    "type": "tv",
+    "title": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.3,
+    "votes": 4225,
+    "release": "2005-09-22",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1904.4172
+  },
+  {
+    "id": 48866,
+    "tmdb_id": 48866,
+    "type": "tv",
+    "title": "The 100",
+    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+    "rating": 7.876,
+    "votes": 8881,
+    "release": "2014-03-19",
+    "genres": [
+      10765,
+      10759,
+      18,
+      80
+    ],
+    "popularity": 707.7859
   },
   {
     "id": 873,
@@ -299,49 +333,14 @@
     "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
     "poster": "https://image.tmdb.org/t/p/w342/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
-    "rating": 8.056,
-    "votes": 888,
+    "rating": 8.055,
+    "votes": 889,
     "release": "1971-09-15",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 620.6113
-  },
-  {
-    "id": 3002,
-    "tmdb_id": 3002,
-    "type": "tv",
-    "title": "The Benny Hill Show",
-    "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
-    "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
-    "rating": 7.219,
-    "votes": 185,
-    "release": "1969-11-19",
-    "genres": [
-      35
-    ],
-    "popularity": 724.0715
-  },
-  {
-    "id": 1695,
-    "tmdb_id": 1695,
-    "type": "tv",
-    "title": "Monk",
-    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
-    "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-    "rating": 7.935,
-    "votes": 1345,
-    "release": "2002-07-12",
-    "genres": [
-      18,
-      35,
-      80,
-      9648
-    ],
-    "popularity": 555.4851
+    "popularity": 583.9834
   }
 ]

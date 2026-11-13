@@ -6,16 +6,16 @@
     "title": "Resident Evil",
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.522,
-    "votes": 2062,
+    "backdrop": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+    "rating": 7.526,
+    "votes": 2105,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 624.6254
+    "popularity": 586.7202
   },
   {
     "id": 1263337,
@@ -25,14 +25,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
-    "rating": 7.489,
-    "votes": 664,
+    "rating": 7.526,
+    "votes": 702,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 554.0784
+    "popularity": 558.5362
   },
   {
     "id": 1058424,
@@ -42,15 +42,15 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-    "rating": 6.758,
-    "votes": 612,
+    "rating": 6.768,
+    "votes": 628,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 316.9294
+    "popularity": 297.9163
   },
   {
     "id": 1507696,
@@ -61,14 +61,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
     "rating": 6.228,
-    "votes": 189,
+    "votes": 197,
     "release": "2026-10-09",
     "genres": [
       28,
       53,
       27
     ],
-    "popularity": 299.9329
+    "popularity": 275.185
   },
   {
     "id": 1813355,
@@ -78,15 +78,31 @@
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "rating": 6.757,
-    "votes": 109,
+    "rating": 6.708,
+    "votes": 113,
     "release": "2026-10-31",
     "genres": [
       18,
       27,
       9648
     ],
-    "popularity": 296.4494
+    "popularity": 281.7544
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "type": "movie",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "rating": 6.139,
+    "votes": 319,
+    "release": "2026-10-07",
+    "genres": [
+      27
+    ],
+    "popularity": 253.1723
   },
   {
     "id": 1381071,
@@ -96,15 +112,15 @@
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
     "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 7.842,
-    "votes": 155,
+    "rating": 7.8,
+    "votes": 167,
     "release": "2026-11-03",
     "genres": [
       878,
       27,
       28
     ],
-    "popularity": 199.1007
+    "popularity": 184.5056
   },
   {
     "id": 656908,
@@ -112,51 +128,17 @@
     "type": "movie",
     "title": "Ramayana: Rise of a Legend",
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "poster": "https://image.tmdb.org/t/p/w342/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "rating": 7.729,
-    "votes": 35,
+    "rating": 7.537,
+    "votes": 41,
     "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 171.4355
-  },
-  {
-    "id": 1294189,
-    "tmdb_id": 1294189,
-    "type": "movie",
-    "title": "The Mongoose",
-    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
-    "rating": 6.073,
-    "votes": 131,
-    "release": "2026-10-29",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 153.9857
-  },
-  {
-    "id": 1283515,
-    "tmdb_id": 1283515,
-    "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.996,
-    "votes": 673,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 153.882
+    "popularity": 161.2852
   },
   {
     "id": 1244523,
@@ -166,31 +148,49 @@
     "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
     "poster": "https://image.tmdb.org/t/p/w342/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "rating": 6.1,
-    "votes": 50,
+    "rating": 6.2,
+    "votes": 54,
     "release": "2026-10-01",
     "genres": [
       27,
       53,
       28
     ],
-    "popularity": 164.5631
+    "popularity": 175.2564
   },
   {
-    "id": 1400837,
-    "tmdb_id": 1400837,
+    "id": 1294189,
+    "tmdb_id": 1294189,
     "type": "movie",
-    "title": "Other Mommy",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-    "rating": 5.859,
-    "votes": 262,
-    "release": "2026-10-07",
+    "title": "The Mongoose",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+    "rating": 6.166,
+    "votes": 145,
+    "release": "2026-10-29",
     "genres": [
-      27
+      28,
+      53
     ],
-    "popularity": 226.3965
+    "popularity": 145.5223
+  },
+  {
+    "id": 1283515,
+    "tmdb_id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "rating": 6.993,
+    "votes": 685,
+    "release": "2026-09-30",
+    "genres": [
+      9648,
+      53
+    ],
+    "popularity": 141.8691
   },
   {
     "id": 1422041,
@@ -201,13 +201,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
     "rating": 8,
-    "votes": 211,
+    "votes": 215,
     "release": "2026-09-25",
     "genres": [
       18,
       10752
     ],
-    "popularity": 135.5293
+    "popularity": 129.5765
   },
   {
     "id": 1596275,
@@ -217,34 +217,14 @@
     "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
     "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "rating": 7.584,
-    "votes": 167,
+    "rating": 7.589,
+    "votes": 169,
     "release": "2026-10-27",
     "genres": [
       10749,
       53
     ],
-    "popularity": 134.3035
-  },
-  {
-    "id": 1657630,
-    "tmdb_id": 1657630,
-    "type": "movie",
-    "title": "The Awakening",
-    "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-    "poster": "https://image.tmdb.org/t/p/w342/AhP971WogMHbF5iKJPKi6e6oaya.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-    "rating": 6.538,
-    "votes": 120,
-    "release": "2026-10-29",
-    "genres": [
-      27,
-      28,
-      10752,
-      14,
-      53
-    ],
-    "popularity": 125.9311
+    "popularity": 123.9977
   },
   {
     "id": 1101412,
@@ -254,13 +234,50 @@
     "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
     "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "rating": 7.269,
-    "votes": 770,
+    "rating": 7.26,
+    "votes": 778,
     "release": "2026-09-01",
     "genres": [
       53
     ],
-    "popularity": 128.6146
+    "popularity": 119.7785
+  },
+  {
+    "id": 1657630,
+    "tmdb_id": 1657630,
+    "type": "movie",
+    "title": "The Awakening",
+    "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+    "poster": "https://image.tmdb.org/t/p/w342/AhP971WogMHbF5iKJPKi6e6oaya.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+    "rating": 6.573,
+    "votes": 123,
+    "release": "2026-10-29",
+    "genres": [
+      27,
+      28,
+      10752,
+      14,
+      53
+    ],
+    "popularity": 111.873
+  },
+  {
+    "id": 1562642,
+    "tmdb_id": 1562642,
+    "type": "movie",
+    "title": "Ghost Soldier",
+    "overview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+    "rating": 9,
+    "votes": 8,
+    "release": "2026-11-06",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 120.5826
   },
   {
     "id": 1514026,
@@ -270,32 +287,15 @@
     "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
     "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
-    "rating": 6.8,
-    "votes": 269,
+    "rating": 6.792,
+    "votes": 276,
     "release": "2026-08-27",
     "genres": [
       27,
       35,
       14
     ],
-    "popularity": 114.5503
-  },
-  {
-    "id": 1570488,
-    "tmdb_id": 1570488,
-    "type": "movie",
-    "title": "A Dog's Perfect Christmas",
-    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-    "poster": "https://image.tmdb.org/t/p/w342/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-    "rating": 7.25,
-    "votes": 42,
-    "release": "2026-11-04",
-    "genres": [
-      35,
-      18
-    ],
-    "popularity": 112.7991
+    "popularity": 110.0892
   },
   {
     "id": 1228834,
@@ -312,25 +312,24 @@
       28,
       53
     ],
-    "popularity": 113.8006
+    "popularity": 109.7628
   },
   {
-    "id": 1571955,
-    "tmdb_id": 1571955,
+    "id": 1570488,
+    "tmdb_id": 1570488,
     "type": "movie",
-    "title": "Collision Course",
-    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-    "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-    "rating": 6.315,
-    "votes": 100,
-    "release": "2026-10-30",
+    "title": "A Dog's Perfect Christmas",
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "poster": "https://image.tmdb.org/t/p/w342/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "rating": 7.1,
+    "votes": 49,
+    "release": "2026-11-04",
     "genres": [
-      53,
-      18,
-      80
+      35,
+      18
     ],
-    "popularity": 87.5227
+    "popularity": 100.832
   },
   {
     "id": 791523,
@@ -340,8 +339,8 @@
     "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
     "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.477,
-    "votes": 259,
+    "rating": 8.5,
+    "votes": 271,
     "release": "2026-10-19",
     "genres": [
       16,
@@ -349,6 +348,6 @@
       12,
       18
     ],
-    "popularity": 86.2327
+    "popularity": 81.4687
   }
 ]
