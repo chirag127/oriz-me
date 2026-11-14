@@ -6,7 +6,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-10T05:26:09.857Z",
-    "searchScore": 43.439873,
+    "searchScore": 44.159626,
     "package": {
       "name": "@chirag127/ai",
       "keywords": [
@@ -43,7 +43,7 @@
       }
     },
     "score": {
-      "final": 43.439873,
+      "final": 44.159626,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -61,7 +61,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T07:26:11.747Z",
-    "searchScore": 28.930426,
+    "searchScore": 29.098103,
     "package": {
       "name": "@chirag127/oriz-ai-providers",
       "keywords": [
@@ -103,7 +103,7 @@
       }
     },
     "score": {
-      "final": 28.930426,
+      "final": 29.098103,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -121,7 +121,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T11:01:07.323Z",
-    "searchScore": 24.9775,
+    "searchScore": 25.070618,
     "package": {
       "name": "@chirag127/oz-ai",
       "keywords": [
@@ -160,7 +160,7 @@
       }
     },
     "score": {
-      "final": 24.9775,
+      "final": 25.070618,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -178,7 +178,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T11:16:12.461Z",
-    "searchScore": 21.469273,
+    "searchScore": 21.462868,
     "package": {
       "name": "@chirag127/astro-chrome",
       "keywords": [
@@ -208,7 +208,7 @@
       }
     },
     "score": {
-      "final": 21.469273,
+      "final": 21.462868,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -226,7 +226,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T19:36:15.486Z",
-    "searchScore": 21.415657,
+    "searchScore": 21.388083,
     "package": {
       "name": "@chirag127/mdv-mcp",
       "keywords": [
@@ -266,7 +266,7 @@
       }
     },
     "score": {
-      "final": 21.415657,
+      "final": 21.388083,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -284,7 +284,7 @@
     },
     "dependents": "1",
     "updated": "2026-11-10T08:16:40.669Z",
-    "searchScore": 20.810995,
+    "searchScore": 21.155811,
     "package": {
       "name": "@chirag127/keyless-pollinations",
       "keywords": [
@@ -321,7 +321,7 @@
       }
     },
     "score": {
-      "final": 20.810995,
+      "final": 21.155811,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -339,7 +339,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-11T06:46:18.572Z",
-    "searchScore": 20.79386,
+    "searchScore": 20.87138,
     "package": {
       "name": "@chirag127/astro-shell",
       "keywords": [
@@ -369,7 +369,60 @@
       }
     },
     "score": {
-      "final": 20.79386,
+      "final": 20.87138,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 64,
+      "weekly": 17
+    },
+    "dependents": 0,
+    "updated": "2026-11-13T14:11:11.433Z",
+    "searchScore": 20.466366,
+    "package": {
+      "name": "@chirag127/oz-tokens-base",
+      "keywords": [
+        "design-tokens",
+        "css-variables",
+        "custom-properties",
+        "contract",
+        "design-system",
+        "framework-agnostic",
+        "a11y"
+      ],
+      "version": "0.1.0",
+      "description": "The --oz-* CSS custom-property CONTRACT: color roles (bg/fg/accent/muted/border/surface), space scale, radii, font-family slots, motion durations. Ships sane defaults + a11y focus ring. Each site imports this then OVERRIDES the props with its own bespoke ",
+      "sanitized_name": "@chirag127/oz-tokens-base",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-07T13:00:16.504Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oz-tokens-base#readme",
+        "repository": "git+https://github.com/chirag127/oz-tokens-base.git",
+        "bugs": "https://github.com/chirag127/oz-tokens-base/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oz-tokens-base"
+      }
+    },
+    "score": {
+      "final": 20.466366,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -387,7 +440,7 @@
     },
     "dependents": "1",
     "updated": "2026-11-10T07:21:27.175Z",
-    "searchScore": 19.782673,
+    "searchScore": 19.856422,
     "package": {
       "name": "@chirag127/keyless-kilo",
       "keywords": [
@@ -425,7 +478,7 @@
       }
     },
     "score": {
-      "final": 19.782673,
+      "final": 19.856422,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -443,7 +496,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-10T07:26:40.523Z",
-    "searchScore": 19.447384,
+    "searchScore": 19.598845,
     "package": {
       "name": "@chirag127/keyless-opencode-zen",
       "keywords": [
@@ -481,7 +534,7 @@
       }
     },
     "score": {
-      "final": 19.447384,
+      "final": 19.598845,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -494,26 +547,25 @@
   },
   {
     "downloads": {
-      "monthly": 50,
-      "weekly": 17
+      "monthly": 56,
+      "weekly": 15
     },
     "dependents": 0,
-    "updated": "2026-11-06T14:06:11.303Z",
-    "searchScore": 19.07773,
+    "updated": "2026-11-13T14:11:10.939Z",
+    "searchScore": 18.757885,
     "package": {
-      "name": "@chirag127/oz-tokens-base",
+      "name": "@chirag127/oz-chrome",
       "keywords": [
-        "design-tokens",
-        "css-variables",
-        "custom-properties",
-        "contract",
-        "design-system",
-        "framework-agnostic",
-        "a11y"
+        "astro",
+        "oriz",
+        "chrome",
+        "header",
+        "footer",
+        "design-system"
       ],
       "version": "0.1.0",
-      "description": "The --oz-* CSS custom-property CONTRACT: color roles (bg/fg/accent/muted/border/surface), space scale, radii, font-family slots, motion durations. Ships sane defaults + a11y focus ring. Each site imports this then OVERRIDES the props with its own bespoke ",
-      "sanitized_name": "@chirag127/oz-tokens-base",
+      "description": "Shared Astro chrome for oriz.in sites — one wordmark + header/footer + accessible tool-page shell. Themes per site via --oz-* tokens.",
+      "sanitized_name": "@chirag127/oz-chrome",
       "publisher": {
         "email": "whyiswhen@gmail.com",
         "username": "chirag127"
@@ -525,16 +577,71 @@
         }
       ],
       "license": "MIT",
-      "date": "2026-08-07T13:00:16.504Z",
+      "date": "2026-08-07T13:00:26.322Z",
       "links": {
-        "homepage": "https://github.com/chirag127/oz-tokens-base#readme",
-        "repository": "git+https://github.com/chirag127/oz-tokens-base.git",
-        "bugs": "https://github.com/chirag127/oz-tokens-base/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oz-tokens-base"
+        "homepage": "https://github.com/chirag127/oz-chrome#readme",
+        "repository": "git+https://github.com/chirag127/oz-chrome.git",
+        "bugs": "https://github.com/chirag127/oz-chrome/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oz-chrome"
       }
     },
     "score": {
-      "final": 19.07773,
+      "final": 18.757885,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 57,
+      "weekly": 17
+    },
+    "dependents": 0,
+    "updated": "2026-11-13T14:11:08.038Z",
+    "searchScore": 18.610748,
+    "package": {
+      "name": "@chirag127/oz-file",
+      "keywords": [
+        "file",
+        "filereader",
+        "download",
+        "drag-drop",
+        "dropzone",
+        "print-to-pdf",
+        "format-bytes",
+        "framework-agnostic",
+        "design-system"
+      ],
+      "version": "0.1.0",
+      "description": "Framework-agnostic browser file helpers: FileReader promises, Blob download, drag-drop wiring, scoped print-to-PDF, byte formatting. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
+      "sanitized_name": "@chirag127/oz-file",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-08-07T13:00:10.422Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oz-file#readme",
+        "repository": "git+https://github.com/chirag127/oz-file.git",
+        "bugs": "https://github.com/chirag127/oz-file/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oz-file"
+      }
+    },
+    "score": {
+      "final": 18.610748,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -552,7 +659,7 @@
     },
     "dependents": "0",
     "updated": "2026-11-10T07:26:39.437Z",
-    "searchScore": 17.87875,
+    "searchScore": 18.017994,
     "package": {
       "name": "@chirag127/keyless-ai",
       "keywords": [
@@ -590,59 +697,7 @@
       }
     },
     "score": {
-      "final": 17.87875,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 44,
-      "weekly": 17
-    },
-    "dependents": 0,
-    "updated": "2026-11-06T14:06:07.933Z",
-    "searchScore": 17.489126,
-    "package": {
-      "name": "@chirag127/oz-chrome",
-      "keywords": [
-        "astro",
-        "oriz",
-        "chrome",
-        "header",
-        "footer",
-        "design-system"
-      ],
-      "version": "0.1.0",
-      "description": "Shared Astro chrome for oriz.in sites — one wordmark + header/footer + accessible tool-page shell. Themes per site via --oz-* tokens.",
-      "sanitized_name": "@chirag127/oz-chrome",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-07T13:00:26.322Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oz-chrome#readme",
-        "repository": "git+https://github.com/chirag127/oz-chrome.git",
-        "bugs": "https://github.com/chirag127/oz-chrome/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oz-chrome"
-      }
-    },
-    "score": {
-      "final": 17.489126,
+      "final": 18.017994,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -660,7 +715,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-08T18:46:12.273Z",
-    "searchScore": 17.393213,
+    "searchScore": 17.386948,
     "package": {
       "name": "@chirag127/astro-data",
       "keywords": [
@@ -690,62 +745,7 @@
       }
     },
     "score": {
-      "final": 17.393213,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 43,
-      "weekly": 15
-    },
-    "dependents": 0,
-    "updated": "2026-11-06T14:06:09.348Z",
-    "searchScore": 17.057617,
-    "package": {
-      "name": "@chirag127/oz-file",
-      "keywords": [
-        "file",
-        "filereader",
-        "download",
-        "drag-drop",
-        "dropzone",
-        "print-to-pdf",
-        "format-bytes",
-        "framework-agnostic",
-        "design-system"
-      ],
-      "version": "0.1.0",
-      "description": "Framework-agnostic browser file helpers: FileReader promises, Blob download, drag-drop wiring, scoped print-to-PDF, byte formatting. Zero dependencies — works in Astro, Next, Vue, Svelte, or plain HTML.",
-      "sanitized_name": "@chirag127/oz-file",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-08-07T13:00:10.422Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oz-file#readme",
-        "repository": "git+https://github.com/chirag127/oz-file.git",
-        "bugs": "https://github.com/chirag127/oz-file/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oz-file"
-      }
-    },
-    "score": {
-      "final": 17.057617,
+      "final": 17.386948,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -763,7 +763,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-08T15:06:09.943Z",
-    "searchScore": 16.709564,
+    "searchScore": 16.68805,
     "package": {
       "name": "@chirag127/astro-test-utils",
       "keywords": [
@@ -797,7 +797,7 @@
       }
     },
     "score": {
-      "final": 16.709564,
+      "final": 16.68805,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -815,7 +815,7 @@
     },
     "dependents": "1",
     "updated": "2026-11-10T08:16:56.076Z",
-    "searchScore": 16.305405,
+    "searchScore": 16.30054,
     "package": {
       "name": "@chirag127/keyless-ovh",
       "keywords": [
@@ -853,7 +853,7 @@
       }
     },
     "score": {
-      "final": 16.305405,
+      "final": 16.30054,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -871,7 +871,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T06:26:13.225Z",
-    "searchScore": 16.234848,
+    "searchScore": 16.228998,
     "package": {
       "name": "@chirag127/omni-publish",
       "keywords": [
@@ -913,7 +913,7 @@
       }
     },
     "score": {
-      "final": 16.234848,
+      "final": 16.228998,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -931,7 +931,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-10T07:26:37.637Z",
-    "searchScore": 15.985216,
+    "searchScore": 16.04481,
     "package": {
       "name": "envpact-mcp",
       "keywords": [
@@ -970,7 +970,7 @@
       }
     },
     "score": {
-      "final": 15.985216,
+      "final": 16.04481,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -988,7 +988,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-11T01:11:23.360Z",
-    "searchScore": 15.464916,
+    "searchScore": 15.445004,
     "package": {
       "name": "@chirag127/astro-billing",
       "keywords": [
@@ -1021,7 +1021,7 @@
       }
     },
     "score": {
-      "final": 15.464916,
+      "final": 15.445004,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1039,7 +1039,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T08:36:11.020Z",
-    "searchScore": 14.954467,
+    "searchScore": 15.0411415,
     "package": {
       "name": "@chirag127/oriz-ui",
       "keywords": [
@@ -1073,7 +1073,7 @@
       }
     },
     "score": {
-      "final": 14.954467,
+      "final": 15.0411415,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1091,7 +1091,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-07T10:01:10.828Z",
-    "searchScore": 14.739573,
+    "searchScore": 14.854368,
     "package": {
       "name": "secenv-mcp",
       "keywords": [
@@ -1127,7 +1127,7 @@
       }
     },
     "score": {
-      "final": 14.739573,
+      "final": 14.854368,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1145,7 +1145,7 @@
     },
     "dependents": "3",
     "updated": "2026-11-11T08:41:24.806Z",
-    "searchScore": 14.517256,
+    "searchScore": 14.498564,
     "package": {
       "name": "@chirag127/tokens",
       "keywords": [
@@ -1178,7 +1178,7 @@
       }
     },
     "score": {
-      "final": 14.517256,
+      "final": 14.498564,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1196,7 +1196,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-12T23:01:13.110Z",
-    "searchScore": 14.343799,
+    "searchScore": 14.426934,
     "package": {
       "name": "@chirag127/okf-knowledge-mcp",
       "keywords": [
@@ -1228,7 +1228,63 @@
       }
     },
     "score": {
-      "final": 14.343799,
+      "final": 14.426934,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 20,
+      "weekly": 5
+    },
+    "dependents": 0,
+    "updated": "2026-11-13T12:26:13.981Z",
+    "searchScore": 14.097652,
+    "package": {
+      "name": "envpact-cli",
+      "keywords": [
+        "secrets",
+        "secrets-manager",
+        "env",
+        "dotenv",
+        "environment-variables",
+        "git",
+        "cli",
+        "envpact",
+        "centralized",
+        "serverless"
+      ],
+      "version": "0.3.0",
+      "description": "Centralized, serverless secrets manager CLI — one private Git repo, every project, zero infrastructure",
+      "sanitized_name": "envpact-cli",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-19T10:44:40.482Z",
+      "links": {
+        "homepage": "https://envpact.oriz.in",
+        "repository": "git+https://github.com/chirag127/envpact-cli.git",
+        "bugs": "https://github.com/chirag127/envpact-cli/issues",
+        "npm": "https://www.npmjs.com/package/envpact-cli"
+      }
+    },
+    "score": {
+      "final": 14.097652,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1246,7 +1302,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-09T08:16:07.673Z",
-    "searchScore": 13.613739,
+    "searchScore": 13.664492,
     "package": {
       "name": "@chirag127/oriz-analytics",
       "keywords": [
@@ -1281,7 +1337,7 @@
       }
     },
     "score": {
-      "final": 13.613739,
+      "final": 13.664492,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1299,7 +1355,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-08T14:11:13.582Z",
-    "searchScore": 13.221462,
+    "searchScore": 13.440528,
     "package": {
       "name": "@chirag127/auth-cli",
       "keywords": [
@@ -1329,7 +1385,60 @@
       }
     },
     "score": {
-      "final": 13.221462,
+      "final": 13.440528,
+      "detail": {
+        "popularity": 1,
+        "quality": 1,
+        "maintenance": 1
+      }
+    },
+    "flags": {
+      "insecure": 0
+    }
+  },
+  {
+    "downloads": {
+      "monthly": 16,
+      "weekly": 5
+    },
+    "dependents": 0,
+    "updated": "2026-11-09T08:16:09.689Z",
+    "searchScore": 13.314111,
+    "package": {
+      "name": "@chirag127/oriz-rate-limit",
+      "keywords": [
+        "chirag127",
+        "oriz",
+        "rate-limit",
+        "token-bucket",
+        "cloudflare-kv",
+        "durable-objects",
+        "edge"
+      ],
+      "version": "0.1.0",
+      "description": "Per-user usage caps for Free/Pro/Max tiers (10/100/unlimited requests per day). Edge-friendly token bucket built on Cloudflare KV / Durable Objects.",
+      "sanitized_name": "@chirag127/oriz-rate-limit",
+      "publisher": {
+        "email": "whyiswhen@gmail.com",
+        "username": "chirag127"
+      },
+      "maintainers": [
+        {
+          "email": "whyiswhen@gmail.com",
+          "username": "chirag127"
+        }
+      ],
+      "license": "MIT",
+      "date": "2026-06-22T06:36:39.276Z",
+      "links": {
+        "homepage": "https://github.com/chirag127/oriz-rate-limit-npm-pkg#readme",
+        "repository": "git+https://github.com/chirag127/oriz-rate-limit-npm-pkg.git",
+        "bugs": "https://github.com/chirag127/oriz-rate-limit-npm-pkg/issues",
+        "npm": "https://www.npmjs.com/package/@chirag127/oriz-rate-limit"
+      }
+    },
+    "score": {
+      "final": 13.314111,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1347,7 +1456,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-08T12:11:17.830Z",
-    "searchScore": 13.182402,
+    "searchScore": 13.177653,
     "package": {
       "name": "@chirag127/astro-forms",
       "keywords": [
@@ -1383,7 +1492,7 @@
       }
     },
     "score": {
-      "final": 13.182402,
+      "final": 13.177653,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1401,7 +1510,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-12T03:06:33.278Z",
-    "searchScore": 13.182402,
+    "searchScore": 13.177653,
     "package": {
       "name": "@chirag127/styling",
       "keywords": [
@@ -1436,108 +1545,7 @@
       }
     },
     "score": {
-      "final": 13.182402,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 16,
-      "weekly": 5
-    },
-    "dependents": 0,
-    "updated": "2026-11-09T08:16:09.689Z",
-    "searchScore": 13.08502,
-    "package": {
-      "name": "@chirag127/oriz-rate-limit",
-      "keywords": [
-        "chirag127",
-        "oriz",
-        "rate-limit",
-        "token-bucket",
-        "cloudflare-kv",
-        "durable-objects",
-        "edge"
-      ],
-      "version": "0.1.0",
-      "description": "Per-user usage caps for Free/Pro/Max tiers (10/100/unlimited requests per day). Edge-friendly token bucket built on Cloudflare KV / Durable Objects.",
-      "sanitized_name": "@chirag127/oriz-rate-limit",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "MIT",
-      "date": "2026-06-22T06:36:39.276Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/oriz-rate-limit-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/oriz-rate-limit-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/oriz-rate-limit-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/oriz-rate-limit"
-      }
-    },
-    "score": {
-      "final": 13.08502,
-      "detail": {
-        "popularity": 1,
-        "quality": 1,
-        "maintenance": 1
-      }
-    },
-    "flags": {
-      "insecure": 0
-    }
-  },
-  {
-    "downloads": {
-      "monthly": 16,
-      "weekly": 6
-    },
-    "dependents": 0,
-    "updated": "2026-11-08T14:11:15.045Z",
-    "searchScore": 12.921727,
-    "package": {
-      "name": "@chirag127/auth-wxt",
-      "keywords": [
-        "chirag127",
-        "oriz"
-      ],
-      "version": "0.1.0",
-      "description": "Browser-extension auth — chrome.identity.launchWebAuthFlow bouncing through auth.oriz.in, ID-token in chrome.storage.local. Chrome / Firefox / Edge via @wxt-dev/browser. Peer-deps on @chirag127/auth-core.",
-      "sanitized_name": "@chirag127/auth-wxt",
-      "publisher": {
-        "email": "whyiswhen@gmail.com",
-        "username": "chirag127"
-      },
-      "maintainers": [
-        {
-          "email": "whyiswhen@gmail.com",
-          "username": "chirag127"
-        }
-      ],
-      "license": "SEE LICENSE IN LICENSE",
-      "date": "2026-06-21T12:33:10.374Z",
-      "links": {
-        "homepage": "https://github.com/chirag127/auth-wxt-npm-pkg#readme",
-        "repository": "git+https://github.com/chirag127/auth-wxt-npm-pkg.git",
-        "bugs": "https://github.com/chirag127/auth-wxt-npm-pkg/issues",
-        "npm": "https://www.npmjs.com/package/@chirag127/auth-wxt"
-      }
-    },
-    "score": {
-      "final": 12.921727,
+      "final": 13.177653,
       "detail": {
         "popularity": 1,
         "quality": 1,
@@ -1555,7 +1563,7 @@
     },
     "dependents": 0,
     "updated": "2026-11-08T14:11:10.932Z",
-    "searchScore": 12.876596,
+    "searchScore": 12.951228,
     "package": {
       "name": "@chirag127/auth-core",
       "keywords": [
@@ -1585,7 +1593,7 @@
       }
     },
     "score": {
-      "final": 12.876596,
+      "final": 12.951228,
       "detail": {
         "popularity": 1,
         "quality": 1,
