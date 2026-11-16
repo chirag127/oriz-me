@@ -1,10 +1,10 @@
 name: GitHub Pages mirror
 
-# Publishes the real site to https://gh.oriz.in/oriz-me/ as a mirror of
-# me.oriz.in. The custom domain lives on the user site (chirag127.github.io), so
-# every project site is served under that host with the repository name as the
-# first path segment — hence GH_PAGES_BASE. me.oriz.in stays canonical; the
-# canonical tags in the markup already point there.
+# Publishes the site to https://mirror.oriz.in as a mirror of me.oriz.in.
+# It has its own custom domain rather than riding on gh.oriz.in, because a repo
+# served under a user-site domain gets the /<repo>/ subpath, and every internal
+# link in this site is root-absolute. A root-served host keeps those links
+# working; me.oriz.in stays canonical and the markup already says so.
 
 on:
   push:
@@ -26,8 +26,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GH_PAGES_BASE: /oriz-me
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
