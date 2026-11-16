@@ -141,7 +141,11 @@ const totalStars = repos.reduce((n, r) => n + r.stargazers_count, 0)
       <h2>Everything else</h2>
       <p>{rest.length} more repositories, by stars then most recent push</p>
     </div>
-    <ul>
+    {/* Folded rather than all 228 at once: the page stays readable and a reader
+        who wants the whole list still gets it, in place, with no second request. */}
+    <details>
+      <summary>Show all {rest.length} repositories</summary>
+      <ul>
       {rest.map((r) => (
         <li>
           <a href={r.html_url} target="_blank" rel="noopener">
@@ -154,7 +158,8 @@ const totalStars = repos.reduce((n, r) => n + r.stargazers_count, 0)
           </a>
         </li>
       ))}
-    </ul>
+      </ul>
+    </details>
     <p class="tail-foot"><a href="https://github.com/chirag127?tab=repositories">All repositories on GitHub ↗</a></p>
   </section>
 </Layout>
@@ -184,6 +189,12 @@ const totalStars = repos.reduce((n, r) => n + r.stargazers_count, 0)
   .tail-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
   .tail-head h2 { margin: 0; font-family: var(--font-display); font-size: 1rem; color: var(--ink); }
   .tail-head p { margin: 0; font-size: 0.72rem; color: var(--ink-4); }
+  .tail summary {
+    cursor: pointer; padding: 9px 2px; font-family: var(--font-mono); font-size: 0.74rem;
+    letter-spacing: 0.04em; color: var(--phosphor-dim); border-bottom: 1px solid var(--hair);
+  }
+  .tail summary:hover { color: var(--phosphor); }
+  .tail details[open] summary { border-bottom-color: transparent; }
   .tail ul { list-style: none; margin: 0; padding: 0; }
   .tail li { border-bottom: 1px solid var(--hair); }
   .tail a { display: grid; grid-template-columns: 15rem minmax(0, 1fr) auto; gap: 14px; align-items: baseline; padding: 8px 2px; }
