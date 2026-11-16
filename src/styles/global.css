@@ -338,10 +338,9 @@ hr.section-divider { border: none; height: 1px; background: linear-gradient(90de
 .tab-item { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 4px 12px; color: var(--ink-3); font-size: 9px; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.08em; text-decoration: none; transition: color var(--ease); }
 .tab-item.active { color: var(--phosphor); }
 .tab-icon { font-family: var(--font-mono); font-size: 17px; line-height: 1; }
-/* Button styled as a tab: inherits no default chrome, keeps a 44px hit area.
-   Properties are copied individually rather than via font:inherit, which would
-   reset the 9px tab label to body size. */
-.tab-menu { background: none; border: 0; cursor: pointer; font-family: inherit; font-size: inherit; letter-spacing: inherit; text-transform: inherit; color: var(--ink-2); padding: 4px 12px; min-height: 44px; }
+/* Button styled as a tab. Only chrome is added; type comes from .tab-item, so a
+   font-size here would override the 9px tab label (inherit resolves to body size). */
+.tab-menu { background: none; border: 0; cursor: pointer; color: var(--ink-2); padding: 4px 12px; min-height: 44px; }
 .tab-menu:hover { color: var(--phosphor); }
 html[data-nav-open='true'] .tab-menu { color: var(--phosphor); }
 

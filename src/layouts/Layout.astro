@@ -24,6 +24,7 @@ function isActive(href: string): boolean {
 
 const WORK_NAV = [
   { href: '/',                    label: 'Home',           icon: '⌂' },
+  { href: '/work/',               label: 'Overview',       icon: '≡' },
   { href: '/work/career',         label: 'Career',         icon: '»' },
   { href: '/work/projects',       label: 'Projects',       icon: '#' },
   { href: '/work/skills',         label: 'Skills',         icon: '=' },
@@ -35,29 +36,39 @@ const WORK_NAV = [
 ]
 
 const LIBRARY_NAV = [
+  { href: '/library/',          label: 'All shelves', icon: '≡' },
   { href: '/library/shelf/', label: 'Everything', icon: '▤' },
+  // Each expandable group repeats its own landing page as the first sub item:
+  // the <summary> is a toggle with no href, so without this the shelf page is
+  // unreachable from the drawer.
   { href: '/library/music/',    label: 'Music',    icon: '♪', sub: [
+    { href: '/library/music/',             label: 'Overview' },
     { href: '/library/music/top-artists/', label: 'Top Artists' },
     { href: '/library/music/top-tracks/',  label: 'Top Tracks' },
     { href: '/library/music/stats/',       label: 'Stats' },
   ]},
   { href: '/library/movies/',   label: 'Movies',   icon: '▸', sub: [
+    { href: '/library/movies/',           label: 'Overview' },
     { href: '/library/movies/watched/',   label: 'Watched' },
     { href: '/library/movies/watchlist/', label: 'Watchlist' },
   ]},
   { href: '/library/tv/',       label: 'TV Shows', icon: '▤', sub: [
+    { href: '/library/tv/',           label: 'Overview' },
     { href: '/library/tv/watching/',  label: 'Watching' },
     { href: '/library/tv/completed/', label: 'Completed' },
   ]},
   { href: '/library/anime/',    label: 'Anime',    icon: '△', sub: [
+    { href: '/library/anime/',               label: 'Overview' },
     { href: '/library/anime/completed/',     label: 'Completed' },
     { href: '/library/anime/plan-to-watch/', label: 'Plan to Watch' },
   ]},
   { href: '/library/manga/',    label: 'Manga',    icon: '▽', sub: [
+    { href: '/library/manga/',              label: 'Overview' },
     { href: '/library/manga/completed/',    label: 'Completed' },
     { href: '/library/manga/plan-to-read/', label: 'Plan to Read' },
   ]},
   { href: '/library/books/',    label: 'Books',    icon: '▥', sub: [
+    { href: '/library/books/',              label: 'Overview' },
     { href: '/library/books/read/',         label: 'Read' },
     { href: '/library/books/want-to-read/', label: 'Want to Read' },
     { href: '/library/books/reading/',      label: 'Reading (Moon+)' },
@@ -292,6 +303,9 @@ const connectOpen = path.startsWith('/connect')
       else delete root.dataset.navOpen
       toggle.setAttribute('aria-expanded', String(open))
       toggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation')
+      // Both the hamburger and the tab-bar button drive this drawer, so both have
+      // to report state or a screen reader hears "collapsed" while it is open.
+      document.querySelectorAll('[data-nav-toggle]').forEach((el) => el.setAttribute('aria-expanded', String(open)))
       if (open) nav?.querySelector('a')?.focus({ preventScroll: true })
       else toggle.focus({ preventScroll: true })
     }
@@ -322,6 +336,9 @@ const connectOpen = path.startsWith('/connect')
   <style>
     .rail-head { padding: 16px 16px 12px; border-bottom: 1px solid var(--hair); flex-shrink: 0; }
     .rail-id { display: flex; align-items: center; gap: 11px; }
+    /* The top bar already carries the monogram and name, so the drawer repeats
+       neither. Scoped, because a global .rail-id rule loses to this selector. */
+    @media (max-width: 900px) { .rail-id { display: none; } }
     .rail-mark {
       width: 34px; height: 34px; border-radius: 7px; flex-shrink: 0;
       display: flex; align-items: center; justify-content: center;
@@ -359,7 +376,9 @@ const connectOpen = path.startsWith('/connect')
       background: color-mix(in srgb, var(--panel) 90%, transparent);
       -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
       border-bottom: 1px solid var(--hair);
-      margin: -24px -20px 20px;
+      /* No negative side margins: the bar is a full-bleed block already, and
+         pulling it 20px each way made it 430px wide in a 390px viewport. */
+      margin-bottom: 18px;
     }
     .mb-id {
       width: 28px; height: 28px; flex: none; border-radius: 6px;
