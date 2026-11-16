@@ -7,7 +7,7 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
-    "rating": 8.023,
+    "rating": 8,
     "votes": 4942,
     "release": "2026-07-15",
     "genres": [
@@ -43,8 +43,8 @@
     "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.318,
-    "votes": 436,
+    "rating": 6.323,
+    "votes": 438,
     "release": "2026-10-07",
     "genres": [
       27,
@@ -60,7 +60,7 @@
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 9.438,
+    "rating": 9.4,
     "votes": 8,
     "release": "2026-11-18",
     "genres": [
@@ -86,6 +86,24 @@
       53
     ],
     "popularity": 84.5142
+  },
+  {
+    "id": 1381071,
+    "tmdb_id": 1381071,
+    "type": "movie",
+    "title": "Godzilla Minus Zero",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "rating": 7.702,
+    "votes": 225,
+    "release": "2026-11-03",
+    "genres": [
+      878,
+      27,
+      28
+    ],
+    "popularity": 150.003
   },
   {
     "id": 1567605,
@@ -122,24 +140,6 @@
     "popularity": 598.6444
   },
   {
-    "id": 1381071,
-    "tmdb_id": 1381071,
-    "type": "movie",
-    "title": "Godzilla Minus Zero",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 7.712,
-    "votes": 222,
-    "release": "2026-11-03",
-    "genres": [
-      878,
-      27,
-      28
-    ],
-    "popularity": 150.003
-  },
-  {
     "id": 1423191,
     "tmdb_id": 1423191,
     "type": "movie",
@@ -147,8 +147,8 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-    "rating": 7.5,
-    "votes": 2256,
+    "rating": 7.515,
+    "votes": 2257,
     "release": "2026-09-16",
     "genres": [
       27,
@@ -176,24 +176,6 @@
     "popularity": 350.0614
   },
   {
-    "id": 1792170,
-    "tmdb_id": 1792170,
-    "type": "movie",
-    "title": "Model Citizen",
-    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-    "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
-    "rating": 6.1,
-    "votes": 32,
-    "release": "2026-11-03",
-    "genres": [
-      80,
-      878,
-      53
-    ],
-    "popularity": 23.9305
-  },
-  {
     "id": 1616687,
     "tmdb_id": 1616687,
     "type": "movie",
@@ -210,6 +192,24 @@
       53
     ],
     "popularity": 209.2229
+  },
+  {
+    "id": 1792170,
+    "tmdb_id": 1792170,
+    "type": "movie",
+    "title": "Model Citizen",
+    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+    "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
+    "rating": 6.1,
+    "votes": 32,
+    "release": "2026-11-03",
+    "genres": [
+      80,
+      878,
+      53
+    ],
+    "popularity": 23.9305
   },
   {
     "id": 656908,
@@ -230,21 +230,22 @@
     "popularity": 131.9195
   },
   {
-    "id": 1286656,
-    "tmdb_id": 1286656,
+    "id": 1153576,
+    "tmdb_id": 1153576,
     "type": "movie",
-    "title": "I Play Rocky",
-    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-    "poster": "https://image.tmdb.org/t/p/w342/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-    "rating": 8.613,
-    "votes": 31,
-    "release": "2026-11-06",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/8nP4lF51Ea861YfHEEqhZBLYv3e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
+    "rating": 6.264,
+    "votes": 244,
+    "release": "2026-10-13",
     "genres": [
-      18,
-      36
+      28,
+      35,
+      14
     ],
-    "popularity": 29.0842
+    "popularity": 80.4509
   },
   {
     "id": 1170608,
@@ -264,58 +265,21 @@
     "popularity": 27.344
   },
   {
-    "id": 1153576,
-    "tmdb_id": 1153576,
+    "id": 1286656,
+    "tmdb_id": 1286656,
     "type": "movie",
-    "title": "Street Fighter",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "poster": "https://image.tmdb.org/t/p/w342/8nP4lF51Ea861YfHEEqhZBLYv3e.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/w2Gu916zS11X94CZaSLpzvfgHcG.jpg",
-    "rating": 6.264,
-    "votes": 244,
-    "release": "2026-10-13",
+    "title": "I Play Rocky",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "poster": "https://image.tmdb.org/t/p/w342/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "rating": 8.613,
+    "votes": 31,
+    "release": "2026-11-06",
     "genres": [
-      28,
-      35,
-      14
-    ],
-    "popularity": 80.4509
-  },
-  {
-    "id": 891621,
-    "tmdb_id": 891621,
-    "type": "movie",
-    "title": "Wild Horse Nine",
-    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "rating": 7.959,
-    "votes": 219,
-    "release": "2026-10-30",
-    "genres": [
-      35,
-      80,
-      53
-    ],
-    "popularity": 67.1476
-  },
-  {
-    "id": 1375441,
-    "tmdb_id": 1375441,
-    "type": "movie",
-    "title": "Primetime",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-    "rating": 6.8,
-    "votes": 436,
-    "release": "2026-09-23",
-    "genres": [
-      53,
       18,
-      80
+      36
     ],
-    "popularity": 51.2491
+    "popularity": 29.0842
   },
   {
     "id": 1518204,
@@ -334,6 +298,40 @@
       35
     ],
     "popularity": 75.2842
+  },
+  {
+    "id": 1543469,
+    "tmdb_id": 1543469,
+    "type": "movie",
+    "title": "Heartland",
+    "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+    "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "rating": 6.716,
+    "votes": 51,
+    "release": "2026-11-13",
+    "genres": [
+      53,
+      9648
+    ],
+    "popularity": 114.3661
+  },
+  {
+    "id": 1339713,
+    "tmdb_id": 1339713,
+    "type": "movie",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "rating": 8.163,
+    "votes": 6641,
+    "release": "2026-05-13",
+    "genres": [
+      27,
+      53
+    ],
+    "popularity": 74.9337
   },
   {
     "id": 1483525,
