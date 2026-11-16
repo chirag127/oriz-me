@@ -14,7 +14,12 @@ interface Props {
 }
 
 const { title, description = DEFAULT_DESCRIPTION, showAuth = true } = Astro.props
-const path = Astro.url.pathname
+const base = import.meta.env.BASE_URL.replace(/\/+$/, '')
+const fullPath = Astro.url.pathname
+// On the GitHub Pages mirror the build runs with base=/oriz-me, so the current
+// pathname carries that prefix. Canonical always points at the root-hosted site,
+// which would 404 on /oriz-me/... — strip the base before building it.
+const path = base && fullPath.startsWith(base) ? (fullPath.slice(base.length) || '/') : fullPath
 const fullTitle = title.includes(SITE.name) ? title : `${title} · ${SITE.name}`
 
 function isActive(href: string): boolean {
