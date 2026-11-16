@@ -14,12 +14,16 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 // read here through loadEnv (which does read .env files, unlike process.env).
 const env = loadEnv(process.env.NODE_ENV ?? 'production', __dirname, '')
 const site = (env.PUBLIC_SITE_URL || 'https://me.oriz.in').replace(/\/+$/, '')
+// GitHub Pages serves a project site from /<repo>/, so the mirror build needs a
+// base path. Unset for the Cloudflare deploy, which serves from the root.
+const base = process.env.GH_PAGES_BASE || '/'
 const ownerName = env.PUBLIC_OWNER_NAME || 'Chirag Singhal'
 const ownerRole = env.PUBLIC_OWNER_ROLE || 'Software Engineer'
 const description = `${ownerName} — ${ownerRole} · Backend · AI Systems · Open Source`
 
 export default defineConfig({
 	site,
+	base,
 	integrations: [
 		react(),
 		sitemap(),
