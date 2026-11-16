@@ -1,44 +1,73 @@
 ---
 import Layout from '~/layouts/Layout.astro'
+import { SITE } from '~/lib/site'
 ---
-<Layout title="Contact" description="Chirag Singhal — contact form">
-  <div style="padding-top: 2rem; max-width: 480px;">
-    <h1 class="page-title">Contact</h1>
-    <p class="page-sub">Send a message. I typically respond within 24h.</p>
+<Layout title="Contact" description="Chirag Singhal — send a message">
+  <div class="page-header">
+    <div class="kicker">CONTACT</div>
+    <h1>Send a message</h1>
+    <p class="muted">I usually reply within a day. The form opens your mail app with the message ready to send.</p>
+  </div>
 
-    <form
-      action="https://api.web3forms.com/submit"
-      method="POST"
-      style="display:flex;flex-direction:column;gap:12px;margin-top:1.5rem;"
-    >
-      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY" />
-      <input type="hidden" name="subject" value="Message from me.oriz.in" />
-      <input type="hidden" name="redirect" value="https://me.oriz.in/connect/contact?success=1" />
-
-      <div>
-        <label style="display:block;font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-muted);margin-bottom:4px;">Name</label>
-        <input name="name" required placeholder="Your name" style="width:100%;height:36px;background:var(--overlay);border:1px solid var(--border);border-radius:6px;padding:0 12px;font-size:13px;color:#fff;font-family:var(--font-sans);outline:none;" />
-      </div>
-
-      <div>
-        <label style="display:block;font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-muted);margin-bottom:4px;">Email</label>
-        <input name="email" type="email" required placeholder="you@example.com" style="width:100%;height:36px;background:var(--overlay);border:1px solid var(--border);border-radius:6px;padding:0 12px;font-size:13px;color:#fff;font-family:var(--font-sans);outline:none;" />
-      </div>
-
-      <div>
-        <label style="display:block;font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-muted);margin-bottom:4px;">Message</label>
-        <textarea name="message" required rows="5" placeholder="What's on your mind?" style="width:100%;background:var(--overlay);border:1px solid var(--border);border-radius:6px;padding:8px 12px;font-size:13px;color:#fff;font-family:var(--font-sans);outline:none;resize:vertical;"></textarea>
-      </div>
-
-      <div>
-        <button type="submit" style="background:rgba(99,102,241,0.12);border:1px solid rgba(99,102,241,0.25);border-radius:6px;padding:8px 20px;font-size:13px;font-weight:600;color:#818cf8;cursor:pointer;">Send Message →</button>
-      </div>
+  <div class="contact">
+    <form id="contact-form" novalidate>
+      <label>Name
+        <input name="name" required autocomplete="name" placeholder="Your name" />
+      </label>
+      <label>Email
+        <input name="email" type="email" required autocomplete="email" placeholder="you@example.com" />
+      </label>
+      <label>Message
+        <textarea name="message" required rows="5" placeholder="What's on your mind?"></textarea>
+      </label>
+      <button type="submit" class="btn-primary">Open in mail app</button>
+      <p class="hint" id="contact-status" role="status" aria-live="polite">
+        Or write to <a href={`mailto:${SITE.email}`}>{SITE.email}</a> directly.
+      </p>
     </form>
-
-    {Astro.url.searchParams.get('success') && (
-      <div style="margin-top:1rem;padding:10px 14px;border-radius:8px;background:rgba(99,102,241,0.08);border:1px solid rgba(99,102,241,0.2);font-size:13px;color:#818cf8;">
-        Message sent! I'll get back to you soon.
-      </div>
-    )}
   </div>
 </Layout>
+
+<style>
+  .contact { max-width: 480px; }
+  form { display: flex; flex-direction: column; gap: 14px; }
+  label { display: flex; flex-direction: column; gap: 5px; font-size: 12px; color: var(--ink-2); }
+  input, textarea {
+    background: var(--panel); border: 1px solid var(--hair); border-radius: var(--r-md);
+    padding: 9px 12px; font: inherit; font-size: 13.5px; color: var(--ink);
+  }
+  input:focus, textarea:focus { border-color: var(--phosphor-dim); outline: none; }
+  textarea { resize: vertical; }
+  .btn-primary { align-self: flex-start; margin-top: 2px; }
+  .hint { font-size: 12px; color: var(--ink-3); margin: 0; }
+  .hint a { color: var(--phosphor); }
+</style>
+
+<script>
+  // A static site has no form backend worth trusting: Web3Forms needs an access
+  // key that would ship in the bundle, and the old form shipped the literal
+  // placeholder, so every submission failed silently. A mailto handoff needs no
+  // key, no server and no account, and the visitor sees the message they send.
+  const form = document.getElementById('contact-form') as HTMLFormElement | null
+  const status = document.getElementById('contact-status')
+  const email = document.querySelector('.hint a')?.textContent ?? 'chirag@oriz.in'
+
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault()
+    const data = new FormData(form)
+    const name = String(data.get('name') ?? '').trim()
+    const from = String(data.get('email') ?? '').trim()
+    const message = String(data.get('message') ?? '').trim()
+    if (!name || !from || !message) {
+      if (status) status.textContent = 'Fill in your name, email and message first.'
+      return
+    }
+    const subject = `Message from ${name} via me.oriz.in`
+    const body = `${message}\n\n— ${name}\n${from}`
+    const href = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+    window.location.href = href
+    if (status) {
+      status.textContent = 'Your mail app should be open. If nothing happened, write to ' + email + ' directly.'
+    }
+  })
+</script>

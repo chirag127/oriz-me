@@ -24,7 +24,7 @@ export const SITE = {
       .map((part: string) => part[0]?.toUpperCase() ?? '')
       .join(''),
   role: env.PUBLIC_OWNER_ROLE || 'Software Engineer',
-  email: env.PUBLIC_OWNER_EMAIL || 'hi@chirag127.in',
+  email: env.PUBLIC_OWNER_EMAIL || 'chirag@oriz.in',
   employer: env.PUBLIC_OWNER_EMPLOYER || 'Tata Consultancy Services',
   github: env.PUBLIC_OWNER_GITHUB || 'chirag127',
   linkedin: env.PUBLIC_OWNER_LINKEDIN || 'chirag127',
