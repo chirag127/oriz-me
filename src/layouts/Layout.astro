@@ -2,6 +2,7 @@
 import '../styles/global.css'
 import TwinWidget from '../components/TwinChat'
 import AuthButton from '../components/AuthButton'
+import { SITE, DEFAULT_DESCRIPTION, GITHUB_URL, LINKEDIN_URL, X_URL } from '../lib/site'
 
 interface Props {
   title: string
@@ -11,9 +12,9 @@ interface Props {
   showAuth?: boolean
 }
 
-const { title, description = 'Chirag Singhal — Software Engineer · Backend · AI Systems · Open Source', showAuth = true } = Astro.props
+const { title, description = DEFAULT_DESCRIPTION, showAuth = true } = Astro.props
 const path = Astro.url.pathname
-const fullTitle = title.includes('Chirag Singhal') ? title : `${title} · Chirag Singhal`
+const fullTitle = title.includes(SITE.name) ? title : `${title} · ${SITE.name}`
 
 function isActive(href: string): boolean {
   if (href === '/') return path === '/'
@@ -103,7 +104,7 @@ const connectOpen = path.startsWith('/connect')
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
-  <link rel="canonical" href={`https://me.oriz.in${path}`} />
+  <link rel="canonical" href={`${SITE.url}${path}`} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="/icons/favicon-32.png" sizes="32x32" type="image/png" />
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
@@ -113,41 +114,39 @@ const connectOpen = path.startsWith('/connect')
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-  <meta property="og:title" content={`${title} · Chirag Singhal`} />
+  <meta property="og:title" content={`${title} · ${SITE.name}`} />
   <meta property="og:description" content={description} />
-  <meta property="og:url" content={`https://me.oriz.in${path}`} />
+  <meta property="og:url" content={`${SITE.url}${path}`} />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Chirag Singhal" />
-  <meta property="og:image" content="https://me.oriz.in/og.png" />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:image" content={`${SITE.url}/og.png`} />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:creator" content="@chirag127" />
-  <meta name="twitter:image" content="https://me.oriz.in/og.png" />
+  <meta name="twitter:creator" content={`@${SITE.x}`} />
+  <meta name="twitter:image" content={`${SITE.url}/og.png`} />
 
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "Chirag Singhal",
-    "url": "https://me.oriz.in",
-    "email": "hi@chirag127.in",
-    "jobTitle": "Software Engineer",
-    "worksFor": { "@type": "Organization", "name": "Tata Consultancy Services" },
-    "sameAs": ["https://github.com/chirag127", "https://linkedin.com/in/chirag127"]
+    "name": SITE.name,
+    "url": SITE.url,
+    "email": SITE.email,
+    "jobTitle": SITE.role,
+    "worksFor": { "@type": "Organization", "name": SITE.employer },
+    "sameAs": [GITHUB_URL, LINKEDIN_URL]
   })} />
 
   <script set:html={`window.__BUILD_TIME__="${new Date().toISOString()}"`}></script>
 
-  <script>
-    if (location.hostname === 'me.oriz.in') {
-      const s = document.createElement('script')
-      s.src = 'https://js.puter.com/v2/'
-      s.defer = true
-      document.head.append(s)
+  <script define:vars={{ domain: SITE.analyticsDomain }}>
+    // Plausible only loads when PUBLIC_ANALYTICS_DOMAIN is set; a fork must not
+    // report pageviews into the upstream owner's dashboard.
+    if (domain && location.hostname === domain) {
       const p = document.createElement('script')
       p.src = 'https://plausible.io/js/script.js'
       p.defer = true
-      p.setAttribute('data-domain', 'me.oriz.in')
+      p.setAttribute('data-domain', domain)
       document.head.append(p)
     }
   </script>
@@ -160,15 +159,15 @@ const connectOpen = path.startsWith('/connect')
     <!-- Instrument header: identity + oriz.in wordmark + auth -->
     <div class="rail-head">
       <a href="/" class="rail-id" aria-label="Home">
-        <span class="rail-mark" aria-hidden="true">CS</span>
+        <span class="rail-mark" aria-hidden="true">{SITE.initials}</span>
         <span class="rail-id-text">
-          <span class="rail-name">Chirag Singhal</span>
-          <span class="rail-role">Software Engineer</span>
+          <span class="rail-name">{SITE.name}</span>
+          <span class="rail-role">{SITE.role}</span>
         </span>
       </a>
       <div class="rail-bar">
-        <a href="https://oriz.in" class="wordmark" title="Part of oriz.in">
-          <span class="wordmark-dot" aria-hidden="true"></span>oriz.in
+        <a href={SITE.familyUrl} class="wordmark" title={`Part of ${SITE.familyName}`}>
+          <span class="wordmark-dot" aria-hidden="true"></span>{SITE.familyName}
         </a>
         {showAuth && <AuthButton client:only="react" />}
       </div>
@@ -237,6 +236,22 @@ const connectOpen = path.startsWith('/connect')
 
   <main class="main-content">
     <slot />
+    {SITE.hireMe && (
+      <footer class="hire-me">
+        <h3>Hire me</h3>
+        <p>{SITE.name} — building free, open APIs and tools.</p>
+        <p>
+          <a href={`mailto:chirag@oriz.in`}>chirag@oriz.in</a> ·
+          <a href={GITHUB_URL}>GitHub</a> ·
+          <a href={LINKEDIN_URL}>LinkedIn</a> ·
+          <a href={X_URL}>X</a> ·
+          <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+          <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+          <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+          <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+        </p>
+      </footer>
+    )}
   </main>
 
   <!-- Mobile tab bar -->
@@ -295,6 +310,17 @@ const connectOpen = path.startsWith('/connect')
     }
     .rail-resume:hover { background: color-mix(in srgb, var(--phosphor) 15%, transparent); border-color: color-mix(in srgb, var(--phosphor) 45%, transparent); }
     .rail-meta { font-family: var(--font-mono); font-size: 9.5px; color: var(--ink-4); letter-spacing: 0.08em; }
+    .hire-me {
+      margin: 48px 0 24px; padding-top: 18px; border-top: 1px solid var(--hair);
+      font-family: var(--font-mono); font-size: 12px; color: var(--ink-3);
+    }
+    .hire-me h3 {
+      margin: 0 0 6px; font-family: var(--font-display); font-size: 13px;
+      letter-spacing: 0.08em; text-transform: uppercase; color: var(--phosphor);
+    }
+    .hire-me p { margin: 0 0 6px; line-height: 1.7; }
+    .hire-me a { color: var(--ink-2); border-bottom: 1px solid var(--hair-2); transition: color var(--ease); }
+    .hire-me a:hover { color: var(--phosphor); }
   </style>
 
 </body>

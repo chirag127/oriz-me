@@ -99,7 +99,11 @@ async function safeFetch(url: string, headers: Record<string, string> = {}): Pro
   try {
     const r = await fetch(url, { headers, signal: AbortSignal.timeout(15000) })
     if (!r.ok) { console.warn(`    ⚠ HTTP ${r.status}: ${url}`) ; return null }
-    return r.json()
+    // Some feeds answer 200 with an empty body; r.json() would throw and take the
+    // whole feed down, so parse the text ourselves and treat empty as no data.
+    const text = await r.text()
+    if (!text.trim()) return null
+    try { return JSON.parse(text) } catch { console.warn(`    ⚠ non-JSON body: ${url}`); return null }
   } catch (e: any) {
     console.warn(`    ⚠ Fetch failed: ${url} — ${e.message}`)
     return null
@@ -115,7 +119,9 @@ async function safePost(url: string, headers: Record<string, string>, body: unkn
       signal: AbortSignal.timeout(20000),
     })
     if (!r.ok) { console.warn(`    ⚠ HTTP ${r.status}: ${url}`) ; return null }
-    return r.json()
+    const text = await r.text()
+    if (!text.trim()) return null
+    try { return JSON.parse(text) } catch { console.warn(`    ⚠ non-JSON body: ${url}`); return null }
   } catch (e: any) {
     console.warn(`    ⚠ Post failed: ${url} — ${e.message}`)
     return null
