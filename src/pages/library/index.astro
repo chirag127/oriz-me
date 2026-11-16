@@ -1,24 +1,135 @@
 ---
+/**
+ * /library — the index. Every library route is listed here exactly once, so the
+ * hub is the complete map even when a section is empty and the rail hides it.
+ */
 import Layout from '~/layouts/Layout.astro'
----
-<Layout title="Library" description="Chirag Singhal — media library">
-  <div style="padding-top: 2rem; max-width: 600px;">
-    <h1 class="page-title">Library</h1>
-    <p class="page-sub">Music, movies, anime, books, and activity feed.</p>
+import { readFileSync, existsSync } from 'fs'
+import { join } from 'path'
 
-    <div style="display:flex;flex-direction:column;gap:4px;margin-top:1rem;">
-      {[
-        { href: '/library/music',    label: 'Music',    desc: 'Last.fm + ListenBrainz scrobbles' },
-        { href: '/library/movies',   label: 'Movies',   desc: 'Trakt watch history' },
-        { href: '/library/anime',    label: 'Anime',    desc: 'MyAnimeList tracking' },
-        { href: '/library/books',    label: 'Books',    desc: 'Goodreads shelves' },
-        { href: '/library/activity', label: 'Activity', desc: 'Combined feed' },
-      ].map(l => (
-        <a href={l.href} style="display:flex;align-items:center;justify-content:space-between;height:40px;padding:0 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);text-decoration:none;">
-          <span style="font-size:13px;color:#fff;">{l.label}</span>
-          <span style="font-size:12px;color:var(--t-muted);">{l.desc} →</span>
-        </a>
-      ))}
-    </div>
+const count = (file: string): number => {
+  const p = join(process.cwd(), 'public/data', file)
+  if (!existsSync(p)) return 0
+  try {
+    const d = JSON.parse(readFileSync(p, 'utf-8'))
+    return Array.isArray(d) ? d.length : d && typeof d === 'object' ? Object.keys(d).length : 0
+  } catch { return 0 }
+}
+
+const sum = (...files: string[]) => files.reduce((n, f) => n + count(f), 0)
+
+const groups = [
+  {
+    title: 'Music',
+    note: 'Last.fm scrobbles with ListenBrainz as a second source',
+    links: [
+      { href: '/library/music/', label: 'Overview', n: null },
+      { href: '/library/music/top-artists/', label: 'Top artists', n: sum('lastfm-top-artists.json') },
+      { href: '/library/music/top-tracks/', label: 'Top tracks', n: sum('lastfm-top-tracks.json') },
+      { href: '/library/music/stats/', label: 'Stats', n: sum('lastfm-user.json') },
+    ],
+  },
+  {
+    title: 'Film and TV',
+    note: 'Watch history from Trakt, schedules and discovery from TMDB',
+    links: [
+      { href: '/library/movies/', label: 'Movies', n: sum('trakt-movies.json') },
+      { href: '/library/movies/watched/', label: 'Watched', n: sum('trakt-movies.json') },
+      { href: '/library/movies/watchlist/', label: 'Watchlist', n: sum('trakt-watchlist.json') },
+      { href: '/library/tv/', label: 'TV shows', n: sum('trakt-shows.json') },
+      { href: '/library/tv/watching/', label: 'Watching', n: sum('trakt-shows.json') },
+      { href: '/library/tv/completed/', label: 'Completed', n: sum('trakt-shows.json') },
+    ],
+  },
+  {
+    title: 'Anime and manga',
+    note: 'AniList first, MyAnimeList as the second source',
+    links: [
+      { href: '/library/anime/', label: 'Anime', n: sum('anilist-anime-completed.json', 'anilist-anime-watching.json', 'anilist-anime-plan.json') },
+      { href: '/library/anime/completed/', label: 'Finished anime', n: sum('anilist-anime-completed.json', 'mal-anime-completed.json') },
+      { href: '/library/anime/plan-to-watch/', label: 'Plan to watch', n: sum('anilist-anime-plan.json', 'mal-anime-plan.json') },
+      { href: '/library/manga/', label: 'Manga', n: sum('anilist-manga-completed.json', 'anilist-manga-reading.json', 'anilist-manga-plan.json') },
+      { href: '/library/manga/completed/', label: 'Finished manga', n: sum('anilist-manga-completed.json', 'mal-manga-completed.json') },
+      { href: '/library/manga/plan-to-read/', label: 'Plan to read', n: sum('anilist-manga-plan.json', 'mal-manga-plan.json') },
+    ],
+  },
+  {
+    title: 'Books',
+    note: 'Shelves from Hardcover, covers from Hardcover and Open Library',
+    links: [
+      { href: '/library/books/', label: 'Overview', n: null },
+      { href: '/library/books/read/', label: 'Read', n: sum('hardcover-read.json') },
+      { href: '/library/books/want-to-read/', label: 'Want to read', n: sum('hardcover-want.json') },
+      { href: '/library/books/reading/', label: 'Reading', n: sum('hardcover-reading.json', 'moonreader-books.json') },
+    ],
+  },
+  {
+    title: 'Everything else',
+    note: 'Games, videos, podcasts, and the combined feed',
+    links: [
+      { href: '/library/shelf/', label: 'Everything on the shelf', n: sum('hardcover-read.json', 'hardcover-want.json', 'anilist-anime-completed.json', 'anilist-manga-completed.json') },
+      { href: '/library/gaming/', label: 'Gaming', n: sum('games-enriched.json', 'games-manual.json') },
+      { href: '/library/videos/', label: 'Videos', n: sum('youtube-recent.json') },
+      { href: '/library/podcasts/', label: 'Podcasts', n: sum('podcasts-enriched.json') },
+      { href: '/library/activity/', label: 'Activity feed', n: null },
+      { href: '/library/discover/', label: 'Discover', n: null },
+    ],
+  },
+]
+
+const total = groups.reduce((n, g) => n + g.links.reduce((m, l) => m + (l.n ?? 0), 0), 0)
+---
+
+<Layout title="Library" description="Every library section, with what is actually in it." active="/library/">
+  <div class="page-header">
+    <div class="kicker">LIBRARY</div>
+    <h1>Media library</h1>
+    <p class="muted">
+      {total} logged items across {groups.length} collections. Counts are from the last data refresh;
+      <a href="/me/sources/">see which services are reporting</a>.
+    </p>
   </div>
+
+  {groups.map((g) => (
+    <section class="group">
+      <div class="group-head">
+        <h2>{g.title}</h2>
+        <p>{g.note}</p>
+      </div>
+      <ul>
+        {g.links.map((l) => (
+          <li>
+            <a href={l.href}>
+              <span class="lbl">{l.label}</span>
+              <span class="n">{l.n === null ? '' : l.n > 0 ? l.n : 'empty'}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
 </Layout>
+
+<style>
+  .group { margin-bottom: 2rem; }
+  .group-head { margin-bottom: 8px; }
+  .group-head h2 {
+    margin: 0; font-family: var(--font-display); font-size: 1rem; font-weight: 600; color: var(--ink);
+  }
+  .group-head p { margin: 2px 0 0; font-size: 0.76rem; color: var(--ink-3); }
+
+  .group ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--hair); }
+  .group li { border-bottom: 1px solid var(--hair); }
+  .group a {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+    padding: 10px 2px; color: var(--ink-2); font-size: 0.86rem;
+    transition: color var(--ease), padding-left var(--ease);
+  }
+  .group a:hover { color: var(--ink); padding-left: 6px; }
+  .lbl { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .n {
+    flex: none; font-family: var(--font-mono); font-size: 0.7rem;
+    color: var(--ink-4); letter-spacing: 0.04em;
+  }
+  .group a:hover .n { color: var(--phosphor-dim); }
+</style>
