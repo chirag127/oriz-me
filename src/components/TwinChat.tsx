@@ -138,7 +138,7 @@ function ChatWindow({ onClose }: { onClose: () => void }) {
   }, [messages, loading]);
 
   return (
-    <div style={{
+    <div className="twin-panel" style={{
       position: 'fixed', bottom: 88, right: 20, zIndex: 10000,
       width: 360, height: 520,
       background: '#0b1116',
@@ -303,6 +303,13 @@ export default function TwinWidget() {
         .twin-input:focus { border-color: rgba(53,224,192,0.55) !important; }
         .twin-send:hover:not(:disabled) { background: #35e0c0 !important; }
         .twin-scroll::-webkit-scrollbar{width:3px} .twin-scroll::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:2px}
+        /* Below 900px the bottom tab bar owns the last 58px. At bottom:20 the FAB
+           covered the "All pages" tab and swallowed every tap on it, so lift it
+           clear of the bar and shrink it to a 48px target. */
+        @media (max-width: 900px) {
+          .twin-fab { bottom: calc(58px + 16px + env(safe-area-inset-bottom, 0px)) !important; right: 14px !important; width: 48px !important; height: 48px !important; }
+          .twin-panel { bottom: calc(58px + 76px) !important; right: 12px !important; width: min(360px, calc(100vw - 24px)) !important; height: min(520px, calc(100vh - 180px)) !important; }
+        }
       `}</style>
 
       {open && <ChatWindow onClose={() => setOpen(false)} />}

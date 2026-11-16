@@ -380,7 +380,10 @@ const connectOpen = path.startsWith('/connect')
       display: block; width: 20px; height: 1.5px; background: currentColor; border-radius: 2px;
       transition: opacity var(--ease);
     }
-    .rail-toggle .bars, .rail-toggle .cross { display: grid; gap: 4px; place-items: center; }
+    /* Display for .bars/.cross lives in global.css only. Declaring it here would
+       out-specify the open-state rule and paint the hamburger and the close mark
+       on top of each other. */
+    .rail-toggle .bars { gap: 4px; }
     .rail-toggle .cross { position: relative; width: 20px; height: 20px; }
     .rail-toggle .cross i { position: absolute; }
     .rail-toggle .cross i:first-child { transform: rotate(45deg); }
