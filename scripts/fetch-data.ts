@@ -56,6 +56,7 @@ const HAB_TOKEN   = process.env.HABITICA_API_TOKEN  ?? ''
 const BGG_USER    = process.env.BGG_USERNAME        ?? ''
 const TOGGL_TOKEN  = process.env.TOGGL_API_TOKEN     ?? ''
 const WAKA_KEY    = process.env.WAKATIME_API_KEY    ?? ''
+const MDBLIST_KEY = process.env.MDBLIST_API_KEY     ?? ''
 const ANILIST_USER  = process.env.ANILIST_USERNAME   ?? 'chirag127'
 const OL_USER       = process.env.OL_USERNAME        ?? 'chirag127'
 const PI_KEY        = process.env.PODCASTINDEX_API_KEY    ?? ''
@@ -761,6 +762,35 @@ async function fetchBlog() {
   }
 }
 
+async function fetchMdbList() {
+  // API: https://api.mdblist.com — docs at /docs/, index at /docs/ is a DRF
+  // browsable API (GET on /docs/schema/ is 405), so the shapes below were read
+  // from live responses rather than a spec:
+  //   GET /user?apikey=K            -> { user_id, username, name, avatar_url, api_requests, api_requests_count, ... }
+  //   GET /lists/user/{username}    -> [ ...list objects ] (empty until a list is made)
+  // Auth is a static query parameter; there is no OAuth and nothing to refresh.
+  // List *items* are deliberately not fetched: the account has no lists yet, so
+  // the item shape is unverified and anything written now would be a guess.
+  if (!MDBLIST_KEY) { console.log('  ⚠ MDBLIST_API_KEY not set — skipping MDBList'); return }
+  const base = 'https://api.mdblist.com'
+  const key = `apikey=${encodeURIComponent(MDBLIST_KEY)}`
+
+  const me: any = await safeFetch(`${base}/user?${key}`)
+  if (!me?.username) { console.log('  ⚠ MDBList: no username in /user response'); return }
+
+  save('mdblist-user.json', {
+    username: me.username,
+    name: me.name ?? '',
+    avatar_url: me.avatar_url ?? '',
+    user_id: me.user_id ?? null,
+    api_requests: me.api_requests ?? null,
+    api_requests_count: me.api_requests_count ?? null,
+  })
+
+  const lists: any = await safeFetch(`${base}/lists/user/${me.username}?${key}`)
+  save('mdblist-lists.json', Array.isArray(lists) ? lists : [])
+}
+
 async function fetchWakaTime() {
   // API: https://wakatime.com/api/v1
   // Docs: https://wakatime.com/developers
@@ -1119,6 +1149,7 @@ async function main() {
     fetchLanyard().then(() => console.log('✅ Lanyard done')).catch(e => console.error('❌ Lanyard', e.message)),
     fetchBlog().then(() => console.log('✅ Blog RSS done')).catch(e => console.error('❌ Blog', e.message)),
     fetchWakaTime().then(() => console.log('✅ WakaTime done')).catch(e => console.error('❌ WakaTime', e.message)),
+    fetchMdbList().then(() => console.log('✅ MDBList done')).catch(e => console.error('❌ MDBList', e.message)),
     fetchHabitica().then(() => console.log('✅ Habitica done')).catch(e => console.error('❌ Habitica', e.message)),
     fetchBGG().then(() => console.log('✅ BGG done')).catch(e => console.error('❌ BGG', e.message)),
     fetchToggl().then(() => console.log('✅ Toggl done')).catch(e => console.error('❌ Toggl', e.message)),
