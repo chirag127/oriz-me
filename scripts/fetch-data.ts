@@ -374,8 +374,8 @@ async function fetchHardcover() {
         book {
           title
           slug
-          image { url }
-          isbn_13
+          cached_image
+          editions(limit: 1) { isbn_13 }
           contributions(limit: 1) { author { name } }
         }
       }
@@ -390,13 +390,27 @@ async function fetchHardcover() {
 
   const books: any[] = (result as any)?.data?.me?.[0]?.user_books ?? []
 
+  // cached_image is a JSON scalar, so it arrives as a string on some rows and an
+  // object on others. image { url } exists in the schema but is null on most
+  // editions. isbn_13 lives on editions, not on books: asking for book.isbn_13
+  // made the whole query fail validation, which is why these files were empty.
+  const coverOf = (book: any) => {
+    let cached = book?.cached_image
+    if (typeof cached === 'string') {
+      try { cached = JSON.parse(cached) } catch { cached = null }
+    }
+    const isbn = book?.editions?.[0]?.isbn_13
+    const url = cached?.url || (isbn ? `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg` : '')
+    return { url, color: cached?.color ?? null }
+  }
+
   const shape = (b: any) => {
-    const cover = b.book?.image?.url
-      || (b.book?.isbn_13 ? `https://covers.openlibrary.org/b/isbn/${b.book.isbn_13}-M.jpg` : '')
+    const { url, color } = coverOf(b.book)
     return {
       title:   b.book?.title ?? '',
       slug:    b.book?.slug ?? '',
-      cover,
+      cover:   url,
+      color,
       author:  b.book?.contributions?.[0]?.author?.name ?? '',
       rating:  b.rating,
       updated: b.updated_at,

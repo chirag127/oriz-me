@@ -2,6 +2,7 @@
 import '../styles/global.css'
 import TwinWidget from '../components/TwinChat'
 import AuthButton from '../components/AuthButton'
+import HireMe from '../components/HireMe.astro'
 import { SITE, DEFAULT_DESCRIPTION, GITHUB_URL, LINKEDIN_URL, X_URL } from '../lib/site'
 
 interface Props {
@@ -230,28 +231,16 @@ const connectOpen = path.startsWith('/connect')
       <a href="/resume" class="rail-resume">
         <span aria-hidden="true">↓</span><span>Résumé</span>
       </a>
+      {SITE.hireMe && (
+        <a href="mailto:chirag@oriz.in" class="rail-hire">Hire me</a>
+      )}
       <span class="rail-meta">CH1 · phosphor trace · <span id="rail-clock">live</span></span>
     </div>
   </nav>
 
   <main class="main-content">
     <slot />
-    {SITE.hireMe && (
-      <footer class="hire-me">
-        <h3>Hire me</h3>
-        <p>{SITE.name} — building free, open APIs and tools.</p>
-        <p>
-          <a href={`mailto:chirag@oriz.in`}>chirag@oriz.in</a> ·
-          <a href={GITHUB_URL}>GitHub</a> ·
-          <a href={LINKEDIN_URL}>LinkedIn</a> ·
-          <a href={X_URL}>X</a> ·
-          <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
-          <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
-          <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
-          <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
-        </p>
-      </footer>
-    )}
+    {SITE.hireMe && <HireMe compact={path.startsWith('/sign-in') || path.startsWith('/resume')} />}
   </main>
 
   <!-- Mobile tab bar -->
@@ -310,17 +299,15 @@ const connectOpen = path.startsWith('/connect')
     }
     .rail-resume:hover { background: color-mix(in srgb, var(--phosphor) 15%, transparent); border-color: color-mix(in srgb, var(--phosphor) 45%, transparent); }
     .rail-meta { font-family: var(--font-mono); font-size: 9.5px; color: var(--ink-4); letter-spacing: 0.08em; }
-    .hire-me {
-      margin: 48px 0 24px; padding-top: 18px; border-top: 1px solid var(--hair);
-      font-family: var(--font-mono); font-size: 12px; color: var(--ink-3);
+    /* One persistent contact affordance: the footer plate is below the fold on
+       long pages, so the rail carries the same action above it. */
+    .rail-hire {
+      display: flex; align-items: center; justify-content: center; height: 32px;
+      font-family: var(--font-mono); font-size: 11.5px; font-weight: 600;
+      color: var(--void); background: var(--phosphor); border: 1px solid var(--phosphor);
+      border-radius: var(--r-md); transition: background var(--ease), border-color var(--ease);
     }
-    .hire-me h3 {
-      margin: 0 0 6px; font-family: var(--font-display); font-size: 13px;
-      letter-spacing: 0.08em; text-transform: uppercase; color: var(--phosphor);
-    }
-    .hire-me p { margin: 0 0 6px; line-height: 1.7; }
-    .hire-me a { color: var(--ink-2); border-bottom: 1px solid var(--hair-2); transition: color var(--ease); }
-    .hire-me a:hover { color: var(--phosphor); }
+    .rail-hire:hover { background: color-mix(in srgb, var(--phosphor) 86%, #fff); border-color: color-mix(in srgb, var(--phosphor) 86%, #fff); }
   </style>
 
 </body>
