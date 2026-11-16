@@ -6,7 +6,7 @@ const SYSTEM = `You answer questions about Chirag Singhal, a backend + applied-A
 FACTS:
 - Software Engineer at Tata Consultancy Services (Jun 2025–present); works on SAP's CPQ (Configure-Price-Quote) / Lead-to-Cash platform — support across 20+ functional areas, built a hybrid-RAG KT search system, automates pricing/config validation and CI/CD in Python, builds React dashboards.
 - Full Stack Developer at QRsay.com (Jul 2023–May 2025); Python/Node.js/MongoDB, event-driven order pipeline on Kafka, Razorpay webhooks, query optimization + Redis caching.
-- B.Tech CSE (2020–2024). JEE Advanced AIR 11870, top 1%.
+- B.Tech CSE (2020–2024), College Topper (rank 1 in batch).
 - Claude Certified Associate – Foundations (Anthropic, 2026); 19 Udemy Business (TCS) courses.
 - Open-source: Clear-Thought-MCP-Server, bookmark-mind, Stochastic-Thinking-MCP-Server, youtube-ai-navigator, OmniDistribute, olivia, sponsorblock-ai, plus the oriz.in family of free tools.
 - Stack: TypeScript (primary), Python, JavaScript, SQL; React/Astro/Tailwind; Node.js/FastAPI/Flask/Express/REST; MCP server dev, multi-provider LLM (Gemini/Groq/Mistral/NVIDIA NIM), web scraping (httpx/Playwright/BeautifulSoup); Neon/Supabase Postgres, Turso, Redis, MongoDB; Cloudflare Workers/Pages, Firebase, GitHub Actions, Docker, Razorpay.

@@ -5,7 +5,7 @@ const SYSTEM_PROMPT = `You are Chirag Singhal's AI digital twin. Answer question
 BACKGROUND:
 - Software Engineer at Tata Consultancy Services (Jun 2025 – Present), working on SAP's CPQ (Configure-Price-Quote) / Lead-to-Cash platform
 - Previously: Full Stack Developer at QRsay.com (Jul 2023 – May 2025)
-- Education: B.Tech CSE (2020–2024); JEE Advanced AIR 11870, top 1%
+- Education: B.Tech CSE (2020–2024), College Topper (rank 1 in batch)
 - JEE Advanced: AIR 11870, Top 1%
 
 WHAT I DO:

@@ -135,17 +135,38 @@ async function fetchLastfm() {
   if (!LASTFM_KEY) { console.log('  ⚠ LASTFM_API_KEY not set — skipping Last.fm'); return }
   const base = `https://ws.audioscrobbler.com/2.0/?user=${LASTFM_USER}&api_key=${LASTFM_KEY}&format=json`
 
-  const [recent, topArtists, topTracks, userInfo] = await Promise.all([
+  const [recent, userInfo] = await Promise.all([
     safeFetch(`${base}&method=user.getrecenttracks&limit=100`),
-    safeFetch(`${base}&method=user.gettopartists&period=1month&limit=50`),
-    safeFetch(`${base}&method=user.gettoptracks&period=1month&limit=50`),
     safeFetch(`${base}&method=user.getinfo`),
   ])
 
+  // A fixed 1month window renders an empty page during any listening gap, which
+  // reads as "broken" rather than "quiet": measured 2026-11-16, period=1month
+  // returned total 0 while overall returned 1,409 artists, because the last
+  // scrobble was 15 Aug 2026. Walk the windows until one has data and record
+  // which one was used, so the page can label itself honestly.
+  const windows = ['1month', '3month', '6month', '12month', 'overall']
+  let period = windows[0]
+  let topArtists: any = null
+  for (const w of windows) {
+    const res: any = await safeFetch(`${base}&method=user.gettopartists&period=${w}&limit=50`)
+    const total = Number(res?.topartists?.['@attr']?.total ?? 0)
+    if (total > 0) { period = w; topArtists = res; break }
+  }
+  const topTracks: any = await safeFetch(`${base}&method=user.gettoptracks&period=${period}&limit=50`)
+
+  const newest = (recent as any)?.recenttracks?.track?.[0]
   save('lastfm-recent.json',      (recent as any)?.recenttracks?.track ?? [])
   save('lastfm-top-artists.json', (topArtists as any)?.topartists?.artist ?? [])
   save('lastfm-top-tracks.json',  (topTracks as any)?.toptracks?.track ?? [])
   save('lastfm-user.json',        (userInfo as any)?.user ?? {})
+  save('lastfm-window.json', {
+    period,
+    total_artists: Number((topArtists as any)?.topartists?.['@attr']?.total ?? 0),
+    last_scrobble: newest?.date?.['#text'] ?? '',
+    last_track: newest?.name ?? '',
+    last_artist: newest?.artist?.['#text'] ?? '',
+  })
 }
 
 async function fetchListenBrainz() {
@@ -713,9 +734,68 @@ async function fetchAniList() {
 
 async function fetchPodcasts() {
   if (!PI_KEY || !PI_SECRET) {
-    console.log('  ⚠ PODCASTINDEX_API_KEY not set — skipping Podcast Index')
-    const manual = loadStale('podcasts-manual.json') as any[] ?? []
-    save('podcasts-enriched.json', manual)
+    // Keyless path. Podcast Index needs a key and knows nothing about "my
+    // subscriptions" anyway; iTunes Search resolves each show name to its feed
+    // URL and artwork, and the feed itself serves the episodes. Measured
+    // 2026-11-16: feedUrl + artworkUrl600 present for every show tried.
+    console.log('  · Podcast Index keys absent — using iTunes + RSS')
+    let shows: string[] = []
+    try { shows = JSON.parse(readFileSync('public/data/podcasts-shows.json', 'utf-8')) } catch {}
+    if (!shows.length) { save('podcasts-enriched.json', loadStale('podcasts-manual.json') as any[] ?? []); return }
+
+    // CDATA must be unwrapped before tags are stripped: `<![CDATA[Title]]>` has no
+    // `>` inside, so a naive `<[^>]+>` strip deletes the title along with the marker.
+    const strip = (xml: string) =>
+      xml.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+        .replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, "'")
+        .replace(/&quot;/g, '"').replace(/&lt;|&gt;/g, ' ').replace(/\s+/g, ' ').trim()
+
+    const out: any[] = []
+    for (const name of shows) {
+      try {
+        const search: any = await safeFetch(`https://itunes.apple.com/search?term=${encodeURIComponent(name)}&entity=podcast&limit=1`)
+        const hit = search?.results?.[0]
+        if (!hit?.feedUrl) { console.log(`  ⚠ podcast: no iTunes hit for ${name}`); continue }
+        const res = await fetch(hit.feedUrl, { signal: AbortSignal.timeout(20000) })
+        if (!res.ok) { console.log(`  ⚠ podcast: ${name} feed ${res.status}`); continue }
+        const xml = await res.text()
+        const episodes = [...xml.matchAll(/<item[\s\S]*?<\/item>/g)].slice(0, 3).map((m) => {
+          const chunk = m[0]
+          // indexOf slicing instead of a built RegExp: the string-built pattern
+          // silently failed to match titles here, and a slice cannot.
+          const between = (tag: string) => {
+            const open = chunk.indexOf('<' + tag)
+            if (open < 0) return ''
+            const gt = chunk.indexOf('>', open)
+            const close = chunk.indexOf('</' + tag + '>', gt)
+            return gt < 0 || close < 0 ? '' : chunk.slice(gt + 1, close)
+          }
+          const cdata = (v: string) => v.replace(/^<!\[CDATA\[/, '').replace(/\]\]>$/, '')
+          const clean = (v: string) =>
+            cdata(v).replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, "'")
+              .replace(/&quot;/g, '"').replace(/&lt;|&gt;/g, ' ').replace(/\s+/g, ' ').trim()
+          const href = between('link')
+          const enc = /<enclosure[^>]*url="([^"]+)"/.exec(chunk)?.[1] ?? ''
+          return {
+            title: clean(between('title')),
+            date: clean(between('pubDate')),
+            duration: clean(between('itunes:duration')),
+            url: href || enc,
+          }
+        })
+        out.push({
+          title: hit.collectionName ?? name,
+          artist: hit.artistName ?? '',
+          image: hit.artworkUrl600 ?? hit.artworkUrl100 ?? '',
+          feedUrl: hit.feedUrl,
+          link: hit.collectionViewUrl ?? '',
+          episodes,
+        })
+      } catch (e: any) {
+        console.log(`  ⚠ podcast ${name}: ${e.message}`)
+      }
+    }
+    save('podcasts-enriched.json', out)
     return
   }
 
@@ -791,6 +871,12 @@ async function fetchMdbList() {
   save('mdblist-lists.json', Array.isArray(lists) ? lists : [])
 }
 
+/**
+ * Podcasts, keyless. Podcast Index needs a key (still missing) and has no notion
+ * of "my subscriptions"; iTunes Search is open and resolves a show name to its
+ * feed URL, artwork and episode list. Measured 2026-11-16: /search returns
+ * feedUrl + artworkUrl600 for every show tested, and each feed serves full RSS.
+ */
 async function fetchWakaTime() {
   // API: https://wakatime.com/api/v1
   // Docs: https://wakatime.com/developers
@@ -1149,6 +1235,7 @@ async function main() {
     fetchLanyard().then(() => console.log('✅ Lanyard done')).catch(e => console.error('❌ Lanyard', e.message)),
     fetchBlog().then(() => console.log('✅ Blog RSS done')).catch(e => console.error('❌ Blog', e.message)),
     fetchWakaTime().then(() => console.log('✅ WakaTime done')).catch(e => console.error('❌ WakaTime', e.message)),
+    fetchPodcasts().then(() => console.log('✅ Podcasts done')).catch(e => console.error('❌ Podcasts', e.message)),
     fetchMdbList().then(() => console.log('✅ MDBList done')).catch(e => console.error('❌ MDBList', e.message)),
     fetchHabitica().then(() => console.log('✅ Habitica done')).catch(e => console.error('❌ Habitica', e.message)),
     fetchBGG().then(() => console.log('✅ BGG done')).catch(e => console.error('❌ BGG', e.message)),

@@ -1,26 +1,164 @@
 [
   {
     "title": "Lex Fridman Podcast",
-    "feedUrl": "https://lexfridman.com/feed/podcast/"
+    "artist": "Lex Fridman",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/42/d7/ea42d7b1-8d4e-dd97-da5d-c508756550ca/mza_16782152345430036863.jpg/600x600bb.jpg",
+    "feedUrl": "https://lexfridman.com/feed/podcast/",
+    "link": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?uo=4",
+    "episodes": [
+      {
+        "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+        "date": "Tue, 10 Nov 2026 23:52:44 +0000",
+        "duration": "3:01:15",
+        "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ukraine-war-preston-stewart-michael-kofman"
+      },
+      {
+        "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &#038; Complexity Theory",
+        "date": "Mon, 26 Oct 2026 22:52:28 +0000",
+        "duration": "3:42:40",
+        "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=math-ai-crisis"
+      },
+      {
+        "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
+        "date": "Thu, 17 Sep 2026 00:40:49 +0000",
+        "duration": "3:43:51",
+        "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull"
+      }
+    ]
   },
   {
     "title": "Huberman Lab",
-    "feedUrl": "https://feeds.megaphone.fm/hubermanlab"
+    "artist": "Scicomm Media",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+    "feedUrl": "https://feeds.megaphone.fm/hubermanlab",
+    "link": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110?uo=4",
+    "episodes": [
+      {
+        "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+        "date": "Mon, 16 Nov 2026 09:00:00 -0000",
+        "duration": "8935",
+        "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets"
+      },
+      {
+        "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+        "date": "Thu, 12 Nov 2026 09:00:00 -0000",
+        "duration": "2330",
+        "url": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang"
+      },
+      {
+        "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+        "date": "Mon, 09 Nov 2026 13:42:00 -0000",
+        "duration": "8225",
+        "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke"
+      }
+    ]
   },
   {
     "title": "The Tim Ferriss Show",
-    "feedUrl": "https://rss.art19.com/tim-ferriss-show"
+    "artist": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/18/39/b4/1839b420-7aff-c501-5d0d-af2842fba013/mza_6255154260686997849.jpeg/600x600bb.jpg",
+    "feedUrl": "https://rss.art19.com/tim-ferriss-show",
+    "link": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?uo=4",
+    "episodes": [
+      {
+        "title": "#889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
+        "date": "Wed, 11 Nov 2026 17:30:00 -0000",
+        "duration": "01:14:29",
+        "url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      },
+      {
+        "title": "Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea",
+        "date": "Thu, 05 Nov 2026 20:30:00 -0000",
+        "duration": "00:29:55",
+        "url": "https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      },
+      {
+        "title": "#887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More",
+        "date": "Tue, 20 Oct 2026 22:30:00 -0000",
+        "duration": "01:19:06",
+        "url": "https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      }
+    ]
   },
   {
     "title": "Darknet Diaries",
-    "feedUrl": "https://feeds.megaphone.fm/darknetdiaries"
+    "artist": "Jack Rhysider",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/3a/80/a7/3a80a7db-5620-f77b-9935-016e61cc2fbc/mza_9399859904175514567.jpg/600x600bb.jpg",
+    "feedUrl": "https://podcast.darknetdiaries.com",
+    "link": "https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?uo=4",
+    "episodes": [
+      {
+        "title": "182: Blackshades",
+        "date": "Tue, 03 Nov 2026 08:00:00 -0000",
+        "duration": "39:17",
+        "url": "https://darknetdiaries.com/episode/182/"
+      },
+      {
+        "title": "181: Ricky",
+        "date": "Tue, 20 Oct 2026 07:00:00 -0000",
+        "duration": "01:20:15",
+        "url": "https://darknetdiaries.com/episode/181/"
+      },
+      {
+        "title": "180: Conti",
+        "date": "Tue, 06 Oct 2026 07:00:00 -0000",
+        "duration": "59:17",
+        "url": "https://darknetdiaries.com/episode/180/"
+      }
+    ]
   },
   {
     "title": "Software Engineering Daily",
-    "feedUrl": "https://softwareengineeringdaily.com/feed/podcast/"
+    "artist": "Software Engineering Daily",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/a1/dd/36a1dd7e-52ed-78f7-e13f-4261a65cfc58/mza_12039623462681143710.png/600x600bb.jpg",
+    "feedUrl": "https://softwareengineeringdaily.com/feed/podcast/",
+    "link": "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853?uo=4",
+    "episodes": [
+      {
+        "title": "Fraud Prevention in the Age of AI Agents",
+        "date": "Thu, 12 Nov 2026 10:00:00 +0000",
+        "duration": "42:22",
+        "url": "https://softwareengineeringdaily.com/podcasts/fraud-prevention-in-the-age-of-ai-agents/"
+      },
+      {
+        "title": "GitLab and the Evolution of DevSecOps",
+        "date": "Tue, 10 Nov 2026 10:00:00 +0000",
+        "duration": "56:11",
+        "url": "https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/"
+      },
+      {
+        "title": "SED News: PHP’s Megabug, a Hidden Mic at OpenAI, and Dead AI Products",
+        "date": "Thu, 05 Nov 2026 10:00:00 +0000",
+        "duration": "54:44",
+        "url": "https://softwareengineeringdaily.com/podcasts/sed-news-phps-megabug-a-hidden-mic-at-openai-and-dead-ai-products/"
+      }
+    ]
   },
   {
-    "title": "Changelog",
-    "feedUrl": "https://changelog.com/podcast/feed"
+    "title": "The Changelog: Software Development, Open Source",
+    "artist": "Changelog Media",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/b1/43/b5b14333-7cbe-123d-c444-0204e5d08102/mza_311421542997449775.png/600x600bb.jpg",
+    "feedUrl": "https://changelog.com/podcast/feed",
+    "link": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?uo=4",
+    "episodes": [
+      {
+        "title": "All your packages are belong to us (Interview)",
+        "date": "Fri, 13 Nov 2026 03:00:00 +0000",
+        "duration": "2:19:41",
+        "url": "https://changelog.com/podcast/690"
+      },
+      {
+        "title": "We now have Kerr’s Law (Interview)",
+        "date": "Wed, 04 Nov 2026 21:00:00 +0000",
+        "duration": "2:27:04",
+        "url": "https://changelog.com/podcast/689"
+      },
+      {
+        "title": "The future is Postgres (Interview)",
+        "date": "Wed, 28 Oct 2026 15:00:00 +0000",
+        "duration": "1:46:19",
+        "url": "https://changelog.com/podcast/688"
+      }
+    ]
   }
 ]
