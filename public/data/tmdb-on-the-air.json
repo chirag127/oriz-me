@@ -8,13 +8,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.028,
-    "votes": 11170,
+    "votes": 11175,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1660.7122
+    "popularity": 1522.9242
   },
   {
     "id": 84773,
@@ -23,15 +23,15 @@
     "title": "The Lord of the Rings: The Rings of Power",
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.216,
-    "votes": 4073,
+    "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+    "rating": 7.218,
+    "votes": 4083,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 782.3823
+    "popularity": 1747.4918
   },
   {
     "id": 37678,
@@ -41,13 +41,13 @@
     "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
     "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
-    "rating": 5.869,
-    "votes": 232,
+    "rating": 5.848,
+    "votes": 233,
     "release": "2011-04-26",
     "genres": [
       10764
     ],
-    "popularity": 604.0136
+    "popularity": 1213.5625
   },
   {
     "id": 22980,
@@ -57,14 +57,14 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.9,
-    "votes": 100,
+    "rating": 4.901,
+    "votes": 101,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 466.623
+    "popularity": 467.0286
   },
   {
     "id": 247718,
@@ -74,14 +74,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.661,
-    "votes": 1246,
+    "rating": 8.659,
+    "votes": 1254,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 458.9226
+    "popularity": 430.6319
   },
   {
     "id": 33238,
@@ -98,7 +98,7 @@
       35,
       10764
     ],
-    "popularity": 381.7536
+    "popularity": 366.8093
   },
   {
     "id": 1416,
@@ -109,12 +109,12 @@
     "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
     "rating": 8.2,
-    "votes": 11136,
+    "votes": 11139,
     "release": "2005-03-27",
     "genres": [
       18
     ],
-    "popularity": 284.2432
+    "popularity": 838.5356
   },
   {
     "id": 2224,
@@ -124,14 +124,14 @@
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
     "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.423,
-    "votes": 678,
+    "rating": 6.424,
+    "votes": 681,
     "release": "1996-07-22",
     "genres": [
       10763,
       35
     ],
-    "popularity": 277.0935
+    "popularity": 274.7314
   },
   {
     "id": 206559,
@@ -147,7 +147,41 @@
     "genres": [
       10766
     ],
-    "popularity": 274.2943
+    "popularity": 277.137
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.321,
+    "votes": 2955,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 263.335
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.3,
+    "votes": 21,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 249.5638
   },
   {
     "id": 4614,
@@ -157,15 +191,15 @@
     "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
     "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
-    "rating": 7.6,
-    "votes": 2618,
+    "rating": 7.603,
+    "votes": 2619,
     "release": "2003-09-23",
     "genres": [
       80,
       18,
       10759
     ],
-    "popularity": 245.6412
+    "popularity": 245.7289
   },
   {
     "id": 61818,
@@ -182,41 +216,7 @@
       10767,
       35
     ],
-    "popularity": 245.6014
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.32,
-    "votes": 2951,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 266.3054
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.3,
-    "votes": 21,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 247.5978
+    "popularity": 246.7796
   },
   {
     "id": 279246,
@@ -226,32 +226,14 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.517,
-    "votes": 90,
+    "rating": 8.58,
+    "votes": 94,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 214.0309
-  },
-  {
-    "id": 31991,
-    "tmdb_id": 31991,
-    "type": "tv",
-    "title": "WWE NXT",
-    "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-    "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
-    "rating": 6.623,
-    "votes": 134,
-    "release": "2010-02-23",
-    "genres": [
-      10759,
-      18,
-      10764
-    ],
-    "popularity": 148.9414
+    "popularity": 201.5385
   },
   {
     "id": 4656,
@@ -261,13 +243,31 @@
     "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
     "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.747,
-    "votes": 384,
+    "rating": 6.728,
+    "votes": 386,
     "release": "1993-01-11",
     "genres": [
       10764
     ],
-    "popularity": 211.9576
+    "popularity": 231.6734
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.5,
+    "votes": 110,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 211.1107
   },
   {
     "id": 291,
@@ -283,7 +283,7 @@
     "genres": [
       10766
     ],
-    "popularity": 200.3984
+    "popularity": 200.7604
   },
   {
     "id": 72879,
@@ -301,7 +301,7 @@
       18,
       10766
     ],
-    "popularity": 186.4805
+    "popularity": 168.7742
   },
   {
     "id": 65334,
@@ -312,14 +312,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
     "rating": 8.069,
-    "votes": 4707,
+    "votes": 4709,
     "release": "2015-10-19",
     "genres": [
       10759,
       16,
       10762
     ],
-    "popularity": 174.0636
+    "popularity": 161.3932
   },
   {
     "id": 44006,
@@ -329,12 +329,12 @@
     "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
     "poster": "https://image.tmdb.org/t/p/w342/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-    "rating": 8.413,
-    "votes": 2467,
+    "rating": 8.411,
+    "votes": 2470,
     "release": "2012-10-10",
     "genres": [
       18
     ],
-    "popularity": 171.6128
+    "popularity": 159.0477
   }
 ]
