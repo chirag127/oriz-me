@@ -1,7 +1,7 @@
 {
   "name": "me",
   "version": "2.0.0",
-  "description": "me.oriz.in \u2014 Chirag Singhal \u00b7 engineer's instrument bench",
+  "description": "me.oriz.in — Chirag Singhal · engineer's instrument bench",
   "type": "module",
   "packageManager": "pnpm@10.34.3",
   "engines": {
@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "astro dev",
     "prebuild": "node --import=tsx/esm scripts/fetch-data.ts && node scripts/prepare-networth.mjs",
-    "build": "astro build",
+    "build": "node scripts/build-ai-context.mjs && astro build",
     "preview": "astro preview",
     "fetch-data": "node --import=tsx/esm scripts/fetch-data.ts",
     "test:e2e": "playwright test"
