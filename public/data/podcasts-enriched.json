@@ -115,6 +115,12 @@
     "link": "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853?uo=4",
     "episodes": [
       {
+        "title": "The Technical Interview Is Broken",
+        "date": "Tue, 17 Nov 2026 10:00:00 +0000",
+        "duration": "53:38",
+        "url": "https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/"
+      },
+      {
         "title": "Fraud Prevention in the Age of AI Agents",
         "date": "Thu, 12 Nov 2026 10:00:00 +0000",
         "duration": "42:22",
@@ -125,12 +131,6 @@
         "date": "Tue, 10 Nov 2026 10:00:00 +0000",
         "duration": "56:11",
         "url": "https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/"
-      },
-      {
-        "title": "SED News: PHP’s Megabug, a Hidden Mic at OpenAI, and Dead AI Products",
-        "date": "Thu, 05 Nov 2026 10:00:00 +0000",
-        "duration": "54:44",
-        "url": "https://softwareengineeringdaily.com/podcasts/sed-news-phps-megabug-a-hidden-mic-at-openai-and-dead-ai-products/"
       }
     ]
   },

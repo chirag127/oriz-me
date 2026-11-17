@@ -8,81 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.964,
-    "votes": 4419,
+    "votes": 4420,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 2161.5235
-  },
-  {
-    "id": 57243,
-    "tmdb_id": 57243,
-    "type": "tv",
-    "title": "Doctor Who",
-    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-    "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-    "rating": 7.633,
-    "votes": 3514,
-    "release": "2005-03-26",
-    "genres": [
-      10759,
-      18,
-      10765
-    ],
-    "popularity": 1680.6283
-  },
-  {
-    "id": 2316,
-    "tmdb_id": 2316,
-    "type": "tv",
-    "title": "The Office",
-    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-    "rating": 8.585,
-    "votes": 5722,
-    "release": "2005-03-24",
-    "genres": [
-      35
-    ],
-    "popularity": 1657.0615
-  },
-  {
-    "id": 456,
-    "tmdb_id": 456,
-    "type": "tv",
-    "title": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-    "rating": 8.028,
-    "votes": 11175,
-    "release": "1989-12-17",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 1522.9242
-  },
-  {
-    "id": 1100,
-    "tmdb_id": 1100,
-    "type": "tv",
-    "title": "How I Met Your Mother",
-    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.11,
-    "votes": 6084,
-    "release": "2005-09-19",
-    "genres": [
-      35
-    ],
-    "popularity": 1683.6433
+    "popularity": 2149.4156
   },
   {
     "id": 1413,
@@ -93,30 +26,81 @@
     "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
     "rating": 8.079,
-    "votes": 6303,
+    "votes": 6305,
     "release": "2011-10-05",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 1819.1456
+    "popularity": 2314.8196
   },
   {
-    "id": 1408,
-    "tmdb_id": 1408,
+    "id": 84773,
+    "tmdb_id": 84773,
     "type": "tv",
-    "title": "House",
-    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "rating": 8.558,
-    "votes": 8044,
-    "release": "2004-11-16",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+    "rating": 7.22,
+    "votes": 4090,
+    "release": "2022-09-01",
     "genres": [
-      18
+      10759,
+      10765
     ],
-    "popularity": 1523.8586
+    "popularity": 1918.4482
+  },
+  {
+    "id": 1100,
+    "tmdb_id": 1100,
+    "type": "tv",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.1,
+    "votes": 6085,
+    "release": "2005-09-19",
+    "genres": [
+      35
+    ],
+    "popularity": 1787.1361
+  },
+  {
+    "id": 57243,
+    "tmdb_id": 57243,
+    "type": "tv",
+    "title": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "rating": 7.634,
+    "votes": 3516,
+    "release": "2005-03-26",
+    "genres": [
+      10759,
+      18,
+      10765
+    ],
+    "popularity": 1772.1242
+  },
+  {
+    "id": 2316,
+    "tmdb_id": 2316,
+    "type": "tv",
+    "title": "The Office",
+    "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "poster": "https://image.tmdb.org/t/p/w342/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+    "rating": 8.583,
+    "votes": 5725,
+    "release": "2005-03-24",
+    "genres": [
+      35
+    ],
+    "popularity": 1704.8904
   },
   {
     "id": 5920,
@@ -126,15 +110,48 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.42,
-    "votes": 5013,
+    "rating": 8.419,
+    "votes": 5016,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1553.4723
+    "popularity": 1848.6477
+  },
+  {
+    "id": 1408,
+    "tmdb_id": 1408,
+    "type": "tv",
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.6,
+    "votes": 8045,
+    "release": "2004-11-16",
+    "genres": [
+      18
+    ],
+    "popularity": 1593.6582
+  },
+  {
+    "id": 456,
+    "tmdb_id": 456,
+    "type": "tv",
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "rating": 8.028,
+    "votes": 11178,
+    "release": "1989-12-17",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 1471.6947
   },
   {
     "id": 1421,
@@ -144,13 +161,13 @@
     "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
     "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.912,
-    "votes": 3630,
+    "rating": 7.913,
+    "votes": 3631,
     "release": "2009-09-23",
     "genres": [
       35
     ],
-    "popularity": 1485.2764
+    "popularity": 1726.625
   },
   {
     "id": 60735,
@@ -161,30 +178,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
     "rating": 7.738,
-    "votes": 11871,
+    "votes": 11873,
     "release": "2014-10-07",
     "genres": [
       18,
       10765
     ],
-    "popularity": 1445.6445
-  },
-  {
-    "id": 18165,
-    "tmdb_id": 18165,
-    "type": "tv",
-    "title": "The Vampire Diaries",
-    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "rating": 8.298,
-    "votes": 9859,
-    "release": "2009-09-10",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 1405.3051
+    "popularity": 1727.2609
   },
   {
     "id": 1400,
@@ -195,12 +195,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
     "rating": 8.243,
-    "votes": 2522,
+    "votes": 2524,
     "release": "1989-07-05",
     "genres": [
       35
     ],
-    "popularity": 1418.0035
+    "popularity": 1463.6696
+  },
+  {
+    "id": 18165,
+    "tmdb_id": 18165,
+    "type": "tv",
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "rating": 8.3,
+    "votes": 9860,
+    "release": "2009-09-10",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1601.3967
   },
   {
     "id": 4057,
@@ -218,7 +235,23 @@
       18,
       9648
     ],
-    "popularity": 1367.8551
+    "popularity": 1444.8892
+  },
+  {
+    "id": 37678,
+    "tmdb_id": 37678,
+    "type": "tv",
+    "title": "The Voice",
+    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+    "rating": 5.848,
+    "votes": 233,
+    "release": "2011-04-26",
+    "genres": [
+      10764
+    ],
+    "popularity": 1567.6378
   },
   {
     "id": 2025,
@@ -228,13 +261,31 @@
     "overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
     "poster": "https://image.tmdb.org/t/p/w342/b7BYfkhu653D894krwGO1ysIKTf.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
-    "rating": 7.259,
+    "rating": 7.3,
     "votes": 869,
     "release": "1990-10-04",
     "genres": [
       18
     ],
-    "popularity": 976.0555
+    "popularity": 1018.1947
+  },
+  {
+    "id": 4620,
+    "tmdb_id": 4620,
+    "type": "tv",
+    "title": "Eureka",
+    "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
+    "rating": 7.738,
+    "votes": 752,
+    "release": "2006-07-18",
+    "genres": [
+      10765,
+      35,
+      18
+    ],
+    "popularity": 962.6577
   },
   {
     "id": 1877,
@@ -253,42 +304,7 @@
       10751,
       10765
     ],
-    "popularity": 979.2719
-  },
-  {
-    "id": 84773,
-    "tmdb_id": 84773,
-    "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
-    "rating": 7.218,
-    "votes": 4083,
-    "release": "2022-09-01",
-    "genres": [
-      10759,
-      10765
-    ],
-    "popularity": 1747.4918
-  },
-  {
-    "id": 60572,
-    "tmdb_id": 60572,
-    "type": "tv",
-    "title": "Pokémon",
-    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
-    "poster": "https://image.tmdb.org/t/p/w342/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
-    "rating": 8,
-    "votes": 2310,
-    "release": "1997-04-01",
-    "genres": [
-      16,
-      10759,
-      10765
-    ],
-    "popularity": 888.143
+    "popularity": 1076.0972
   },
   {
     "id": 61923,
@@ -298,8 +314,8 @@
     "overview": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
     "poster": "https://image.tmdb.org/t/p/w342/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
-    "rating": 8.366,
-    "votes": 1543,
+    "rating": 8.365,
+    "votes": 1544,
     "release": "2015-01-18",
     "genres": [
       10759,
@@ -308,41 +324,23 @@
       10765,
       10751
     ],
-    "popularity": 926.4821
+    "popularity": 643.425
   },
   {
-    "id": 37678,
-    "tmdb_id": 37678,
+    "id": 32573,
+    "tmdb_id": 32573,
     "type": "tv",
-    "title": "The Voice",
-    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
-    "rating": 5.848,
-    "votes": 233,
-    "release": "2011-04-26",
+    "title": "Strike Back",
+    "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+    "poster": "https://image.tmdb.org/t/p/w342/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
+    "rating": 7.421,
+    "votes": 420,
+    "release": "2010-05-05",
     "genres": [
-      10764
-    ],
-    "popularity": 1213.5625
-  },
-  {
-    "id": 48866,
-    "tmdb_id": 48866,
-    "type": "tv",
-    "title": "The 100",
-    "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-    "poster": "https://image.tmdb.org/t/p/w342/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-    "rating": 7.875,
-    "votes": 8888,
-    "release": "2014-03-19",
-    "genres": [
-      10765,
-      10759,
       18,
-      80
+      10759
     ],
-    "popularity": 773.1431
+    "popularity": 919.825
   }
 ]
