@@ -46,7 +46,7 @@ jobs:
           JSON
 
       - name: Build unsigned NSIS + MSI
-        uses: tauri-apps/tauri-action@v0
+        uses: tauri-apps/tauri-action@v1
         with:
           projectPath: wrap
 
