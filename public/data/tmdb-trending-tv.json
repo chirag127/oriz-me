@@ -1,22 +1,5 @@
 [
   {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.319,
-    "votes": 512,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 287.4186
-  },
-  {
     "id": 84773,
     "tmdb_id": 84773,
     "type": "tv",
@@ -24,32 +7,31 @@
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
-    "rating": 7.2,
-    "votes": 4090,
+    "rating": 7.218,
+    "votes": 4102,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 1918.4482
+    "popularity": 1865.5108
   },
   {
-    "id": 254630,
-    "tmdb_id": 254630,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "12 12 12",
-    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-    "rating": 6.2,
-    "votes": 28,
-    "release": "2026-11-12",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.282,
+    "votes": 532,
+    "release": "2026-10-13",
     "genres": [
-      10759,
-      80,
+      10765,
       18
     ],
-    "popularity": 131.4248
+    "popularity": 256.4807
   },
   {
     "id": 291507,
@@ -60,47 +42,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
     "rating": 7.8,
-    "votes": 65,
+    "votes": 80,
     "release": "2026-11-11",
     "genres": [
       9648,
       18
     ],
-    "popularity": 191.404
+    "popularity": 206.6655
   },
   {
-    "id": 1489,
-    "tmdb_id": 1489,
+    "id": 254630,
+    "tmdb_id": 254630,
     "type": "tv",
-    "title": "Jimmy Kimmel Live!",
-    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-    "poster": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-    "rating": 5.282,
-    "votes": 227,
-    "release": "2003-01-26",
+    "title": "12 12 12",
+    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+    "rating": 6.382,
+    "votes": 34,
+    "release": "2026-11-12",
     "genres": [
-      10767,
-      35
-    ],
-    "popularity": 102.32
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.664,
-    "votes": 1259,
-    "release": "2025-03-30",
-    "genres": [
+      10759,
       80,
       18
     ],
-    "popularity": 421.8576
+    "popularity": 127.0178
   },
   {
     "id": 293610,
@@ -110,33 +76,49 @@
     "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
     "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "rating": 8.595,
-    "votes": 63,
+    "rating": 8.592,
+    "votes": 65,
     "release": "2026-10-09",
     "genres": [
       9648,
       18,
       80
     ],
-    "popularity": 70.0621
+    "popularity": 67.3296
   },
   {
-    "id": 259909,
-    "tmdb_id": 259909,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "Dexter: Resurrection",
-    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.545,
-    "votes": 763,
-    "release": "2025-07-13",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.667,
+    "votes": 1266,
+    "release": "2025-03-30",
     "genres": [
       80,
-      18,
-      9648
+      18
     ],
-    "popularity": 97.2705
+    "popularity": 407.534
+  },
+  {
+    "id": 1489,
+    "tmdb_id": 1489,
+    "type": "tv",
+    "title": "Jimmy Kimmel Live!",
+    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+    "poster": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+    "rating": 5.281,
+    "votes": 228,
+    "release": "2003-01-26",
+    "genres": [
+      10767,
+      35
+    ],
+    "popularity": 99.4097
   },
   {
     "id": 279246,
@@ -146,14 +128,32 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.6,
-    "votes": 96,
+    "rating": 8.716,
+    "votes": 104,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 192.6633
+    "popularity": 190.3462
+  },
+  {
+    "id": 259909,
+    "tmdb_id": 259909,
+    "type": "tv",
+    "title": "Dexter: Resurrection",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "rating": 8.547,
+    "votes": 765,
+    "release": "2025-07-13",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 92.2978
   },
   {
     "id": 249565,
@@ -163,48 +163,14 @@
     "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
     "poster": "https://image.tmdb.org/t/p/w342/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-    "rating": 8,
-    "votes": 19,
+    "rating": 7.9,
+    "votes": 21,
     "release": "2026-11-12",
     "genres": [
       18,
       9648
     ],
-    "popularity": 44.8756
-  },
-  {
-    "id": 307853,
-    "tmdb_id": 307853,
-    "type": "tv",
-    "title": "Sunshine through the Rain",
-    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-    "poster": "https://image.tmdb.org/t/p/w342/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-    "rating": 9.7,
-    "votes": 9,
-    "release": "2026-11-06",
-    "genres": [
-      18
-    ],
-    "popularity": 31.661
-  },
-  {
-    "id": 303745,
-    "tmdb_id": 303745,
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-    "rating": 9.1,
-    "votes": 77,
-    "release": "2026-10-19",
-    "genres": [
-      35,
-      18,
-      80
-    ],
-    "popularity": 141.1931
+    "popularity": 43.8353
   },
   {
     "id": 85077,
@@ -214,66 +180,49 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-    "rating": 8.856,
-    "votes": 1065,
+    "rating": 8.859,
+    "votes": 1072,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 101.8037
+    "popularity": 104.7496
   },
   {
-    "id": 292741,
-    "tmdb_id": 292741,
+    "id": 303745,
+    "tmdb_id": 303745,
     "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.594,
-    "votes": 53,
-    "release": "2026-10-29",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 75.3532
-  },
-  {
-    "id": 335981,
-    "tmdb_id": 335981,
-    "type": "tv",
-    "title": "Cunk on Cinema",
-    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
-    "poster": "https://image.tmdb.org/t/p/w342/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-    "rating": 7.5,
-    "votes": 12,
-    "release": "2026-11-12",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+    "rating": 9.099,
+    "votes": 81,
+    "release": "2026-10-19",
     "genres": [
       35,
-      99
+      18,
+      80
     ],
-    "popularity": 28.4372
+    "popularity": 142.0429
   },
   {
-    "id": 131488,
-    "tmdb_id": 131488,
+    "id": 307853,
+    "tmdb_id": 307853,
     "type": "tv",
-    "title": "The Empress",
-    "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-    "poster": "https://image.tmdb.org/t/p/w342/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-    "rating": 7.676,
-    "votes": 193,
-    "release": "2022-09-29",
+    "title": "Sunshine through the Rain",
+    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+    "poster": "https://image.tmdb.org/t/p/w342/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
+    "rating": 9.5,
+    "votes": 14,
+    "release": "2026-11-06",
     "genres": [
       18
     ],
-    "popularity": 34.4177
+    "popularity": 34.6101
   },
   {
     "id": 37854,
@@ -284,31 +233,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.8,
-    "votes": 5656,
+    "votes": 5657,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 386.5381
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.335,
-    "votes": 5278,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 142.5509
+    "popularity": 358.8189
   },
   {
     "id": 279155,
@@ -324,7 +256,41 @@
     "genres": [
       18
     ],
-    "popularity": 27.2064
+    "popularity": 26.0935
+  },
+  {
+    "id": 131488,
+    "tmdb_id": 131488,
+    "type": "tv",
+    "title": "The Empress",
+    "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+    "poster": "https://image.tmdb.org/t/p/w342/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+    "rating": 7.676,
+    "votes": 194,
+    "release": "2022-09-29",
+    "genres": [
+      18
+    ],
+    "popularity": 35.4938
+  },
+  {
+    "id": 292741,
+    "tmdb_id": 292741,
+    "type": "tv",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "rating": 7.542,
+    "votes": 59,
+    "release": "2026-10-29",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 72.8848
   },
   {
     "id": 153312,
@@ -334,14 +300,50 @@
     "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
     "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.321,
-    "votes": 2959,
+    "rating": 8.322,
+    "votes": 2963,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 260.0282
+    "popularity": 253.5325
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.3,
+    "votes": 5280,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 141.9793
+  },
+  {
+    "id": 225385,
+    "tmdb_id": 225385,
+    "type": "tv",
+    "title": "Black Doves",
+    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+    "poster": "https://image.tmdb.org/t/p/w342/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+    "rating": 7.1,
+    "votes": 498,
+    "release": "2024-12-05",
+    "genres": [
+      10759,
+      18,
+      9648,
+      80
+    ],
+    "popularity": 62.2369
   }
 ]

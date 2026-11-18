@@ -6,16 +6,16 @@
     "title": "The Odyssey",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
     "rating": 8,
-    "votes": 4992,
+    "votes": 5053,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 457.1226
+    "popularity": 478.6101
   },
   {
     "id": 1003596,
@@ -33,7 +33,7 @@
       28,
       12
     ],
-    "popularity": 169.3941
+    "popularity": 176.1731
   },
   {
     "id": 1300968,
@@ -41,17 +41,34 @@
     "type": "movie",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "poster": "https://image.tmdb.org/t/p/w342/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 9.5,
-    "votes": 12,
+    "rating": 8.3,
+    "votes": 19,
     "release": "2026-11-18",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 88.7575
+    "popularity": 122.6519
+  },
+  {
+    "id": 1185344,
+    "tmdb_id": 1185344,
+    "type": "movie",
+    "title": "The Beast",
+    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+    "poster": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+    "rating": 5.286,
+    "votes": 42,
+    "release": "2026-10-08",
+    "genres": [
+      28,
+      53
+    ],
+    "popularity": 102.4222
   },
   {
     "id": 1400837,
@@ -61,13 +78,13 @@
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.4,
-    "votes": 468,
+    "rating": 6.413,
+    "votes": 494,
     "release": "2026-10-07",
     "genres": [
       27
     ],
-    "popularity": 421.1806
+    "popularity": 411.8403
   },
   {
     "id": 1567605,
@@ -77,33 +94,14 @@
     "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
     "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-    "rating": 7.631,
-    "votes": 84,
+    "rating": 7.6,
+    "votes": 105,
     "release": "2026-11-11",
     "genres": [
       14,
-      35,
-      27
+      35
     ],
-    "popularity": 129.6785
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-    "rating": 7.509,
-    "votes": 2293,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 450.7038
+    "popularity": 137.3574
   },
   {
     "id": 1381071,
@@ -113,32 +111,33 @@
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
     "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 7.685,
-    "votes": 241,
+    "rating": 7.664,
+    "votes": 253,
     "release": "2026-11-03",
     "genres": [
       878,
       27,
       28
     ],
-    "popularity": 137.0655
+    "popularity": 137.676
   },
   {
-    "id": 1185344,
-    "tmdb_id": 1185344,
+    "id": 1423191,
+    "tmdb_id": 1423191,
     "type": "movie",
-    "title": "The Beast",
-    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
-    "poster": "https://image.tmdb.org/t/p/w342/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
-    "rating": 5.1,
-    "votes": 33,
-    "release": "2026-10-08",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+    "rating": 7.52,
+    "votes": 2333,
+    "release": "2026-09-16",
     "genres": [
-      28,
-      53
+      27,
+      878,
+      12
     ],
-    "popularity": 89.3155
+    "popularity": 400.9661
   },
   {
     "id": 1263337,
@@ -148,14 +147,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "rating": 7.657,
-    "votes": 936,
+    "rating": 7.704,
+    "votes": 981,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 555.4417
+    "popularity": 507.5043
   },
   {
     "id": 969681,
@@ -164,52 +163,16 @@
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "rating": 8.463,
-    "votes": 6919,
+    "backdrop": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "rating": 8.465,
+    "votes": 6941,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 333.5477
-  },
-  {
-    "id": 1616687,
-    "tmdb_id": 1616687,
-    "type": "movie",
-    "title": "Never Surrender",
-    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-    "rating": 7.07,
-    "votes": 43,
-    "release": "2026-11-11",
-    "genres": [
-      28,
-      80,
-      53
-    ],
-    "popularity": 226.9055
-  },
-  {
-    "id": 656908,
-    "tmdb_id": 656908,
-    "type": "movie",
-    "title": "Ramayana: Rise of a Legend",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "rating": 7.536,
-    "votes": 57,
-    "release": "2026-11-05",
-    "genres": [
-      14,
-      28,
-      12
-    ],
-    "popularity": 126.8869
+    "popularity": 328.2605
   },
   {
     "id": 1170608,
@@ -226,43 +189,25 @@
       878,
       12
     ],
-    "popularity": 30.1944
+    "popularity": 36.1176
   },
   {
-    "id": 1375441,
-    "tmdb_id": 1375441,
+    "id": 1616687,
+    "tmdb_id": 1616687,
     "type": "movie",
-    "title": "Primetime",
-    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "poster": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-    "rating": 6.8,
-    "votes": 440,
-    "release": "2026-09-23",
+    "title": "Never Surrender",
+    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "rating": 7.1,
+    "votes": 48,
+    "release": "2026-11-11",
     "genres": [
-      53,
-      18,
-      80
-    ],
-    "popularity": 48.0866
-  },
-  {
-    "id": 1792170,
-    "tmdb_id": 1792170,
-    "type": "movie",
-    "title": "Model Citizen",
-    "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-    "poster": "https://image.tmdb.org/t/p/w342/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
-    "rating": 6.1,
-    "votes": 32,
-    "release": "2026-11-03",
-    "genres": [
+      28,
       80,
-      878,
       53
     ],
-    "popularity": 17.5187
+    "popularity": 232.2678
   },
   {
     "id": 1543469,
@@ -270,34 +215,16 @@
     "type": "movie",
     "title": "Heartland",
     "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-    "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-    "rating": 6.637,
-    "votes": 62,
+    "rating": 6.3,
+    "votes": 80,
     "release": "2026-11-13",
     "genres": [
       53,
       9648
     ],
-    "popularity": 117.3222
-  },
-  {
-    "id": 1400940,
-    "tmdb_id": 1400940,
-    "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "rating": 7.4,
-    "votes": 450,
-    "release": "2026-10-19",
-    "genres": [
-      27,
-      53,
-      878
-    ],
-    "popularity": 65.8076
+    "popularity": 120.338
   },
   {
     "id": 1518204,
@@ -307,15 +234,51 @@
     "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
     "poster": "https://image.tmdb.org/t/p/w342/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-    "rating": 6.863,
-    "votes": 40,
+    "rating": 6.628,
+    "votes": 47,
     "release": "2026-11-12",
     "genres": [
       878,
       12,
       35
     ],
-    "popularity": 74.257
+    "popularity": 72.8616
+  },
+  {
+    "id": 656908,
+    "tmdb_id": 656908,
+    "type": "movie",
+    "title": "Ramayana: Rise of a Legend",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "rating": 7.5,
+    "votes": 57,
+    "release": "2026-11-05",
+    "genres": [
+      14,
+      28,
+      12
+    ],
+    "popularity": 137.197
+  },
+  {
+    "id": 1084409,
+    "tmdb_id": 1084409,
+    "type": "movie",
+    "title": "A Talent for Murder",
+    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+    "poster": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+    "rating": 7.156,
+    "votes": 16,
+    "release": "2026-10-23",
+    "genres": [
+      53,
+      18,
+      80
+    ],
+    "popularity": 47.6984
   },
   {
     "id": 1437511,
@@ -325,15 +288,32 @@
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "poster": "https://image.tmdb.org/t/p/w342/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-    "rating": 6.03,
-    "votes": 33,
+    "rating": 6.115,
+    "votes": 39,
     "release": "2026-11-10",
     "genres": [
       28,
       80,
       53
     ],
-    "popularity": 66.0462
+    "popularity": 75.1014
+  },
+  {
+    "id": 1050981,
+    "tmdb_id": 1050981,
+    "type": "movie",
+    "title": "Being Heumann",
+    "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+    "poster": "https://image.tmdb.org/t/p/w342/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+    "rating": 7,
+    "votes": 27,
+    "release": "2026-11-06",
+    "genres": [
+      18,
+      36
+    ],
+    "popularity": 30.8893
   },
   {
     "id": 1339713,
@@ -343,13 +323,13 @@
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "poster": "https://image.tmdb.org/t/p/w342/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "rating": 8.2,
-    "votes": 6651,
+    "rating": 8.16,
+    "votes": 6662,
     "release": "2026-05-13",
     "genres": [
       27,
       53
     ],
-    "popularity": 73.8111
+    "popularity": 74.4417
   }
 ]
