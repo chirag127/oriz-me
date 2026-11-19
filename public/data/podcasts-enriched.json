@@ -7,6 +7,12 @@
     "link": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?uo=4",
     "episodes": [
       {
+        "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami &#038; Money",
+        "date": "Thu, 19 Nov 2026 04:37:34 +0000",
+        "duration": "3:26:58",
+        "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=larry-lawton"
+      },
+      {
         "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
         "date": "Tue, 10 Nov 2026 23:52:44 +0000",
         "duration": "3:01:15",
@@ -17,12 +23,6 @@
         "date": "Mon, 26 Oct 2026 22:52:28 +0000",
         "duration": "3:42:40",
         "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=math-ai-crisis"
-      },
-      {
-        "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &#038; Jung",
-        "date": "Thu, 17 Sep 2026 00:40:49 +0000",
-        "duration": "3:43:51",
-        "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull"
       }
     ]
   },
@@ -34,6 +34,12 @@
     "link": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110?uo=4",
     "episodes": [
       {
+        "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+        "date": "Thu, 19 Nov 2026 09:00:00 -0000",
+        "duration": "2146",
+        "url": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping"
+      },
+      {
         "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
         "date": "Mon, 16 Nov 2026 09:00:00 -0000",
         "duration": "8935",
@@ -44,12 +50,6 @@
         "date": "Thu, 12 Nov 2026 09:00:00 -0000",
         "duration": "2330",
         "url": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang"
-      },
-      {
-        "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
-        "date": "Mon, 09 Nov 2026 13:42:00 -0000",
-        "duration": "8225",
-        "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke"
       }
     ]
   },
@@ -142,6 +142,12 @@
     "link": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?uo=4",
     "episodes": [
       {
+        "title": "Orbin' with Amp (Interview)",
+        "date": "Wed, 18 Nov 2026 20:00:00 +0000",
+        "duration": "1:24:22",
+        "url": "https://changelog.com/podcast/691"
+      },
+      {
         "title": "All your packages are belong to us (Interview)",
         "date": "Fri, 13 Nov 2026 03:00:00 +0000",
         "duration": "2:19:41",
@@ -152,12 +158,6 @@
         "date": "Wed, 04 Nov 2026 21:00:00 +0000",
         "duration": "2:27:04",
         "url": "https://changelog.com/podcast/689"
-      },
-      {
-        "title": "The future is Postgres (Interview)",
-        "date": "Wed, 28 Oct 2026 15:00:00 +0000",
-        "duration": "1:46:19",
-        "url": "https://changelog.com/podcast/688"
       }
     ]
   }
