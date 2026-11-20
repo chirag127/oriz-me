@@ -115,6 +115,12 @@
     "link": "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853?uo=4",
     "episodes": [
       {
+        "title": "The Rise of the Software Factories",
+        "date": "Thu, 19 Nov 2026 10:00:00 +0000",
+        "duration": "36:19",
+        "url": "https://softwareengineeringdaily.com/podcasts/the-rise-of-the-software-factories/"
+      },
+      {
         "title": "The Technical Interview Is Broken",
         "date": "Tue, 17 Nov 2026 10:00:00 +0000",
         "duration": "53:38",
@@ -125,12 +131,6 @@
         "date": "Thu, 12 Nov 2026 10:00:00 +0000",
         "duration": "42:22",
         "url": "https://softwareengineeringdaily.com/podcasts/fraud-prevention-in-the-age-of-ai-agents/"
-      },
-      {
-        "title": "GitLab and the Evolution of DevSecOps",
-        "date": "Tue, 10 Nov 2026 10:00:00 +0000",
-        "duration": "56:11",
-        "url": "https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/"
       }
     ]
   },
