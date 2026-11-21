@@ -7,14 +7,14 @@
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.221,
-    "votes": 4113,
+    "rating": 7.222,
+    "votes": 4119,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 2053.4442
+    "popularity": 2006.5034
   },
   {
     "id": 37678,
@@ -30,7 +30,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1627.7586
+    "popularity": 1805.0217
   },
   {
     "id": 456,
@@ -41,13 +41,47 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.029,
-    "votes": 11188,
+    "votes": 11192,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1087.9393
+    "popularity": 972.0273
+  },
+  {
+    "id": 46923,
+    "tmdb_id": 46923,
+    "type": "tv",
+    "title": "Shetland",
+    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+    "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+    "rating": 7.5,
+    "votes": 218,
+    "release": "2013-03-10",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1308.3697
+  },
+  {
+    "id": 231962,
+    "tmdb_id": 231962,
+    "type": "tv",
+    "title": "Diepe Waters",
+    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+    "rating": 8.2,
+    "votes": 4,
+    "release": "2022-10-03",
+    "genres": [
+      10766
+    ],
+    "popularity": 297.0787
   },
   {
     "id": 247718,
@@ -57,14 +91,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.673,
-    "votes": 1274,
+    "rating": 8.674,
+    "votes": 1280,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 404.7715
+    "popularity": 465.5593
   },
   {
     "id": 33238,
@@ -81,57 +115,7 @@
       35,
       10764
     ],
-    "popularity": 334.6616
-  },
-  {
-    "id": 231962,
-    "tmdb_id": 231962,
-    "type": "tv",
-    "title": "Diepe Waters",
-    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
-    "genres": [
-      10766
-    ],
-    "popularity": 504.1451
-  },
-  {
-    "id": 387,
-    "tmdb_id": 387,
-    "type": "tv",
-    "title": "SpongeBob SquarePants",
-    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-    "rating": 7.723,
-    "votes": 3313,
-    "release": "1999-05-01",
-    "genres": [
-      16,
-      35,
-      10751
-    ],
-    "popularity": 278.9938
-  },
-  {
-    "id": 206559,
-    "tmdb_id": 206559,
-    "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.474,
-    "votes": 114,
-    "release": "2005-10-13",
-    "genres": [
-      10766
-    ],
-    "popularity": 273.9998
+    "popularity": 339.0698
   },
   {
     "id": 11890,
@@ -147,24 +131,25 @@
     "genres": [
       10766
     ],
-    "popularity": 285.4877
+    "popularity": 313.0857
   },
   {
-    "id": 279246,
-    "tmdb_id": 279246,
+    "id": 387,
+    "tmdb_id": 387,
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.811,
-    "votes": 119,
-    "release": "2026-11-03",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "rating": 7.722,
+    "votes": 3314,
+    "release": "1999-05-01",
     "genres": [
-      18,
-      10765
+      16,
+      35,
+      10751
     ],
-    "popularity": 242.3295
+    "popularity": 286.1019
   },
   {
     "id": 153312,
@@ -175,14 +160,30 @@
     "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
     "rating": 8.322,
-    "votes": 2968,
+    "votes": 2972,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 242.3391
+    "popularity": 277.1089
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.474,
+    "votes": 114,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 268.6705
   },
   {
     "id": 61818,
@@ -190,16 +191,33 @@
     "type": "tv",
     "title": "Late Night with Seth Meyers",
     "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/9T7nQYH98nwha0oj3rVIDe1gTiZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.107,
+    "rating": 5.1,
     "votes": 140,
     "release": "2014-02-25",
     "genres": [
       10767,
       35
     ],
-    "popularity": 250.4777
+    "popularity": 289.2732
+  },
+  {
+    "id": 279246,
+    "tmdb_id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 8.8,
+    "votes": 124,
+    "release": "2026-11-03",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 232.8046
   },
   {
     "id": 4656,
@@ -215,7 +233,7 @@
     "genres": [
       10764
     ],
-    "popularity": 239.8833
+    "popularity": 252.7664
   },
   {
     "id": 291,
@@ -231,7 +249,7 @@
     "genres": [
       10766
     ],
-    "popularity": 208.9917
+    "popularity": 235.9547
   },
   {
     "id": 330613,
@@ -249,7 +267,7 @@
       9648,
       10765
     ],
-    "popularity": 192.2037
+    "popularity": 181.8329
   },
   {
     "id": 57775,
@@ -266,7 +284,7 @@
       16,
       35
     ],
-    "popularity": 178.1797
+    "popularity": 192.9871
   },
   {
     "id": 1871,
@@ -284,7 +302,7 @@
       18,
       80
     ],
-    "popularity": 168.4761
+    "popularity": 184.512
   },
   {
     "id": 81329,
@@ -300,41 +318,22 @@
     "genres": [
       10766
     ],
-    "popularity": 162.6358
+    "popularity": 178.3211
   },
   {
-    "id": 72879,
-    "tmdb_id": 72879,
+    "id": 65701,
+    "tmdb_id": 65701,
     "type": "tv",
-    "title": "Tomorrow Is Ours",
-    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "poster": "https://image.tmdb.org/t/p/w342/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-    "rating": 6.263,
-    "votes": 76,
-    "release": "2017-07-17",
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "rating": 6.929,
+    "votes": 99,
+    "release": "2012-01-09",
     "genres": [
-      80,
-      18,
-      10766
+      35
     ],
-    "popularity": 150.1403
-  },
-  {
-    "id": 2190,
-    "tmdb_id": 2190,
-    "type": "tv",
-    "title": "South Park",
-    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-    "rating": 8.334,
-    "votes": 5286,
-    "release": "1997-08-13",
-    "genres": [
-      35,
-      16
-    ],
-    "popularity": 143.6067
+    "popularity": 152.9509
   }
 ]

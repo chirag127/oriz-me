@@ -7,66 +7,14 @@
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.221,
-    "votes": 4113,
+    "rating": 7.222,
+    "votes": 4120,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 2053.4442
-  },
-  {
-    "id": 291507,
-    "tmdb_id": 291507,
-    "type": "tv",
-    "title": "The Body",
-    "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-    "poster": "https://image.tmdb.org/t/p/w342/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-    "rating": 7.938,
-    "votes": 96,
-    "release": "2026-11-11",
-    "genres": [
-      9648,
-      18
-    ],
-    "popularity": 187.9399
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.3,
-    "votes": 549,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 179.2351
-  },
-  {
-    "id": 254630,
-    "tmdb_id": 254630,
-    "type": "tv",
-    "title": "12 12 12",
-    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-    "rating": 6.1,
-    "votes": 40,
-    "release": "2026-11-12",
-    "genres": [
-      10759,
-      80,
-      18
-    ],
-    "popularity": 112.212
+    "popularity": 2006.5034
   },
   {
     "id": 247718,
@@ -76,14 +24,65 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.674,
-    "votes": 1275,
+    "rating": 8.675,
+    "votes": 1281,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 404.7715
+    "popularity": 465.5593
+  },
+  {
+    "id": 300523,
+    "tmdb_id": 300523,
+    "type": "tv",
+    "title": "The Blue Road",
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "poster": "https://image.tmdb.org/t/p/w342/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "rating": 8,
+    "votes": 4,
+    "release": "2026-11-20",
+    "genres": [
+      80,
+      9648
+    ],
+    "popularity": 41.2699
+  },
+  {
+    "id": 291507,
+    "tmdb_id": 291507,
+    "type": "tv",
+    "title": "The Body",
+    "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+    "poster": "https://image.tmdb.org/t/p/w342/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+    "rating": 8,
+    "votes": 102,
+    "release": "2026-11-11",
+    "genres": [
+      9648,
+      18
+    ],
+    "popularity": 179.0163
+  },
+  {
+    "id": 213375,
+    "tmdb_id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.244,
+    "votes": 557,
+    "release": "2026-10-13",
+    "genres": [
+      10765,
+      18
+    ],
+    "popularity": 156.3789
   },
   {
     "id": 259909,
@@ -93,67 +92,33 @@
     "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
     "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.5,
-    "votes": 769,
+    "rating": 8.544,
+    "votes": 772,
     "release": "2025-07-13",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 84.0761
+    "popularity": 97.1972
   },
   {
-    "id": 279246,
-    "tmdb_id": 279246,
+    "id": 254630,
+    "tmdb_id": 254630,
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.8,
-    "votes": 119,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 242.3295
-  },
-  {
-    "id": 293610,
-    "tmdb_id": 293610,
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "rating": 8.607,
-    "votes": 70,
-    "release": "2026-10-09",
-    "genres": [
-      9648,
-      18,
-      80
-    ],
-    "popularity": 59.4024
-  },
-  {
-    "id": 249565,
-    "tmdb_id": 249565,
-    "type": "tv",
-    "title": "The Good Daughter",
-    "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
-    "poster": "https://image.tmdb.org/t/p/w342/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-    "rating": 7.5,
-    "votes": 24,
+    "title": "12 12 12",
+    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+    "rating": 6.171,
+    "votes": 41,
     "release": "2026-11-12",
     "genres": [
-      18,
-      9648
+      10759,
+      80,
+      18
     ],
-    "popularity": 36.3321
+    "popularity": 99.5624
   },
   {
     "id": 103540,
@@ -164,7 +129,7 @@
     "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
     "rating": 7.3,
-    "votes": 877,
+    "votes": 881,
     "release": "2023-12-19",
     "genres": [
       10759,
@@ -172,77 +137,59 @@
       18,
       10751
     ],
-    "popularity": 38.014
+    "popularity": 82.5419
   },
   {
-    "id": 308007,
-    "tmdb_id": 308007,
+    "id": 117488,
+    "tmdb_id": 117488,
     "type": "tv",
-    "title": "The Altruists",
-    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-    "poster": "https://image.tmdb.org/t/p/w342/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-    "rating": 6.444,
-    "votes": 9,
-    "release": "2026-11-19",
+    "title": "Yellowjackets",
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "rating": 7.428,
+    "votes": 1083,
+    "release": "2021-11-14",
     "genres": [
-      80,
-      18
-    ],
-    "popularity": 40.1225
-  },
-  {
-    "id": 300523,
-    "tmdb_id": 300523,
-    "type": "tv",
-    "title": "The Blue Road",
-    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-    "poster": "https://image.tmdb.org/t/p/w342/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-    "rating": 10,
-    "votes": 1,
-    "release": "2026-11-20",
-    "genres": [
-      80,
-      9648
-    ],
-    "popularity": 6.3761
-  },
-  {
-    "id": 292741,
-    "tmdb_id": 292741,
-    "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.635,
-    "votes": 63,
-    "release": "2026-10-29",
-    "genres": [
-      80,
       18,
       9648
     ],
-    "popularity": 71.667
+    "popularity": 51.8197
   },
   {
-    "id": 85077,
-    "tmdb_id": 85077,
+    "id": 279246,
+    "tmdb_id": 279246,
     "type": "tv",
-    "title": "The Chosen",
-    "overview": "The life of Christ through the eyes of those who encountered him.",
-    "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-    "rating": 8.9,
-    "votes": 1078,
-    "release": "2019-04-21",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 8.756,
+    "votes": 125,
+    "release": "2026-11-03",
     "genres": [
-      10759,
-      10751,
-      18
+      18,
+      10765
     ],
-    "popularity": 116.9197
+    "popularity": 232.8046
+  },
+  {
+    "id": 293610,
+    "tmdb_id": 293610,
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "poster": "https://image.tmdb.org/t/p/w342/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "rating": 8.6,
+    "votes": 70,
+    "release": "2026-10-09",
+    "genres": [
+      9648,
+      18,
+      80
+    ],
+    "popularity": 54.2938
   },
   {
     "id": 37854,
@@ -260,24 +207,96 @@
       35,
       16
     ],
-    "popularity": 334.9245
+    "popularity": 349.8739
   },
   {
-    "id": 335981,
-    "tmdb_id": 335981,
+    "id": 45790,
+    "tmdb_id": 45790,
     "type": "tv",
-    "title": "Cunk on Cinema",
-    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
-    "poster": "https://image.tmdb.org/t/p/w342/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-    "rating": 7.3,
-    "votes": 23,
-    "release": "2026-11-12",
+    "title": "JoJo's Bizarre Adventure",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "rating": 8.6,
+    "votes": 1713,
+    "release": "2012-10-06",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 99.2817
+  },
+  {
+    "id": 308007,
+    "tmdb_id": 308007,
+    "type": "tv",
+    "title": "The Altruists",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "poster": "https://image.tmdb.org/t/p/w342/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "rating": 6.6,
+    "votes": 10,
+    "release": "2026-11-19",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 46.6488
+  },
+  {
+    "id": 303745,
+    "tmdb_id": 303745,
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+    "rating": 8.929,
+    "votes": 92,
+    "release": "2026-10-19",
     "genres": [
       35,
-      99
+      18,
+      80
     ],
-    "popularity": 29.1434
+    "popularity": 112.9829
+  },
+  {
+    "id": 85077,
+    "tmdb_id": 85077,
+    "type": "tv",
+    "title": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him.",
+    "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
+    "rating": 8.9,
+    "votes": 1078,
+    "release": "2019-04-21",
+    "genres": [
+      10759,
+      10751,
+      18
+    ],
+    "popularity": 119.3917
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.321,
+    "votes": 2973,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 277.1089
   },
   {
     "id": 307853,
@@ -285,65 +304,48 @@
     "type": "tv",
     "title": "Sunshine through the Rain",
     "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-    "poster": "https://image.tmdb.org/t/p/w342/x5WyzzlhYiq4HeR3bhJuHGxDUYX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
-    "rating": 8.55,
+    "rating": 8.6,
     "votes": 20,
     "release": "2026-11-06",
     "genres": [
       18
     ],
-    "popularity": 34.4734
+    "popularity": 39.0174
   },
   {
-    "id": 117488,
-    "tmdb_id": 117488,
+    "id": 203483,
+    "tmdb_id": 203483,
     "type": "tv",
-    "title": "Yellowjackets",
-    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-    "rating": 7.4,
-    "votes": 1081,
-    "release": "2021-11-14",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 31.8161
-  },
-  {
-    "id": 330613,
-    "tmdb_id": 330613,
-    "type": "tv",
-    "title": "The Rules",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "rating": 8.5,
-    "votes": 2,
-    "release": "2026-10-28",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 192.2037
-  },
-  {
-    "id": 261315,
-    "tmdb_id": 261315,
-    "type": "tv",
-    "title": "Blossom in Darkness",
-    "overview": "Qi Fengyin, a feared demon lord blamed for all evil, encounters Ya Mao, a girl whose flesh is coveted for its extraordinary powers. Forced into a bond, the two clash yet gradually become each other's salvation. Together, they unravel six bizarre mysteries involving deadly curses, demons, resurrection, and forbidden love. As they expose a hidden conspiracy, they clear their names, free the world from its shackles, and give lovers a chance to stay together.",
-    "poster": "https://image.tmdb.org/t/p/w342/yIud4feVA01sazmOSVRZLwNoeBu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/msJpPeZiqSxXXKJ0IiuOOOv7s9p.jpg",
-    "rating": 9,
-    "votes": 3,
-    "release": "2026-11-15",
+    "title": "River of No Return",
+    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
+    "poster": "https://image.tmdb.org/t/p/w342/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2tSITVFt6BsGYeMp0RQ9tCbCXPm.jpg",
+    "rating": 8,
+    "votes": 4,
+    "release": "2026-11-20",
     "genres": [
       18
     ],
-    "popularity": 20.7567
+    "popularity": 12.5355
+  },
+  {
+    "id": 292741,
+    "tmdb_id": 292741,
+    "type": "tv",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "rating": 7.6,
+    "votes": 63,
+    "release": "2026-10-29",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 77.0415
   }
 ]

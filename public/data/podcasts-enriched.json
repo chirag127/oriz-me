@@ -61,6 +61,12 @@
     "link": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?uo=4",
     "episodes": [
       {
+        "title": "#890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading",
+        "date": "Fri, 20 Nov 2026 17:00:00 -0000",
+        "duration": "00:37:00",
+        "url": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      },
+      {
         "title": "#889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
         "date": "Wed, 11 Nov 2026 17:30:00 -0000",
         "duration": "01:14:29",
@@ -71,12 +77,6 @@
         "date": "Thu, 05 Nov 2026 20:30:00 -0000",
         "duration": "00:29:55",
         "url": "https://rss.art19.com/episodes/07d7a417-7e0c-4fb4-be7b-f91a7f5471ce.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
-      },
-      {
-        "title": "#887: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More",
-        "date": "Tue, 20 Oct 2026 22:30:00 -0000",
-        "duration": "01:19:06",
-        "url": "https://rss.art19.com/episodes/eb8bf694-3e19-4de4-a26e-4d56f4aed161.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
       }
     ]
   },
@@ -142,6 +142,12 @@
     "link": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?uo=4",
     "episodes": [
       {
+        "title": "A seminal moment in computing (Interview)",
+        "date": "Fri, 20 Nov 2026 20:00:00 +0000",
+        "duration": "1:13:16",
+        "url": "https://changelog.com/podcast/692"
+      },
+      {
         "title": "Orbin' with Amp (Interview)",
         "date": "Wed, 18 Nov 2026 20:00:00 +0000",
         "duration": "1:24:22",
@@ -152,12 +158,6 @@
         "date": "Fri, 13 Nov 2026 03:00:00 +0000",
         "duration": "2:19:41",
         "url": "https://changelog.com/podcast/690"
-      },
-      {
-        "title": "We now have Kerr’s Law (Interview)",
-        "date": "Wed, 04 Nov 2026 21:00:00 +0000",
-        "duration": "2:27:04",
-        "url": "https://changelog.com/podcast/689"
       }
     ]
   }
