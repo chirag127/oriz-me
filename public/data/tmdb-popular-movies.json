@@ -1,5 +1,23 @@
 [
   {
+    "id": 1726,
+    "tmdb_id": 1726,
+    "type": "movie",
+    "title": "Iron Man",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+    "rating": 7.669,
+    "votes": 29240,
+    "release": "2008-04-30",
+    "genres": [
+      28,
+      878,
+      12
+    ],
+    "popularity": 1757.6393
+  },
+  {
     "id": 1368337,
     "tmdb_id": 1368337,
     "type": "movie",
@@ -7,15 +25,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg",
-    "rating": 8.02,
-    "votes": 5235,
+    "rating": 8.019,
+    "votes": 5302,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 481.7218
+    "popularity": 481.4868
   },
   {
     "id": 1263337,
@@ -25,84 +43,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "rating": 7.791,
-    "votes": 1090,
+    "rating": 7.821,
+    "votes": 1131,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 397.9539
-  },
-  {
-    "id": 1726,
-    "tmdb_id": 1726,
-    "type": "movie",
-    "title": "Iron Man",
-    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
-    "rating": 7.668,
-    "votes": 29231,
-    "release": "2008-04-30",
-    "genres": [
-      28,
-      878,
-      12
-    ],
-    "popularity": 1233.7756
-  },
-  {
-    "id": 1400837,
-    "tmdb_id": 1400837,
-    "type": "movie",
-    "title": "Other Mommy",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.4,
-    "votes": 545,
-    "release": "2026-10-07",
-    "genres": [
-      27
-    ],
-    "popularity": 327.2864
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.534,
-    "votes": 2424,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 294.5902
-  },
-  {
-    "id": 969681,
-    "tmdb_id": 969681,
-    "type": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-    "rating": 8.457,
-    "votes": 7012,
-    "release": "2026-07-29",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 300.7952
+    "popularity": 385.0009
   },
   {
     "id": 1300968,
@@ -112,33 +60,67 @@
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 7.5,
-    "votes": 127,
+    "rating": 7.663,
+    "votes": 187,
     "release": "2026-11-18",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 292.6918
+    "popularity": 343.0825
   },
   {
-    "id": 1616687,
-    "tmdb_id": 1616687,
+    "id": 1400837,
+    "tmdb_id": 1400837,
     "type": "movie",
-    "title": "Never Surrender",
-    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-    "rating": 6.845,
-    "votes": 58,
-    "release": "2026-11-11",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "rating": 6.5,
+    "votes": 570,
+    "release": "2026-10-07",
     "genres": [
-      28,
-      80,
-      53
+      27
     ],
-    "popularity": 207.5576
+    "popularity": 320.2749
+  },
+  {
+    "id": 969681,
+    "tmdb_id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "rating": 8.457,
+    "votes": 7043,
+    "release": "2026-07-29",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 301.1391
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "rating": 7.528,
+    "votes": 2464,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 285.5997
   },
   {
     "id": 1058424,
@@ -148,15 +130,33 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.842,
-    "votes": 748,
+    "rating": 6.856,
+    "votes": 760,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 214.7707
+    "popularity": 214.598
+  },
+  {
+    "id": 1616687,
+    "tmdb_id": 1616687,
+    "type": "movie",
+    "title": "Never Surrender",
+    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+    "rating": 6.818,
+    "votes": 74,
+    "release": "2026-11-11",
+    "genres": [
+      28,
+      80,
+      53
+    ],
+    "popularity": 199.8737
   },
   {
     "id": 1813355,
@@ -166,15 +166,33 @@
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "rating": 6.528,
-    "votes": 145,
+    "rating": 6.551,
+    "votes": 146,
     "release": "2026-10-31",
     "genres": [
       18,
       27,
       9648
     ],
-    "popularity": 180.7885
+    "popularity": 171.7208
+  },
+  {
+    "id": 1507696,
+    "tmdb_id": 1507696,
+    "type": "movie",
+    "title": "Apocalypse Z: New World",
+    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "rating": 6.2,
+    "votes": 249,
+    "release": "2026-10-09",
+    "genres": [
+      28,
+      53,
+      27
+    ],
+    "popularity": 171.8118
   },
   {
     "id": 1003596,
@@ -182,8 +200,8 @@
     "type": "movie",
     "title": "Avengers: Doomsday",
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "rating": 0,
     "votes": 0,
     "release": "2026-12-16",
@@ -192,7 +210,25 @@
       28,
       12
     ],
-    "popularity": 173.0649
+    "popularity": 167.8736
+  },
+  {
+    "id": 1244523,
+    "tmdb_id": 1244523,
+    "type": "movie",
+    "title": "Beware Boiúna",
+    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+    "poster": "https://image.tmdb.org/t/p/w342/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "rating": 5.9,
+    "votes": 70,
+    "release": "2026-10-01",
+    "genres": [
+      12,
+      27,
+      53
+    ],
+    "popularity": 162.0315
   },
   {
     "id": 687163,
@@ -203,49 +239,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
     "rating": 8.622,
-    "votes": 8977,
+    "votes": 8987,
     "release": "2026-03-15",
     "genres": [
       878,
       12
     ],
-    "popularity": 138.1684
-  },
-  {
-    "id": 1244523,
-    "tmdb_id": 1244523,
-    "type": "movie",
-    "title": "Beware Boiúna",
-    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-    "poster": "https://image.tmdb.org/t/p/w342/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-    "rating": 5.9,
-    "votes": 69,
-    "release": "2026-10-01",
-    "genres": [
-      12,
-      27,
-      53
-    ],
-    "popularity": 153.7627
-  },
-  {
-    "id": 1507696,
-    "tmdb_id": 1507696,
-    "type": "movie",
-    "title": "Apocalypse Z: New World",
-    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.215,
-    "votes": 242,
-    "release": "2026-10-09",
-    "genres": [
-      28,
-      53,
-      27
-    ],
-    "popularity": 161.2815
+    "popularity": 108.993
   },
   {
     "id": 656908,
@@ -255,15 +255,15 @@
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-    "rating": 7.4,
-    "votes": 62,
+    "rating": 7.442,
+    "votes": 69,
     "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 133.5754
+    "popularity": 128.6645
   },
   {
     "id": 1294189,
@@ -273,14 +273,14 @@
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-    "rating": 6.447,
-    "votes": 225,
+    "rating": 6.496,
+    "votes": 233,
     "release": "2026-10-29",
     "genres": [
       28,
       53
     ],
-    "popularity": 126.1536
+    "popularity": 121.4811
   },
   {
     "id": 1562642,
@@ -290,14 +290,14 @@
     "overview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
     "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "rating": 8.939,
-    "votes": 33,
+    "rating": 8.926,
+    "votes": 34,
     "release": "2026-11-06",
     "genres": [
       28,
       53
     ],
-    "popularity": 121.5006
+    "popularity": 122.6146
   },
   {
     "id": 1381071,
@@ -307,32 +307,32 @@
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
     "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 7.665,
-    "votes": 276,
+    "rating": 7.674,
+    "votes": 282,
     "release": "2026-11-03",
     "genres": [
       878,
       27,
       28
     ],
-    "popularity": 120.171
+    "popularity": 122.4366
   },
   {
-    "id": 1567605,
-    "tmdb_id": 1567605,
+    "id": 1551025,
+    "tmdb_id": 1551025,
     "type": "movie",
-    "title": "Ebenezer",
-    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
-    "rating": 7.5,
-    "votes": 137,
-    "release": "2026-11-11",
+    "title": "Guarding Stars",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "rating": 6.9,
+    "votes": 74,
+    "release": "2026-11-18",
     "genres": [
-      14,
+      10749,
       35
     ],
-    "popularity": 114.0667
+    "popularity": 144.5517
   },
   {
     "id": 1422041,
@@ -342,13 +342,13 @@
     "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "poster": "https://image.tmdb.org/t/p/w342/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-    "rating": 7.949,
-    "votes": 247,
-    "release": "2026-01-14",
+    "rating": 7.9,
+    "votes": 249,
+    "release": "2026-09-25",
     "genres": [
       18,
       10752
     ],
-    "popularity": 113.0409
+    "popularity": 110.4386
   }
 ]

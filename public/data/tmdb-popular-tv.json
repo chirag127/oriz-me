@@ -1,5 +1,23 @@
 [
   {
+    "id": 1413,
+    "tmdb_id": 1413,
+    "type": "tv",
+    "title": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "rating": 8.078,
+    "votes": 6316,
+    "release": "2011-10-05",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 2007.4332
+  },
+  {
     "id": 1434,
     "tmdb_id": 1434,
     "type": "tv",
@@ -7,14 +25,14 @@
     "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
     "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-    "rating": 7.418,
-    "votes": 5227,
+    "rating": 7.419,
+    "votes": 5229,
     "release": "1999-01-31",
     "genres": [
       16,
       35
     ],
-    "popularity": 2269.4912
+    "popularity": 2148.7835
   },
   {
     "id": 1622,
@@ -25,47 +43,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
     "rating": 8.316,
-    "votes": 8851,
+    "votes": 8853,
     "release": "2005-09-13",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 2227.5824
-  },
-  {
-    "id": 76331,
-    "tmdb_id": 76331,
-    "type": "tv",
-    "title": "Succession",
-    "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-    "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-    "rating": 8.307,
-    "votes": 1863,
-    "release": "2018-06-03",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 1882.5168
-  },
-  {
-    "id": 18347,
-    "tmdb_id": 18347,
-    "type": "tv",
-    "title": "Community",
-    "overview": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
-    "poster": "https://image.tmdb.org/t/p/w342/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
-    "rating": 7.989,
-    "votes": 2247,
-    "release": "2009-09-17",
-    "genres": [
-      35
-    ],
-    "popularity": 1758.6617
+    "popularity": 2114.1152
   },
   {
     "id": 5920,
@@ -75,67 +60,15 @@
     "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
     "poster": "https://image.tmdb.org/t/p/w342/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-    "rating": 8.4,
-    "votes": 5034,
+    "rating": 8.42,
+    "votes": 5038,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 2139.2426
-  },
-  {
-    "id": 1413,
-    "tmdb_id": 1413,
-    "type": "tv",
-    "title": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.078,
-    "votes": 6315,
-    "release": "2011-10-05",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 2467.553
-  },
-  {
-    "id": 84773,
-    "tmdb_id": 84773,
-    "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.222,
-    "votes": 4120,
-    "release": "2022-09-01",
-    "genres": [
-      10759,
-      10765
-    ],
-    "popularity": 2006.5034
-  },
-  {
-    "id": 60735,
-    "tmdb_id": 60735,
-    "type": "tv",
-    "title": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "rating": 7.737,
-    "votes": 11883,
-    "release": "2014-10-07",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 1891.6132
+    "popularity": 1931.0969
   },
   {
     "id": 32573,
@@ -152,23 +85,24 @@
       18,
       10759
     ],
-    "popularity": 2122.7696
+    "popularity": 2077.3663
   },
   {
-    "id": 1100,
-    "tmdb_id": 1100,
+    "id": 84773,
+    "tmdb_id": 84773,
     "type": "tv",
-    "title": "How I Met Your Mother",
-    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
-    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
-    "rating": 8.108,
-    "votes": 6102,
-    "release": "2005-09-19",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+    "rating": 7.223,
+    "votes": 4128,
+    "release": "2022-09-01",
     "genres": [
-      35
+      10759,
+      10765
     ],
-    "popularity": 1792.4319
+    "popularity": 1825.2891
   },
   {
     "id": 4620,
@@ -179,14 +113,48 @@
     "poster": "https://image.tmdb.org/t/p/w342/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
     "rating": 7.726,
-    "votes": 756,
+    "votes": 758,
     "release": "2006-07-18",
     "genres": [
       10765,
       35,
       18
     ],
-    "popularity": 2002.7028
+    "popularity": 1925.536
+  },
+  {
+    "id": 60735,
+    "tmdb_id": 60735,
+    "type": "tv",
+    "title": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "rating": 7.737,
+    "votes": 11883,
+    "release": "2014-10-07",
+    "genres": [
+      18,
+      10765
+    ],
+    "popularity": 1652.3363
+  },
+  {
+    "id": 76331,
+    "tmdb_id": 76331,
+    "type": "tv",
+    "title": "Succession",
+    "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+    "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+    "rating": 8.3,
+    "votes": 1864,
+    "release": "2018-06-03",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 1902.4211
   },
   {
     "id": 37678,
@@ -202,92 +170,39 @@
     "genres": [
       10764
     ],
-    "popularity": 1805.0217
+    "popularity": 1563.9212
   },
   {
-    "id": 1400,
-    "tmdb_id": 1400,
+    "id": 1100,
+    "tmdb_id": 1100,
     "type": "tv",
-    "title": "Seinfeld",
-    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
-    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
-    "rating": 8.244,
-    "votes": 2534,
-    "release": "1989-07-05",
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "poster": "https://image.tmdb.org/t/p/w342/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "rating": 8.108,
+    "votes": 6104,
+    "release": "2005-09-19",
     "genres": [
       35
     ],
-    "popularity": 1628.2572
+    "popularity": 1538.827
   },
   {
-    "id": 2734,
-    "tmdb_id": 2734,
+    "id": 18347,
+    "tmdb_id": 18347,
     "type": "tv",
-    "title": "Law & Order: Special Victims Unit",
-    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-    "rating": 7.963,
-    "votes": 4428,
-    "release": "1999-09-20",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 1542.3404
-  },
-  {
-    "id": 231100,
-    "tmdb_id": 231100,
-    "type": "tv",
-    "title": "Boundless Love",
-    "overview": "When he was a little child, Halil İbrahim lost his father due to a blood feud and was exiled to Istanbul. Twenty years later, he returns to his homeland in the Karadeniz region as a handsome, powerful young man. He plans to marry the girl he loves, Yasemin, and start a new life. However, events do not allow this. Halil İbrahim embarks on a journey of revenge, and his life will change completely when he encounters Zeynep from the Leto family.",
-    "poster": "https://image.tmdb.org/t/p/w342/1BQSLOIvjnBzrxkXjX9R0JfHTWI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vV5GFJtp8DgAysY1F0WfIwedi81.jpg",
-    "rating": 8.141,
-    "votes": 32,
-    "release": "2023-09-21",
-    "genres": [
-      18,
-      80,
-      10766
-    ],
-    "popularity": 1499.2476
-  },
-  {
-    "id": 1421,
-    "tmdb_id": 1421,
-    "type": "tv",
-    "title": "Modern Family",
-    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
-    "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-    "rating": 7.911,
-    "votes": 3646,
-    "release": "2009-09-23",
+    "title": "Community",
+    "overview": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
+    "rating": 7.989,
+    "votes": 2248,
+    "release": "2009-09-17",
     "genres": [
       35
     ],
-    "popularity": 1608.1814
-  },
-  {
-    "id": 83631,
-    "tmdb_id": 83631,
-    "type": "tv",
-    "title": "What We Do in the Shadows",
-    "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
-    "poster": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-    "rating": 8.002,
-    "votes": 1111,
-    "release": "2019-03-27",
-    "genres": [
-      35,
-      10765
-    ],
-    "popularity": 1611.1542
+    "popularity": 1810.3771
   },
   {
     "id": 1877,
@@ -306,7 +221,92 @@
       10751,
       10765
     ],
-    "popularity": 1689.1837
+    "popularity": 1511.4312
+  },
+  {
+    "id": 1400,
+    "tmdb_id": 1400,
+    "type": "tv",
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+    "rating": 8.2,
+    "votes": 2534,
+    "release": "1989-07-05",
+    "genres": [
+      35
+    ],
+    "popularity": 1459.3181
+  },
+  {
+    "id": 83631,
+    "tmdb_id": 83631,
+    "type": "tv",
+    "title": "What We Do in the Shadows",
+    "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+    "poster": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+    "rating": 8.005,
+    "votes": 1114,
+    "release": "2019-03-27",
+    "genres": [
+      35,
+      10765
+    ],
+    "popularity": 1544.8278
+  },
+  {
+    "id": 1421,
+    "tmdb_id": 1421,
+    "type": "tv",
+    "title": "Modern Family",
+    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "poster": "https://image.tmdb.org/t/p/w342/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+    "rating": 7.911,
+    "votes": 3646,
+    "release": "2009-09-23",
+    "genres": [
+      35
+    ],
+    "popularity": 1411.0657
+  },
+  {
+    "id": 42009,
+    "tmdb_id": 42009,
+    "type": "tv",
+    "title": "Black Mirror",
+    "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+    "poster": "https://image.tmdb.org/t/p/w342/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "rating": 8.296,
+    "votes": 6718,
+    "release": "2011-12-04",
+    "genres": [
+      10765,
+      18,
+      9648
+    ],
+    "popularity": 1933.7717
+  },
+  {
+    "id": 2734,
+    "tmdb_id": 2734,
+    "type": "tv",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 8,
+    "votes": 4428,
+    "release": "1999-09-20",
+    "genres": [
+      80,
+      18,
+      9648
+    ],
+    "popularity": 1475.7125
   },
   {
     "id": 57243,
@@ -316,31 +316,32 @@
     "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
     "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-    "rating": 7.6,
-    "votes": 3519,
+    "rating": 7.634,
+    "votes": 3520,
     "release": "2005-03-26",
     "genres": [
       10759,
       18,
       10765
     ],
-    "popularity": 1526.9021
+    "popularity": 1388.3992
   },
   {
-    "id": 18165,
-    "tmdb_id": 18165,
+    "id": 95480,
+    "tmdb_id": 95480,
     "type": "tv",
-    "title": "The Vampire Diaries",
-    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-    "poster": "https://image.tmdb.org/t/p/w342/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "rating": 8.3,
-    "votes": 9865,
-    "release": "2009-09-10",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.078,
+    "votes": 1148,
+    "release": "2022-04-01",
     "genres": [
+      80,
       18,
-      10765
+      9648
     ],
-    "popularity": 1485.217
+    "popularity": 1417.1428
   }
 ]
