@@ -1,38 +1,5 @@
 [
   {
-    "id": 84773,
-    "tmdb_id": 84773,
-    "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.223,
-    "votes": 4128,
-    "release": "2022-09-01",
-    "genres": [
-      10759,
-      10765
-    ],
-    "popularity": 1825.2891
-  },
-  {
-    "id": 37678,
-    "tmdb_id": 37678,
-    "type": "tv",
-    "title": "The Voice",
-    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
-    "rating": 5.853,
-    "votes": 235,
-    "release": "2011-04-26",
-    "genres": [
-      10764
-    ],
-    "popularity": 1563.9212
-  },
-  {
     "id": 46923,
     "tmdb_id": 46923,
     "type": "tv",
@@ -48,7 +15,40 @@
       18,
       9648
     ],
-    "popularity": 1807.3092
+    "popularity": 2456.3683
+  },
+  {
+    "id": 84773,
+    "tmdb_id": 84773,
+    "type": "tv",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+    "rating": 7.223,
+    "votes": 4134,
+    "release": "2022-09-01",
+    "genres": [
+      10759,
+      10765
+    ],
+    "popularity": 1660.3668
+  },
+  {
+    "id": 37678,
+    "tmdb_id": 37678,
+    "type": "tv",
+    "title": "The Voice",
+    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+    "rating": 5.9,
+    "votes": 235,
+    "release": "2011-04-26",
+    "genres": [
+      10764
+    ],
+    "popularity": 1486.5785
   },
   {
     "id": 456,
@@ -59,13 +59,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.029,
-    "votes": 11196,
+    "votes": 11197,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 953.4581
+    "popularity": 1025.6937
   },
   {
     "id": 22980,
@@ -82,7 +82,23 @@
       10767,
       35
     ],
-    "popularity": 553.5172
+    "popularity": 571.9588
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.25,
+    "votes": 22,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 321.6359
   },
   {
     "id": 33238,
@@ -99,39 +115,42 @@
       35,
       10764
     ],
-    "popularity": 339.0715
+    "popularity": 328.0573
   },
   {
-    "id": 11890,
-    "tmdb_id": 11890,
+    "id": 153312,
+    "tmdb_id": 153312,
     "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.25,
-    "votes": 22,
-    "release": "1990-10-01",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.322,
+    "votes": 2976,
+    "release": "2022-11-13",
     "genres": [
-      10766
+      80,
+      18,
+      35
     ],
-    "popularity": 328.2133
+    "popularity": 310.1532
   },
   {
-    "id": 231962,
-    "tmdb_id": 231962,
+    "id": 2224,
+    "tmdb_id": 2224,
     "type": "tv",
-    "title": "Diepe Waters",
-    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
+    "title": "The Daily Show",
+    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+    "rating": 6.429,
+    "votes": 682,
+    "release": "1996-07-22",
     "genres": [
-      10766
+      10763,
+      35
     ],
-    "popularity": 278.8497
+    "popularity": 312.4469
   },
   {
     "id": 61818,
@@ -148,43 +167,23 @@
       10767,
       35
     ],
-    "popularity": 299.9407
+    "popularity": 306.9063
   },
   {
-    "id": 387,
-    "tmdb_id": 387,
+    "id": 231962,
+    "tmdb_id": 231962,
     "type": "tv",
-    "title": "SpongeBob SquarePants",
-    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-    "rating": 7.721,
-    "votes": 3316,
-    "release": "1999-05-01",
+    "title": "Diepe Waters",
+    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+    "rating": 8.2,
+    "votes": 4,
+    "release": "2022-10-03",
     "genres": [
-      16,
-      35,
-      10751
+      10766
     ],
-    "popularity": 265.286
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.321,
-    "votes": 2973,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 315.933
+    "popularity": 246.7937
   },
   {
     "id": 206559,
@@ -200,7 +199,25 @@
     "genres": [
       10766
     ],
-    "popularity": 274.0583
+    "popularity": 277.2589
+  },
+  {
+    "id": 387,
+    "tmdb_id": 387,
+    "type": "tv",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "rating": 7.721,
+    "votes": 3317,
+    "release": "1999-05-01",
+    "genres": [
+      16,
+      35,
+      10751
+    ],
+    "popularity": 251.1282
   },
   {
     "id": 4656,
@@ -216,7 +233,7 @@
     "genres": [
       10764
     ],
-    "popularity": 263.7268
+    "popularity": 266.609
   },
   {
     "id": 291,
@@ -232,7 +249,25 @@
     "genres": [
       10766
     ],
-    "popularity": 247.1357
+    "popularity": 252.1228
+  },
+  {
+    "id": 2661,
+    "tmdb_id": 2661,
+    "type": "tv",
+    "title": "Kamen Rider",
+    "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "poster": "https://image.tmdb.org/t/p/w342/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "rating": 6.45,
+    "votes": 111,
+    "release": "1971-04-03",
+    "genres": [
+      10759,
+      10765,
+      18
+    ],
+    "popularity": 233.0524
   },
   {
     "id": 279246,
@@ -243,30 +278,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
     "rating": 8.7,
-    "votes": 132,
+    "votes": 138,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 228.4872
-  },
-  {
-    "id": 57775,
-    "tmdb_id": 57775,
-    "type": "tv",
-    "title": "Chibi Maruko-chan",
-    "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-    "poster": "https://image.tmdb.org/t/p/w342/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-    "rating": 7.6,
-    "votes": 26,
-    "release": "1990-01-07",
-    "genres": [
-      16,
-      35
-    ],
-    "popularity": 198.7803
+    "popularity": 220.625
   },
   {
     "id": 1871,
@@ -277,32 +295,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/ETFWCToRFx45vNAsNexh31ufSE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
     "rating": 4.3,
-    "votes": 232,
+    "votes": 233,
     "release": "1985-02-19",
     "genres": [
       10766,
       18,
       80
     ],
-    "popularity": 192.3133
-  },
-  {
-    "id": 330613,
-    "tmdb_id": 330613,
-    "type": "tv",
-    "title": "The Rules",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "rating": 8.5,
-    "votes": 2,
-    "release": "2026-10-28",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 179.3185
+    "popularity": 188.7507
   },
   {
     "id": 81329,
@@ -318,24 +318,24 @@
     "genres": [
       10766
     ],
-    "popularity": 185.0967
+    "popularity": 182.5111
   },
   {
-    "id": 65334,
-    "tmdb_id": 65334,
+    "id": 330613,
+    "tmdb_id": 330613,
     "type": "tv",
-    "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-    "poster": "https://image.tmdb.org/t/p/w342/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-    "rating": 8.071,
-    "votes": 4718,
-    "release": "2015-10-19",
+    "title": "The Rules",
+    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+    "rating": 8.667,
+    "votes": 3,
+    "release": "2026-10-28",
     "genres": [
-      10759,
-      16,
-      10762
+      18,
+      9648,
+      10765
     ],
-    "popularity": 157.5174
+    "popularity": 180.9344
   }
 ]
