@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
     "rating": 9.597,
-    "votes": 430,
+    "votes": 431,
     "release": "2026-10-11",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 86.0883
+    "popularity": 83.4723
   },
   {
     "id": 276161,
@@ -25,15 +25,15 @@
     "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
     "poster": "https://image.tmdb.org/t/p/w342/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/sGitHICLzIQQBiwE67lZLy6W67u.jpg",
-    "rating": 9.34,
-    "votes": 1028,
+    "rating": 9.338,
+    "votes": 1030,
     "release": "2026-06-05",
     "genres": [
       10759,
       18,
       35
     ],
-    "popularity": 40.9163
+    "popularity": 42.0809
   },
   {
     "id": 299167,
@@ -43,14 +43,14 @@
     "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
     "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-    "rating": 9.117,
-    "votes": 669,
+    "rating": 9.115,
+    "votes": 671,
     "release": "2026-05-15",
     "genres": [
       37,
       18
     ],
-    "popularity": 31.0607
+    "popularity": 32.4698
   },
   {
     "id": 1396,
@@ -61,13 +61,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
     "rating": 8.96,
-    "votes": 19172,
+    "votes": 19178,
     "release": "2008-01-20",
     "genres": [
       18,
       80
     ],
-    "popularity": 130.3059
+    "popularity": 140.8491
   },
   {
     "id": 229544,
@@ -77,8 +77,8 @@
     "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
     "poster": "https://image.tmdb.org/t/p/w342/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
-    "rating": 9,
-    "votes": 217,
+    "rating": 8.9,
+    "votes": 218,
     "release": "2026-06-05",
     "genres": [
       16,
@@ -86,7 +86,7 @@
       9648,
       10765
     ],
-    "popularity": 10.1633
+    "popularity": 8.9099
   },
   {
     "id": 278573,
@@ -103,26 +103,7 @@
       35,
       18
     ],
-    "popularity": 25.2506
-  },
-  {
-    "id": 284833,
-    "tmdb_id": 284833,
-    "type": "tv",
-    "title": "Avatar: Seven Havens",
-    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-    "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-    "rating": 8.9,
-    "votes": 205,
-    "release": "2026-10-09",
-    "genres": [
-      16,
-      10759,
-      10765,
-      10751
-    ],
-    "popularity": 33.3438
+    "popularity": 20.4795
   },
   {
     "id": 85077,
@@ -132,15 +113,15 @@
     "overview": "The life of Christ through the eyes of those who encountered him.",
     "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-    "rating": 8.863,
-    "votes": 1084,
+    "rating": 8.865,
+    "votes": 1089,
     "release": "2019-04-21",
     "genres": [
       10759,
       10751,
       18
     ],
-    "popularity": 128.364
+    "popularity": 128.8702
   },
   {
     "id": 214999,
@@ -157,7 +138,26 @@
       18,
       35
     ],
-    "popularity": 8.3479
+    "popularity": 8.7733
+  },
+  {
+    "id": 284833,
+    "tmdb_id": 284833,
+    "type": "tv",
+    "title": "Avatar: Seven Havens",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "poster": "https://image.tmdb.org/t/p/w342/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "rating": 8.863,
+    "votes": 208,
+    "release": "2026-10-09",
+    "genres": [
+      16,
+      10759,
+      10765,
+      10751
+    ],
+    "popularity": 31.7148
   },
   {
     "id": 273240,
@@ -173,7 +173,7 @@
     "genres": [
       18
     ],
-    "popularity": 39.5987
+    "popularity": 38.58
   },
   {
     "id": 209867,
@@ -183,8 +183,8 @@
     "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
     "poster": "https://image.tmdb.org/t/p/w342/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-    "rating": 8.832,
-    "votes": 1035,
+    "rating": 8.835,
+    "votes": 1039,
     "release": "2023-09-29",
     "genres": [
       16,
@@ -192,7 +192,7 @@
       18,
       10765
     ],
-    "popularity": 62.0621
+    "popularity": 66.7235
   },
   {
     "id": 322430,
@@ -209,7 +209,7 @@
       18,
       10766
     ],
-    "popularity": 12.5502
+    "popularity": 12.0824
   },
   {
     "id": 245026,
@@ -219,7 +219,7 @@
     "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
     "poster": "https://image.tmdb.org/t/p/w342/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
-    "rating": 8.8,
+    "rating": 8.802,
     "votes": 210,
     "release": "2024-10-29",
     "genres": [
@@ -227,7 +227,7 @@
       10765,
       10751
     ],
-    "popularity": 17.1958
+    "popularity": 17.4993
   },
   {
     "id": 219246,
@@ -237,13 +237,13 @@
     "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
     "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-    "rating": 8.803,
+    "rating": 8.8,
     "votes": 631,
     "release": "2025-03-07",
     "genres": [
       18
     ],
-    "popularity": 27.6525
+    "popularity": 29.0748
   },
   {
     "id": 259666,
@@ -260,7 +260,7 @@
       18,
       35
     ],
-    "popularity": 7.7034
+    "popularity": 7.6764
   },
   {
     "id": 246,
@@ -270,15 +270,15 @@
     "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
     "poster": "https://image.tmdb.org/t/p/w342/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-    "rating": 8.8,
-    "votes": 5248,
+    "rating": 8.788,
+    "votes": 5250,
     "release": "2005-02-21",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 30.1965
+    "popularity": 31.8417
   },
   {
     "id": 284445,
@@ -296,7 +296,7 @@
       18,
       10765
     ],
-    "popularity": 11.1579
+    "popularity": 11.6385
   },
   {
     "id": 37854,
@@ -306,15 +306,15 @@
     "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "rating": 8.756,
-    "votes": 5668,
+    "rating": 8.8,
+    "votes": 5670,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 312.2607
+    "popularity": 303.553
   },
   {
     "id": 94605,
@@ -325,32 +325,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
     "rating": 8.748,
-    "votes": 6342,
+    "votes": 6345,
     "release": "2021-11-06",
     "genres": [
       16,
       10759,
       10765
     ],
-    "popularity": 50.3618
+    "popularity": 51.3518
   },
   {
-    "id": 259837,
-    "tmdb_id": 259837,
+    "id": 87108,
+    "tmdb_id": 87108,
     "type": "tv",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
-    "rating": 8.719,
-    "votes": 294,
-    "release": "2026-05-15",
+    "title": "Chernobyl",
+    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+    "rating": 8.733,
+    "votes": 8580,
+    "release": "2019-05-06",
     "genres": [
-      10759,
-      35,
-      10765,
       18
     ],
-    "popularity": 16.0686
+    "popularity": 29.561
   }
 ]

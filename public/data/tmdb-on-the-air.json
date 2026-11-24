@@ -7,15 +7,15 @@
     "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
     "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-    "rating": 7.5,
-    "votes": 218,
+    "rating": 7.539,
+    "votes": 219,
     "release": "2013-03-10",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 2456.3683
+    "popularity": 2328.0199
   },
   {
     "id": 84773,
@@ -26,13 +26,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
     "rating": 7.223,
-    "votes": 4134,
+    "votes": 4138,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 1660.3668
+    "popularity": 1517.8425
   },
   {
     "id": 37678,
@@ -48,7 +48,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1486.5785
+    "popularity": 1339.5516
   },
   {
     "id": 456,
@@ -59,13 +59,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.029,
-    "votes": 11197,
+    "votes": 11198,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1025.6937
+    "popularity": 1031.475
   },
   {
     "id": 22980,
@@ -82,23 +82,7 @@
       10767,
       35
     ],
-    "popularity": 571.9588
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.25,
-    "votes": 22,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 321.6359
+    "popularity": 630.2321
   },
   {
     "id": 33238,
@@ -115,25 +99,23 @@
       35,
       10764
     ],
-    "popularity": 328.0573
+    "popularity": 353.059
   },
   {
-    "id": 153312,
-    "tmdb_id": 153312,
+    "id": 11890,
+    "tmdb_id": 11890,
     "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.322,
-    "votes": 2976,
-    "release": "2022-11-13",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.152,
+    "votes": 23,
+    "release": "1990-10-01",
     "genres": [
-      80,
-      18,
-      35
+      10766
     ],
-    "popularity": 310.1532
+    "popularity": 343.5691
   },
   {
     "id": 2224,
@@ -150,40 +132,25 @@
       10763,
       35
     ],
-    "popularity": 312.4469
+    "popularity": 336.0147
   },
   {
-    "id": 61818,
-    "tmdb_id": 61818,
+    "id": 153312,
+    "tmdb_id": 153312,
     "type": "tv",
-    "title": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "poster": "https://image.tmdb.org/t/p/w342/9T7nQYH98nwha0oj3rVIDe1gTiZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
-    "rating": 5.1,
-    "votes": 140,
-    "release": "2014-02-25",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.322,
+    "votes": 2977,
+    "release": "2022-11-13",
     "genres": [
-      10767,
+      80,
+      18,
       35
     ],
-    "popularity": 306.9063
-  },
-  {
-    "id": 231962,
-    "tmdb_id": 231962,
-    "type": "tv",
-    "title": "Diepe Waters",
-    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
-    "genres": [
-      10766
-    ],
-    "popularity": 246.7937
+    "popularity": 313.6544
   },
   {
     "id": 206559,
@@ -199,7 +166,74 @@
     "genres": [
       10766
     ],
-    "popularity": 277.2589
+    "popularity": 277.6219
+  },
+  {
+    "id": 291,
+    "tmdb_id": 291,
+    "type": "tv",
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "rating": 5.289,
+    "votes": 121,
+    "release": "1960-12-09",
+    "genres": [
+      10766
+    ],
+    "popularity": 275.7112
+  },
+  {
+    "id": 4614,
+    "tmdb_id": 4614,
+    "type": "tv",
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rHKRZCBpDFSNc45kzyf665LJYp3.jpg",
+    "rating": 7.601,
+    "votes": 2629,
+    "release": "2003-09-23",
+    "genres": [
+      80,
+      18,
+      10759
+    ],
+    "popularity": 289.0142
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.7,
+    "votes": 387,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 283.2068
+  },
+  {
+    "id": 57775,
+    "tmdb_id": 57775,
+    "type": "tv",
+    "title": "Chibi Maruko-chan",
+    "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+    "poster": "https://image.tmdb.org/t/p/w342/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+    "rating": 7.704,
+    "votes": 27,
+    "release": "1990-01-07",
+    "genres": [
+      16,
+      35
+    ],
+    "popularity": 259.5613
   },
   {
     "id": 387,
@@ -217,39 +251,23 @@
       35,
       10751
     ],
-    "popularity": 251.1282
+    "popularity": 243.8694
   },
   {
-    "id": 4656,
-    "tmdb_id": 4656,
+    "id": 231962,
+    "tmdb_id": 231962,
     "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.7,
-    "votes": 387,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 266.609
-  },
-  {
-    "id": 291,
-    "tmdb_id": 291,
-    "type": "tv",
-    "title": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "rating": 5.289,
-    "votes": 121,
-    "release": "1960-12-09",
+    "title": "Diepe Waters",
+    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
+    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
+    "rating": 8.2,
+    "votes": 4,
+    "release": "2022-10-03",
     "genres": [
       10766
     ],
-    "popularity": 252.1228
+    "popularity": 200.4447
   },
   {
     "id": 2661,
@@ -267,7 +285,7 @@
       10765,
       18
     ],
-    "popularity": 233.0524
+    "popularity": 254.8046
   },
   {
     "id": 279246,
@@ -277,14 +295,14 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.7,
-    "votes": 138,
+    "rating": 8.696,
+    "votes": 144,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 220.625
+    "popularity": 211.3795
   },
   {
     "id": 1871,
@@ -302,7 +320,7 @@
       18,
       80
     ],
-    "popularity": 188.7507
+    "popularity": 204.2279
   },
   {
     "id": 81329,
@@ -318,24 +336,6 @@
     "genres": [
       10766
     ],
-    "popularity": 182.5111
-  },
-  {
-    "id": 330613,
-    "tmdb_id": 330613,
-    "type": "tv",
-    "title": "The Rules",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "rating": 8.667,
-    "votes": 3,
-    "release": "2026-10-28",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 180.9344
+    "popularity": 191.2725
   }
 ]

@@ -115,6 +115,12 @@
     "link": "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853?uo=4",
     "episodes": [
       {
+        "title": "Steve Yegge on Building Software Factories",
+        "date": "Tue, 24 Nov 2026 10:00:00 +0000",
+        "duration": "1:00:20",
+        "url": "https://softwareengineeringdaily.com/podcasts/steve-yegge-on-building-software-factories/"
+      },
+      {
         "title": "The Rise of the Software Factories",
         "date": "Thu, 19 Nov 2026 10:00:00 +0000",
         "duration": "36:19",
@@ -125,12 +131,6 @@
         "date": "Tue, 17 Nov 2026 10:00:00 +0000",
         "duration": "53:38",
         "url": "https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/"
-      },
-      {
-        "title": "Fraud Prevention in the Age of AI Agents",
-        "date": "Thu, 12 Nov 2026 10:00:00 +0000",
-        "duration": "42:22",
-        "url": "https://softwareengineeringdaily.com/podcasts/fraud-prevention-in-the-age-of-ai-agents/"
       }
     ]
   },
