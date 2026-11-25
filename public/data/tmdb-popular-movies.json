@@ -8,14 +8,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "rating": 7.669,
-    "votes": 29260,
+    "votes": 29271,
     "release": "2008-04-30",
     "genres": [
       28,
       878,
       12
     ],
-    "popularity": 1957.2778
+    "popularity": 1878.1167
   },
   {
     "id": 1368337,
@@ -25,15 +25,33 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-    "rating": 8.027,
-    "votes": 5431,
+    "rating": 8.026,
+    "votes": 5454,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 446.189
+    "popularity": 410.8277
+  },
+  {
+    "id": 1300968,
+    "tmdb_id": 1300968,
+    "type": "movie",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "poster": "https://image.tmdb.org/t/p/w342/bBBI8JgWLVC4CQ0UrVDOJ7MkuvW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "rating": 7.8,
+    "votes": 333,
+    "release": "2026-11-18",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 378.9684
   },
   {
     "id": 1263337,
@@ -43,32 +61,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "rating": 7.869,
-    "votes": 1198,
+    "rating": 7.873,
+    "votes": 1219,
     "release": "2026-09-19",
     "genres": [
       12,
       53
     ],
-    "popularity": 343.4337
-  },
-  {
-    "id": 1300968,
-    "tmdb_id": 1300968,
-    "type": "movie",
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 7.8,
-    "votes": 294,
-    "release": "2026-11-18",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 385.9271
+    "popularity": 317.4426
   },
   {
     "id": 969681,
@@ -77,34 +77,16 @@
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-    "rating": 8.456,
-    "votes": 7086,
+    "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "rating": 8.454,
+    "votes": 7102,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 296.3028
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.521,
-    "votes": 2528,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 257.3999
+    "popularity": 292.181
   },
   {
     "id": 1400837,
@@ -114,13 +96,49 @@
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.541,
-    "votes": 605,
+    "rating": 6.523,
+    "votes": 617,
     "release": "2026-10-07",
     "genres": [
       27
     ],
-    "popularity": 272.261
+    "popularity": 244.1644
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+    "rating": 7.522,
+    "votes": 2540,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 231.9361
+  },
+  {
+    "id": 1003596,
+    "tmdb_id": 1003596,
+    "type": "movie",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 248.5211
   },
   {
     "id": 1058424,
@@ -130,33 +148,34 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.869,
-    "votes": 773,
+    "rating": 6.884,
+    "votes": 781,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 207.1594
+    "popularity": 201.5788
   },
   {
-    "id": 1003596,
-    "tmdb_id": 1003596,
+    "id": 801688,
+    "tmdb_id": 801688,
     "type": "movie",
-    "title": "Avengers: Doomsday",
-    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-12-16",
+    "title": "Kalki 2898-AD",
+    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+    "poster": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+    "rating": 6.416,
+    "votes": 215,
+    "release": "2024-06-26",
     "genres": [
-      878,
+      18,
       28,
-      12
+      14,
+      878
     ],
-    "popularity": 207.401
+    "popularity": 741.5328
   },
   {
     "id": 1616687,
@@ -166,33 +185,15 @@
     "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-    "rating": 6.885,
-    "votes": 78,
+    "rating": 6.969,
+    "votes": 80,
     "release": "2026-11-11",
     "genres": [
       28,
       80,
       53
     ],
-    "popularity": 176.7578
-  },
-  {
-    "id": 1507696,
-    "tmdb_id": 1507696,
-    "type": "movie",
-    "title": "Apocalypse Z: New World",
-    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.168,
-    "votes": 262,
-    "release": "2026-10-09",
-    "genres": [
-      28,
-      53,
-      27
-    ],
-    "popularity": 172.2403
+    "popularity": 159.8351
   },
   {
     "id": 1551025,
@@ -202,14 +203,32 @@
     "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
     "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "rating": 6.91,
-    "votes": 117,
+    "rating": 6.897,
+    "votes": 121,
     "release": "2026-11-18",
     "genres": [
       10749,
       35
     ],
-    "popularity": 174.1184
+    "popularity": 167.1052
+  },
+  {
+    "id": 1507696,
+    "tmdb_id": 1507696,
+    "type": "movie",
+    "title": "Apocalypse Z: New World",
+    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "rating": 6.178,
+    "votes": 264,
+    "release": "2026-10-09",
+    "genres": [
+      28,
+      53,
+      27
+    ],
+    "popularity": 164.4931
   },
   {
     "id": 1244523,
@@ -227,7 +246,7 @@
       27,
       53
     ],
-    "popularity": 154.2433
+    "popularity": 148.0771
   },
   {
     "id": 1813355,
@@ -237,32 +256,52 @@
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "rating": 6.638,
-    "votes": 149,
+    "rating": 6.633,
+    "votes": 151,
     "release": "2026-10-31",
     "genres": [
       18,
       27,
       9648
     ],
-    "popularity": 148.4325
+    "popularity": 133.344
   },
   {
-    "id": 1599184,
-    "tmdb_id": 1599184,
+    "id": 1741617,
+    "tmdb_id": 1741617,
     "type": "movie",
-    "title": "Battle Through the Heavens: The Battle of Two Emperors",
-    "overview": "High above Canaan Academy, the Soul Clan and the Sky Mansion Alliance stand locked in a tense standoff over the legendary Ancient Emperor Tou She. Using the ancient jade, Hun Tiandi unseals the emperor's hidden cave, igniting a fierce battle for the ultimate opportunity to ascend to godhood. With the aid of the Nihility Devouring Flame, Hun Tiandi successfully claims the nascent Emperor Pill, while his rival, Xiao Yan, vanishes into the chaos, his fate unknown. Having absorbed the pill's power, Hun Tiandi ascends to the pinnacle rank of Dou Di and unleashes the Soul Clan's massive army to annihilate the Sky Mansion Alliance. Just as despair threatens to overwhelm the defenders, an ancient resonance awakens within the Xiao Clan's bloodline. Gu Yuan realizes that Xiao Yan is alive and undergoing his own breakthrough to become a Dou Di—becoming humanity's final hope.",
-    "poster": "https://image.tmdb.org/t/p/w342/uEyFP5Z0IyQDLzzoOGRthambK7o.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-    "rating": 9.167,
-    "votes": 6,
-    "release": "2026-11-22",
+    "title": "Hansel & Gretel's Halloween",
+    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+    "backdrop": "",
+    "rating": 6.778,
+    "votes": 9,
+    "release": "2026-08-01",
+    "genres": [
+      27,
+      14
+    ],
+    "popularity": 141.7561
+  },
+  {
+    "id": 1595124,
+    "tmdb_id": 1595124,
+    "type": "movie",
+    "title": "Steps",
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+    "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "rating": 7.181,
+    "votes": 91,
+    "release": "2026-11-20",
     "genres": [
       16,
-      12
+      10751,
+      35,
+      12,
+      14
     ],
-    "popularity": 80.1917
+    "popularity": 122.8655
   },
   {
     "id": 1562642,
@@ -279,24 +318,7 @@
       28,
       53
     ],
-    "popularity": 119.0806
-  },
-  {
-    "id": 1741617,
-    "tmdb_id": 1741617,
-    "type": "movie",
-    "title": "Hansel & Gretel's Halloween",
-    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
-    "backdrop": "",
-    "rating": 6.625,
-    "votes": 8,
-    "release": "2026-08-01",
-    "genres": [
-      27,
-      14
-    ],
-    "popularity": 132.584
+    "popularity": 106.3426
   },
   {
     "id": 656908,
@@ -306,15 +328,15 @@
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
-    "rating": 7.3,
-    "votes": 73,
+    "rating": 7.5,
+    "votes": 74,
     "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 113.3388
+    "popularity": 101.6534
   },
   {
     "id": 1294189,
@@ -324,29 +346,13 @@
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
-    "rating": 6.586,
-    "votes": 256,
+    "rating": 6.611,
+    "votes": 265,
     "release": "2026-10-29",
     "genres": [
       28,
       53
     ],
-    "popularity": 111.5825
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "rating": 7.234,
-    "votes": 885,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 101.1668
+    "popularity": 101.6431
   }
 ]
