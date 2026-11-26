@@ -15,24 +15,25 @@
       18,
       9648
     ],
-    "popularity": 2106.9287
+    "popularity": 1994.041
   },
   {
-    "id": 84773,
-    "tmdb_id": 84773,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.222,
-    "votes": 4141,
-    "release": "2022-09-01",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.963,
+    "votes": 4428,
+    "release": "1999-09-20",
     "genres": [
-      10759,
-      10765
+      80,
+      18,
+      9648
     ],
-    "popularity": 1473.4097
+    "popularity": 1389.5977
   },
   {
     "id": 37678,
@@ -48,7 +49,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1330.7573
+    "popularity": 1219.524
   },
   {
     "id": 456,
@@ -59,13 +60,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
     "rating": 8.029,
-    "votes": 11200,
+    "votes": 11199,
     "release": "1989-12-17",
     "genres": [
       16,
       35
     ],
-    "popularity": 1074.589
+    "popularity": 1044.1923
+  },
+  {
+    "id": 81723,
+    "tmdb_id": 81723,
+    "type": "tv",
+    "title": "The Gilded Age",
+    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+    "rating": 7.7,
+    "votes": 303,
+    "release": "2022-01-24",
+    "genres": [
+      18
+    ],
+    "popularity": 1424.2328
   },
   {
     "id": 22980,
@@ -82,23 +99,23 @@
       10767,
       35
     ],
-    "popularity": 661.9259
+    "popularity": 685.5014
   },
   {
-    "id": 81723,
-    "tmdb_id": 81723,
+    "id": 11890,
+    "tmdb_id": 11890,
     "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-    "rating": 7.7,
-    "votes": 303,
-    "release": "2022-01-24",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.152,
+    "votes": 23,
+    "release": "1990-10-01",
     "genres": [
-      18
+      10766
     ],
-    "popularity": 1017.5108
+    "popularity": 384.1278
   },
   {
     "id": 33238,
@@ -115,23 +132,7 @@
       35,
       10764
     ],
-    "popularity": 368.3552
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.152,
-    "votes": 23,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 368.9809
+    "popularity": 511.9707
   },
   {
     "id": 2224,
@@ -141,14 +142,31 @@
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
     "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.43,
-    "votes": 683,
+    "rating": 6.431,
+    "votes": 684,
     "release": "1996-07-22",
     "genres": [
       10763,
       35
     ],
-    "popularity": 350.6656
+    "popularity": 373.5323
+  },
+  {
+    "id": 549,
+    "tmdb_id": 549,
+    "type": "tv",
+    "title": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+    "rating": 7.277,
+    "votes": 744,
+    "release": "1990-09-13",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 355.7814
   },
   {
     "id": 153312,
@@ -159,30 +177,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
     "rating": 8.322,
-    "votes": 2978,
+    "votes": 2981,
     "release": "2022-11-13",
     "genres": [
       80,
       18,
       35
     ],
-    "popularity": 303.8827
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.7,
-    "votes": 387,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 298.8738
+    "popularity": 300.1171
   },
   {
     "id": 4614,
@@ -200,23 +202,23 @@
       18,
       10759
     ],
-    "popularity": 300.5534
+    "popularity": 326.5062
   },
   {
-    "id": 206559,
-    "tmdb_id": 206559,
+    "id": 4656,
+    "tmdb_id": 4656,
     "type": "tv",
-    "title": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "rating": 5.474,
-    "votes": 114,
-    "release": "2005-10-13",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.7,
+    "votes": 387,
+    "release": "1993-01-11",
     "genres": [
-      10766
+      10764
     ],
-    "popularity": 284.551
+    "popularity": 305.8391
   },
   {
     "id": 291,
@@ -232,7 +234,23 @@
     "genres": [
       10766
     ],
-    "popularity": 297.3516
+    "popularity": 311.9087
+  },
+  {
+    "id": 206559,
+    "tmdb_id": 206559,
+    "type": "tv",
+    "title": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "poster": "https://image.tmdb.org/t/p/w342/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "rating": 5.474,
+    "votes": 114,
+    "release": "2005-10-13",
+    "genres": [
+      10766
+    ],
+    "popularity": 291.3433
   },
   {
     "id": 57775,
@@ -249,7 +267,7 @@
       16,
       35
     ],
-    "popularity": 264.3055
+    "popularity": 287.9865
   },
   {
     "id": 2661,
@@ -267,7 +285,25 @@
       10765,
       18
     ],
-    "popularity": 263.3858
+    "popularity": 295.1516
+  },
+  {
+    "id": 330613,
+    "tmdb_id": 330613,
+    "type": "tv",
+    "title": "The Rules",
+    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+    "rating": 9,
+    "votes": 4,
+    "release": "2026-10-28",
+    "genres": [
+      18,
+      9648,
+      10765
+    ],
+    "popularity": 243.8438
   },
   {
     "id": 387,
@@ -277,32 +313,15 @@
     "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
     "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-    "rating": 7.7,
-    "votes": 3318,
+    "rating": 7.722,
+    "votes": 3319,
     "release": "1999-05-01",
     "genres": [
       16,
       35,
       10751
     ],
-    "popularity": 241.967
-  },
-  {
-    "id": 279246,
-    "tmdb_id": 279246,
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.727,
-    "votes": 150,
-    "release": "2026-11-03",
-    "genres": [
-      18,
-      10765
-    ],
-    "popularity": 202.2644
+    "popularity": 230.9045
   },
   {
     "id": 1871,
@@ -312,30 +331,14 @@
     "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
     "poster": "https://image.tmdb.org/t/p/w342/ETFWCToRFx45vNAsNexh31ufSE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-    "rating": 4.35,
-    "votes": 234,
+    "rating": 4.357,
+    "votes": 235,
     "release": "1985-02-19",
     "genres": [
       10766,
       18,
       80
     ],
-    "popularity": 227.1435
-  },
-  {
-    "id": 231962,
-    "tmdb_id": 231962,
-    "type": "tv",
-    "title": "Diepe Waters",
-    "overview": "The series is set in and around Die Swartmarlyne, a competitive family-run swimming club in the community of Boskruin. The story centers on the Swarts family and the intense pressures, rivalries, hidden secrets, and personal ambitions that come with chasing sports glory.",
-    "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nPexsB86g0YUXxBpa7OYd8sqCPP.jpg",
-    "rating": 8.2,
-    "votes": 4,
-    "release": "2022-10-03",
-    "genres": [
-      10766
-    ],
-    "popularity": 145.0564
+    "popularity": 237.085
   }
 ]

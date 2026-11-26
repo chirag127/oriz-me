@@ -5,15 +5,16 @@
     "type": "tv",
     "title": "Blade Runner 2099",
     "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
-    "poster": "https://image.tmdb.org/t/p/w342/qAcXaAoJiYry9nGEyxTirnJ82Jj.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
-    "rating": 3.75,
-    "votes": 12,
+    "rating": 5.161,
+    "votes": 31,
     "release": "2026-11-24",
     "genres": [
-      10765
+      10765,
+      18
     ],
-    "popularity": 24.9317
+    "popularity": 186.0669
   },
   {
     "id": 84773,
@@ -22,32 +23,15 @@
     "title": "The Lord of the Rings: The Rings of Power",
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.222,
-    "votes": 4141,
+    "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+    "rating": 7.221,
+    "votes": 4146,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 1473.4097
-  },
-  {
-    "id": 247718,
-    "tmdb_id": 247718,
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.7,
-    "votes": 1312,
-    "release": "2025-03-30",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 1445.7555
+    "popularity": 1425.4718
   },
   {
     "id": 300523,
@@ -57,31 +41,31 @@
     "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
     "poster": "https://image.tmdb.org/t/p/w342/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-    "rating": 7.75,
-    "votes": 20,
+    "rating": 7.9,
+    "votes": 22,
     "release": "2026-11-20",
     "genres": [
       80,
       9648
     ],
-    "popularity": 62.5992
+    "popularity": 60.7375
   },
   {
-    "id": 279246,
-    "tmdb_id": 279246,
+    "id": 247718,
+    "tmdb_id": 247718,
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.7,
-    "votes": 151,
-    "release": "2026-11-03",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "rating": 8.684,
+    "votes": 1315,
+    "release": "2025-03-30",
     "genres": [
-      18,
-      10765
+      80,
+      18
     ],
-    "popularity": 202.2644
+    "popularity": 1704.4146
   },
   {
     "id": 291507,
@@ -91,50 +75,101 @@
     "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
     "poster": "https://image.tmdb.org/t/p/w342/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-    "rating": 8.036,
-    "votes": 138,
+    "rating": 8.1,
+    "votes": 141,
     "release": "2026-11-11",
     "genres": [
       9648,
       18
     ],
-    "popularity": 151.2122
+    "popularity": 140.7711
   },
   {
-    "id": 259909,
-    "tmdb_id": 259909,
+    "id": 279246,
+    "tmdb_id": 279246,
     "type": "tv",
-    "title": "Dexter: Resurrection",
-    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "rating": 8.532,
-    "votes": 780,
-    "release": "2025-07-13",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "rating": 8.773,
+    "votes": 163,
+    "release": "2026-11-03",
     "genres": [
-      80,
+      18,
+      10765
+    ],
+    "popularity": 283.8881
+  },
+  {
+    "id": 103540,
+    "tmdb_id": 103540,
+    "type": "tv",
+    "title": "Percy Jackson and the Olympians",
+    "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+    "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+    "rating": 7.273,
+    "votes": 888,
+    "release": "2023-12-19",
+    "genres": [
+      10759,
+      10765,
+      18,
+      10751
+    ],
+    "popularity": 123.4135
+  },
+  {
+    "id": 310209,
+    "tmdb_id": 310209,
+    "type": "tv",
+    "title": "Nine to Six",
+    "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+    "poster": "https://image.tmdb.org/t/p/w342/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vRuayyRqPoxFCq2xwAc2hsJqonm.jpg",
+    "rating": 5,
+    "votes": 1,
+    "release": "2026-11-25",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 18.5097
+  },
+  {
+    "id": 244447,
+    "tmdb_id": 244447,
+    "type": "tv",
+    "title": "The Hunting Wives",
+    "overview": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+    "rating": 7,
+    "votes": 118,
+    "release": "2025-07-21",
+    "genres": [
       18,
       9648
     ],
-    "popularity": 98.8031
+    "popularity": 18.9389
   },
   {
-    "id": 303745,
-    "tmdb_id": 303745,
+    "id": 213375,
+    "tmdb_id": 213375,
     "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uguWp4LtDCBnjPq7wA1bbfbezTy.jpg",
-    "rating": 8.9,
-    "votes": 104,
-    "release": "2026-10-19",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 8.2,
+    "votes": 587,
+    "release": "2026-10-13",
     "genres": [
-      35,
-      18,
-      80
+      10765,
+      18
     ],
-    "popularity": 122.7592
+    "popularity": 110.822
   },
   {
     "id": 254630,
@@ -152,77 +187,25 @@
       80,
       18
     ],
-    "popularity": 67.2772
+    "popularity": 68.4591
   },
   {
-    "id": 103540,
-    "tmdb_id": 103540,
+    "id": 259909,
+    "tmdb_id": 259909,
     "type": "tv",
-    "title": "Percy Jackson and the Olympians",
-    "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-    "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-    "rating": 7.3,
-    "votes": 887,
-    "release": "2023-12-19",
-    "genres": [
-      10759,
-      10765,
-      18,
-      10751
-    ],
-    "popularity": 121.798
-  },
-  {
-    "id": 213375,
-    "tmdb_id": 213375,
-    "type": "tv",
-    "title": "VisionQuest",
-    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.2,
-    "votes": 583,
-    "release": "2026-10-13",
-    "genres": [
-      10765,
-      18
-    ],
-    "popularity": 113.9078
-  },
-  {
-    "id": 308007,
-    "tmdb_id": 308007,
-    "type": "tv",
-    "title": "The Altruists",
-    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-    "poster": "https://image.tmdb.org/t/p/w342/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-    "rating": 6.462,
-    "votes": 13,
-    "release": "2026-11-19",
+    "title": "Dexter: Resurrection",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "poster": "https://image.tmdb.org/t/p/w342/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "rating": 8.527,
+    "votes": 782,
+    "release": "2025-07-13",
     "genres": [
       80,
-      18
-    ],
-    "popularity": 43.2333
-  },
-  {
-    "id": 117488,
-    "tmdb_id": 117488,
-    "type": "tv",
-    "title": "Yellowjackets",
-    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-    "rating": 7.425,
-    "votes": 1087,
-    "release": "2021-11-14",
-    "genres": [
       18,
       9648
     ],
-    "popularity": 78.3173
+    "popularity": 97.8724
   },
   {
     "id": 290826,
@@ -232,31 +215,102 @@
     "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
-    "rating": 5.8,
-    "votes": 14,
+    "rating": 5.882,
+    "votes": 17,
     "release": "2026-11-23",
     "genres": [
       35
     ],
-    "popularity": 49.3223
+    "popularity": 45.6673
   },
   {
-    "id": 85077,
-    "tmdb_id": 85077,
+    "id": 292741,
+    "tmdb_id": 292741,
     "type": "tv",
-    "title": "The Chosen",
-    "overview": "The life of Christ through the eyes of those who encountered him.",
-    "poster": "https://image.tmdb.org/t/p/w342/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-    "rating": 8.867,
-    "votes": 1091,
-    "release": "2019-04-21",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "rating": 7.653,
+    "votes": 72,
+    "release": "2026-10-29",
     "genres": [
-      10759,
-      10751,
+      80,
+      18,
+      9648
+    ],
+    "popularity": 73.8703
+  },
+  {
+    "id": 117488,
+    "tmdb_id": 117488,
+    "type": "tv",
+    "title": "Yellowjackets",
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "rating": 7.4,
+    "votes": 1087,
+    "release": "2021-11-14",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 79.092
+  },
+  {
+    "id": 326247,
+    "tmdb_id": 326247,
+    "type": "tv",
+    "title": "Fool Night",
+    "overview": "In a dark world full of despair, he chooses the path of transforming into a Spirit Flower — a plant into which humans transform. Should he continue living as a person, or discard his pain and start a new life as a plant? Which path would you choose in his situation?",
+    "poster": "https://image.tmdb.org/t/p/w342/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-11-26",
+    "genres": [
+      16,
+      18,
+      10765,
+      9648
+    ],
+    "popularity": 6.6243
+  },
+  {
+    "id": 308007,
+    "tmdb_id": 308007,
+    "type": "tv",
+    "title": "The Altruists",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "poster": "https://image.tmdb.org/t/p/w342/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "rating": 6.5,
+    "votes": 14,
+    "release": "2026-11-19",
+    "genres": [
+      80,
       18
     ],
-    "popularity": 131.7289
+    "popularity": 40.5131
+  },
+  {
+    "id": 303745,
+    "tmdb_id": 303745,
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+    "rating": 8.865,
+    "votes": 111,
+    "release": "2026-10-19",
+    "genres": [
+      35,
+      18,
+      80
+    ],
+    "popularity": 124.4273
   },
   {
     "id": 37854,
@@ -267,14 +321,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.756,
-    "votes": 5671,
+    "votes": 5673,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 299.6951
+    "popularity": 286.4874
   },
   {
     "id": 203483,
@@ -290,58 +344,6 @@
     "genres": [
       18
     ],
-    "popularity": 22.1655
-  },
-  {
-    "id": 292741,
-    "tmdb_id": 292741,
-    "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.701,
-    "votes": 68,
-    "release": "2026-10-29",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 69.6056
-  },
-  {
-    "id": 303552,
-    "tmdb_id": 303552,
-    "type": "tv",
-    "title": "The Substitute",
-    "overview": "A brilliant but low-income student uses his smarts for his own gain, but his wealthy rival might ruin both of their lives",
-    "poster": "https://image.tmdb.org/t/p/w342/syKpHtIH8xPrcpNwXOgL3dhJ4Rk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uM1UWqjY4bGtiSRqYTVtAraRPnh.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-11-23",
-    "genres": [
-      80,
-      9648,
-      18
-    ],
-    "popularity": 18.6781
-  },
-  {
-    "id": 318349,
-    "tmdb_id": 318349,
-    "type": "tv",
-    "title": "Taming the Husband",
-    "overview": "Amid the turmoil of canal transport and court politics, butcher’s daughter Jin Baozhu is forced into marriage with Xie Yan, the disgraced and disabled heir of a powerful shipping family. What begins as a relationship built on conflict gradually turns into an alliance, as the two navigate mounting dangers and personal struggles.",
-    "poster": "https://image.tmdb.org/t/p/w342/tKiA7awp9iF9gGCedaMq6uHKehT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4YguelPz6c9zzGfh29HYHVOsyyN.jpg",
-    "rating": 8,
-    "votes": 2,
-    "release": "2026-11-18",
-    "genres": [
-      18
-    ],
-    "popularity": 10.5081
+    "popularity": 22.1017
   }
 ]

@@ -7,15 +7,50 @@
     "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
     "poster": "https://image.tmdb.org/t/p/w342/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-    "rating": 8.295,
-    "votes": 6732,
+    "rating": 8.294,
+    "votes": 6737,
     "release": "2011-12-04",
     "genres": [
       10765,
       18,
       9648
     ],
-    "popularity": 2768.9824
+    "popularity": 2747.207
+  },
+  {
+    "id": 32573,
+    "tmdb_id": 32573,
+    "type": "tv",
+    "title": "Strike Back",
+    "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
+    "poster": "https://image.tmdb.org/t/p/w342/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
+    "rating": 7.415,
+    "votes": 422,
+    "release": "2010-05-05",
+    "genres": [
+      18,
+      10759
+    ],
+    "popularity": 2035.007
+  },
+  {
+    "id": 4620,
+    "tmdb_id": 4620,
+    "type": "tv",
+    "title": "Eureka",
+    "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
+    "rating": 7.727,
+    "votes": 761,
+    "release": "2006-07-18",
+    "genres": [
+      10765,
+      35,
+      18
+    ],
+    "popularity": 2000.6194
   },
   {
     "id": 46923,
@@ -33,25 +68,7 @@
       18,
       9648
     ],
-    "popularity": 2106.9287
-  },
-  {
-    "id": 95480,
-    "tmdb_id": 95480,
-    "type": "tv",
-    "title": "Slow Horses",
-    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-    "rating": 8.1,
-    "votes": 1154,
-    "release": "2022-04-01",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 1884.6536
+    "popularity": 1994.041
   },
   {
     "id": 1420,
@@ -62,12 +79,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
     "rating": 7.361,
-    "votes": 1784,
+    "votes": 1785,
     "release": "2011-09-20",
     "genres": [
       35
     ],
-    "popularity": 1953.8402
+    "popularity": 1912.7369
+  },
+  {
+    "id": 76331,
+    "tmdb_id": 76331,
+    "type": "tv",
+    "title": "Succession",
+    "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+    "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+    "rating": 8.308,
+    "votes": 1871,
+    "release": "2018-06-03",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 1762.4372
   },
   {
     "id": 1438,
@@ -84,42 +118,25 @@
       80,
       18
     ],
-    "popularity": 1909.1198
+    "popularity": 1849.0609
   },
   {
-    "id": 32573,
-    "tmdb_id": 32573,
+    "id": 95480,
+    "tmdb_id": 95480,
     "type": "tv",
-    "title": "Strike Back",
-    "overview": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20, a fictional branch of the Secret Intelligence Service.",
-    "poster": "https://image.tmdb.org/t/p/w342/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
-    "rating": 7.415,
-    "votes": 422,
-    "release": "2010-05-05",
+    "title": "Slow Horses",
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "rating": 8.086,
+    "votes": 1157,
+    "release": "2022-04-01",
     "genres": [
+      80,
       18,
-      10759
+      9648
     ],
-    "popularity": 2230.3468
-  },
-  {
-    "id": 4620,
-    "tmdb_id": 4620,
-    "type": "tv",
-    "title": "Eureka",
-    "overview": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world's geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country's best kept secrets.",
-    "poster": "https://image.tmdb.org/t/p/w342/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
-    "rating": 7.727,
-    "votes": 760,
-    "release": "2006-07-18",
-    "genres": [
-      10765,
-      35,
-      18
-    ],
-    "popularity": 2176.7401
+    "popularity": 1823.8263
   },
   {
     "id": 1622,
@@ -130,14 +147,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
     "rating": 8.3,
-    "votes": 8859,
+    "votes": 8860,
     "release": "2005-09-13",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 1815.83
+    "popularity": 1622.6719
   },
   {
     "id": 1434,
@@ -148,47 +165,29 @@
     "poster": "https://image.tmdb.org/t/p/w342/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
     "rating": 7.418,
-    "votes": 5231,
+    "votes": 5232,
     "release": "1999-01-31",
     "genres": [
       16,
       35
     ],
-    "popularity": 1800.5025
+    "popularity": 1586.6754
   },
   {
-    "id": 76331,
-    "tmdb_id": 76331,
+    "id": 2691,
+    "tmdb_id": 2691,
     "type": "tv",
-    "title": "Succession",
-    "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-    "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
-    "rating": 8.308,
-    "votes": 1869,
-    "release": "2018-06-03",
+    "title": "Two and a Half Men",
+    "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+    "poster": "https://image.tmdb.org/t/p/w342/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+    "rating": 7.438,
+    "votes": 3864,
+    "release": "2003-09-22",
     "genres": [
-      18,
       35
     ],
-    "popularity": 1927.4857
-  },
-  {
-    "id": 41727,
-    "tmdb_id": 41727,
-    "type": "tv",
-    "title": "Banshee",
-    "overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
-    "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",
-    "rating": 7.982,
-    "votes": 1510,
-    "release": "2013-01-11",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 1649.7583
+    "popularity": 1743.4147
   },
   {
     "id": 5920,
@@ -199,14 +198,31 @@
     "poster": "https://image.tmdb.org/t/p/w342/k0kMdO52LpC5JWgd0uWEH7gqcCe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
     "rating": 8.421,
-    "votes": 5044,
+    "votes": 5046,
     "release": "2008-09-23",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1674.8548
+    "popularity": 1563.846
+  },
+  {
+    "id": 41727,
+    "tmdb_id": 41727,
+    "type": "tv",
+    "title": "Banshee",
+    "overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
+    "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mo9bfYdewzmHxnaeURB2jRPvGuX.jpg",
+    "rating": 7.981,
+    "votes": 1511,
+    "release": "2013-01-11",
+    "genres": [
+      80,
+      18
+    ],
+    "popularity": 1313.9599
   },
   {
     "id": 1413,
@@ -216,15 +232,15 @@
     "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
     "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-    "rating": 8.079,
-    "votes": 6318,
+    "rating": 8.078,
+    "votes": 6320,
     "release": "2011-10-05",
     "genres": [
       18,
       9648,
       10765
     ],
-    "popularity": 1638.3999
+    "popularity": 1500.4646
   },
   {
     "id": 18347,
@@ -234,46 +250,13 @@
     "overview": "Follow the lives of a group of students at what is possibly the world’s worst community college in the fictional locale of Greendale, Colorado.",
     "poster": "https://image.tmdb.org/t/p/w342/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
-    "rating": 7.988,
-    "votes": 2250,
+    "rating": 7.991,
+    "votes": 2254,
     "release": "2009-09-17",
     "genres": [
       35
     ],
-    "popularity": 1632.357
-  },
-  {
-    "id": 2691,
-    "tmdb_id": 2691,
-    "type": "tv",
-    "title": "Two and a Half Men",
-    "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
-    "poster": "https://image.tmdb.org/t/p/w342/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
-    "rating": 7.4,
-    "votes": 3862,
-    "release": "2003-09-22",
-    "genres": [
-      35
-    ],
-    "popularity": 1714.7376
-  },
-  {
-    "id": 84773,
-    "tmdb_id": 84773,
-    "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-    "rating": 7.222,
-    "votes": 4141,
-    "release": "2022-09-01",
-    "genres": [
-      10759,
-      10765
-    ],
-    "popularity": 1473.4097
+    "popularity": 1411.1864
   },
   {
     "id": 1877,
@@ -283,8 +266,8 @@
     "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
     "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-    "rating": 7.892,
-    "votes": 1099,
+    "rating": 7.894,
+    "votes": 1100,
     "release": "2007-08-17",
     "genres": [
       16,
@@ -292,24 +275,45 @@
       10751,
       10765
     ],
-    "popularity": 1460.4589
+    "popularity": 1444.2284
   },
   {
-    "id": 60735,
-    "tmdb_id": 60735,
+    "id": 2734,
+    "tmdb_id": 2734,
     "type": "tv",
-    "title": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "poster": "https://image.tmdb.org/t/p/w342/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "rating": 7.737,
-    "votes": 11887,
-    "release": "2014-10-07",
+    "title": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+    "rating": 7.963,
+    "votes": 4428,
+    "release": "1999-09-20",
     "genres": [
+      80,
       18,
-      10765
+      9648
     ],
-    "popularity": 1376.6725
+    "popularity": 1389.5977
+  },
+  {
+    "id": 1411,
+    "tmdb_id": 1411,
+    "type": "tv",
+    "title": "Person of Interest",
+    "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+    "poster": "https://image.tmdb.org/t/p/w342/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+    "rating": 8.097,
+    "votes": 2245,
+    "release": "2011-09-22",
+    "genres": [
+      10759,
+      80,
+      10765,
+      18,
+      9648
+    ],
+    "popularity": 1444.3191
   },
   {
     "id": 247718,
@@ -319,14 +323,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.7,
-    "votes": 1312,
+    "rating": 8.684,
+    "votes": 1314,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 1445.7555
+    "popularity": 1704.4146
   },
   {
     "id": 83631,
@@ -336,13 +340,13 @@
     "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
     "poster": "https://image.tmdb.org/t/p/w342/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mKikck71CvVISUSTLk29fwRbH4y.jpg",
-    "rating": 8,
-    "votes": 1116,
+    "rating": 8.005,
+    "votes": 1118,
     "release": "2019-03-27",
     "genres": [
       35,
       10765
     ],
-    "popularity": 1445.2449
+    "popularity": 1326.6191
   }
 ]

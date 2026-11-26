@@ -8,14 +8,33 @@
     "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "rating": 7.669,
-    "votes": 29271,
+    "votes": 29286,
     "release": "2008-04-30",
     "genres": [
       28,
       878,
       12
     ],
-    "popularity": 1878.1167
+    "popularity": 1600.2376
+  },
+  {
+    "id": 801688,
+    "tmdb_id": 801688,
+    "type": "movie",
+    "title": "Kalki 2898-AD",
+    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+    "poster": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+    "rating": 6.4,
+    "votes": 215,
+    "release": "2024-06-26",
+    "genres": [
+      18,
+      28,
+      14,
+      878
+    ],
+    "popularity": 791.4882
   },
   {
     "id": 1368337,
@@ -25,15 +44,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-    "rating": 8.026,
-    "votes": 5454,
+    "rating": 8,
+    "votes": 5494,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 410.8277
+    "popularity": 383.1028
   },
   {
     "id": 1300968,
@@ -41,17 +60,17 @@
     "type": "movie",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "poster": "https://image.tmdb.org/t/p/w342/bBBI8JgWLVC4CQ0UrVDOJ7MkuvW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 7.8,
-    "votes": 333,
+    "rating": 7.804,
+    "votes": 367,
     "release": "2026-11-18",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 378.9684
+    "popularity": 373.411
   },
   {
     "id": 1263337,
@@ -61,14 +80,14 @@
     "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
     "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "rating": 7.873,
-    "votes": 1219,
-    "release": "2026-09-19",
+    "rating": 7.877,
+    "votes": 1235,
+    "release": "2026-09-23",
     "genres": [
       12,
       53
     ],
-    "popularity": 317.4426
+    "popularity": 305.2201
   },
   {
     "id": 969681,
@@ -78,49 +97,15 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-    "rating": 8.454,
-    "votes": 7102,
+    "rating": 8.5,
+    "votes": 7118,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 292.181
-  },
-  {
-    "id": 1400837,
-    "tmdb_id": 1400837,
-    "type": "movie",
-    "title": "Other Mommy",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.523,
-    "votes": 617,
-    "release": "2026-10-07",
-    "genres": [
-      27
-    ],
-    "popularity": 244.1644
-  },
-  {
-    "id": 1423191,
-    "tmdb_id": 1423191,
-    "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
-    "rating": 7.522,
-    "votes": 2540,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 231.9361
+    "popularity": 294.2906
   },
   {
     "id": 1003596,
@@ -138,7 +123,41 @@
       28,
       12
     ],
-    "popularity": 248.5211
+    "popularity": 261.3654
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "type": "movie",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "rating": 6.54,
+    "votes": 632,
+    "release": "2026-10-07",
+    "genres": [
+      27
+    ],
+    "popularity": 229.4784
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+    "rating": 7.519,
+    "votes": 2568,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 223.4965
   },
   {
     "id": 1058424,
@@ -148,52 +167,15 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.884,
-    "votes": 781,
+    "rating": 6.89,
+    "votes": 788,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 201.5788
-  },
-  {
-    "id": 801688,
-    "tmdb_id": 801688,
-    "type": "movie",
-    "title": "Kalki 2898-AD",
-    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
-    "poster": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
-    "rating": 6.416,
-    "votes": 215,
-    "release": "2024-06-26",
-    "genres": [
-      18,
-      28,
-      14,
-      878
-    ],
-    "popularity": 741.5328
-  },
-  {
-    "id": 1616687,
-    "tmdb_id": 1616687,
-    "type": "movie",
-    "title": "Never Surrender",
-    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-    "rating": 6.969,
-    "votes": 80,
-    "release": "2026-11-11",
-    "genres": [
-      28,
-      80,
-      53
-    ],
-    "popularity": 159.8351
+    "popularity": 195.9714
   },
   {
     "id": 1551025,
@@ -203,14 +185,14 @@
     "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
     "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "rating": 6.897,
-    "votes": 121,
+    "rating": 6.8,
+    "votes": 137,
     "release": "2026-11-18",
     "genres": [
       10749,
       35
     ],
-    "popularity": 167.1052
+    "popularity": 155.7847
   },
   {
     "id": 1507696,
@@ -220,15 +202,15 @@
     "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.178,
-    "votes": 264,
+    "rating": 6.149,
+    "votes": 268,
     "release": "2026-10-09",
     "genres": [
       28,
       53,
       27
     ],
-    "popularity": 164.4931
+    "popularity": 161.1113
   },
   {
     "id": 1244523,
@@ -239,14 +221,49 @@
     "poster": "https://image.tmdb.org/t/p/w342/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
     "rating": 5.993,
-    "votes": 73,
+    "votes": 74,
     "release": "2026-10-01",
     "genres": [
       12,
       27,
       53
     ],
-    "popularity": 148.0771
+    "popularity": 146.4516
+  },
+  {
+    "id": 1616687,
+    "tmdb_id": 1616687,
+    "type": "movie",
+    "title": "Never Surrender",
+    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+    "rating": 7,
+    "votes": 81,
+    "release": "2026-11-11",
+    "genres": [
+      28,
+      80,
+      53
+    ],
+    "popularity": 143.2901
+  },
+  {
+    "id": 1741617,
+    "tmdb_id": 1741617,
+    "type": "movie",
+    "title": "Hansel & Gretel's Halloween",
+    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+    "backdrop": "",
+    "rating": 6.8,
+    "votes": 9,
+    "release": "2026-08-01",
+    "genres": [
+      27,
+      14
+    ],
+    "popularity": 149.0936
   },
   {
     "id": 1813355,
@@ -264,24 +281,7 @@
       27,
       9648
     ],
-    "popularity": 133.344
-  },
-  {
-    "id": 1741617,
-    "tmdb_id": 1741617,
-    "type": "movie",
-    "title": "Hansel & Gretel's Halloween",
-    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
-    "backdrop": "",
-    "rating": 6.778,
-    "votes": 9,
-    "release": "2026-08-01",
-    "genres": [
-      27,
-      14
-    ],
-    "popularity": 141.7561
+    "popularity": 124.0777
   },
   {
     "id": 1595124,
@@ -291,34 +291,32 @@
     "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
     "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "rating": 7.181,
-    "votes": 91,
+    "rating": 7.2,
+    "votes": 100,
     "release": "2026-11-20",
     "genres": [
       16,
       10751,
-      35,
-      12,
-      14
+      35
     ],
-    "popularity": 122.8655
+    "popularity": 126.7351
   },
   {
-    "id": 1562642,
-    "tmdb_id": 1562642,
+    "id": 1496696,
+    "tmdb_id": 1496696,
     "type": "movie",
-    "title": "Ghost Soldier",
-    "overview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
-    "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "rating": 9,
-    "votes": 35,
-    "release": "2026-11-06",
+    "title": "Breeder",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+    "poster": "https://image.tmdb.org/t/p/w342/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "rating": 7.315,
+    "votes": 27,
+    "release": "2026-10-28",
     "genres": [
-      28,
+      27,
       53
     ],
-    "popularity": 106.3426
+    "popularity": 122.7525
   },
   {
     "id": 656908,
@@ -329,14 +327,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "rating": 7.5,
-    "votes": 74,
+    "votes": 75,
     "release": "2026-11-05",
     "genres": [
       14,
       28,
       12
     ],
-    "popularity": 101.6534
+    "popularity": 95.0388
   },
   {
     "id": 1294189,
@@ -346,13 +344,13 @@
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
-    "rating": 6.611,
-    "votes": 265,
+    "rating": 6.643,
+    "votes": 270,
     "release": "2026-10-29",
     "genres": [
       28,
       53
     ],
-    "popularity": 101.6431
+    "popularity": 93.294
   }
 ]
