@@ -15,7 +15,23 @@
       18,
       9648
     ],
-    "popularity": 1994.041
+    "popularity": 1510.9909
+  },
+  {
+    "id": 81723,
+    "tmdb_id": 81723,
+    "type": "tv",
+    "title": "The Gilded Age",
+    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+    "rating": 7.7,
+    "votes": 303,
+    "release": "2022-01-24",
+    "genres": [
+      18
+    ],
+    "popularity": 1882.3334
   },
   {
     "id": 2734,
@@ -26,14 +42,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
     "rating": 7.963,
-    "votes": 4428,
+    "votes": 4430,
     "release": "1999-09-20",
     "genres": [
       80,
       18,
       9648
     ],
-    "popularity": 1389.5977
+    "popularity": 1309.986
   },
   {
     "id": 37678,
@@ -49,7 +65,7 @@
     "genres": [
       10764
     ],
-    "popularity": 1219.524
+    "popularity": 1227.6738
   },
   {
     "id": 456,
@@ -66,23 +82,7 @@
       16,
       35
     ],
-    "popularity": 1044.1923
-  },
-  {
-    "id": 81723,
-    "tmdb_id": 81723,
-    "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-    "rating": 7.7,
-    "votes": 303,
-    "release": "2022-01-24",
-    "genres": [
-      18
-    ],
-    "popularity": 1424.2328
+    "popularity": 1021.7811
   },
   {
     "id": 22980,
@@ -92,30 +92,14 @@
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
     "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-    "rating": 4.892,
+    "rating": 4.9,
     "votes": 102,
     "release": "2009-07-16",
     "genres": [
       10767,
       35
     ],
-    "popularity": 685.5014
-  },
-  {
-    "id": 11890,
-    "tmdb_id": 11890,
-    "type": "tv",
-    "title": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-    "rating": 5.152,
-    "votes": 23,
-    "release": "1990-10-01",
-    "genres": [
-      10766
-    ],
-    "popularity": 384.1278
+    "popularity": 701.8438
   },
   {
     "id": 33238,
@@ -132,7 +116,44 @@
       35,
       10764
     ],
-    "popularity": 511.9707
+    "popularity": 560.6092
+  },
+  {
+    "id": 65733,
+    "tmdb_id": 65733,
+    "type": "tv",
+    "title": "Doraemon",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "rating": 8.102,
+    "votes": 266,
+    "release": "2005-04-22",
+    "genres": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "popularity": 451.9593
+  },
+  {
+    "id": 11890,
+    "tmdb_id": 11890,
+    "type": "tv",
+    "title": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+    "rating": 5.152,
+    "votes": 23,
+    "release": "1990-10-01",
+    "genres": [
+      10766
+    ],
+    "popularity": 384.6609
   },
   {
     "id": 2224,
@@ -142,14 +163,14 @@
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
     "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-    "rating": 6.431,
+    "rating": 6.4,
     "votes": 684,
     "release": "1996-07-22",
     "genres": [
       10763,
       35
     ],
-    "popularity": 373.5323
+    "popularity": 387.6687
   },
   {
     "id": 549,
@@ -166,25 +187,7 @@
       80,
       18
     ],
-    "popularity": 355.7814
-  },
-  {
-    "id": 153312,
-    "tmdb_id": 153312,
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "rating": 8.322,
-    "votes": 2981,
-    "release": "2022-11-13",
-    "genres": [
-      80,
-      18,
-      35
-    ],
-    "popularity": 300.1171
+    "popularity": 362.645
   },
   {
     "id": 4614,
@@ -202,23 +205,7 @@
       18,
       10759
     ],
-    "popularity": 326.5062
-  },
-  {
-    "id": 4656,
-    "tmdb_id": 4656,
-    "type": "tv",
-    "title": "Raw",
-    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-    "rating": 6.7,
-    "votes": 387,
-    "release": "1993-01-11",
-    "genres": [
-      10764
-    ],
-    "popularity": 305.8391
+    "popularity": 322.715
   },
   {
     "id": 291,
@@ -234,7 +221,41 @@
     "genres": [
       10766
     ],
-    "popularity": 311.9087
+    "popularity": 312.0805
+  },
+  {
+    "id": 4656,
+    "tmdb_id": 4656,
+    "type": "tv",
+    "title": "Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+    "rating": 6.7,
+    "votes": 387,
+    "release": "1993-01-11",
+    "genres": [
+      10764
+    ],
+    "popularity": 306.9489
+  },
+  {
+    "id": 153312,
+    "tmdb_id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "rating": 8.3,
+    "votes": 2981,
+    "release": "2022-11-13",
+    "genres": [
+      80,
+      18,
+      35
+    ],
+    "popularity": 281.0071
   },
   {
     "id": 206559,
@@ -250,7 +271,7 @@
     "genres": [
       10766
     ],
-    "popularity": 291.3433
+    "popularity": 289.8162
   },
   {
     "id": 57775,
@@ -267,7 +288,7 @@
       16,
       35
     ],
-    "popularity": 287.9865
+    "popularity": 291.6414
   },
   {
     "id": 2661,
@@ -285,43 +306,7 @@
       10765,
       18
     ],
-    "popularity": 295.1516
-  },
-  {
-    "id": 330613,
-    "tmdb_id": 330613,
-    "type": "tv",
-    "title": "The Rules",
-    "overview": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-    "poster": "https://image.tmdb.org/t/p/w342/IECgq0Hd4ezuyGhbQgQawURGKT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
-    "rating": 9,
-    "votes": 4,
-    "release": "2026-10-28",
-    "genres": [
-      18,
-      9648,
-      10765
-    ],
-    "popularity": 243.8438
-  },
-  {
-    "id": 387,
-    "tmdb_id": 387,
-    "type": "tv",
-    "title": "SpongeBob SquarePants",
-    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
-    "rating": 7.722,
-    "votes": 3319,
-    "release": "1999-05-01",
-    "genres": [
-      16,
-      35,
-      10751
-    ],
-    "popularity": 230.9045
+    "popularity": 285.7556
   },
   {
     "id": 1871,
@@ -331,7 +316,7 @@
     "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
     "poster": "https://image.tmdb.org/t/p/w342/ETFWCToRFx45vNAsNexh31ufSE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-    "rating": 4.357,
+    "rating": 4.4,
     "votes": 235,
     "release": "1985-02-19",
     "genres": [
@@ -339,6 +324,24 @@
       18,
       80
     ],
-    "popularity": 237.085
+    "popularity": 242.6015
+  },
+  {
+    "id": 387,
+    "tmdb_id": 387,
+    "type": "tv",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "poster": "https://image.tmdb.org/t/p/w342/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "rating": 7.7,
+    "votes": 3319,
+    "release": "1999-05-01",
+    "genres": [
+      16,
+      35,
+      10751
+    ],
+    "popularity": 239.3972
   }
 ]

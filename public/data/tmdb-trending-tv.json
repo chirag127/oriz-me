@@ -6,15 +6,15 @@
     "title": "Blade Runner 2099",
     "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
     "poster": "https://image.tmdb.org/t/p/w342/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
-    "rating": 5.161,
-    "votes": 31,
+    "backdrop": "https://image.tmdb.org/t/p/w780/uOlIq21Rx0Sl7y39b1znTfQYGb7.jpg",
+    "rating": 5.3,
+    "votes": 56,
     "release": "2026-11-24",
     "genres": [
       10765,
       18
     ],
-    "popularity": 186.0669
+    "popularity": 226.9453
   },
   {
     "id": 84773,
@@ -24,14 +24,50 @@
     "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
     "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
-    "rating": 7.221,
-    "votes": 4146,
+    "rating": 7.223,
+    "votes": 4155,
     "release": "2022-09-01",
     "genres": [
       10759,
       10765
     ],
-    "popularity": 1425.4718
+    "popularity": 1444.9527
+  },
+  {
+    "id": 244447,
+    "tmdb_id": 244447,
+    "type": "tv",
+    "title": "The Hunting Wives",
+    "overview": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/iKL02GmejLCGBJr7XHU82vvqA1C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+    "rating": 7,
+    "votes": 119,
+    "release": "2025-07-21",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 44.5744
+  },
+  {
+    "id": 326247,
+    "tmdb_id": 326247,
+    "type": "tv",
+    "title": "Fool Night",
+    "overview": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation — and unearths a deep-rooted conspiracy.",
+    "poster": "https://image.tmdb.org/t/p/w342/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+    "rating": 8.7,
+    "votes": 3,
+    "release": "2026-11-26",
+    "genres": [
+      16,
+      18,
+      10765,
+      9648
+    ],
+    "popularity": 34.671
   },
   {
     "id": 300523,
@@ -41,14 +77,14 @@
     "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
     "poster": "https://image.tmdb.org/t/p/w342/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-    "rating": 7.9,
-    "votes": 22,
+    "rating": 8,
+    "votes": 24,
     "release": "2026-11-20",
     "genres": [
       80,
       9648
     ],
-    "popularity": 60.7375
+    "popularity": 53.1208
   },
   {
     "id": 247718,
@@ -58,14 +94,14 @@
     "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
     "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "rating": 8.684,
-    "votes": 1315,
+    "rating": 8.688,
+    "votes": 1319,
     "release": "2025-03-30",
     "genres": [
       80,
       18
     ],
-    "popularity": 1704.4146
+    "popularity": 1748.5294
   },
   {
     "id": 291507,
@@ -73,16 +109,16 @@
     "type": "tv",
     "title": "The Body",
     "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-    "poster": "https://image.tmdb.org/t/p/w342/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-    "rating": 8.1,
-    "votes": 141,
+    "rating": 8.03,
+    "votes": 151,
     "release": "2026-11-11",
     "genres": [
       9648,
       18
     ],
-    "popularity": 140.7711
+    "popularity": 130.0515
   },
   {
     "id": 279246,
@@ -92,14 +128,14 @@
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "rating": 8.773,
-    "votes": 163,
+    "rating": 8.715,
+    "votes": 170,
     "release": "2026-11-03",
     "genres": [
       18,
       10765
     ],
-    "popularity": 283.8881
+    "popularity": 256.7302
   },
   {
     "id": 103540,
@@ -109,7 +145,7 @@
     "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
     "poster": "https://image.tmdb.org/t/p/w342/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-    "rating": 7.273,
+    "rating": 7.3,
     "votes": 888,
     "release": "2023-12-19",
     "genres": [
@@ -118,41 +154,7 @@
       18,
       10751
     ],
-    "popularity": 123.4135
-  },
-  {
-    "id": 310209,
-    "tmdb_id": 310209,
-    "type": "tv",
-    "title": "Nine to Six",
-    "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
-    "poster": "https://image.tmdb.org/t/p/w342/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/vRuayyRqPoxFCq2xwAc2hsJqonm.jpg",
-    "rating": 5,
-    "votes": 1,
-    "release": "2026-11-25",
-    "genres": [
-      18,
-      35
-    ],
-    "popularity": 18.5097
-  },
-  {
-    "id": 244447,
-    "tmdb_id": 244447,
-    "type": "tv",
-    "title": "The Hunting Wives",
-    "overview": "Sophie trades New England for East Texas and falls into a wealthy socialite's magnetic orbit — where a clique of housewives hide deadly secrets.",
-    "poster": "https://image.tmdb.org/t/p/w342/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
-    "rating": 7,
-    "votes": 118,
-    "release": "2025-07-21",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 18.9389
+    "popularity": 117.282
   },
   {
     "id": 213375,
@@ -162,32 +164,14 @@
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-    "rating": 8.2,
-    "votes": 587,
+    "rating": 8.218,
+    "votes": 593,
     "release": "2026-10-13",
     "genres": [
       10765,
       18
     ],
-    "popularity": 110.822
-  },
-  {
-    "id": 254630,
-    "tmdb_id": 254630,
-    "type": "tv",
-    "title": "12 12 12",
-    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-    "rating": 6.3,
-    "votes": 42,
-    "release": "2026-11-12",
-    "genres": [
-      10759,
-      80,
-      18
-    ],
-    "popularity": 68.4591
+    "popularity": 102.2496
   },
   {
     "id": 259909,
@@ -205,7 +189,24 @@
       18,
       9648
     ],
-    "popularity": 97.8724
+    "popularity": 91.6984
+  },
+  {
+    "id": 310209,
+    "tmdb_id": 310209,
+    "type": "tv",
+    "title": "Nine to Six",
+    "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+    "poster": "https://image.tmdb.org/t/p/w342/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
+    "rating": 6.5,
+    "votes": 2,
+    "release": "2026-11-25",
+    "genres": [
+      18,
+      35
+    ],
+    "popularity": 26.7955
   },
   {
     "id": 290826,
@@ -215,102 +216,13 @@
     "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
     "poster": "https://image.tmdb.org/t/p/w342/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
-    "rating": 5.882,
-    "votes": 17,
+    "rating": 5.9,
+    "votes": 18,
     "release": "2026-11-23",
     "genres": [
       35
     ],
-    "popularity": 45.6673
-  },
-  {
-    "id": 292741,
-    "tmdb_id": 292741,
-    "type": "tv",
-    "title": "Nocturne",
-    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-    "poster": "https://image.tmdb.org/t/p/w342/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-    "rating": 7.653,
-    "votes": 72,
-    "release": "2026-10-29",
-    "genres": [
-      80,
-      18,
-      9648
-    ],
-    "popularity": 73.8703
-  },
-  {
-    "id": 117488,
-    "tmdb_id": 117488,
-    "type": "tv",
-    "title": "Yellowjackets",
-    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-    "rating": 7.4,
-    "votes": 1087,
-    "release": "2021-11-14",
-    "genres": [
-      18,
-      9648
-    ],
-    "popularity": 79.092
-  },
-  {
-    "id": 326247,
-    "tmdb_id": 326247,
-    "type": "tv",
-    "title": "Fool Night",
-    "overview": "In a dark world full of despair, he chooses the path of transforming into a Spirit Flower — a plant into which humans transform. Should he continue living as a person, or discard his pain and start a new life as a plant? Which path would you choose in his situation?",
-    "poster": "https://image.tmdb.org/t/p/w342/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
-    "rating": 0,
-    "votes": 0,
-    "release": "2026-11-26",
-    "genres": [
-      16,
-      18,
-      10765,
-      9648
-    ],
-    "popularity": 6.6243
-  },
-  {
-    "id": 308007,
-    "tmdb_id": 308007,
-    "type": "tv",
-    "title": "The Altruists",
-    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-    "poster": "https://image.tmdb.org/t/p/w342/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-    "rating": 6.5,
-    "votes": 14,
-    "release": "2026-11-19",
-    "genres": [
-      80,
-      18
-    ],
-    "popularity": 40.5131
-  },
-  {
-    "id": 303745,
-    "tmdb_id": 303745,
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-    "rating": 8.865,
-    "votes": 111,
-    "release": "2026-10-19",
-    "genres": [
-      35,
-      18,
-      80
-    ],
-    "popularity": 124.4273
+    "popularity": 42.918
   },
   {
     "id": 37854,
@@ -321,29 +233,118 @@
     "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "rating": 8.756,
-    "votes": 5673,
+    "votes": 5672,
     "release": "1999-10-20",
     "genres": [
       10759,
       35,
       16
     ],
-    "popularity": 286.4874
+    "popularity": 269.0778
   },
   {
-    "id": 203483,
-    "tmdb_id": 203483,
+    "id": 218347,
+    "tmdb_id": 218347,
     "type": "tv",
-    "title": "River of No Return",
-    "overview": "In the Ming Dynasty, Crown Prince Zhu Zhanji races 2,200 miles from Nanjing to Beijing in 15 days to save himself and the empire.",
-    "poster": "https://image.tmdb.org/t/p/w342/7fo6B7Wm75WwIlCZP17ohjUjdLd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
-    "rating": 8.1,
-    "votes": 7,
-    "release": "2026-11-20",
+    "title": "Sweetpea",
+    "overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
+    "poster": "https://image.tmdb.org/t/p/w342/A4A0juWk4ofqP6Q0TFY6CRhcCAa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+    "rating": 7.4,
+    "votes": 320,
+    "release": "2024-10-10",
     "genres": [
+      35,
       18
     ],
-    "popularity": 22.1017
+    "popularity": 18.9672
+  },
+  {
+    "id": 117488,
+    "tmdb_id": 117488,
+    "type": "tv",
+    "title": "Yellowjackets",
+    "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+    "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "rating": 7.4,
+    "votes": 1088,
+    "release": "2021-11-14",
+    "genres": [
+      18,
+      9648
+    ],
+    "popularity": 75.7738
+  },
+  {
+    "id": 254630,
+    "tmdb_id": 254630,
+    "type": "tv",
+    "title": "12 12 12",
+    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+    "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+    "rating": 6.3,
+    "votes": 42,
+    "release": "2026-11-12",
+    "genres": [
+      10759,
+      80,
+      18
+    ],
+    "popularity": 60.6422
+  },
+  {
+    "id": 303745,
+    "tmdb_id": 303745,
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "poster": "https://image.tmdb.org/t/p/w342/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+    "rating": 8.868,
+    "votes": 114,
+    "release": "2026-10-19",
+    "genres": [
+      35,
+      18,
+      80
+    ],
+    "popularity": 108.2702
+  },
+  {
+    "id": 2190,
+    "tmdb_id": 2190,
+    "type": "tv",
+    "title": "South Park",
+    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "rating": 8.333,
+    "votes": 5300,
+    "release": "1997-08-13",
+    "genres": [
+      35,
+      16
+    ],
+    "popularity": 166.4663
+  },
+  {
+    "id": 45790,
+    "tmdb_id": 45790,
+    "type": "tv",
+    "title": "JoJo's Bizarre Adventure",
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "rating": 8.6,
+    "votes": 1714,
+    "release": "2012-10-06",
+    "genres": [
+      16,
+      10759,
+      10765
+    ],
+    "popularity": 143.6339
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "id": 1300968,
-    "tmdb_id": 1300968,
-    "type": "movie",
-    "title": "The Hunger Games: Sunrise on the Reaping",
-    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 7.804,
-    "votes": 367,
-    "release": "2026-11-18",
-    "genres": [
-      878,
-      28,
-      12
-    ],
-    "popularity": 373.411
-  },
-  {
     "id": 1003596,
     "tmdb_id": 1003596,
     "type": "movie",
@@ -33,7 +15,42 @@
       28,
       12
     ],
-    "popularity": 261.3654
+    "popularity": 263.0295
+  },
+  {
+    "id": 1300968,
+    "tmdb_id": 1300968,
+    "type": "movie",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "rating": 7.8,
+    "votes": 381,
+    "release": "2026-11-18",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 342.5151
+  },
+  {
+    "id": 1153576,
+    "tmdb_id": 1153576,
+    "type": "movie",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+    "rating": 6.2,
+    "votes": 275,
+    "release": "2026-10-13",
+    "genres": [
+      28,
+      14
+    ],
+    "popularity": 51.4931
   },
   {
     "id": 1368337,
@@ -43,33 +60,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-    "rating": 8.027,
-    "votes": 5496,
+    "rating": 8.026,
+    "votes": 5527,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 383.1028
-  },
-  {
-    "id": 1458300,
-    "tmdb_id": 1458300,
-    "type": "movie",
-    "title": "The Mosquito Bowl",
-    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-    "poster": "https://image.tmdb.org/t/p/w342/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
-    "rating": 7.105,
-    "votes": 19,
-    "release": "2026-10-29",
-    "genres": [
-      10752,
-      36,
-      18
-    ],
-    "popularity": 62.9767
+    "popularity": 349.9557
   },
   {
     "id": 969681,
@@ -79,15 +78,15 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-    "rating": 8.5,
-    "votes": 7118,
+    "rating": 8.455,
+    "votes": 7140,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 294.2906
+    "popularity": 295.863
   },
   {
     "id": 1538497,
@@ -97,17 +96,32 @@
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "poster": "https://image.tmdb.org/t/p/w342/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-    "rating": 5.972,
-    "votes": 18,
+    "rating": 5.5,
+    "votes": 25,
     "release": "2026-11-25",
     "genres": [
-      12,
       16,
-      10751,
       14,
-      35
+      10751
     ],
-    "popularity": 69.8904
+    "popularity": 77.1409
+  },
+  {
+    "id": 1458300,
+    "tmdb_id": 1458300,
+    "type": "movie",
+    "title": "The Mosquito Bowl",
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+    "poster": "https://image.tmdb.org/t/p/w342/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+    "rating": 7.526,
+    "votes": 38,
+    "release": "2026-10-29",
+    "genres": [
+      10752,
+      18
+    ],
+    "popularity": 100.52
   },
   {
     "id": 1595124,
@@ -117,48 +131,17 @@
     "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
     "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "rating": 7.2,
-    "votes": 100,
+    "rating": 6.991,
+    "votes": 114,
     "release": "2026-11-20",
     "genres": [
       16,
       10751,
-      35
+      35,
+      12,
+      14
     ],
-    "popularity": 126.7351
-  },
-  {
-    "id": 1280115,
-    "tmdb_id": 1280115,
-    "type": "movie",
-    "title": "Way of the Warrior Kid",
-    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-    "poster": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/1JL6mDxYRauwv81bLupSZczC39M.jpg",
-    "rating": 7.675,
-    "votes": 20,
-    "release": "2026-11-24",
-    "genres": [
-      18
-    ],
-    "popularity": 50.9766
-  },
-  {
-    "id": 1281331,
-    "tmdb_id": 1281331,
-    "type": "movie",
-    "title": "The Social Reckoning",
-    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-    "poster": "https://image.tmdb.org/t/p/w342/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-    "rating": 7.034,
-    "votes": 177,
-    "release": "2026-10-07",
-    "genres": [
-      18,
-      53
-    ],
-    "popularity": 80.7717
+    "popularity": 129.2548
   },
   {
     "id": 1765072,
@@ -167,32 +150,30 @@
     "title": "You Can See Everything",
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "poster": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
-    "rating": 8.617,
-    "votes": 210,
+    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+    "rating": 8.559,
+    "votes": 227,
     "release": "2026-10-16",
     "genres": [
       99
     ],
-    "popularity": 123.4705
+    "popularity": 114.5537
   },
   {
-    "id": 1195803,
-    "tmdb_id": 1195803,
+    "id": 1280115,
+    "tmdb_id": 1280115,
     "type": "movie",
-    "title": "Wicker",
-    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
-    "rating": 7.493,
-    "votes": 72,
-    "release": "2026-10-21",
+    "title": "Way of the Warrior Kid",
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "poster": "https://image.tmdb.org/t/p/w342/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+    "rating": 7.4,
+    "votes": 41,
+    "release": "2026-11-24",
     "genres": [
-      10749,
-      14,
-      35
+      18
     ],
-    "popularity": 79.469
+    "popularity": 80.9769
   },
   {
     "id": 1170608,
@@ -209,59 +190,42 @@
       878,
       12
     ],
-    "popularity": 52.0432
+    "popularity": 51.2112
   },
   {
-    "id": 1611767,
-    "tmdb_id": 1611767,
+    "id": 1281331,
+    "tmdb_id": 1281331,
     "type": "movie",
-    "title": "Clashing Through the Snow",
-    "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
-    "poster": "https://image.tmdb.org/t/p/w342/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
-    "rating": 6.7,
-    "votes": 58,
-    "release": "2026-11-23",
+    "title": "The Social Reckoning",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "poster": "https://image.tmdb.org/t/p/w342/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "rating": 6.976,
+    "votes": 190,
+    "release": "2026-10-07",
+    "genres": [
+      18,
+      53
+    ],
+    "popularity": 73.4754
+  },
+  {
+    "id": 1195803,
+    "tmdb_id": 1195803,
+    "type": "movie",
+    "title": "Wicker",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+    "rating": 7.6,
+    "votes": 76,
+    "release": "2026-10-21",
     "genres": [
       10749,
+      14,
       35
     ],
-    "popularity": 69.1697
-  },
-  {
-    "id": 1381071,
-    "tmdb_id": 1381071,
-    "type": "movie",
-    "title": "Godzilla Minus Zero",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "rating": 7.7,
-    "votes": 309,
-    "release": "2026-11-03",
-    "genres": [
-      878,
-      27,
-      28
-    ],
-    "popularity": 80.211
-  },
-  {
-    "id": 1551025,
-    "tmdb_id": 1551025,
-    "type": "movie",
-    "title": "Guarding Stars",
-    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "rating": 6.8,
-    "votes": 137,
-    "release": "2026-11-18",
-    "genres": [
-      10749,
-      35
-    ],
-    "popularity": 155.7847
+    "popularity": 85.0829
   },
   {
     "id": 1400336,
@@ -271,50 +235,102 @@
     "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
     "poster": "https://image.tmdb.org/t/p/w342/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-    "rating": 6.808,
-    "votes": 13,
+    "rating": 7.053,
+    "votes": 19,
     "release": "2026-11-21",
     "genres": [
       35,
       10749
     ],
-    "popularity": 55.3602
+    "popularity": 59.4294
   },
   {
-    "id": 1131943,
-    "tmdb_id": 1131943,
+    "id": 1611767,
+    "tmdb_id": 1611767,
     "type": "movie",
-    "title": "Madden",
-    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-    "poster": "https://image.tmdb.org/t/p/w342/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-    "rating": 6.478,
-    "votes": 69,
-    "release": "2026-11-18",
+    "title": "Clashing Through the Snow",
+    "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+    "poster": "https://image.tmdb.org/t/p/w342/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "rating": 6.096,
+    "votes": 68,
+    "release": "2026-11-23",
     "genres": [
-      18,
-      36,
+      10749,
       35
     ],
-    "popularity": 57.7477
+    "popularity": 67.2028
   },
   {
-    "id": 1568060,
-    "tmdb_id": 1568060,
+    "id": 1381071,
+    "tmdb_id": 1381071,
     "type": "movie",
-    "title": "Perfect Liars",
-    "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-    "poster": "https://image.tmdb.org/t/p/w342/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
-    "rating": 7.233,
-    "votes": 43,
-    "release": "2026-11-20",
+    "title": "Godzilla Minus Zero",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "rating": 7.649,
+    "votes": 313,
+    "release": "2026-11-03",
+    "genres": [
+      878,
+      27,
+      28
+    ],
+    "popularity": 71.9179
+  },
+  {
+    "id": 1551025,
+    "tmdb_id": 1551025,
+    "type": "movie",
+    "title": "Guarding Stars",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "rating": 6.804,
+    "votes": 140,
+    "release": "2026-11-18",
+    "genres": [
+      10749,
+      35
+    ],
+    "popularity": 134.7058
+  },
+  {
+    "id": 1480665,
+    "tmdb_id": 1480665,
+    "type": "movie",
+    "title": "The Hunchback, Soul of Paris",
+    "overview": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
+    "poster": "https://image.tmdb.org/t/p/w342/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-11-27",
     "genres": [
       18,
-      10749,
-      53
+      10749
     ],
-    "popularity": 88.2818
+    "popularity": 3.6108
+  },
+  {
+    "id": 1269325,
+    "tmdb_id": 1269325,
+    "type": "movie",
+    "title": "Drishyam: The Conclusion",
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "poster": "https://image.tmdb.org/t/p/w342/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/slSC0xYHynkHAwIdLPqfW9Blcow.jpg",
+    "rating": 7.7,
+    "votes": 15,
+    "release": "2026-10-02",
+    "genres": [
+      53,
+      18,
+      9648,
+      80
+    ],
+    "popularity": 11.6668
   },
   {
     "id": 1423191,
@@ -324,32 +340,14 @@
     "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
-    "rating": 7.519,
-    "votes": 2569,
+    "rating": 7.523,
+    "votes": 2592,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 223.4965
-  },
-  {
-    "id": 1084409,
-    "tmdb_id": 1084409,
-    "type": "movie",
-    "title": "A Talent for Murder",
-    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-    "poster": "https://image.tmdb.org/t/p/w342/oKsS2mUf87ClNjrruq8s0aXrDSb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
-    "rating": 7.263,
-    "votes": 38,
-    "release": "2026-10-23",
-    "genres": [
-      53,
-      18,
-      80
-    ],
-    "popularity": 34.0239
+    "popularity": 215.03
   }
 ]
