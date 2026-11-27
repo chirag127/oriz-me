@@ -1,0 +1,159 @@
+---
+/**
+ * /me/sources — the patch bay. Every third-party service the build reads, what
+ * it feeds, and the state measured at the last data refresh. Written because a
+ * failing key and an empty account look identical on a library page.
+ */
+import Layout from '~/layouts/Layout.astro'
+import { SOURCES, GROUP_ORDER, type SourceState } from '~/data/sources'
+import { readFileSync, existsSync } from 'fs'
+import { join } from 'path'
+
+const rowsIn = (file: string): number | null => {
+  const p = join(process.cwd(), 'public/data', file)
+  if (!existsSync(p)) return null
+  try {
+    const d = JSON.parse(readFileSync(p, 'utf-8'))
+    if (Array.isArray(d)) return d.length
+    if (d && typeof d === 'object') return Object.keys(d).length
+    return 0
+  } catch { return null }
+}
+
+const rows = new Map<string, number | null>()
+for (const s of SOURCES) {
+  const counts = s.feeds.map(rowsIn).filter((n): n is number => n !== null)
+  rows.set(s.id, counts.length ? counts.reduce((a, b) => a + b, 0) : null)
+}
+
+const stateOf = (s: (typeof SOURCES)[number]): SourceState => {
+  if (s.known?.state === 'unavailable') return 'unavailable'
+  const n = rows.get(s.id)
+  if (n === null) return 'unavailable'
+  if (n === 0) return s.known?.state ?? 'empty'
+  return 'live'
+}
+
+const view = SOURCES.map((s) => ({ ...s, state: stateOf(s), count: rows.get(s.id) ?? null }))
+const tally = { live: 0, empty: 0, unavailable: 0 } as Record<SourceState, number>
+for (const s of view) tally[s.state] += 1
+
+const stateLabel: Record<SourceState, string> = {
+  live: 'reporting',
+  empty: 'no rows yet',
+  unavailable: 'not reporting',
+}
+---
+
+<Layout title="Sources" description="Every third-party service this site reads, what it feeds, and whether it is reporting." active="/me/sources/">
+  <div class="page-header">
+    <div class="kicker">SOURCES</div>
+    <h1>What feeds this page</h1>
+    <p class="muted">
+      {view.length} services are wired into the build. Nothing is fetched in your browser and no key ships to it:
+      the data is pulled once per refresh and committed as JSON.
+    </p>
+  </div>
+
+  <div class="tally" role="list">
+    <div role="listitem"><b class="num">{tally.live}</b><span>reporting</span></div>
+    <div role="listitem"><b class="num">{tally.empty}</b><span>no rows yet</span></div>
+    <div role="listitem"><b class="num">{tally.unavailable}</b><span>not reporting</span></div>
+  </div>
+
+  {GROUP_ORDER.map((group) => {
+    const items = view.filter((s) => s.group === group)
+    if (!items.length) return null
+    return (
+      <section class="group">
+        <h2>{group}</h2>
+        <ul class="patch">
+          {items.map((s) => (
+            <li class:list={['row', `is-${s.state}`]}>
+              <span class="dot" aria-hidden="true"></span>
+              <a class="name" href={s.site} target="_blank" rel="noopener">{s.name}</a>
+              <span class="auth">{s.auth === 'none' ? 'no key' : s.auth}</span>
+              <span class="count">{s.count === null ? '—' : s.count.toLocaleString('en-GB')}</span>
+              <span class="state">{stateLabel[s.state]}</span>
+              {s.known?.note && <span class="why">{s.known.note}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  })}
+
+  <p class="footnote">
+    A row that says <em>not reporting</em> with a count of zero is a broken credential, not an empty account.
+    Empty accounts are the ones marked <em>no rows yet</em>: the service answered and had nothing to send.
+  </p>
+</Layout>
+
+<style>
+  .tally {
+    display: flex; flex-wrap: wrap; gap: 0;
+    border: 1px solid var(--hair); border-radius: var(--r-md);
+    margin-bottom: 2.2rem;
+  }
+  .tally > div {
+    flex: 1 1 140px; padding: 14px 16px;
+    display: flex; align-items: baseline; gap: 9px;
+    border-right: 1px solid var(--hair);
+  }
+  .tally > div:last-child { border-right: none; }
+  .tally .num {
+    font-family: var(--font-display); font-size: 1.5rem; font-weight: 600;
+    color: var(--ink); letter-spacing: -0.02em;
+  }
+  .tally span { font-size: 0.74rem; color: var(--ink-3); }
+
+  .group { margin-bottom: 2rem; }
+  .group h2 {
+    font-family: var(--font-display); font-size: 0.95rem; font-weight: 600;
+    color: var(--ink); margin: 0 0 8px;
+  }
+  .patch { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--hair); }
+  .row {
+    display: grid;
+    grid-template-columns: 10px minmax(120px, 1.2fr) 64px 56px 108px minmax(0, 2.4fr);
+    align-items: baseline;
+    gap: 12px;
+    padding: 9px 2px;
+    border-bottom: 1px solid var(--hair);
+    font-size: 0.82rem;
+  }
+  .dot {
+    width: 8px; height: 8px; border-radius: 50%; align-self: center;
+    background: var(--ink-4);
+  }
+  .is-live .dot { background: var(--phosphor); box-shadow: 0 0 8px var(--phosphor-glow); }
+  .is-empty .dot { background: transparent; border: 1px solid var(--ink-4); }
+  .is-unavailable .dot { background: var(--amber); }
+
+  .name { color: var(--ink); }
+  .name:hover { color: var(--phosphor); }
+  .auth, .state, .count {
+    font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-4);
+    letter-spacing: 0.03em;
+  }
+  .count { text-align: right; color: var(--ink-3); }
+  .is-live .state { color: var(--phosphor-dim); }
+  .is-unavailable .state { color: var(--amber-dim); }
+  .why {
+    color: var(--ink-3); font-size: 0.76rem; line-height: 1.45;
+    grid-column: 2 / -1;
+  }
+
+  .footnote {
+    margin-top: 1.6rem; max-width: 68ch;
+    font-size: 0.78rem; line-height: 1.6; color: var(--ink-3);
+  }
+
+  @media (max-width: 860px) {
+    .row { grid-template-columns: 10px minmax(0, 1fr) 52px; row-gap: 4px; }
+    .auth { display: none; }
+    .count { text-align: right; }
+    .state { grid-column: 2 / -1; }
+    .why { grid-column: 2 / -1; }
+  }
+</style>

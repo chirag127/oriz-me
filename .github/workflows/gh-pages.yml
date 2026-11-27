@@ -1,0 +1,53 @@
+name: GitHub Pages mirror
+
+# Publishes the site to https://mirror.oriz.in as a mirror of me.oriz.in.
+# It has its own custom domain rather than riding on gh.oriz.in, because a repo
+# served under a user-site domain gets the /<repo>/ subpath, and every internal
+# link in this site is root-absolute. A root-served host keeps those links
+# working; me.oriz.in stays canonical and the markup already says so.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'public/data/**'
+      - '**.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gh-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --legacy-peer-deps
+      # The data refresh needs live credentials that this mirror does not hold.
+      # Committed snapshots under public/data are what the build reads, and the
+      # context file is generated from them by the build script.
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

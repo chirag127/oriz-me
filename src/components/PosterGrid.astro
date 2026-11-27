@@ -1,0 +1,97 @@
+---
+/**
+ * Poster grid for media shelves. One component so books, anime and manga cannot
+ * drift into three different card sizes again.
+ *
+ * Placeholder colour comes from Hardcover's cached_image.color, which is an API
+ * value: it is validated as a 6-digit hex before it reaches a style attribute.
+ */
+interface Item {
+  title: string
+  cover?: string
+  href?: string
+  sub?: string
+  rating?: number | null
+  color?: string | null
+}
+interface Props {
+  items: Item[]
+  empty: string
+  showCredit?: boolean
+}
+
+const { items, empty, showCredit = true } = Astro.props
+
+const initials = (title: string) =>
+  title
+    .split(/\s+/)
+    .filter((w) => /[a-z0-9]/i.test(w))
+    .slice(0, 2)
+    .map((w) => w[0]!.toUpperCase())
+    .join('')
+
+const hex = (color?: string | null) => (color && /^#[0-9a-f]{6}$/i.test(color) ? color : '#1a2830')
+---
+
+{items.length === 0 ? (
+  <p class="pg-empty">{empty}</p>
+) : (
+  <ul class="pg-grid">
+    {items.map((it) => (
+      <li class="pg-card">
+        {it.href ? (
+          <a class="pg-art" href={it.href} target="_blank" rel="noopener" style={!it.cover ? `background:${hex(it.color)}` : undefined} aria-label={it.title}>
+            {it.cover ? <img src={it.cover} alt="" loading="lazy" decoding="async" /> : <span class="pg-initials">{initials(it.title)}</span>}
+          </a>
+        ) : (
+          <span class="pg-art" style={!it.cover ? `background:${hex(it.color)}` : undefined}>
+            {it.cover ? <img src={it.cover} alt="" loading="lazy" decoding="async" /> : <span class="pg-initials">{initials(it.title)}</span>}
+          </span>
+        )}
+        {it.href
+          ? <a class="pg-title" href={it.href} target="_blank" rel="noopener">{it.title}</a>
+          : <span class="pg-title">{it.title}</span>}
+        {it.sub && <span class="pg-sub">{it.sub}</span>}
+        {it.rating ? <span class="pg-rating">{'★'.repeat(Math.max(0, Math.min(5, Math.round(Number(it.rating)))))}</span> : null}
+      </li>
+    ))}
+  </ul>
+)}
+
+{showCredit && (
+  <p class="pg-credit">
+    Covers from <a href="https://hardcover.app" target="_blank" rel="noopener">Hardcover</a> and
+    <a href="https://openlibrary.org" target="_blank" rel="noopener">Open Library</a>.
+  </p>
+)}
+
+<style>
+  .pg-empty { color: var(--ink-3); font-size: .85rem; }
+  .pg-grid {
+    list-style: none; padding: 0; margin: 0;
+    display: grid; gap: 14px;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+  .pg-card { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+  .pg-art {
+    display: flex; align-items: center; justify-content: center;
+    aspect-ratio: 2 / 3; width: 100%; overflow: hidden;
+    border-radius: var(--r-md, 6px); border: 1px solid var(--hair);
+    background: var(--panel-2);
+    transition: transform var(--ease), border-color var(--ease);
+  }
+  .pg-art:hover { transform: translateY(-2px); border-color: var(--hair-2); }
+  .pg-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .pg-initials {
+    font-family: var(--font-display); font-weight: 600; font-size: 1.4rem;
+    color: #f4f8fa; text-shadow: 0 1px 6px rgba(0, 0, 0, .28);
+    letter-spacing: .02em;
+  }
+  .pg-title {
+    font-size: .78rem; line-height: 1.35; color: var(--ink);
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .pg-sub { font-size: .7rem; color: var(--ink-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .pg-rating { font-size: .7rem; color: var(--amber, #e0b335); letter-spacing: .06em; }
+  .pg-credit { margin-top: 14px; font-family: var(--font-mono); font-size: .68rem; color: var(--ink-4); }
+</style>

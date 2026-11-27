@@ -333,10 +333,16 @@ hr.section-divider { border: none; height: 1px; background: linear-gradient(90de
 
 /* ══════════════════════════════════════════════ MOBILE TAB BAR ══ */
 .tab-bar { display: none; position: fixed; bottom: 0; left: 0; right: 0; height: 58px; background: color-mix(in srgb, var(--panel) 94%, transparent); border-top: 1px solid var(--hair); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); z-index: 60; }
+.mobile-bar { display: none; }
 .tab-bar-inner { display: flex; height: 100%; align-items: center; justify-content: space-around; }
 .tab-item { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 4px 12px; color: var(--ink-3); font-size: 9px; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.08em; text-decoration: none; transition: color var(--ease); }
 .tab-item.active { color: var(--phosphor); }
 .tab-icon { font-family: var(--font-mono); font-size: 17px; line-height: 1; }
+/* Button styled as a tab. Only chrome is added; type comes from .tab-item, so a
+   font-size here would override the 9px tab label (inherit resolves to body size). */
+.tab-menu { background: none; border: 0; cursor: pointer; color: var(--ink-2); padding: 4px 12px; min-height: 44px; }
+.tab-menu:hover { color: var(--phosphor); }
+html[data-nav-open='true'] .tab-menu { color: var(--phosphor); }
 
 /* ══════════════════════════════════════════════ ANIMATIONS ══ */
 @keyframes fade-up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
@@ -349,10 +355,41 @@ hr.section-divider { border: none; height: 1px; background: linear-gradient(90de
 .delay-4 { animation-delay: 0.2s; } .delay-5 { animation-delay: 0.25s; } .delay-6 { animation-delay: 0.3s; }
 
 /* ══════════════════════════════════════════════ RESPONSIVE ══ */
-@media (max-width: 768px) {
-  .sidebar { display: none; }
-  .main-content { margin-left: 0; padding: 24px 20px 80px; }
+@media (max-width: 900px) {
+  /* One breakpoint for the whole rail. It used to vanish at 768 while the content
+     un-indented at 900, which left a 256px rail parked over the page with no
+     control to close it. Below 900 the rail is an off-canvas drawer. */
+  .sidebar {
+    width: min(86vw, 300px);
+    transform: translateX(-102%);
+    transition: transform var(--ease-slow);
+    box-shadow: 0 0 40px rgba(0, 0, 0, .45);
+    visibility: hidden;
+  }
+  html[data-nav-open='true'] .sidebar { transform: none; visibility: visible; }
+  html[data-nav-open='true'] body { overflow: hidden; }
+  /* The tab bar covers the last 58px of the drawer, so pad the rail to keep the
+     final entries (Connect, Hire me) tappable. */
+  /* The tab bar spans the full width above the drawer, so the drawer starts below
+     it: otherwise the rail head and its first links sit hidden under the bar. */
+  .sidebar { padding-bottom: 72px; top: 52px; height: calc(100dvh - 52px); }
   .tab-bar { display: block; }
+  .mobile-bar { display: flex; }
+  .rail-scrim {
+    position: fixed; inset: 0; z-index: 45;
+    background: rgba(4, 8, 10, .58);
+    -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
+    opacity: 0; visibility: hidden;
+    transition: opacity var(--ease), visibility var(--ease);
+  }
+  html[data-nav-open='true'] .rail-scrim { opacity: 1; visibility: visible; }
+  .rail-toggle .bars { display: block; }
+  html[data-nav-open='true'] .rail-toggle .bars { display: none; }
+  .rail-toggle .cross { display: none; }
+  html[data-nav-open='true'] .rail-toggle .cross { display: block; }
+}
+
+@media (max-width: 768px) {
   .stats-row { gap: 1.5rem; }
   .stat-number { font-size: 2rem; }
   .bento-wide { grid-column: span 1; }
