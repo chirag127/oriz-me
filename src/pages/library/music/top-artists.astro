@@ -12,6 +12,13 @@ function loadJson(name: string, fallback: any = []) {
 }
 
 const lfArtists: any[]  = loadJson('lastfm-top-artists.json')
+const win: any = loadJson('lastfm-window.json', {})
+const PERIOD: Record<string, string> = {
+  '1month': 'Last 30 days', '3month': 'Last 3 months', '6month': 'Last 6 months',
+  '12month': 'Last 12 months', overall: 'All time',
+}
+const periodLabel = PERIOD[win.period] ?? 'Recent'
+const stale = win.last_scrobble ? `Last scrobble ${win.last_scrobble}${win.last_track ? ` · ${win.last_track} — ${win.last_artist}` : ''}` : ''
 const lbStats: any      = loadJson('lb-stats-month.json', {})
 
 const artists = lfArtists.length
@@ -23,7 +30,8 @@ const artists = lfArtists.length
   <div class="page-header">
     <div class="kicker">MUSIC · TOP ARTISTS</div>
     <h1>Top Artists</h1>
-    <p class="muted">Last 30 days · Last.fm + ListenBrainz</p>
+    <p class="muted">{periodLabel} · Last.fm + ListenBrainz{win.period && win.period !== '1month' ? ' · widened from 30 days because nothing was scrobbled recently' : ''}</p>
+    {stale && <p class="muted" style="font-size:0.78rem;color:var(--ink-3)">{stale}</p>}
   </div>
 
   {artists.length === 0 ? (
