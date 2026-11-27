@@ -1,57 +1,93 @@
 [
   {
-    "id": 155,
-    "tmdb_id": 155,
+    "id": 1726,
+    "tmdb_id": 1726,
     "type": "movie",
-    "title": "The Dark Knight",
-    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "poster": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
-    "rating": 8.54,
-    "votes": 37204,
-    "release": "2008-07-16",
+    "title": "Iron Man",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+    "rating": 7.7,
+    "votes": 29294,
+    "release": "2008-04-30",
     "genres": [
       28,
-      53,
-      80
+      878,
+      12
     ],
-    "popularity": 2533.6366
+    "popularity": 1226.2518
   },
   {
-    "id": 791523,
-    "tmdb_id": 791523,
+    "id": 801688,
+    "tmdb_id": 801688,
     "type": "movie",
-    "title": "Wildwood",
-    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
-    "poster": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "rating": 8.517,
-    "votes": 174,
-    "release": "2026-10-19",
+    "title": "Kalki 2898-AD",
+    "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+    "poster": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+    "rating": 6.4,
+    "votes": 215,
+    "release": "2024-06-26",
     "genres": [
-      16,
-      12,
-      14
+      18,
+      28,
+      14,
+      878
     ],
-    "popularity": 1313.2444
+    "popularity": 563.7267
   },
   {
-    "id": 1058424,
-    "tmdb_id": 1058424,
+    "id": 1368337,
+    "tmdb_id": 1368337,
     "type": "movie",
-    "title": "Hope",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-    "rating": 6.757,
-    "votes": 463,
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+    "rating": 8.025,
+    "votes": 5522,
     "release": "2026-07-15",
     "genres": [
-      878,
-      9648,
-      28
+      12,
+      28,
+      14
     ],
-    "popularity": 420.5519
+    "popularity": 349.9557
+  },
+  {
+    "id": 1300968,
+    "tmdb_id": 1300968,
+    "type": "movie",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "rating": 7.8,
+    "votes": 379,
+    "release": "2026-11-18",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 342.5151
+  },
+  {
+    "id": 1263337,
+    "tmdb_id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+    "rating": 7.895,
+    "votes": 1253,
+    "release": "2026-09-23",
+    "genres": [
+      12,
+      53
+    ],
+    "popularity": 290.4007
   },
   {
     "id": 969681,
@@ -60,16 +96,86 @@
     "title": "Spider-Man: Brand New Day",
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "rating": 8.485,
-    "votes": 6533,
+    "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "rating": 8.455,
+    "votes": 7136,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 326.7777
+    "popularity": 295.863
+  },
+  {
+    "id": 1003596,
+    "tmdb_id": 1003596,
+    "type": "movie",
+    "title": "Avengers: Doomsday",
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "rating": 0,
+    "votes": 0,
+    "release": "2026-12-16",
+    "genres": [
+      878,
+      28,
+      12
+    ],
+    "popularity": 263.0295
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "type": "movie",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "rating": 6.553,
+    "votes": 638,
+    "release": "2026-10-07",
+    "genres": [
+      27
+    ],
+    "popularity": 215.6173
+  },
+  {
+    "id": 1423191,
+    "tmdb_id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+    "rating": 7.522,
+    "votes": 2590,
+    "release": "2026-09-16",
+    "genres": [
+      27,
+      878,
+      12
+    ],
+    "popularity": 215.03
+  },
+  {
+    "id": 1058424,
+    "tmdb_id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "rating": 6.9,
+    "votes": 792,
+    "release": "2026-07-15",
+    "genres": [
+      878,
+      9648,
+      28
+    ],
+    "popularity": 189.911
   },
   {
     "id": 1507696,
@@ -79,194 +185,105 @@
     "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-    "rating": 6.218,
-    "votes": 101,
+    "rating": 6.149,
+    "votes": 268,
     "release": "2026-10-09",
     "genres": [
       28,
       53,
       27
     ],
-    "popularity": 353.2271
+    "popularity": 151.0698
   },
   {
-    "id": 1423191,
-    "tmdb_id": 1423191,
+    "id": 1551025,
+    "tmdb_id": 1551025,
     "type": "movie",
-    "title": "Resident Evil",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-    "rating": 7.466,
-    "votes": 1452,
-    "release": "2026-09-16",
-    "genres": [
-      27,
-      878,
-      12
-    ],
-    "popularity": 307.6596
-  },
-  {
-    "id": 1596275,
-    "tmdb_id": 1596275,
-    "type": "movie",
-    "title": "Drive - The Pretenders",
-    "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
-    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-    "rating": 7.771,
-    "votes": 107,
-    "release": "2026-10-27",
+    "title": "Guarding Stars",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "rating": 6.804,
+    "votes": 140,
+    "release": "2026-11-18",
     "genres": [
       10749,
-      53
+      35
     ],
-    "popularity": 274.5093
+    "popularity": 134.7058
   },
   {
-    "id": 354912,
-    "tmdb_id": 354912,
+    "id": 1741617,
+    "tmdb_id": 1741617,
     "type": "movie",
-    "title": "Coco",
-    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "poster": "https://image.tmdb.org/t/p/w342/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-    "rating": 8.207,
-    "votes": 21774,
-    "release": "2017-10-27",
-    "genres": [
-      10751,
-      16,
-      10402,
-      12
-    ],
-    "popularity": 267.3981
-  },
-  {
-    "id": 1101412,
-    "tmdb_id": 1101412,
-    "type": "movie",
-    "title": "Fall 2: Deadpoint",
-    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-    "rating": 7.321,
-    "votes": 738,
-    "release": "2026-09-01",
-    "genres": [
-      53
-    ],
-    "popularity": 215.7066
-  },
-  {
-    "id": 1657630,
-    "tmdb_id": 1657630,
-    "type": "movie",
-    "title": "The Awakening",
-    "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-    "poster": "https://image.tmdb.org/t/p/w342/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-    "rating": 6.414,
-    "votes": 99,
-    "release": "2026-10-29",
+    "title": "Hansel & Gretel's Halloween",
+    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+    "backdrop": "",
+    "rating": 6.8,
+    "votes": 9,
+    "release": "2026-08-01",
     "genres": [
       27,
-      28,
-      10752,
-      14,
-      53
+      14
     ],
-    "popularity": 228.4792
+    "popularity": 155.7055
   },
   {
-    "id": 1283515,
-    "tmdb_id": 1283515,
+    "id": 1244523,
+    "tmdb_id": 1244523,
     "type": "movie",
-    "title": "Verity",
-    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-    "rating": 6.974,
-    "votes": 587,
-    "release": "2026-09-30",
-    "genres": [
-      9648,
-      53
-    ],
-    "popularity": 218.0504
-  },
-  {
-    "id": 1368337,
-    "tmdb_id": 1368337,
-    "type": "movie",
-    "title": "The Odyssey",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "poster": "https://image.tmdb.org/t/p/w342/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-    "rating": 8,
-    "votes": 4339,
-    "release": "2026-07-15",
+    "title": "Beware Boiúna",
+    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+    "poster": "https://image.tmdb.org/t/p/w342/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "rating": 5.9,
+    "votes": 76,
+    "release": "2026-10-01",
     "genres": [
       12,
-      28,
-      14
+      27,
+      53
     ],
-    "popularity": 195.7549
+    "popularity": 138.2069
   },
   {
-    "id": 1514026,
-    "tmdb_id": 1514026,
+    "id": 1616687,
+    "tmdb_id": 1616687,
     "type": "movie",
-    "title": "Buddy",
-    "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
-    "poster": "https://image.tmdb.org/t/p/w342/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-    "rating": 7,
-    "votes": 236,
-    "release": "2026-08-27",
+    "title": "Never Surrender",
+    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+    "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+    "rating": 6.827,
+    "votes": 84,
+    "release": "2026-11-11",
     "genres": [
-      27,
+      28,
+      80,
+      53
+    ],
+    "popularity": 130.054
+  },
+  {
+    "id": 1595124,
+    "tmdb_id": 1595124,
+    "type": "movie",
+    "title": "Steps",
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+    "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "rating": 7.107,
+    "votes": 112,
+    "release": "2026-11-20",
+    "genres": [
+      16,
+      10751,
       35,
+      12,
       14
     ],
-    "popularity": 175.269
-  },
-  {
-    "id": 1232569,
-    "tmdb_id": 1232569,
-    "type": "movie",
-    "title": "Pinocchio: Unstrung",
-    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-    "poster": "https://image.tmdb.org/t/p/w342/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
-    "rating": 6.4,
-    "votes": 157,
-    "release": "2026-07-22",
-    "genres": [
-      27,
-      14,
-      9648
-    ],
-    "popularity": 151.0054
-  },
-  {
-    "id": 1384216,
-    "tmdb_id": 1384216,
-    "type": "movie",
-    "title": "The Dog Stars",
-    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-    "rating": 7.234,
-    "votes": 870,
-    "release": "2026-08-26",
-    "genres": [
-      28,
-      53,
-      878
-    ],
-    "popularity": 136.1394
+    "popularity": 129.2548
   },
   {
     "id": 1813355,
@@ -276,84 +293,63 @@
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "rating": 6.883,
-    "votes": 60,
+    "rating": 6.633,
+    "votes": 151,
     "release": "2026-10-31",
     "genres": [
       18,
       27,
       9648
     ],
-    "popularity": 169.6515
+    "popularity": 110.2931
   },
   {
-    "id": 1571955,
-    "tmdb_id": 1571955,
+    "id": 1496696,
+    "tmdb_id": 1496696,
     "type": "movie",
-    "title": "Collision Course",
-    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-    "poster": "https://image.tmdb.org/t/p/w342/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-    "rating": 6.714,
-    "votes": 49,
-    "release": "2026-10-30",
-    "genres": [
-      53,
-      18,
-      80
-    ],
-    "popularity": 158.8915
-  },
-  {
-    "id": 1294189,
-    "tmdb_id": 1294189,
-    "type": "movie",
-    "title": "The Mongoose",
-    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-    "rating": 7.571,
-    "votes": 14,
-    "release": "2026-10-29",
-    "genres": [
-      28,
-      53
-    ],
-    "popularity": 150.7374
-  },
-  {
-    "id": 1291595,
-    "tmdb_id": 1291595,
-    "type": "movie",
-    "title": "Insidious: Out of the Further",
-    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-    "rating": 7.718,
-    "votes": 1019,
-    "release": "2026-08-19",
+    "title": "Breeder",
+    "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+    "poster": "https://image.tmdb.org/t/p/w342/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+    "rating": 7.581,
+    "votes": 37,
+    "release": "2026-10-28",
     "genres": [
       27,
       53
     ],
-    "popularity": 135.4329
+    "popularity": 124.9252
   },
   {
-    "id": 1400940,
-    "tmdb_id": 1400940,
+    "id": 1765072,
+    "tmdb_id": 1765072,
     "type": "movie",
-    "title": "Clayface",
-    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "rating": 7.411,
-    "votes": 370,
-    "release": "2026-10-19",
+    "title": "You Can See Everything",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "poster": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+    "rating": 8.612,
+    "votes": 219,
+    "release": "2026-10-16",
     "genres": [
-      27,
-      53,
-      878
+      99
     ],
-    "popularity": 129.4041
+    "popularity": 114.5537
+  },
+  {
+    "id": 1492566,
+    "tmdb_id": 1492566,
+    "type": "movie",
+    "title": "Dracula Eternal",
+    "overview": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+    "poster": "https://image.tmdb.org/t/p/w342/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5UfsizL5EJ2adEDxyhjkBjJrMHj.jpg",
+    "rating": 2.2,
+    "votes": 2,
+    "release": "2026-01-16",
+    "genres": [
+      27
+    ],
+    "popularity": 99.3886
   }
 ]

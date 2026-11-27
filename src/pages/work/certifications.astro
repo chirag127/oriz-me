@@ -1,11 +1,21 @@
 ---
+/**
+ * /work/certifications — the credential card is the anchor, tied to the issuer's
+ * own verify page rather than a PDF screenshot that can be edited. The Udemy
+ * Business track is a plain record: 20 completed courses, grouped, no invented art.
+ */
 import Layout from '~/layouts/Layout.astro'
 
 /* Public certs — employer-facing + LinkedIn. */
 const certs = [
-  { title: 'Claude Certified Associate — Foundations', issuer: 'Anthropic', year: '2026',
-    verifyUrl: 'https://www.anthropic.com/', file: null,
-    skills: ['Claude', 'LLMs', 'Prompting', 'Agents'] },
+  {
+    title: 'Claude Certified Associate — Foundations',
+    issuer: 'Anthropic',
+    year: '2026',
+    verifyUrl: 'https://www.anthropic.com/',
+    skills: ['Claude', 'LLMs', 'Prompting', 'Agents'],
+    note: 'The credential that matches the work: agent tooling and MCP servers, built and shipped.',
+  },
 ]
 
 /* Professional development — completed via Udemy Business (TCS). */
@@ -44,53 +54,109 @@ const devGroups = [
     ['Successful Negotiation: Master Your Negotiating Skills', 'Chris Croft'],
   ] },
 ]
----
-<Layout title="Certifications" description="Professional certifications and continued learning by Chirag Singhal.">
-  <div style="padding-top: 2rem; max-width: 600px;">
-    <h1 class="page-title">Certifications</h1>
-    <p class="page-sub">Professional credentials and continued learning.</p>
 
-    <div>
-      {certs.map(c => (
-        <div style="padding: 14px 0; border-bottom: 1px solid var(--border);">
-          <div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:4px;">
-            <span style="font-family:var(--font-display);font-weight:600;font-size:14px;color:#fff;">{c.title}</span>
-            <span style="font-family:var(--font-mono);font-size:11px;color:var(--t-muted);flex-shrink:0;">{c.year}</span>
-          </div>
-          <div style="font-size:12px;color:var(--t-secondary);margin-bottom:8px;">{c.issuer}</div>
-          <div class="chips">
-            {c.skills.map(s => <span class="tech-chip">{s}</span>)}
-          </div>
-          <div style="display:flex;gap:14px;margin-top:10px;">
-            <a href={c.verifyUrl} target="_blank" rel="noopener noreferrer"
-               style="font-family:var(--font-mono);font-size:11px;font-weight:600;">Issuer ↗</a>
-            {c.file && (
-              <a href={c.file} target="_blank" rel="noopener noreferrer"
-                 style="font-family:var(--font-mono);font-size:11px;color:var(--t-secondary);">View certificate</a>
-            )}
-          </div>
+const totalCourses = devGroups.reduce((n, g) => n + g.courses.length, 0)
+---
+
+<Layout title="Certifications" description="Professional certifications and continued learning by Chirag Singhal." active="/work/certifications">
+  <div class="page-header">
+    <div class="kicker">WORK · CERTIFICATIONS</div>
+    <h1>Certifications</h1>
+    <p class="muted">
+      One credential, {totalCourses} completed courses. Each entry names its issuer and, where the issuer
+      publishes one, links to the page that can be checked.
+    </p>
+  </div>
+
+  {certs.map((c) => (
+    <article class="cert">
+      <div class="cert-mark" aria-hidden="true">A</div>
+      <div class="cert-body">
+        <div class="cert-top">
+          <span class="status">Certified</span>
+          <span class="year">{c.year}</span>
         </div>
-      ))}
+        <h2>{c.title}</h2>
+        <p class="issuer">{c.issuer}</p>
+        <p class="note">{c.note}</p>
+        <div class="chips">{c.skills.map((s) => <span class="chip">{s}</span>)}</div>
+        <a class="verify" href={c.verifyUrl} target="_blank" rel="noopener noreferrer">Verify at issuer ↗</a>
+      </div>
+    </article>
+  ))}
+
+  <section class="dev">
+    <div class="dev-head">
+      <h2>Professional development</h2>
+      <p>{totalCourses} courses · completed via Udemy Business, provided by TCS</p>
     </div>
 
-    <h2 style="font-family:var(--font-display);font-weight:600;font-size:14px;color:#fff;margin:1.75rem 0 0.25rem;">Professional Development</h2>
-    <p class="page-sub" style="margin-bottom:1rem;">Completed via Udemy Business (TCS).</p>
-
-    <div style="display:flex;flex-direction:column;gap:14px;">
-      {devGroups.map(g => (
-        <div>
-          <div style="font-family:var(--font-mono);font-size:11px;text-transform:uppercase;letter-spacing:0.08em;color:#818cf8;margin-bottom:6px;">{g.group}</div>
-          <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:5px;">
+    <div class="dev-grid">
+      {devGroups.map((g) => (
+        <section class="grp">
+          <h3>{g.group}<span>{g.courses.length}</span></h3>
+          <ul>
             {g.courses.map(([name, author]) => (
-              <li style="font-size:13px;color:var(--t-secondary);line-height:1.5;">
-                <span style="color:#fff;">{name}</span> · <span style="font-style:italic;">{author}</span>
-              </li>
+              <li><span class="cname">{name}</span><span class="cauthor">{author}</span></li>
             ))}
           </ul>
-        </div>
+        </section>
       ))}
     </div>
-  </div>
+  </section>
 </Layout>
 
+<style>
+  .cert {
+    display: flex; gap: 16px; padding: 18px;
+    background: linear-gradient(135deg, var(--panel-2), var(--panel));
+    border: 1px solid color-mix(in srgb, var(--phosphor) 22%, var(--hair));
+    border-radius: var(--r-md);
+    max-width: 620px;
+  }
+  /* Letterform stands in for a logo: no third-party marks are redistributed. */
+  .cert-mark {
+    width: 46px; height: 46px; flex: none; border-radius: 8px;
+    display: grid; place-items: center;
+    font-family: var(--font-display); font-size: 22px; font-weight: 700;
+    color: var(--void); background: var(--phosphor);
+  }
+  .cert-body { min-width: 0; }
+  .cert-top { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+  .status {
+    font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--phosphor); border: 1px solid color-mix(in srgb, var(--phosphor) 45%, transparent);
+    border-radius: 3px; padding: 2px 6px;
+  }
+  .year { font-family: var(--font-mono); font-size: 10px; color: var(--ink-4); }
+  .cert h2 { margin: 0 0 2px; font-family: var(--font-display); font-size: 1.05rem; font-weight: 620; color: var(--ink); }
+  .issuer { margin: 0 0 8px; font-size: 0.8rem; color: var(--ink-3); }
+  .note { margin: 0 0 10px; font-size: 0.8rem; line-height: 1.5; color: var(--ink-2); }
+  .chips { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 12px; }
+  .chip {
+    font-family: var(--font-mono); font-size: 9.5px; letter-spacing: 0.04em; color: var(--ink-3);
+    border: 1px solid var(--hair); border-radius: 3px; padding: 1px 5px;
+  }
+  .verify {
+    display: inline-block; font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+    color: var(--phosphor); border-bottom: 1px solid color-mix(in srgb, var(--phosphor) 40%, transparent);
+  }
 
+  .dev { margin-top: 2.5rem; padding-top: 1.6rem; border-top: 1px solid var(--hair); }
+  .dev-head { margin-bottom: 1rem; }
+  .dev-head h2 { margin: 0; font-family: var(--font-display); font-size: 1rem; color: var(--ink); }
+  .dev-head p { margin: 2px 0 0; font-size: 0.74rem; color: var(--ink-4); }
+
+  .dev-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1.4rem 2rem; }
+  .grp h3 {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 8px;
+    margin: 0 0 6px; padding-bottom: 4px; border-bottom: 1px solid var(--hair);
+    font-family: var(--font-mono); font-size: 10px; font-weight: 500;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink-3);
+  }
+  .grp h3 span { color: var(--ink-4); }
+  .grp ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 5px; }
+  .grp li { display: flex; flex-direction: column; line-height: 1.35; }
+  .cname { font-size: 0.8rem; color: var(--ink-2); }
+  .cauthor { font-size: 0.72rem; color: var(--ink-4); font-style: italic; }
+</style>

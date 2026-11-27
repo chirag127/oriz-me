@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "slug": "harry-potter-and-the-philosophers-stone",
+    "cover": "https://assets.hardcover.app/external_data/4257970/a3a1bbb3dae498a7a8316be0cc9bc5e91f6c34c9.jpeg",
+    "color": "#925d1a",
+    "author": "J.K. Rowling",
+    "rating": null,
+    "updated": "2026-11-17T07:12:28.255287+00:00"
+  },
+  {
+    "title": "Project Hail Mary",
+    "slug": "project-hail-mary",
+    "cover": "https://assets.hardcover.app/editions/3274049/8741341047797682-91mYu67RfUL._SL1500_.jpg",
+    "color": "#8b640a",
+    "author": "Andy Weir",
+    "rating": null,
+    "updated": "2026-11-17T07:12:26.305133+00:00"
+  },
+  {
+    "title": "1984",
+    "slug": "1984",
+    "cover": "https://assets.hardcover.app/edition/29258002/fb69559e-7c34-40cb-8518-3ef4898b830c.jpg",
+    "color": "#9f0204",
+    "author": "George Orwell",
+    "rating": null,
+    "updated": "2026-11-17T07:12:24.55347+00:00"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "slug": "the-subtle-art-of-not-giving-a-f-ck",
+    "cover": "https://assets.hardcover.app/external_data/39792230/703e1ead0915ce19bc07da55049957ed22605b5d.jpeg",
+    "color": "#f31400",
+    "author": "Mark Manson",
+    "rating": null,
+    "updated": "2026-11-16T08:28:36.788732+00:00"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "slug": "sapiens",
+    "cover": "https://assets.hardcover.app/edition/1014761/175a425a-fb6c-4cb6-afdc-6e1818246f9d.jpg",
+    "color": "#f6e7d3",
+    "author": "Yuval Noah Harari",
+    "rating": null,
+    "updated": "2026-11-16T08:28:35.545427+00:00"
+  }
+]

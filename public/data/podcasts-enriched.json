@@ -1,26 +1,164 @@
 [
   {
     "title": "Lex Fridman Podcast",
-    "feedUrl": "https://lexfridman.com/feed/podcast/"
+    "artist": "Lex Fridman",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/42/d7/ea42d7b1-8d4e-dd97-da5d-c508756550ca/mza_16782152345430036863.jpg/600x600bb.jpg",
+    "feedUrl": "https://lexfridman.com/feed/podcast/",
+    "link": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?uo=4",
+    "episodes": [
+      {
+        "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami &#038; Money",
+        "date": "Thu, 19 Nov 2026 04:37:34 +0000",
+        "duration": "3:26:58",
+        "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=larry-lawton"
+      },
+      {
+        "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+        "date": "Tue, 10 Nov 2026 23:52:44 +0000",
+        "duration": "3:01:15",
+        "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ukraine-war-preston-stewart-michael-kofman"
+      },
+      {
+        "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &#038; Complexity Theory",
+        "date": "Mon, 26 Oct 2026 22:52:28 +0000",
+        "duration": "3:42:40",
+        "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=math-ai-crisis"
+      }
+    ]
   },
   {
     "title": "Huberman Lab",
-    "feedUrl": "https://feeds.megaphone.fm/hubermanlab"
+    "artist": "Scicomm Media",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+    "feedUrl": "https://feeds.megaphone.fm/hubermanlab",
+    "link": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110?uo=4",
+    "episodes": [
+      {
+        "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+        "date": "Thu, 26 Nov 2026 09:00:00 -0000",
+        "duration": "2207",
+        "url": "https://www.hubermanlab.com/episode/essentials-how-to-learn-better-and-create-your-best-future-tim-ferriss"
+      },
+      {
+        "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+        "date": "Mon, 23 Nov 2026 09:00:00 -0000",
+        "duration": "7587",
+        "url": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle"
+      },
+      {
+        "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+        "date": "Thu, 19 Nov 2026 09:00:00 -0000",
+        "duration": "2161",
+        "url": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping"
+      }
+    ]
   },
   {
     "title": "The Tim Ferriss Show",
-    "feedUrl": "https://rss.art19.com/tim-ferriss-show"
+    "artist": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/18/39/b4/1839b420-7aff-c501-5d0d-af2842fba013/mza_6255154260686997849.jpeg/600x600bb.jpg",
+    "feedUrl": "https://rss.art19.com/tim-ferriss-show",
+    "link": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795?uo=4",
+    "episodes": [
+      {
+        "title": "#891: Zen Master Henry Shukman on Love and Grief, Jhana 101, Ambition, and Poetry as a Shortcut",
+        "date": "Wed, 25 Nov 2026 23:30:00 -0000",
+        "duration": "02:21:30",
+        "url": "https://rss.art19.com/episodes/998ca052-7244-44c4-8eb7-5bc635667572.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      },
+      {
+        "title": "#890: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading",
+        "date": "Fri, 20 Nov 2026 17:00:00 -0000",
+        "duration": "00:37:00",
+        "url": "https://rss.art19.com/episodes/3cdeb162-b02e-40c3-b316-2889180d8294.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      },
+      {
+        "title": "#889: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More",
+        "date": "Wed, 11 Nov 2026 17:30:00 -0000",
+        "duration": "01:14:29",
+        "url": "https://rss.art19.com/episodes/dff9adf5-703f-4763-992b-c45a1cb5152d.mp3?rss_browser=BAhJIglub2RlBjoGRVQ%3D--b4c2ce09c7f15789c6d18d17f62b2782e08eb434"
+      }
+    ]
   },
   {
     "title": "Darknet Diaries",
-    "feedUrl": "https://feeds.megaphone.fm/darknetdiaries"
+    "artist": "Jack Rhysider",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/3a/80/a7/3a80a7db-5620-f77b-9935-016e61cc2fbc/mza_9399859904175514567.jpg/600x600bb.jpg",
+    "feedUrl": "https://podcast.darknetdiaries.com",
+    "link": "https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?uo=4",
+    "episodes": [
+      {
+        "title": "182: Blackshades",
+        "date": "Tue, 03 Nov 2026 08:00:00 -0000",
+        "duration": "39:17",
+        "url": "https://darknetdiaries.com/episode/182/"
+      },
+      {
+        "title": "181: Ricky",
+        "date": "Tue, 20 Oct 2026 07:00:00 -0000",
+        "duration": "01:20:15",
+        "url": "https://darknetdiaries.com/episode/181/"
+      },
+      {
+        "title": "180: Conti",
+        "date": "Tue, 06 Oct 2026 07:00:00 -0000",
+        "duration": "59:17",
+        "url": "https://darknetdiaries.com/episode/180/"
+      }
+    ]
   },
   {
     "title": "Software Engineering Daily",
-    "feedUrl": "https://softwareengineeringdaily.com/feed/podcast/"
+    "artist": "Software Engineering Daily",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/a1/dd/36a1dd7e-52ed-78f7-e13f-4261a65cfc58/mza_12039623462681143710.png/600x600bb.jpg",
+    "feedUrl": "https://softwareengineeringdaily.com/feed/podcast/",
+    "link": "https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853?uo=4",
+    "episodes": [
+      {
+        "title": "Temporal and Durable Execution for AI Agents",
+        "date": "Thu, 26 Nov 2026 10:00:00 +0000",
+        "duration": "47:10",
+        "url": "https://softwareengineeringdaily.com/podcasts/temporal-and-durable-execution-for-ai-agents/"
+      },
+      {
+        "title": "Steve Yegge on Building Software Factories",
+        "date": "Tue, 24 Nov 2026 10:00:00 +0000",
+        "duration": "1:00:20",
+        "url": "https://softwareengineeringdaily.com/podcasts/steve-yegge-on-building-software-factories/"
+      },
+      {
+        "title": "The Rise of the Software Factories",
+        "date": "Thu, 19 Nov 2026 10:00:00 +0000",
+        "duration": "36:19",
+        "url": "https://softwareengineeringdaily.com/podcasts/the-rise-of-the-software-factories/"
+      }
+    ]
   },
   {
-    "title": "Changelog",
-    "feedUrl": "https://changelog.com/podcast/feed"
+    "title": "The Changelog: Software Development, Open Source",
+    "artist": "Changelog Media",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b5/b1/43/b5b14333-7cbe-123d-c444-0204e5d08102/mza_311421542997449775.png/600x600bb.jpg",
+    "feedUrl": "https://changelog.com/podcast/feed",
+    "link": "https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264?uo=4",
+    "episodes": [
+      {
+        "title": "Warp bets on the software factory (Interview)",
+        "date": "Tue, 24 Nov 2026 20:00:00 +0000",
+        "duration": "1:48:01",
+        "url": "https://changelog.com/podcast/693"
+      },
+      {
+        "title": "A seminal moment in computing (Interview)",
+        "date": "Fri, 20 Nov 2026 20:00:00 +0000",
+        "duration": "1:13:16",
+        "url": "https://changelog.com/podcast/692"
+      },
+      {
+        "title": "Orbin' with Amp (Interview)",
+        "date": "Wed, 18 Nov 2026 20:00:00 +0000",
+        "duration": "1:24:22",
+        "url": "https://changelog.com/podcast/691"
+      }
+    ]
   }
 ]
