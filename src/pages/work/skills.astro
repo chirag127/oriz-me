@@ -1,230 +1,184 @@
 ---
+/**
+ * /work/skills — derived, not asserted.
+ *
+ * Every entry is a topic or language that actually appears in the GitHub
+ * snapshot, with the number of repositories behind it. A skill with zero
+ * repositories is not rendered at all, so the page cannot claim something the
+ * code does not show. Languages come from the repo's own language field; the
+ * rest are repo topics, which authors maintain deliberately.
+ */
 import Layout from '~/layouts/Layout.astro'
+import { readFileSync } from 'fs'
+import { join } from 'path'
 
-const SKILLS = [
-  {
-    group: 'LANGUAGES',
-    icon: 'code',
-    items: [
-      { name: 'TypeScript', expert: true },
-      { name: 'Python', expert: true },
-      { name: 'JavaScript', expert: true },
-      { name: 'SQL', expert: false },
-      { name: 'Bash', expert: false },
-    ],
-  },
-  {
-    group: 'FRONTEND',
-    icon: 'layout',
-    items: [
-      { name: 'React', expert: true },
-      { name: 'Astro', expert: false },
-      { name: 'Tailwind CSS', expert: false },
-      { name: 'HTML5/CSS3', expert: false },
-      { name: 'Browser extensions', expert: false },
-    ],
-  },
-  {
-    group: 'BACKEND',
-    icon: 'server',
-    items: [
-      { name: 'Node.js', expert: true },
-      { name: 'FastAPI', expert: true },
-      { name: 'Flask', expert: false },
-      { name: 'Express.js', expert: false },
-      { name: 'REST APIs', expert: false },
-    ],
-  },
-  {
-    group: 'AI / LLM',
-    icon: 'brain',
-    glow: true,
-    items: [
-      { name: 'MCP servers', expert: true },
-      { name: 'RAG pipelines', expert: false },
-      { name: 'Gemini', expert: false },
-      { name: 'Groq', expert: false },
-      { name: 'Mistral', expert: false },
-      { name: 'NVIDIA NIM', expert: false },
-      { name: 'Web scraping', expert: false },
-    ],
-  },
-  {
-    group: 'DATA / STORAGE',
-    icon: 'cylinder',
-    items: [
-      { name: 'Neon Postgres', expert: false },
-      { name: 'Supabase', expert: false },
-      { name: 'Turso', expert: false },
-      { name: 'Redis', expert: false },
-      { name: 'MongoDB', expert: false },
-    ],
-  },
-  {
-    group: 'INFRA',
-    icon: 'cloud',
-    items: [
-      { name: 'Cloudflare', expert: true },
-      { name: 'Firebase', expert: false },
-      { name: 'GitHub Actions', expert: false },
-      { name: 'Docker', expert: false },
-      { name: 'Razorpay', expert: false },
-    ],
-  },
-  {
-    group: 'TOOLING',
-    icon: 'wrench',
-    items: [
-      { name: 'Git', expert: false },
-      { name: 'VS Code', expert: false },
-      { name: 'Playwright', expert: false },
-      { name: 'Claude Code', expert: false },
-      { name: 'Obsidian', expert: false },
-    ],
-  },
-]
+type Repo = { name: string; description: string | null; language: string | null; topics?: string[]; fork: boolean; archived: boolean }
 
-const ICONS: Record<string, string> = {
-  code: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>`,
-  layout: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>`,
-  server: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>`,
-  brain: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a4 4 0 0 1 4 4c0 1-.3 2-.8 2.7A4 4 0 0 1 16 12a4 4 0 0 1-1.5 3.1c.3.6.5 1.2.5 1.9a4 4 0 0 1-6 3.46A4 4 0 0 1 3 17c0-.7.2-1.3.5-1.9A4 4 0 0 1 2 12a4 4 0 0 1 .8-2.3C2.3 9 2 8 2 7a4 4 0 0 1 4-4 4 4 0 0 1 6-1z"/></svg>`,
-  cylinder: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>`,
-  cloud: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>`,
-  message: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>`,
-  wrench: `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>`,
+const repos: Repo[] = JSON.parse(readFileSync(join(process.cwd(), 'public/data/github-repos.json'), 'utf-8')).filter(
+  (r) => !r.fork && !r.archived,
+)
+
+const tally = (pick: (r: Repo) => string[]): Map<string, number> => {
+  const m = new Map<string, number>()
+  for (const r of repos) for (const k of pick(r)) m.set(k, (m.get(k) ?? 0) + 1)
+  return m
 }
+
+const languages = tally((r) => (r.language ? [r.language] : []))
+const topics = tally((r) => r.topics ?? [])
+
+// Topic names on GitHub are lowercase and hyphenated; these are the spellings
+// that belong on a CV.
+const LABELS: Record<string, string> = {
+  typescript: 'TypeScript', javascript: 'JavaScript', python: 'Python', astro: 'Astro',
+  'cloudflare-pages': 'Cloudflare Pages', 'cloudflare-workers': 'Cloudflare Workers',
+  'client-side': 'Client-side apps', 'no-server': 'Serverless', 'static-site': 'Static sites',
+  'browser-tool': 'Browser tools', 'browser-extension': 'Browser extensions',
+  'chrome-extension': 'Chrome extensions', 'manifest-v3': 'Manifest V3',
+  tampermonkey: 'Tampermonkey', scriptcat: 'ScriptCat', violentmonkey: 'Violentmonkey',
+  userscript: 'Userscripts', pwa: 'PWA', 'github-actions': 'GitHub Actions',
+  'web-scraping': 'Web scraping', 'developer-tools': 'Developer tools', cli: 'CLI tools',
+  automation: 'Automation', devops: 'DevOps', finance: 'Finance data', india: 'India data',
+  'model-context-protocol': 'Model Context Protocol', mcp: 'MCP servers', llm: 'LLM apps',
+  nlp: 'NLP', rag: 'RAG', ai: 'AI features', gemini: 'Gemini', groq: 'Groq',
+  mistral: 'Mistral', nvidia: 'NVIDIA NIM', openai: 'OpenAI APIs', react: 'React',
+  tailwindcss: 'Tailwind CSS', nextjs: 'Next.js', nodejs: 'Node.js', fastapi: 'FastAPI',
+  express: 'Express', redis: 'Redis', firebase: 'Firebase', razorpay: 'Razorpay',
+  pdf: 'PDF tooling', ocr: 'OCR', 'markdown': 'Markdown', blog: 'Blogs',
+  productivity: 'Productivity', youtube: 'YouTube tooling', 'indian-stock-market': 'Stock market data',
+  fintech: 'Fintech', agent: 'Agents', embeddings: 'Embeddings', 'vector-database': 'Vector DBs',
+  postgres: 'Postgres', postgresql: 'Postgres', sqlite: 'SQLite', mongodb: 'MongoDB',
+  supabase: 'Supabase', turso: 'Turso', docker: 'Docker', deno: 'Deno', bun: 'Bun',
+}
+
+const label = (k: string) => LABELS[k] ?? k.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase())
+
+type Skill = { name: string; n: number }
+const fromTopics = (...keys: string[]): Skill[] =>
+  keys
+    .map((k) => ({ name: label(k), n: topics.get(k) ?? 0 }))
+    .filter((s) => s.n > 0)
+    .sort((a, b) => b.n - a.n)
+
+const languageSkills: Skill[] = [...languages.entries()]
+  .filter(([l]) => !['HTML', 'CSS'].includes(l))
+  .map(([l, n]) => ({ name: l, n }))
+  .sort((a, b) => b.n - a.n)
+  .slice(0, 9)
+
+const GROUPS = [
+  {
+    title: 'Languages',
+    note: 'From each repository’s primary language',
+    items: [...languageSkills, { name: 'HTML/CSS', n: (languages.get('HTML') ?? 0) + (languages.get('CSS') ?? 0) }],
+  },
+  {
+    title: 'Browsers and userscripts',
+    note: 'The largest single cluster in the account',
+    items: fromTopics('userscript', 'tampermonkey', 'scriptcat', 'violentmonkey', 'browser-tool', 'browser-extension', 'chrome-extension', 'manifest-v3'),
+  },
+  {
+    title: 'Frontend and delivery',
+    note: '',
+    items: [...fromTopics('astro', 'pwa', 'static-site', 'react', 'tailwindcss', 'nextjs'), { name: 'Astro', n: topics.get('astro') ?? 0 }].filter((s) => s.n > 0),
+  },
+  {
+    title: 'Backend and runtime',
+    note: '',
+    items: fromTopics('client-side', 'no-server', 'nodejs', 'fastapi', 'express', 'web-scraping', 'cli', 'automation'),
+  },
+  {
+    title: 'AI and LLM work',
+    note: '',
+    items: fromTopics('ai', 'rag', 'mcp', 'model-context-protocol', 'llm', 'nlp', 'gemini', 'groq', 'mistral', 'nvidia', 'openai', 'embeddings', 'agent'),
+  },
+  {
+    title: 'Data and storage',
+    note: '',
+    items: fromTopics('postgres', 'postgresql', 'sqlite', 'mongodb', 'supabase', 'turso', 'redis', 'firebase', 'vector-database'),
+  },
+  {
+    title: 'Infrastructure and CI',
+    note: '',
+    items: fromTopics('cloudflare-pages', 'cloudflare-workers', 'github-actions', 'devops', 'docker', 'razorpay', 'firebase'),
+  },
+  {
+    title: 'Domains and output',
+    note: 'What the repos are about',
+    items: fromTopics('finance', 'fintech', 'india', 'indian-stock-market', 'developer-tools', 'productivity', 'youtube', 'pdf', 'ocr', 'markdown', 'blog'),
+  },
+].filter((g) => g.items.some((i) => i.n > 0))
+
+const seen = new Set<string>()
+const technologies = new Set<string>()
+for (const g of GROUPS) for (const i of g.items) technologies.add(i.name)
+const totalSkills = [...technologies].filter((n) => !seen.has(n) && (seen.add(n), true)).length
+const totalStars = repos.reduce((n, r) => n + ((r as unknown as { stargazers_count: number }).stargazers_count ?? 0), 0)
 ---
 
-<Layout title="Skills" description="Chirag Singhal — tech skills by category">
-  <div class="skills-root">
-    <header class="page-header">
-      <p class="kicker">WORK · SKILLS</p>
-      <h1 class="text-display">Skills</h1>
-      <p class="page-sub">Technologies grouped by domain.</p>
-    </header>
-
-    <div class="card summary-card">
-      <div class="summary-inner">
-        <div class="summary-stat">
-          <span class="stat-number">7</span>
-          <span class="stat-label">DOMAINS</span>
-        </div>
-        <div class="summary-divider" />
-        <div class="summary-stat">
-          <span class="stat-number">40+</span>
-          <span class="stat-label">TECHNOLOGIES</span>
-        </div>
-        <div class="summary-divider" />
-        <div class="summary-stat">
-          <span class="stat-number">2+</span>
-          <span class="stat-label">YRS PRODUCTION</span>
-        </div>
-      </div>
-    </div>
-
-    <div class="grid">
-      {SKILLS.map(s => (
-        <div class={`card ${s.glow ? 'card-glow' : ''}`}>
-          <div class="group-header">
-            <span class="group-icon" set:html={ICONS[s.icon]} />
-            <span class="kicker">{s.group}</span>
-          </div>
-          <div class="chip-row">
-            {s.items.map(item => (
-              item.expert
-                ? <span class={`badge${item.amber ? ' badge-amber' : ''}`}>{item.name}</span>
-                : <span class="chip">{item.name}</span>
-            ))}
-          </div>
-        </div>
-      ))}
-    </div>
+<Layout title="Skills" description="Chirag Singhal — technologies, counted from his repositories." active="/work/skills">
+  <div class="page-header">
+    <div class="kicker">WORK · SKILLS</div>
+    <h1>Skills</h1>
+    <p class="muted">
+      Counted from {repos.length} public repositories, not typed from memory. Each chip shows how many
+      repos use it; anything with zero repos is not listed.
+    </p>
   </div>
+
+  <div class="stats">
+    <div class="stat"><span class="n">{GROUPS.length}</span><span class="l">DOMAINS</span></div>
+    <div class="stat"><span class="n">{totalSkills}</span><span class="l">TECHNOLOGIES</span></div>
+    <div class="stat"><span class="n">{repos.length}</span><span class="l">REPOS ANALYSED</span></div>
+    <div class="stat"><span class="n">{totalStars}</span><span class="l">STARS</span></div>
+  </div>
+
+  {GROUPS.map((g) => (
+    <section class="group">
+      <div class="group-head">
+        <h2>{g.title}</h2>
+        {g.note && <p>{g.note}</p>}
+      </div>
+      <ul class="chips">
+        {g.items.map((i) => (
+          <li class:list={['chip', { strong: i.n >= 10 }]}>
+            <span class="cn">{i.name}</span>
+            <span class="cc">{i.n}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <p class="foot">
+    Source: <a href="/work/projects/">the same GitHub snapshot the projects page uses</a>.
+    Topic counts reflect what each repository is tagged with; a repo can carry several.
+  </p>
 </Layout>
 
 <style>
-  .skills-root {
-    padding-top: 2rem;
-    max-width: 860px;
-  }
+  .stats { display: flex; gap: 2.5rem; flex-wrap: wrap; margin: 0 0 2.2rem; }
+  .stat { display: flex; flex-direction: column; gap: 2px; }
+  .stat .n { font-family: var(--font-display); font-size: 1.3rem; font-weight: 600; color: var(--ink); }
+  .stat .l { font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.09em; color: var(--ink-4); }
 
-  .page-header {
-    margin-bottom: 1.5rem;
+  .group { margin-bottom: 1.7rem; }
+  .group-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+  .group-head h2 {
+    margin: 0; font-family: var(--font-mono); font-size: 10.5px; font-weight: 500;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-3);
   }
+  .group-head p { margin: 0; font-size: 11px; color: var(--ink-4); }
 
-  .page-sub {
-    font-size: 14px;
-    color: var(--t-2);
-    margin-top: 0.25rem;
+  .chips { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; }
+  .chip {
+    display: inline-flex; align-items: baseline; gap: 7px;
+    padding: 5px 9px; border: 1px solid var(--hair); border-radius: var(--r-sm);
+    background: var(--panel); font-size: 0.8rem; color: var(--ink-2);
   }
+  .chip.strong { color: var(--ink); border-color: color-mix(in srgb, var(--phosphor) 28%, transparent); }
+  .cc { font-family: var(--font-mono); font-size: 9.5px; color: var(--ink-4); }
+  .chip.strong .cc { color: var(--phosphor-dim); }
 
-  .summary-card {
-    margin-bottom: 1.5rem;
-  }
-
-  .summary-inner {
-    display: flex;
-    align-items: center;
-    gap: 0;
-    flex-wrap: wrap;
-  }
-
-  .summary-stat {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    padding: 0 1.5rem;
-  }
-
-  .summary-stat:first-child {
-    padding-left: 0;
-  }
-
-  .summary-divider {
-    width: 1px;
-    height: 40px;
-    background: rgba(255,255,255,0.08);
-  }
-
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
-  }
-
-  .group-header {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin-bottom: 10px;
-    color: var(--t-3);
-  }
-
-  .group-icon {
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
-  }
-
-  .chip-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-  }
-
-  @media (max-width: 700px) {
-    .grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .grid {
-      grid-template-columns: 1fr;
-    }
-    .summary-stat {
-      padding: 0 1rem;
-    }
-  }
+  .foot { margin-top: 1.6rem; font-size: 0.74rem; color: var(--ink-4); border-top: 1px solid var(--hair); padding-top: 0.9rem; }
 </style>

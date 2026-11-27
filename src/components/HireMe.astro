@@ -1,0 +1,154 @@
+---
+/**
+ * Closing plate for every page. The copy and the eight links are the canonical
+ * contact block mandated by AGENTS.md; only the treatment changes, so no page can
+ * drift into a different footer.
+ *
+ * `compact` collapses to a single row for pages where the footer would compete
+ * with the only thing on the page (sign-in, the résumé).
+ */
+interface Props {
+  compact?: boolean
+}
+const { compact = false } = Astro.props
+const year = new Date().getFullYear()
+---
+
+<footer class:list={['hire', { 'hire--compact': compact }]} aria-labelledby="hire-title">
+  <div class="hire-trace" aria-hidden="true">
+    <span class="hire-dot"></span>
+  </div>
+
+  <div class="hire-body">
+    <div class="hire-lead">
+      <h3 id="hire-title">Hire me</h3>
+      <p class="hire-line">Chirag Singhal — building free, open APIs and tools.</p>
+    </div>
+
+    <p class="hire-links">
+      <a class="hire-cta" href="mailto:chirag@oriz.in">chirag@oriz.in</a>
+      <a href="https://github.com/chirag127">GitHub</a>
+      <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a>
+      <a href="https://x.com/singhal127">X</a>
+      <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a>
+      <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a>
+      <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a>
+      <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+    </p>
+
+    {!compact && (
+      <p class="hire-meta">
+        <span>{year}</span>
+        <span>Code MIT · prose CC-BY</span>
+        <span><a href="https://github.com/chirag127/oriz-me">Source</a></span>
+      </p>
+    )}
+  </div>
+</footer>
+
+<style>
+  .hire {
+    margin: 56px 0 12px;
+    font-family: var(--font-sans);
+    color: var(--ink-2);
+  }
+
+  /* The signal baseline that closes the trace, matching the hero's waveform. */
+  .hire-trace {
+    position: relative;
+    height: 1px;
+    background: var(--hair);
+    margin-bottom: 26px;
+  }
+  .hire-dot {
+    position: absolute;
+    left: 0;
+    top: -2px;
+    width: 40px;
+    height: 5px;
+    border-radius: 99px;
+    background: linear-gradient(90deg, var(--phosphor), color-mix(in srgb, var(--phosphor) 12%, transparent));
+    box-shadow: 0 0 12px var(--phosphor-glow);
+  }
+
+  .hire-body { display: grid; gap: 18px; }
+
+  .hire-lead { display: grid; gap: 5px; }
+  .hire h3 {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .hire-line {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.55;
+    max-width: 46ch;
+    color: var(--ink-2);
+  }
+
+  .hire-links {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .hire-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    padding: 0 13px;
+    font-family: var(--font-mono);
+    font-size: 0.74rem;
+    letter-spacing: 0.01em;
+    color: var(--ink-2);
+    border: 1px solid var(--hair);
+    border-radius: var(--r-md);
+    background: color-mix(in srgb, var(--panel) 55%, transparent);
+    transition: color var(--ease), border-color var(--ease), background var(--ease);
+  }
+  .hire-links a:hover {
+    color: var(--ink);
+    border-color: var(--hair-2);
+    background: var(--panel-2);
+  }
+  /* One primary action: everything else is secondary by treatment, not by luck. */
+  .hire-links .hire-cta {
+    color: var(--void);
+    background: var(--phosphor);
+    border-color: var(--phosphor);
+    font-weight: 600;
+  }
+  .hire-links .hire-cta:hover {
+    color: var(--void);
+    background: color-mix(in srgb, var(--phosphor) 86%, #fff);
+    border-color: color-mix(in srgb, var(--phosphor) 86%, #fff);
+  }
+
+  .hire-meta {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.06em;
+    color: var(--ink-4);
+  }
+  .hire-meta a { color: var(--ink-3); border-bottom: 1px solid var(--hair); }
+  .hire-meta a:hover { color: var(--phosphor); }
+
+  .hire--compact { margin: 28px 0 8px; }
+  .hire--compact .hire-trace { margin-bottom: 16px; }
+  .hire--compact h3 { font-size: 1.05rem; }
+  .hire--compact .hire-line { font-size: 0.8rem; }
+  .hire--compact .hire-links a { min-height: 36px; font-size: 0.7rem; }
+
+  @media (max-width: 640px) {
+    .hire { margin-top: 40px; }
+    .hire h3 { font-size: 1.3rem; }
+  }
+</style>

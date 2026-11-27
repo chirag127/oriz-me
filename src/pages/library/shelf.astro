@@ -1,0 +1,109 @@
+---
+/**
+ * /library/shelf — one shelf across every medium, in the order they were added
+ * to their service. Each section links to the page that owns the full list, so
+ * this page can stay short.
+ */
+import Layout from '~/layouts/Layout.astro'
+import PosterGrid from '~/components/PosterGrid.astro'
+import { readFileSync, existsSync } from 'fs'
+import { join } from 'path'
+
+const load = (file: string): any[] => {
+  const p = join(process.cwd(), 'public/data', file)
+  if (!existsSync(p)) return []
+  try {
+    const d = JSON.parse(readFileSync(p, 'utf-8'))
+    return Array.isArray(d) ? d : []
+  } catch { return [] }
+}
+
+const fromHardcover = (list: any[]) =>
+  list.map((b: any) => ({
+    title: b.title,
+    cover: b.cover,
+    color: b.color,
+    sub: b.author,
+    rating: b.rating,
+    href: b.slug ? `https://hardcover.app/books/${b.slug}` : undefined,
+  }))
+
+const fromAniList = (list: any[]) =>
+  list.map((e: any) => ({
+    title: e?.media?.title?.english || e?.media?.title?.romaji || '',
+    cover: e?.media?.coverImage?.large || e?.media?.coverImage?.medium,
+    sub: e?.media?.episodes ? `${e.media.episodes} episodes` : e?.media?.chapters ? `${e.media.chapters} chapters` : undefined,
+    rating: e?.score ? e.score / 20 : null,
+    href: e?.media?.id ? `https://anilist.co/${e?.media?.chapters ? 'manga' : 'anime'}/${e.media.id}` : undefined,
+  }))
+
+const fromMAL = (list: any[]) =>
+  list.map((e: any) => ({
+    title: e?.node?.title ?? '',
+    cover: e?.node?.main_picture?.large || e?.node?.main_picture?.medium,
+    sub: e?.node?.num_episodes ? `${e.node.num_episodes} episodes` : undefined,
+    rating: e?.node?.mean ? e.node.mean / 2 : null,
+    href: e?.node?.id ? `https://myanimelist.net/anime/${e.node.id}` : undefined,
+  }))
+
+const animeSource = load('anilist-anime-completed.json')
+const anime = animeSource.length ? fromAniList(animeSource) : fromMAL(load('mal-anime-completed.json'))
+const mangaSource = load('anilist-manga-completed.json')
+const manga = mangaSource.length ? fromAniList(mangaSource) : fromMAL(load('mal-manga-completed.json'))
+
+const booksRead = fromHardcover(load('hardcover-read.json'))
+const booksWant = fromHardcover(load('hardcover-want.json'))
+
+const sections = [
+  { id: 'books-read', title: 'Books read', items: booksRead, owner: '/library/books/read/', ownerLabel: 'All read books' },
+  { id: 'books-want', title: 'Books queued', items: booksWant, owner: '/library/books/want-to-read/', ownerLabel: 'Full queue' },
+  { id: 'anime', title: 'Anime finished', items: anime, owner: '/library/anime/completed/', ownerLabel: 'All finished anime' },
+  { id: 'manga', title: 'Manga finished', items: manga, owner: '/library/manga/completed/', ownerLabel: 'All finished manga' },
+].filter((s) => s.items.length > 0)
+
+const total = sections.reduce((n, s) => n + s.items.length, 0)
+---
+
+<Layout title="Everything" description="One shelf across books, anime and manga." active="/library/shelf/">
+  <div class="page-header">
+    <div class="kicker">LIBRARY · EVERYTHING</div>
+    <h1>Everything on the shelf</h1>
+    <p class="muted">
+      {total} items across {sections.length} {sections.length === 1 ? 'medium' : 'media'}. Each section links to the page that owns the full list.
+    </p>
+  </div>
+
+  {total === 0 && (
+    <p class="empty">
+      Nothing has been logged on a connected service yet. Books come from
+      <a href="https://hardcover.app/@chirag127" target="_blank" rel="noopener">Hardcover</a>,
+      anime and manga from <a href="https://anilist.co/user/chirag127" target="_blank" rel="noopener">AniList</a>.
+      <a href="/me/sources/">Which services are reporting</a>
+    </p>
+  )}
+
+  {sections.map((s) => (
+    <section class="shelf">
+      <div class="shelf-head">
+        <h2>{s.title}</h2>
+        <a href={s.owner}>{s.ownerLabel}</a>
+      </div>
+      <PosterGrid items={s.items} empty="" showCredit={false} />
+    </section>
+  ))}
+
+  <p class="credit">Artwork and metadata from Hardcover, AniList and MyAnimeList.</p>
+</Layout>
+
+<style>
+  .shelf { margin-bottom: 2.4rem; }
+  .shelf-head {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 12px;
+    margin-bottom: 10px; padding-bottom: 7px; border-bottom: 1px solid var(--hair);
+  }
+  .shelf-head h2 { margin: 0; font-family: var(--font-display); font-size: 1rem; font-weight: 600; color: var(--ink); }
+  .shelf-head a { font-size: 0.74rem; color: var(--ink-3); }
+  .shelf-head a:hover { color: var(--phosphor); }
+  .empty { max-width: 62ch; line-height: 1.65; color: var(--ink-2); font-size: 0.9rem; }
+  .credit { margin-top: 1.4rem; font-size: 0.72rem; color: var(--ink-4); }
+</style>

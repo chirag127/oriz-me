@@ -5,7 +5,7 @@ const SYSTEM_PROMPT = `You are Chirag Singhal's AI digital twin. Answer question
 BACKGROUND:
 - Software Engineer at Tata Consultancy Services (Jun 2025 – Present), working on SAP's CPQ (Configure-Price-Quote) / Lead-to-Cash platform
 - Previously: Full Stack Developer at QRsay.com (Jul 2023 – May 2025)
-- Education: B.Tech CSE, AKTU, CGPA 8.81, College Topper (2020–2024)
+- Education: B.Tech CSE (2020–2024), College Topper (rank 1 in batch)
 - JEE Advanced: AIR 11870, Top 1%
 
 WHAT I DO:
@@ -31,10 +31,15 @@ TOP PROJECTS:
 5. OmniDistribute — idempotent multi-channel content syndication engine
 6. oriz.in — free, privacy-first family of client-side web tools & live-data APIs
 
+AVAILABILITY — how to answer "are you available for hire?", "looking for a job?", "open to roles?":
+- Yes. Always open to better opportunities, inside or outside the current job. Never say you are not looking, and never say you are unavailable. The current role at TCS is what you do now, not a closed door.
+- Also open to freelance and consulting work, and to conversations that are only exploratory.
+- Point to chirag@oriz.in for anything concrete. Do not promise notice periods, rates or start dates you were not given.
+
 PERSONALITY & PHILOSOPHY:
 - Ship fast, iterate. Measure, don't guess. Build in public. Free tiers only.
 
-CONTACT: hi@chirag127.in | github.com/chirag127 | linkedin.com/in/chirag127
+CONTACT: chirag@oriz.in | github.com/chirag127 | linkedin.com/in/chirag127
 
 Keep answers concise — 2-4 sentences max. Be direct, speak as Chirag.`;
 
@@ -47,53 +52,94 @@ const STARTERS = [
 
 type Message = { role: 'user' | 'assistant'; content: string };
 
-declare global {
-  interface Window {
-    g4fClient?: any;
-  }
+type CtxRecord = { t: string; u: string; x: string };
+
+/**
+ * Keyless, OpenAI-compatible providers, tried in order. Both entries were called
+ * from this origin with no Authorization header and returned 200, so the chain
+ * works for a visitor with no account anywhere. Nothing here needs a secret to
+ * be shipped to the browser.
+ */
+const PROVIDERS = [
+  { name: 'llm7', url: 'https://api.llm7.io/v1/chat/completions', model: 'gpt-oss:20b' },
+  { name: 'ovh', url: 'https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions', model: 'gpt-oss-120b' },
+  { name: 'g4f', url: 'https://api.g4f.dev/v1/chat/completions', model: 'auto' },
+];
+
+/**
+ * Last resort: g4f.dev's browser client, imported on demand so the 40KB module is
+ * only paid for when the two keyless REST endpoints above have both failed. It
+ * rotates providers server-side, which is worth the wait when a visitor sees it.
+ */
+async function callG4FClient(system: string, messages: Message[]): Promise<string> {
+  const mod = await import(/* @vite-ignore */ 'https://g4f.dev/dist/js/client.js');
+  const client = new (mod.default ?? mod.Client)();
+  const res = await client.chat.completions.create({
+    model: 'auto',
+    messages: [{ role: 'system', content: system }, ...messages],
+  });
+  return res?.choices?.[0]?.message?.content ?? '';
 }
 
-async function callG4F(messages: Message[]): Promise<string> {
-  // Use g4f.dev official JS client loaded via script tag
-  const g4f = window.g4fClient;
-  if (g4f) {
-    try {
-      const result = await g4f.chat.completions.create({
-        model: 'gpt-4o-mini',
-        messages: [{ role: 'system', content: SYSTEM_PROMPT }, ...messages],
-      });
-      return result?.choices?.[0]?.message?.content ?? 'No response.';
-    } catch (e) {
-      // fall through to fetch
-    }
-  }
+/**
+ * Keyword retrieval over /ai/context.json. Deliberately dumb: a site that ships
+ * every fact as a short record does not need embeddings, and term overlap cannot
+ * silently drift the way a stale index can.
+ */
+function retrieve(query: string, corpus: CtxRecord[], limit = 6): string {
+  if (!corpus.length) return '';
+  const terms = query.toLowerCase().match(/[a-z0-9]{3,}/g) ?? [];
+  if (!terms.length) return corpus.slice(0, 3).map((r) => `[${r.t}] ${r.x}`).join('\n');
+  const scored = corpus.map((r) => {
+    const hay = `${r.t} ${r.x}`.toLowerCase();
+    let score = 0;
+    for (const term of new Set(terms)) if (hay.includes(term)) score += 1;
+    if (hay.includes(query.toLowerCase())) score += 3;
+    return { r, score };
+  });
+  return scored
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((s) => `[${s.r.t}] ${s.r.x}`)
+    .join('\n');
+}
 
-  // Fallback: try multiple free endpoints
-  const endpoints = [
-    'https://api.g4f.dev/v1/chat/completions',
-    'https://g4f.dev/api/openai/v1/chat/completions',
-  ];
+async function callLLM(messages: Message[], context: CtxRecord[]): Promise<string> {
+  const lastUser = [...messages].reverse().find((m) => m.role === 'user')?.content ?? '';
+  const retrieved = retrieve(lastUser, context);
+  const system = retrieved
+    ? `${SYSTEM_PROMPT}\n\nLIVE SITE DATA (the only source for library/work facts; if the answer is not here, say you do not have it):\n${retrieved}`
+    : SYSTEM_PROMPT;
 
-  for (const url of endpoints) {
+  for (const p of PROVIDERS) {
     try {
-      const res = await fetch(url, {
+      const res = await fetch(p.url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          model: 'gpt-4o-mini',
-          messages: [{ role: 'system', content: SYSTEM_PROMPT }, ...messages],
+          model: p.model,
+          messages: [{ role: 'system', content: system }, ...messages],
+          max_tokens: 700,
+          temperature: 0.4,
         }),
-        signal: AbortSignal.timeout(20000),
+        signal: AbortSignal.timeout(25000),
       });
       if (!res.ok) continue;
       const data = await res.json();
       const reply = data?.choices?.[0]?.message?.content;
-      if (reply) return reply;
+      if (reply) return reply.trim();
     } catch {
-      continue;
+      continue; // timeout, CORS, 5xx — the next provider gets a turn
     }
   }
-  throw new Error('All AI endpoints unavailable. Try again in a moment.');
+  try {
+    const viaClient = await callG4FClient(system, messages);
+    if (viaClient) return viaClient.trim();
+  } catch {
+    // no network, module blocked, or the client itself failed
+  }
+  throw new Error('Every free model is busy right now. Try again in a moment.');
 }
 
 function TypingDot({ delay }: { delay: number }) {
@@ -113,6 +159,18 @@ function ChatWindow({ onClose }: { onClose: () => void }) {
   const [loading, setLoading] = useState(false);
   const [showStarters, setShowStarters] = useState(true);
   const bottomRef = useRef<HTMLDivElement>(null);
+  const contextRef = useRef<CtxRecord[]>([]);
+
+  // The corpus is a static file built with the site, so a refresh ships new
+  // facts; a visitor's first question waits at most one small fetch.
+  useEffect(() => {
+    let alive = true;
+    fetch('/ai/context.json')
+      .then((r) => (r.ok ? r.json() : []))
+      .then((d) => { if (alive && Array.isArray(d)) contextRef.current = d; })
+      .catch(() => {});
+    return () => { alive = false; };
+  }, []);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -127,7 +185,7 @@ function ChatWindow({ onClose }: { onClose: () => void }) {
     setInput('');
     setLoading(true);
     try {
-      const reply = await callG4F(next);
+      const reply = await callLLM(next, contextRef.current);
       setMessages(m => [...m, { role: 'assistant', content: reply }]);
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : String(err);
@@ -138,7 +196,7 @@ function ChatWindow({ onClose }: { onClose: () => void }) {
   }, [messages, loading]);
 
   return (
-    <div style={{
+    <div className="twin-panel" style={{
       position: 'fixed', bottom: 88, right: 20, zIndex: 10000,
       width: 360, height: 520,
       background: '#0b1116',
@@ -280,18 +338,6 @@ function ChatWindow({ onClose }: { onClose: () => void }) {
 export default function TwinWidget() {
   const [open, setOpen] = useState(false);
 
-  // Load g4f.dev JS client
-  useEffect(() => {
-    if (typeof window === 'undefined' || window.g4fClient) return;
-    const script = document.createElement('script');
-    script.type = 'module';
-    script.textContent = `
-      import Client from 'https://g4f.dev/dist/js/client.js';
-      window.g4fClient = new Client();
-    `;
-    document.head.appendChild(script);
-  }, []);
-
   return (
     <>
       <style>{`
@@ -303,6 +349,13 @@ export default function TwinWidget() {
         .twin-input:focus { border-color: rgba(53,224,192,0.55) !important; }
         .twin-send:hover:not(:disabled) { background: #35e0c0 !important; }
         .twin-scroll::-webkit-scrollbar{width:3px} .twin-scroll::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:2px}
+        /* Below 900px the bottom tab bar owns the last 58px. At bottom:20 the FAB
+           covered the "All pages" tab and swallowed every tap on it, so lift it
+           clear of the bar and shrink it to a 48px target. */
+        @media (max-width: 900px) {
+          .twin-fab { bottom: calc(58px + 16px + env(safe-area-inset-bottom, 0px)) !important; right: 14px !important; width: 48px !important; height: 48px !important; }
+          .twin-panel { bottom: calc(58px + 76px) !important; right: 12px !important; width: min(360px, calc(100vw - 24px)) !important; height: min(520px, calc(100vh - 180px)) !important; }
+        }
       `}</style>
 
       {open && <ChatWindow onClose={() => setOpen(false)} />}
@@ -322,10 +375,22 @@ export default function TwinWidget() {
           transition: 'all 0.2s cubic-bezier(0.34,1.56,0.64,1)',
           transform: 'scale(1)',
           animation: open ? 'none' : 'twinPulse 3s infinite',
-          fontFamily: "'Space Grotesk', system-ui, sans-serif", fontWeight: 700, fontSize: 15,
         }}
+        aria-label={open ? 'Close Ask Chirag AI' : 'Ask Chirag AI'}
+        aria-expanded={open}
       >
-        {open ? '×' : 'AI'}
+        {open ? (
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" stroke="#06141a" strokeWidth="2.2" strokeLinecap="round" fill="none" />
+          </svg>
+        ) : (
+          /* A spark rather than the letters "AI": reads at 48px, matches the two
+             four-point stars already used as iconography on the site. */
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M12 3.2l1.55 4.62a3.4 3.4 0 002.13 2.13L20.3 11.5l-4.62 1.55a3.4 3.4 0 00-2.13 2.13L12 19.8l-1.55-4.62a3.4 3.4 0 00-2.13-2.13L3.7 11.5l4.62-1.55a3.4 3.4 0 002.13-2.13L12 3.2z" fill="#06141a" />
+            <circle cx="18.4" cy="5.6" r="1.5" fill="#06141a" opacity="0.75" />
+          </svg>
+        )}
       </button>
     </>
   );
