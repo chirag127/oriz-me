@@ -9,3 +9,7 @@ test-results/
 .env
 .env.*
 !.env.example
+
+# Private financial data — never commit real numbers
+src/data/networth.private.json
+public/data/networth.json

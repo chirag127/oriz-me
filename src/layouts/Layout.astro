@@ -2,6 +2,8 @@
 import '../styles/global.css'
 import TwinWidget from '../components/TwinChat'
 import AuthButton from '../components/AuthButton'
+import HireMe from '../components/HireMe.astro'
+import { SITE, DEFAULT_DESCRIPTION, GITHUB_URL, LINKEDIN_URL, X_URL } from '../lib/site'
 
 interface Props {
   title: string
@@ -11,9 +13,14 @@ interface Props {
   showAuth?: boolean
 }
 
-const { title, description = 'Chirag Singhal — Software Engineer · Backend · AI Systems · Open Source', showAuth = true } = Astro.props
-const path = Astro.url.pathname
-const fullTitle = title.includes('Chirag Singhal') ? title : `${title} · Chirag Singhal`
+const { title, description = DEFAULT_DESCRIPTION, showAuth = true } = Astro.props
+const base = import.meta.env.BASE_URL.replace(/\/+$/, '')
+const fullPath = Astro.url.pathname
+// On the GitHub Pages mirror the build runs with base=/oriz-me, so the current
+// pathname carries that prefix. Canonical always points at the root-hosted site,
+// which would 404 on /oriz-me/... — strip the base before building it.
+const path = base && fullPath.startsWith(base) ? (fullPath.slice(base.length) || '/') : fullPath
+const fullTitle = title.includes(SITE.name) ? title : `${title} · ${SITE.name}`
 
 function isActive(href: string): boolean {
   if (href === '/') return path === '/'
@@ -22,6 +29,7 @@ function isActive(href: string): boolean {
 
 const WORK_NAV = [
   { href: '/',                    label: 'Home',           icon: '⌂' },
+  { href: '/work/',               label: 'Overview',       icon: '≡' },
   { href: '/work/career',         label: 'Career',         icon: '»' },
   { href: '/work/projects',       label: 'Projects',       icon: '#' },
   { href: '/work/skills',         label: 'Skills',         icon: '=' },
@@ -33,28 +41,39 @@ const WORK_NAV = [
 ]
 
 const LIBRARY_NAV = [
+  { href: '/library/',          label: 'All shelves', icon: '≡' },
+  { href: '/library/shelf/', label: 'Everything', icon: '▤' },
+  // Each expandable group repeats its own landing page as the first sub item:
+  // the <summary> is a toggle with no href, so without this the shelf page is
+  // unreachable from the drawer.
   { href: '/library/music/',    label: 'Music',    icon: '♪', sub: [
+    { href: '/library/music/',             label: 'Overview' },
     { href: '/library/music/top-artists/', label: 'Top Artists' },
     { href: '/library/music/top-tracks/',  label: 'Top Tracks' },
     { href: '/library/music/stats/',       label: 'Stats' },
   ]},
   { href: '/library/movies/',   label: 'Movies',   icon: '▸', sub: [
+    { href: '/library/movies/',           label: 'Overview' },
     { href: '/library/movies/watched/',   label: 'Watched' },
     { href: '/library/movies/watchlist/', label: 'Watchlist' },
   ]},
   { href: '/library/tv/',       label: 'TV Shows', icon: '▤', sub: [
+    { href: '/library/tv/',           label: 'Overview' },
     { href: '/library/tv/watching/',  label: 'Watching' },
     { href: '/library/tv/completed/', label: 'Completed' },
   ]},
   { href: '/library/anime/',    label: 'Anime',    icon: '△', sub: [
+    { href: '/library/anime/',               label: 'Overview' },
     { href: '/library/anime/completed/',     label: 'Completed' },
     { href: '/library/anime/plan-to-watch/', label: 'Plan to Watch' },
   ]},
   { href: '/library/manga/',    label: 'Manga',    icon: '▽', sub: [
+    { href: '/library/manga/',              label: 'Overview' },
     { href: '/library/manga/completed/',    label: 'Completed' },
     { href: '/library/manga/plan-to-read/', label: 'Plan to Read' },
   ]},
   { href: '/library/books/',    label: 'Books',    icon: '▥', sub: [
+    { href: '/library/books/',              label: 'Overview' },
     { href: '/library/books/read/',         label: 'Read' },
     { href: '/library/books/want-to-read/', label: 'Want to Read' },
     { href: '/library/books/reading/',      label: 'Reading (Moon+)' },
@@ -82,6 +101,7 @@ const ME_NAV = [
   { href: '/me/health',       label: 'Health',          icon: '+' },
   { href: '/me/reddit',       label: 'Reddit',          icon: '/' },
   { href: '/me/twin',         label: 'Digital Twin',    icon: '*' },
+  { href: '/me/sources',      label: 'Sources',         icon: '⌁' },
   { href: '/me/faq',          label: 'FAQ',             icon: '?' },
 ]
 
@@ -103,7 +123,7 @@ const connectOpen = path.startsWith('/connect')
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
-  <link rel="canonical" href={`https://me.oriz.in${path}`} />
+  <link rel="canonical" href={`${SITE.url}${path}`} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="/icons/favicon-32.png" sizes="32x32" type="image/png" />
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
@@ -113,62 +133,70 @@ const connectOpen = path.startsWith('/connect')
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-  <meta property="og:title" content={`${title} · Chirag Singhal`} />
+  <meta property="og:title" content={`${title} · ${SITE.name}`} />
   <meta property="og:description" content={description} />
-  <meta property="og:url" content={`https://me.oriz.in${path}`} />
+  <meta property="og:url" content={`${SITE.url}${path}`} />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Chirag Singhal" />
-  <meta property="og:image" content="https://me.oriz.in/og.png" />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:image" content={`${SITE.url}/og.png`} />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:creator" content="@chirag127" />
-  <meta name="twitter:image" content="https://me.oriz.in/og.png" />
+  <meta name="twitter:creator" content={`@${SITE.x}`} />
+  <meta name="twitter:image" content={`${SITE.url}/og.png`} />
 
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "Chirag Singhal",
-    "url": "https://me.oriz.in",
-    "email": "hi@chirag127.in",
-    "jobTitle": "Software Engineer",
-    "worksFor": { "@type": "Organization", "name": "Tata Consultancy Services" },
-    "sameAs": ["https://github.com/chirag127", "https://linkedin.com/in/chirag127"]
+    "name": SITE.name,
+    "url": SITE.url,
+    "email": SITE.email,
+    "jobTitle": SITE.role,
+    "worksFor": { "@type": "Organization", "name": SITE.employer },
+    "sameAs": [GITHUB_URL, LINKEDIN_URL]
   })} />
 
   <script set:html={`window.__BUILD_TIME__="${new Date().toISOString()}"`}></script>
 
-  <script>
-    if (location.hostname === 'me.oriz.in') {
-      const s = document.createElement('script')
-      s.src = 'https://js.puter.com/v2/'
-      s.defer = true
-      document.head.append(s)
+  <script define:vars={{ domain: SITE.analyticsDomain }}>
+    // Plausible only loads when PUBLIC_ANALYTICS_DOMAIN is set; a fork must not
+    // report pageviews into the upstream owner's dashboard.
+    if (domain && location.hostname === domain) {
       const p = document.createElement('script')
       p.src = 'https://plausible.io/js/script.js'
       p.defer = true
-      p.setAttribute('data-domain', 'me.oriz.in')
+      p.setAttribute('data-domain', domain)
       document.head.append(p)
     }
   </script>
 </head>
 <body>
 
+  <header class="mobile-bar">
+    <a href="/" class="mb-id" aria-label="Home">{SITE.initials}</a>
+    <span class="mb-name">{SITE.name}</span>
+    <button class="rail-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation">
+      <span class="bars" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="cross" aria-hidden="true"><i></i><i></i></span>
+    </button>
+  </header>
+  <div class="rail-scrim" data-nav-close aria-hidden="true"></div>
+
   <!-- Channel rail -->
-  <nav class="sidebar" aria-label="Primary navigation">
+  <nav class="sidebar" id="site-nav" aria-label="Primary navigation">
 
     <!-- Instrument header: identity + oriz.in wordmark + auth -->
     <div class="rail-head">
       <a href="/" class="rail-id" aria-label="Home">
-        <span class="rail-mark" aria-hidden="true">CS</span>
+        <span class="rail-mark" aria-hidden="true">{SITE.initials}</span>
         <span class="rail-id-text">
-          <span class="rail-name">Chirag Singhal</span>
-          <span class="rail-role">Software Engineer</span>
+          <span class="rail-name">{SITE.name}</span>
+          <span class="rail-role">{SITE.role}</span>
         </span>
       </a>
       <div class="rail-bar">
-        <a href="https://oriz.in" class="wordmark" title="Part of oriz.in">
-          <span class="wordmark-dot" aria-hidden="true"></span>oriz.in
+        <a href={SITE.familyUrl} class="wordmark" title={`Part of ${SITE.familyName}`}>
+          <span class="wordmark-dot" aria-hidden="true"></span>{SITE.familyName}
         </a>
         {showAuth && <AuthButton client:only="react" />}
       </div>
@@ -231,12 +259,16 @@ const connectOpen = path.startsWith('/connect')
       <a href="/resume" class="rail-resume">
         <span aria-hidden="true">↓</span><span>Résumé</span>
       </a>
+      {SITE.hireMe && (
+        <a href="mailto:chirag@oriz.in" class="rail-hire">Hire me</a>
+      )}
       <span class="rail-meta">CH1 · phosphor trace · <span id="rail-clock">live</span></span>
     </div>
   </nav>
 
   <main class="main-content">
     <slot />
+    {SITE.hireMe && <HireMe compact={path.startsWith('/sign-in') || path.startsWith('/resume')} />}
   </main>
 
   <!-- Mobile tab bar -->
@@ -244,9 +276,11 @@ const connectOpen = path.startsWith('/connect')
     <div class="tab-bar-inner">
       <a href="/"        class:list={['tab-item', { active: path === '/' }]}><span class="tab-icon">⌂</span><span>Home</span></a>
       <a href="/work/career" class:list={['tab-item', { active: path.startsWith('/work') }]}><span class="tab-icon">»</span><span>Work</span></a>
-      <a href="/library/music" class:list={['tab-item', { active: path.startsWith('/library') }]}><span class="tab-icon">♪</span><span>Library</span></a>
+      <a href="/library/"    class:list={['tab-item', { active: path.startsWith('/library') }]}><span class="tab-icon">▤</span><span>Library</span></a>
       <a href="/me"      class:list={['tab-item', { active: path.startsWith('/me') }]}><span class="tab-icon">@</span><span>Me</span></a>
-      <a href="/connect/contact" class:list={['tab-item', { active: path.startsWith('/connect') }]}><span class="tab-icon">/</span><span>Contact</span></a>
+      <button type="button" class="tab-item tab-menu" data-nav-toggle aria-controls="site-nav" aria-expanded="false">
+        <span class="tab-icon" aria-hidden="true">☰</span><span>All pages</span>
+      </button>
     </div>
   </nav>
 
@@ -261,11 +295,55 @@ const connectOpen = path.startsWith('/connect')
       const tick = () => { clk.textContent = new Date().toLocaleTimeString('en-GB') }
       tick(); setInterval(tick, 1000)
     }
+
+    // Off-canvas rail: one attribute on <html> drives the drawer, the scrim and
+    // the icon. Escape and the scrim close it, and focus returns to the toggle
+    // so a keyboard user is never dropped at the top of the document.
+    const root = document.documentElement
+    const toggle = document.querySelector('.rail-toggle')
+    const nav = document.getElementById('site-nav')
+    const setOpen = (open) => {
+      if (!toggle) return
+      if (open) root.dataset.navOpen = 'true'
+      else delete root.dataset.navOpen
+      toggle.setAttribute('aria-expanded', String(open))
+      toggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation')
+      // Both the hamburger and the tab-bar button drive this drawer, so both have
+      // to report state or a screen reader hears "collapsed" while it is open.
+      document.querySelectorAll('[data-nav-toggle]').forEach((el) => el.setAttribute('aria-expanded', String(open)))
+      if (open) nav?.querySelector('a')?.focus({ preventScroll: true })
+      else toggle.focus({ preventScroll: true })
+    }
+    toggle?.addEventListener('click', () => setOpen(root.dataset.navOpen !== 'true'))
+    // The mobile tab bar has its own "All pages" control; it drives the same drawer.
+    document.querySelectorAll('[data-nav-toggle]').forEach((el) =>
+      el.addEventListener('click', () => setOpen(root.dataset.navOpen !== 'true')),
+    )
+    // Every nav group is expanded on mobile, otherwise the drawer hides most pages
+    // behind four collapsed <details> summaries.
+    const openAllGroups = () => {
+      if (!window.matchMedia('(max-width: 900px)').matches) return
+      document.querySelectorAll('.sidebar details.nav-group, .sidebar details.nav-sub-group').forEach((d) => d.setAttribute('open', ''))
+    }
+    openAllGroups()
+    window.matchMedia('(max-width: 900px)').addEventListener('change', openAllGroups)
+    document.querySelectorAll('[data-nav-close]').forEach((el) =>
+      el.addEventListener('click', () => setOpen(false)),
+    )
+    nav?.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)))
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && root.dataset.navOpen === 'true') setOpen(false)
+    })
+    // A resize past the breakpoint must not leave the scroll locked.
+    matchMedia('(min-width: 901px)').addEventListener('change', (e) => { if (e.matches) setOpen(false) })
   </script>
 
   <style>
     .rail-head { padding: 16px 16px 12px; border-bottom: 1px solid var(--hair); flex-shrink: 0; }
     .rail-id { display: flex; align-items: center; gap: 11px; }
+    /* The top bar already carries the monogram and name, so the drawer repeats
+       neither. Scoped, because a global .rail-id rule loses to this selector. */
+    @media (max-width: 900px) { .rail-id { display: none; } }
     .rail-mark {
       width: 34px; height: 34px; border-radius: 7px; flex-shrink: 0;
       display: flex; align-items: center; justify-content: center;
@@ -295,6 +373,55 @@ const connectOpen = path.startsWith('/connect')
     }
     .rail-resume:hover { background: color-mix(in srgb, var(--phosphor) 15%, transparent); border-color: color-mix(in srgb, var(--phosphor) 45%, transparent); }
     .rail-meta { font-family: var(--font-mono); font-size: 9.5px; color: var(--ink-4); letter-spacing: 0.08em; }
+
+    .mobile-bar {
+      position: sticky; top: 0; z-index: 80;
+      align-items: center; gap: 10px;
+      height: 52px; padding: 0 12px 0 14px;
+      background: color-mix(in srgb, var(--panel) 90%, transparent);
+      -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--hair);
+      /* No negative side margins: the bar is a full-bleed block already, and
+         pulling it 20px each way made it 430px wide in a 390px viewport. */
+      margin-bottom: 18px;
+    }
+    .mb-id {
+      width: 28px; height: 28px; flex: none; border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+      color: var(--void); background: var(--phosphor);
+    }
+    .mb-name {
+      flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+      font-family: var(--font-display); font-size: 13.5px; font-weight: 600; color: var(--ink);
+    }
+    .rail-toggle {
+      width: 44px; height: 44px; flex: none; margin: -6px -6px -6px 0;
+      display: flex; align-items: center; justify-content: center;
+      background: none; border: 0; cursor: pointer; color: var(--ink);
+    }
+    .rail-toggle i {
+      display: block; width: 20px; height: 1.5px; background: currentColor; border-radius: 2px;
+      transition: opacity var(--ease);
+    }
+    /* Display for .bars/.cross lives in global.css only. Declaring it here would
+       out-specify the open-state rule and paint the hamburger and the close mark
+       on top of each other. */
+    .rail-toggle .bars { gap: 4px; }
+    .rail-toggle .cross { position: relative; width: 20px; height: 20px; }
+    .rail-toggle .cross i { position: absolute; }
+    .rail-toggle .cross i:first-child { transform: rotate(45deg); }
+    .rail-toggle .cross i:last-child { transform: rotate(-45deg); }
+    @media (min-width: 901px) { .mobile-bar { display: none !important; } }
+    /* One persistent contact affordance: the footer plate is below the fold on
+       long pages, so the rail carries the same action above it. */
+    .rail-hire {
+      display: flex; align-items: center; justify-content: center; height: 32px;
+      font-family: var(--font-mono); font-size: 11.5px; font-weight: 600;
+      color: var(--void); background: var(--phosphor); border: 1px solid var(--phosphor);
+      border-radius: var(--r-md); transition: background var(--ease), border-color var(--ease);
+    }
+    .rail-hire:hover { background: color-mix(in srgb, var(--phosphor) 86%, #fff); border-color: color-mix(in srgb, var(--phosphor) 86%, #fff); }
   </style>
 
 </body>

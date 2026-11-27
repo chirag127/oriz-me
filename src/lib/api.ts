@@ -7,7 +7,9 @@ const LASTFM_USER = import.meta.env.LASTFM_USERNAME    ?? 'lastfmwhy'
 const LB_USER     = import.meta.env.LISTENBRAINZ_USERNAME ?? 'chirag127'
 const GR_ID       = import.meta.env.GOODREADS_USER_ID  ?? '132482257'
 const DISCORD_ID  = import.meta.env.DISCORD_USER_ID    ?? '799956529847205898'
-const GH_USER     = 'chirag127'
+const GH_USER     = import.meta.env.GH_USERNAME          ?? 'chirag127'
+// npm maintainer handle is not always the GitHub handle; defaults to it.
+const NPM_USER    = import.meta.env.NPM_USERNAME         ?? GH_USER
 
 async function safe<T>(fn: () => Promise<T>, fallback: T): Promise<T> {
   try { return await fn() } catch { return fallback }
@@ -157,7 +159,7 @@ export async function getGitHubRepos(limit = 20) {
 
 export async function getNpmPackages() {
   return safe(async () => {
-    const r = await fetch(`https://registry.npmjs.org/-/v1/search?text=maintainer:${GH_USER}&size=20`)
+    const r = await fetch(`https://registry.npmjs.org/-/v1/search?text=maintainer:${NPM_USER}&size=20`)
     if (!r.ok) return []
     const d = await r.json()
     return d.objects ?? []

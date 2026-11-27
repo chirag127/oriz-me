@@ -1,278 +1,212 @@
 ---
+/**
+ * /work/projects — curated featured work on top, then every other public
+ * repository generated from the GitHub snapshot. Nothing hand-maintained goes
+ * stale: the featured cards take their star counts from the same snapshot, and
+ * the long tail is whatever the API currently reports.
+ */
 import Layout from '~/layouts/Layout.astro'
+import { readFileSync } from 'fs'
+import { join } from 'path'
 
-const PROJECTS = [
+type Repo = {
+  name: string
+  description: string | null
+  html_url: string
+  homepage: string | null
+  language: string | null
+  stargazers_count: number
+  fork: boolean
+  archived: boolean
+  pushed_at: string
+  topics?: string[]
+}
+
+const repos: Repo[] = JSON.parse(readFileSync(join(process.cwd(), 'public/data/github-repos.json'), 'utf-8'))
+const byName = new Map(repos.map((r) => [r.name, r]))
+const stars = (name: string) => byName.get(name)?.stargazers_count ?? 0
+
+const FEATURED = [
   {
     name: 'oriz.in',
-    desc: 'Free, privacy-first family of client-side web tools & live-data APIs — browser or Cloudflare Workers, no server for end users.',
+    repo: null,
+    desc: 'Free, privacy-first family of client-side web tools and live-data APIs — runs in the browser or on Cloudflare Workers, with no server for end users.',
     tech: ['Astro', 'React', 'TypeScript', 'Cloudflare'],
     github: 'https://github.com/chirag127',
     live: 'https://oriz.in',
-    impact: null,
-    impactLabel: null,
-    featured: true,
-    badges: ['open-source', 'live'],
+    band: true,
   },
   {
-    name: 'Clear-Thought-MCP-Server',
-    desc: '16 structured-thinking tools (sequential reasoning, mental-model selection, debugging frameworks) as an MCP server.',
+    name: 'Clear-Thought-MCP-server',
+    repo: 'Clear-Thought-MCP-server',
+    desc: '16 structured-thinking tools — sequential reasoning, mental-model selection, debugging frameworks — exposed as an MCP server any agent can call.',
     tech: ['TypeScript', 'MCP SDK'],
     github: 'https://github.com/chirag127/Clear-Thought-MCP-server',
     live: null,
-    impact: '36★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source'],
+  },
+  {
+    name: 'morphe-patches',
+    repo: 'morphe-patches',
+    desc: 'Public Morphe patch sources: device-detection removal for Android apps, kept as readable patch sets rather than opaque binaries.',
+    tech: ['Java', 'Android', 'Patching'],
+    github: 'https://github.com/chirag127/morphe-patches',
+    live: null,
   },
   {
     name: 'bookmark-mind',
-    desc: 'Chrome extension that auto-categorises bookmarks with a local LLM call — zero cloud round-trip.',
+    repo: 'bookmark-mind',
+    desc: 'Browser extension that auto-organises bookmarks with a local LLM call — zero cloud round-trip, nothing leaves the machine.',
     tech: ['JavaScript', 'Chrome Ext', 'LLM'],
     github: 'https://github.com/chirag127/bookmark-mind',
     live: 'https://bookmark-mind.oriz.in',
-    impact: '10★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source', 'live'],
   },
   {
     name: 'Stochastic-Thinking-MCP-Server',
-    desc: 'MCP server exposing probabilistic and Bayesian reasoning primitives to AI agents, with a live demo site.',
+    repo: 'Stochastic-Thinking-MCP-Server',
+    desc: 'MCP server exposing probabilistic and Bayesian reasoning primitives to agents, with a live demo site.',
     tech: ['JavaScript', 'MCP SDK'],
     github: 'https://github.com/chirag127/Stochastic-Thinking-MCP-Server',
     live: 'https://stochastic-thinking-mcp-server.oriz.in',
-    impact: '6★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source', 'live'],
   },
   {
     name: 'youtube-ai-navigator-bs-ext',
-    desc: 'Browser extension with Gemini-powered chapter summaries, transcript search, and topic Q&A inline on YouTube.',
+    repo: 'youtube-ai-navigator-bs-ext',
+    desc: 'Browser extension with Gemini-powered chapter summaries, transcript search and topic Q&A inline on YouTube.',
     tech: ['JavaScript', 'Browser Ext', 'Gemini'],
     github: 'https://github.com/chirag127/youtube-ai-navigator-bs-ext',
     live: 'https://yt-nav.oriz.in',
-    impact: '3★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source', 'live'],
   },
   {
     name: 'OmniDistribute',
-    desc: 'Idempotent multi-channel syndication engine; adapter pattern + circuit-breaker for at-least-once delivery.',
+    repo: 'OmniDistribute',
+    desc: 'Idempotent multi-channel syndication engine: adapter pattern plus a circuit breaker for at-least-once delivery.',
     tech: ['TypeScript', 'Adapter pattern'],
     github: 'https://github.com/chirag127/OmniDistribute',
     live: 'https://omnidistribute.oriz.in',
-    impact: '2★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source', 'live'],
   },
   {
     name: 'olivia',
-    desc: 'Offline-capable Windows voice assistant; local Whisper STT and a plugin architecture.',
+    repo: 'olivia',
+    desc: 'Offline-capable Windows voice assistant: local Whisper speech-to-text and a plugin architecture.',
     tech: ['Python', 'Whisper'],
     github: 'https://github.com/chirag127/olivia',
     live: null,
-    impact: '2★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source'],
-  },
-  {
-    name: 'sponsorblock-ai',
-    desc: 'Fine-tuned sequence classifier for sponsor/intro/outro segment detection in YouTube transcripts.',
-    tech: ['Python', 'Transformers'],
-    github: 'https://github.com/chirag127/sponsorblock-ai',
-    live: null,
-    impact: '1★',
-    impactLabel: 'STARS',
-    featured: false,
-    badges: ['open-source'],
   },
 ]
+
+const featuredNames = new Set(
+  FEATURED.map((f) => f.repo).filter(Boolean) as string[],
+)
+// The long tail: real projects only. Forks, archived repos and anything with no
+// description are noise at this length, so they stay on GitHub and out of here.
+const rest = repos
+  .filter((r) => !r.fork && !r.archived && r.description && !featuredNames.has(r.name) && r.name !== 'chirag127')
+  .sort((a, b) => b.stargazers_count - a.stargazers_count || +new Date(b.pushed_at) - +new Date(a.pushed_at))
+
+const usable = repos.filter((r) => !r.fork && !r.archived && r.description).length
+const totalStars = repos.reduce((n, r) => n + r.stargazers_count, 0)
 ---
 
-<Layout title="Projects" description="Chirag Singhal — open source projects">
-  <div class="projects-root">
-    <header class="page-header">
-      <p class="kicker">WORK · PROJECTS</p>
-      <h1 class="text-display">Projects</h1>
-      <p class="page-sub">Open source work and side projects.</p>
-    </header>
-
-    <div class="grid">
-      {PROJECTS.map(p => (
-        <div class={`card ${p.featured ? 'card-featured card-glow' : ''} ${p.featured ? 'col-span-full' : ''}`}>
-          {p.featured && <div class="featured-band" />}
-          <div class="card-inner">
-            <div class="card-header-row">
-              <span class="project-name">{p.name}</span>
-              <div class="badges">
-                {p.badges.includes('open-source') && <span class="badge">open-source</span>}
-                {p.badges.includes('live') && <span class="badge badge-emerald">live</span>}
-              </div>
-            </div>
-
-            {p.impact && (
-              <div class="metric">
-                <span class="stat-number">{p.impact}</span>
-                <span class="stat-label">{p.impactLabel}</span>
-              </div>
-            )}
-
-            <p class="project-desc">{p.desc}</p>
-
-            <div class="chip-row">
-              {p.tech.map(t => <span class="chip">{t}</span>)}
-            </div>
-
-            <div class="link-row">
-              <a href={p.github} target="_blank" rel="noopener" class="link-item" aria-label="GitHub">
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
-                </svg>
-                <span>GitHub</span>
-              </a>
-              {p.live && (
-                <a href={p.live} target="_blank" rel="noopener" class="link-item" aria-label="Live site">
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-                    <polyline points="15 3 21 3 21 9"/>
-                    <line x1="10" y1="14" x2="21" y2="3"/>
-                  </svg>
-                  <span>Live</span>
-                </a>
-              )}
-            </div>
-          </div>
-        </div>
-      ))}
-    </div>
+<Layout title="Projects" description="Chirag Singhal — open source projects" active="/work/projects">
+  <div class="page-header">
+    <div class="kicker">WORK · PROJECTS</div>
+    <h1>Projects</h1>
+    <p class="muted">
+      {usable} public repositories, {totalStars} stars. Eight below are the ones worth reading first;
+      the rest is generated from the GitHub snapshot, so it stays current without being curated.
+    </p>
   </div>
+
+  <div class="grid">
+    {FEATURED.map((p) => (
+      <article class:list={['card', { featured: p.band }]}>
+        {p.band && <div class="band" />}
+        <div class="head">
+          <h2>{p.name}</h2>
+          {p.repo && stars(p.repo) > 0 && <span class="stars">{stars(p.repo)}★</span>}
+          {p.live && <span class="pill">live</span>}
+        </div>
+        <p class="desc">{p.desc}</p>
+        <div class="chips">{p.tech.map((t) => <span class="chip">{t}</span>)}</div>
+        <div class="links">
+          <a href={p.github} target="_blank" rel="noopener">GitHub ↗</a>
+          {p.live && <a href={p.live} target="_blank" rel="noopener">Live ↗</a>}
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <section class="tail">
+    <div class="tail-head">
+      <h2>Everything else</h2>
+      <p>{rest.length} more repositories, by stars then most recent push</p>
+    </div>
+    {/* Folded rather than all 228 at once: the page stays readable and a reader
+        who wants the whole list still gets it, in place, with no second request. */}
+    <details>
+      <summary>Show all {rest.length} repositories</summary>
+      <ul>
+      {rest.map((r) => (
+        <li>
+          <a href={r.html_url} target="_blank" rel="noopener">
+            <span class="rname">{r.name}</span>
+            <span class="rdesc">{r.description}</span>
+            <span class="rmeta">
+              {r.language && <span class="lang">{r.language}</span>}
+              {r.stargazers_count > 0 && <span class="rstar">{r.stargazers_count}★</span>}
+            </span>
+          </a>
+        </li>
+      ))}
+      </ul>
+    </details>
+    <p class="tail-foot"><a href="https://github.com/chirag127?tab=repositories">All repositories on GitHub ↗</a></p>
+  </section>
 </Layout>
 
 <style>
-  .projects-root {
-    padding-top: 2rem;
-    max-width: 860px;
-  }
-
-  .page-header {
-    margin-bottom: 2rem;
-  }
-
-  .page-sub {
-    font-size: 14px;
-    color: var(--t-2);
-    margin-top: 0.25rem;
-  }
-
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-  }
-
-  .col-span-full {
-    grid-column: 1 / -1;
-  }
-
-  .card-featured {
-    position: relative;
-  }
-
-  .featured-band {
-    height: 2px;
-    background: linear-gradient(to right, var(--indigo), #7c3aed);
-    border-radius: 8px 8px 0 0;
-    margin: -1px -1px 0;
-  }
-
-  .card-inner {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 0;
-  }
-
-  .card-featured .card-inner {
-    padding-top: 4px;
-  }
-
-  .card-header-row {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-
-  .project-name {
-    font-family: var(--font-display);
-    font-weight: 700;
-    font-size: 1.1rem;
-    color: var(--t-1);
-  }
-
-  .badges {
-    display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
-  }
-
-  .metric {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-  }
-
-  .project-desc {
-    font-size: 13px;
-    color: var(--t-2);
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  .chip-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-  }
-
-  .link-row {
-    display: flex;
-    gap: 12px;
-    margin-top: 2px;
-  }
-
-  .link-item {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 13px;
-    color: var(--t-3);
-    text-decoration: none;
-    transition: color 0.15s;
-  }
-
-  .link-item:hover {
-    color: #818cf8;
-  }
-
+  .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
   .card {
-    transition: transform 0.2s ease;
+    display: flex; flex-direction: column; gap: 9px;
+    padding: 16px 18px; background: var(--panel); border: 1px solid var(--hair);
+    border-radius: var(--r-md); overflow: hidden; position: relative;
   }
+  .card.featured { grid-column: 1 / -1; }
+  .band { position: absolute; inset: 0 0 auto; height: 2px; background: linear-gradient(90deg, var(--phosphor), transparent); }
+  .head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .head h2 { margin: 0; font-family: var(--font-display); font-size: 1rem; font-weight: 650; color: var(--ink); }
+  .stars, .pill { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.04em; }
+  .stars { color: var(--amber); }
+  .pill { color: var(--phosphor); border: 1px solid color-mix(in srgb, var(--phosphor) 40%, transparent); border-radius: 3px; padding: 1px 5px; }
+  .desc { margin: 0; font-size: 0.84rem; line-height: 1.5; color: var(--ink-2); }
+  .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+  .chip { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: 0.04em; color: var(--ink-3); border: 1px solid var(--hair); border-radius: 3px; padding: 1px 5px; }
+  .links { display: flex; gap: 14px; margin-top: 2px; }
+  .links a { font-size: 0.76rem; color: var(--ink-3); }
+  .links a:hover { color: var(--phosphor); }
 
-  .card:hover {
-    transform: translateY(-3px);
+  .tail { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--hair); }
+  .tail-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+  .tail-head h2 { margin: 0; font-family: var(--font-display); font-size: 1rem; color: var(--ink); }
+  .tail-head p { margin: 0; font-size: 0.72rem; color: var(--ink-4); }
+  .tail summary {
+    cursor: pointer; padding: 9px 2px; font-family: var(--font-mono); font-size: 0.74rem;
+    letter-spacing: 0.04em; color: var(--phosphor-dim); border-bottom: 1px solid var(--hair);
   }
+  .tail summary:hover { color: var(--phosphor); }
+  .tail details[open] summary { border-bottom-color: transparent; }
+  .tail ul { list-style: none; margin: 0; padding: 0; }
+  .tail li { border-bottom: 1px solid var(--hair); }
+  .tail a { display: grid; grid-template-columns: 15rem minmax(0, 1fr) auto; gap: 14px; align-items: baseline; padding: 8px 2px; }
+  .rname { font-family: var(--font-mono); font-size: 0.76rem; color: var(--ink); overflow: hidden; text-overflow: ellipsis; }
+  .rdesc { font-size: 0.78rem; color: var(--ink-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .rmeta { display: flex; gap: 10px; font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-4); }
+  .tail a:hover .rname, .tail a:hover .rdesc { color: var(--phosphor); }
+  .tail-foot { margin-top: 1rem; font-size: 0.78rem; }
 
-  @media (max-width: 640px) {
-    .grid {
-      grid-template-columns: 1fr;
-    }
-    .col-span-full {
-      grid-column: 1;
-    }
+  @media (max-width: 860px) {
+    .grid { grid-template-columns: 1fr; }
+    .tail a { grid-template-columns: 1fr auto; }
+    .rdesc { display: none; }
   }
 </style>
