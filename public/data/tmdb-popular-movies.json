@@ -7,15 +7,15 @@
     "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
     "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
-    "rating": 7.7,
-    "votes": 29294,
+    "rating": 7.669,
+    "votes": 29307,
     "release": "2008-04-30",
     "genres": [
       28,
       878,
       12
     ],
-    "popularity": 1226.2518
+    "popularity": 882.2394
   },
   {
     "id": 801688,
@@ -23,7 +23,7 @@
     "type": "movie",
     "title": "Kalki 2898-AD",
     "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
-    "poster": "https://image.tmdb.org/t/p/w342/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w342/xRKmgcRUpjDubuWdHWpnXsdytY5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
     "rating": 6.4,
     "votes": 215,
@@ -34,7 +34,7 @@
       14,
       878
     ],
-    "popularity": 563.7267
+    "popularity": 470.6771
   },
   {
     "id": 1368337,
@@ -44,15 +44,15 @@
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-    "rating": 8.025,
-    "votes": 5522,
+    "rating": 8.03,
+    "votes": 5560,
     "release": "2026-07-15",
     "genres": [
       12,
       28,
       14
     ],
-    "popularity": 349.9557
+    "popularity": 316.3219
   },
   {
     "id": 1300968,
@@ -62,32 +62,15 @@
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "rating": 7.8,
-    "votes": 379,
+    "rating": 7.731,
+    "votes": 404,
     "release": "2026-11-18",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 342.5151
-  },
-  {
-    "id": 1263337,
-    "tmdb_id": 1263337,
-    "type": "movie",
-    "title": "Heart of the Beast",
-    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-    "rating": 7.895,
-    "votes": 1253,
-    "release": "2026-09-23",
-    "genres": [
-      12,
-      53
-    ],
-    "popularity": 290.4007
+    "popularity": 317.6145
   },
   {
     "id": 969681,
@@ -97,15 +80,32 @@
     "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
     "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-    "rating": 8.455,
-    "votes": 7136,
+    "rating": 8.453,
+    "votes": 7167,
     "release": "2026-07-29",
     "genres": [
       878,
       28,
       12
     ],
-    "popularity": 295.863
+    "popularity": 300.399
+  },
+  {
+    "id": 1263337,
+    "tmdb_id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+    "rating": 7.899,
+    "votes": 1278,
+    "release": "2026-09-23",
+    "genres": [
+      12,
+      53
+    ],
+    "popularity": 266.9992
   },
   {
     "id": 1003596,
@@ -123,7 +123,7 @@
       28,
       12
     ],
-    "popularity": 263.0295
+    "popularity": 263.6522
   },
   {
     "id": 1400837,
@@ -133,13 +133,13 @@
     "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "rating": 6.553,
-    "votes": 638,
+    "rating": 6.568,
+    "votes": 645,
     "release": "2026-10-07",
     "genres": [
       27
     ],
-    "popularity": 215.6173
+    "popularity": 192.0446
   },
   {
     "id": 1423191,
@@ -150,14 +150,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
     "rating": 7.522,
-    "votes": 2590,
+    "votes": 2616,
     "release": "2026-09-16",
     "genres": [
       27,
       878,
       12
     ],
-    "popularity": 215.03
+    "popularity": 195.078
   },
   {
     "id": 1058424,
@@ -167,15 +167,32 @@
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-    "rating": 6.9,
-    "votes": 792,
+    "rating": 6.894,
+    "votes": 795,
     "release": "2026-07-15",
     "genres": [
       878,
       9648,
       28
     ],
-    "popularity": 189.911
+    "popularity": 171.3443
+  },
+  {
+    "id": 1741617,
+    "tmdb_id": 1741617,
+    "type": "movie",
+    "title": "Hansel & Gretel's Halloween",
+    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+    "backdrop": "",
+    "rating": 6.8,
+    "votes": 9,
+    "release": "2026-08-01",
+    "genres": [
+      27,
+      14
+    ],
+    "popularity": 159.6146
   },
   {
     "id": 1507696,
@@ -193,41 +210,24 @@
       53,
       27
     ],
-    "popularity": 151.0698
+    "popularity": 130.3738
   },
   {
-    "id": 1551025,
-    "tmdb_id": 1551025,
+    "id": 1153576,
+    "tmdb_id": 1153576,
     "type": "movie",
-    "title": "Guarding Stars",
-    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-    "rating": 6.804,
-    "votes": 140,
-    "release": "2026-11-18",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+    "rating": 6.3,
+    "votes": 318,
+    "release": "2026-10-13",
     "genres": [
-      10749,
-      35
-    ],
-    "popularity": 134.7058
-  },
-  {
-    "id": 1741617,
-    "tmdb_id": 1741617,
-    "type": "movie",
-    "title": "Hansel & Gretel's Halloween",
-    "overview": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-    "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
-    "backdrop": "",
-    "rating": 6.8,
-    "votes": 9,
-    "release": "2026-08-01",
-    "genres": [
-      27,
+      28,
       14
     ],
-    "popularity": 155.7055
+    "popularity": 150.4339
   },
   {
     "id": 1244523,
@@ -245,7 +245,24 @@
       27,
       53
     ],
-    "popularity": 138.2069
+    "popularity": 120.3918
+  },
+  {
+    "id": 1551025,
+    "tmdb_id": 1551025,
+    "type": "movie",
+    "title": "Guarding Stars",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "poster": "https://image.tmdb.org/t/p/w342/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "rating": 6.763,
+    "votes": 154,
+    "release": "2026-11-18",
+    "genres": [
+      10749,
+      35
+    ],
+    "popularity": 119.9583
   },
   {
     "id": 1616687,
@@ -255,15 +272,15 @@
     "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
     "poster": "https://image.tmdb.org/t/p/w342/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-    "rating": 6.827,
-    "votes": 84,
+    "rating": 6.868,
+    "votes": 87,
     "release": "2026-11-11",
     "genres": [
       28,
       80,
       53
     ],
-    "popularity": 130.054
+    "popularity": 112.5594
   },
   {
     "id": 1595124,
@@ -273,8 +290,8 @@
     "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
     "poster": "https://image.tmdb.org/t/p/w342/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-    "rating": 7.107,
-    "votes": 112,
+    "rating": 7.098,
+    "votes": 122,
     "release": "2026-11-20",
     "genres": [
       16,
@@ -283,25 +300,7 @@
       12,
       14
     ],
-    "popularity": 129.2548
-  },
-  {
-    "id": 1813355,
-    "tmdb_id": 1813355,
-    "type": "movie",
-    "title": "A Story of Derry",
-    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-    "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "rating": 6.633,
-    "votes": 151,
-    "release": "2026-10-31",
-    "genres": [
-      18,
-      27,
-      9648
-    ],
-    "popularity": 110.2931
+    "popularity": 124.0187
   },
   {
     "id": 1496696,
@@ -310,15 +309,15 @@
     "title": "Breeder",
     "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
     "poster": "https://image.tmdb.org/t/p/w342/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-    "rating": 7.581,
-    "votes": 37,
+    "backdrop": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+    "rating": 7.3,
+    "votes": 45,
     "release": "2026-10-28",
     "genres": [
       27,
       53
     ],
-    "popularity": 124.9252
+    "popularity": 116.9525
   },
   {
     "id": 1765072,
@@ -328,28 +327,30 @@
     "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
     "poster": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-    "rating": 8.612,
-    "votes": 219,
+    "rating": 8.6,
+    "votes": 254,
     "release": "2026-10-16",
     "genres": [
       99
     ],
-    "popularity": 114.5537
+    "popularity": 121.2803
   },
   {
-    "id": 1492566,
-    "tmdb_id": 1492566,
+    "id": 1813355,
+    "tmdb_id": 1813355,
     "type": "movie",
-    "title": "Dracula Eternal",
-    "overview": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
-    "poster": "https://image.tmdb.org/t/p/w342/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/5UfsizL5EJ2adEDxyhjkBjJrMHj.jpg",
-    "rating": 2.2,
-    "votes": 2,
-    "release": "2026-01-16",
+    "title": "A Story of Derry",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "rating": 6.673,
+    "votes": 153,
+    "release": "2026-10-31",
     "genres": [
-      27
+      18,
+      27,
+      9648
     ],
-    "popularity": 99.3886
+    "popularity": 93.5881
   }
 ]
